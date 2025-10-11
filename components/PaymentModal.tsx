@@ -200,7 +200,7 @@ export const PaymentModal: React.FC<PaymentModalProps> = ({ isOpen, onClose, onS
             disabled={isProcessing}
             className="flex-1 bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors disabled:opacity-50"
           >
-            {isProcessing ? 'Processing...' : 'Test Payment Flow'}
+            {isProcessing ? 'Processing...' : 'Pay €2.00'}
           </button>
         </div>
 

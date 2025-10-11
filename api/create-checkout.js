@@ -35,8 +35,11 @@ export default async function handler(req, res) {
     }
 
     const STRIPE_SECRET_KEY = process.env.STRIPE_SECRET_KEY;
-    console.log('Stripe key exists:', !!STRIPE_SECRET_KEY);
-    console.log('Stripe key prefix:', STRIPE_SECRET_KEY ? STRIPE_SECRET_KEY.substring(0, 10) + '...' : 'none');
+    console.log('Environment check:');
+    console.log('- Stripe key exists:', !!STRIPE_SECRET_KEY);
+    console.log('- Stripe key prefix:', STRIPE_SECRET_KEY ? STRIPE_SECRET_KEY.substring(0, 20) + '...' : 'none');
+    console.log('- Environment variables count:', Object.keys(process.env).length);
+    console.log('- Node env:', process.env.NODE_ENV);
     
     if (!STRIPE_SECRET_KEY) {
       console.log('Stripe not configured - using demo mode');
