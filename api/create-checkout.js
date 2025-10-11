@@ -74,7 +74,7 @@ export default async function handler(req, res) {
         quantity: 1,
       }],
       mode: 'payment', // One-time payment, not subscription
-      success_url: `${req.headers.origin || 'https://medicaldevicecodes1.vercel.app'}/success?session_id={CHECKOUT_SESSION_ID}`,
+      success_url: `${req.headers.origin || 'https://medicaldevicecodes1.vercel.app'}/success.html?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${req.headers.origin || 'https://medicaldevicecodes1.vercel.app'}/`,
       customer_email: email || undefined,
       metadata: {
