@@ -96,52 +96,15 @@ const GmdnDetailEnhanced: React.FC<GmdnDetailEnhancedProps> = ({
             {loading && <div className="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-emerald-500"></div>}
           </h3>
           
-          {!semanticLoaded ? (
-            <div className="text-slate-400 text-sm">Loading semantic relationships...</div>
-          ) : icdMatches.length > 0 ? (
-            <div className="space-y-3">
-              {icdMatches.map((match, index) => (
-                <div 
-                  key={index}
-                  className="flex items-center justify-between p-3 bg-slate-700 rounded-lg border border-slate-600"
-                >
-                  <div className="flex-1">
-                    <div className="flex items-center space-x-3 mb-1">
-                      <code className="text-blue-400 font-mono text-sm bg-slate-800 px-2 py-1 rounded">
-                        {match.code}
-                      </code>
-                      <span className={`text-xs px-2 py-1 rounded border ${getConfidenceBadgeColor(match.confidence)}`}>
-                        {match.confidence}% confidence
-                      </span>
-                      <span className="text-xs text-slate-400">
-                        {getSourceIcon(match.source)} {match.source}
-                      </span>
-                    </div>
-                    <div className="text-slate-200 text-sm">{match.indication}</div>
-                  </div>
-                </div>
-              ))}
-              
-              <div className="mt-4 p-3 bg-emerald-500/10 rounded-lg border border-emerald-500/20">
-                <div className="text-xs text-emerald-300 mb-1">💡 Semantic Mapping Information</div>
-                <div className="text-xs text-slate-400">
-                  These ICD-10 codes represent medical conditions that typically require this GMDN device type.
-                  Mappings are derived from clinical expertise and automated analysis.
-                </div>
-              </div>
+          <div className="text-slate-400 text-sm bg-slate-700 rounded-lg p-4 border border-slate-600">
+            <div className="flex items-center space-x-2 mb-2">
+              <span>🔍</span>
+              <span>ICD-10 clinical indication mappings coming soon</span>
             </div>
-          ) : (
-            <div className="text-slate-400 text-sm bg-slate-700 rounded-lg p-4 border border-slate-600">
-              <div className="flex items-center space-x-2 mb-2">
-                <span>🔍</span>
-                <span>No ICD-10 mappings available for this GMDN code</span>
-              </div>
-              <div className="text-xs text-slate-500">
-                This device may not have established clinical indication mappings yet,
-                or may be a general-purpose device used across multiple conditions.
-              </div>
+            <div className="text-xs text-slate-500">
+              Advanced semantic matching features are in development.
             </div>
-          )}
+          </div>
         </div>
       )}
 

@@ -45,13 +45,13 @@ const FormattedResponse: React.FC<{ text: string }> = ({ text }) => {
 
 
 const AiAssistant: React.FC<AiAssistantProps> = ({
-  countryData,
-  emdnData,
-  gmdnData,
-  opsData,
-  lpprData,
-  ccamData,
-  icd10cyData
+  countryData: _countryData,
+  emdnData: _emdnData,
+  gmdnData: _gmdnData,
+  opsData: _opsData,
+  lpprData: _lpprData,
+  ccamData: _ccamData,
+  icd10cyData: _icd10cyData
 }) => {
   const [query, setQuery] = useState('');
   const [response, setResponse] = useState('');
@@ -79,6 +79,11 @@ const AiAssistant: React.FC<AiAssistantProps> = ({
       setError('AI functionality temporarily disabled');
       return;
 
+      // TODO: Implement AI functionality
+      setError('AI functionality temporarily disabled');
+      return;
+
+      /*
       const dataContext = JSON.stringify({
         countries: countryData,
         emdnCodes: emdnData,
@@ -89,18 +94,18 @@ const AiAssistant: React.FC<AiAssistantProps> = ({
         icd10cyCodes: icd10cyData,
       });
 
+      // TODO: Implement AI functionality
+      setError('AI functionality temporarily disabled');
+      return;
+
+      /*
       const fullPrompt = `You are an expert AI assistant specializing in European medical device nomenclature and reimbursement. Your name is the 'Nomenclature Navigator Assistant'. Analyze the provided JSON data context to answer the user's question. Your answer must be based exclusively on the information within the provided data. Do not use any external knowledge. If the data does not contain the answer, state that the information is not available in the provided context. Format your response using Markdown for clarity, including bold text for emphasis (**text**) and bullet points (using '*') for lists.
 
       Here is the data context:
       ${dataContext}
 
       User's question: "${query}"`;
-      
-      // TODO: Implement AI functionality
-      setError('AI functionality temporarily disabled');
-      return;
 
-      /*
       const genAIResponse = await ai.models.generateContent({
         contents: [{ role: 'user', parts: [{ text: fullPrompt }] }],
       });

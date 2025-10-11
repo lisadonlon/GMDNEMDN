@@ -315,7 +315,7 @@ const App: React.FC = () => {
       <AccessCodeModal
         isOpen={showAccessCodeModal}
         onClose={() => setShowAccessCodeModal(false)}
-        onSuccess={(codeInfo) => {
+        onSuccess={() => {
           setShowAccessCodeModal(false);
           // Refresh the page to update usage tracker
           window.location.reload();

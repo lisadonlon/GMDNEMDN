@@ -53,6 +53,9 @@ export async function loadIcfManifest(): Promise<IcfManifest> {
       throw new Error(`Failed to load ICF manifest: ${response.statusText}`);
     }
     icfManifest = await response.json();
+    if (!icfManifest) {
+      throw new Error('Invalid ICF manifest data');
+    }
     return icfManifest;
   } catch (error) {
     console.error('Error loading ICF manifest:', error);

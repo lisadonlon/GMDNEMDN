@@ -50,7 +50,7 @@ interface ReverseLookupIndex {
 
 class ExternalGmdnEmdnMapper {
   private mappingData: MappingData | null = null;
-  private gmdnLookup: LookupIndex | null = null;
+  // private _gmdnLookup: LookupIndex | null = null; // TODO: Implement GMDN lookup functionality
   private emdnLookup: ReverseLookupIndex | null = null;
   private loaded = false;
 
@@ -68,7 +68,7 @@ class ExternalGmdnEmdnMapper {
       // Load lookup indices
       const gmdnLookupResponse = await fetch('/gmdn-emdn-mappings/gmdn-lookup-index.json');
       if (gmdnLookupResponse.ok) {
-        this.gmdnLookup = await gmdnLookupResponse.json();
+        // this._gmdnLookup = await gmdnLookupResponse.json(); // TODO: Implement GMDN lookup
       }
 
       const emdnLookupResponse = await fetch('/gmdn-emdn-mappings/emdn-lookup-index.json');

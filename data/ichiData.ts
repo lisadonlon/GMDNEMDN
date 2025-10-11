@@ -53,6 +53,9 @@ export async function loadIchiManifest(): Promise<IchiManifest> {
       throw new Error(`Failed to load ICHI manifest: ${response.statusText}`);
     }
     ichiManifest = await response.json();
+    if (!ichiManifest) {
+      throw new Error('Invalid ICHI manifest data');
+    }
     return ichiManifest;
   } catch (error) {
     console.error('Error loading ICHI manifest:', error);

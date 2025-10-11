@@ -49,7 +49,7 @@ const ContactInfo: React.FC<{ contact: CountryContact }> = ({ contact }) => (
     </div>
 );
 
-const CountryDetail: React.FC<CountryDetailProps> = ({ country, onSelectEmdn }) => {
+const CountryDetail: React.FC<CountryDetailProps> = ({ country, onSelectEmdn: _onSelectEmdn }) => {
   if (!country) {
     return (
       <div className="flex items-center justify-center h-full text-slate-500">

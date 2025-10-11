@@ -28,7 +28,7 @@ const DetailSection: React.FC<{ title: string; children: React.ReactNode }> = ({
     );
 };
 
-const EmdnDetail: React.FC<EmdnDetailProps> = ({ code, allCodes, countryData, gmdnCodes }) => {
+const EmdnDetail: React.FC<EmdnDetailProps> = ({ code, allCodes, countryData: _countryData, gmdnCodes: _gmdnCodes }) => {
   if (!code) {
     return (
       <div className="text-center text-slate-400 py-8">
