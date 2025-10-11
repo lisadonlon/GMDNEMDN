@@ -1,5 +1,6 @@
 // Enhanced Stripe Integration
 // File: /api/create-checkout.js
+import Stripe from 'stripe';
 
 export default async function handler(req, res) {
   console.log('=== Stripe checkout request started ===');
@@ -54,7 +55,7 @@ export default async function handler(req, res) {
     }
 
     console.log('Initializing Stripe...');
-    const stripe = require('stripe')(STRIPE_SECRET_KEY);
+    const stripe = new Stripe(STRIPE_SECRET_KEY);
     console.log('Stripe initialized successfully');
     
     console.log('Creating checkout session...');
