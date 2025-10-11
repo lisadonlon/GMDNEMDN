@@ -1,0 +1,161 @@
+{
+  "C9005": [
+    {
+      "gmdnCode": "13755",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "V0301010202": [
+    {
+      "gmdnCode": "17887",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "Z12030285": [
+    {
+      "gmdnCode": "34978",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "G0101": [
+    {
+      "gmdnCode": "35352",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "Z120302": [
+    {
+      "gmdnCode": "36349",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "L0101": [
+    {
+      "gmdnCode": "37447",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "M0101": [
+    {
+      "gmdnCode": "37459",
+      "score": 100,
+      "source": "manual"
+    },
+    {
+      "gmdnCode": "46207",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "W0101": [
+    {
+      "gmdnCode": "41981",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "M030405": [
+    {
+      "gmdnCode": "42811",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "M0402": [
+    {
+      "gmdnCode": "44970",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "A0101": [
+    {
+      "gmdnCode": "46346",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "R9002": [
+    {
+      "gmdnCode": "46832",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "Z12021003": [
+    {
+      "gmdnCode": "46832",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "R0103": [
+    {
+      "gmdnCode": "46967",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "A0201": [
+    {
+      "gmdnCode": "47017",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "V0101": [
+    {
+      "gmdnCode": "47569",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "M04040501": [
+    {
+      "gmdnCode": "47764",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "T01020204": [
+    {
+      "gmdnCode": "56286",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "C05": [
+    {
+      "gmdnCode": "58865",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "G0301": [
+    {
+      "gmdnCode": "62525",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "C010101": [
+    {
+      "gmdnCode": "64574",
+      "score": 100,
+      "source": "manual"
+    }
+  ],
+  "T020604": [
+    {
+      "gmdnCode": "66199",
+      "score": 100,
+      "source": "manual"
+    }
+  ]
+}

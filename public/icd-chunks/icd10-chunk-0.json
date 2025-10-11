@@ -1,0 +1,35 @@
+[
+  {
+    "id": "http://id.who.int/icd/release/10/2019/I",
+    "code": "I",
+    "title": "Certain infectious and parasitic diseases",
+    "definition": "",
+    "chapter": "",
+    "chapterTitle": "",
+    "blockId": "",
+    "version": "ICD-10",
+    "releaseId": "2019"
+  },
+  {
+    "id": "http://id.who.int/icd/release/10/2019/II",
+    "code": "II",
+    "title": "Neoplasms",
+    "definition": "",
+    "chapter": "",
+    "chapterTitle": "",
+    "blockId": "",
+    "version": "ICD-10",
+    "releaseId": "2019"
+  },
+  {
+    "id": "http://id.who.int/icd/release/10/2019/III",
+    "code": "III",
+    "title": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "definition": "",
+    "chapter": "",
+    "chapterTitle": "",
+    "blockId": "",
+    "version": "ICD-10",
+    "releaseId": "2019"
+  }
+]

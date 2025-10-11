@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "generated": "2025-10-11T15:50:57.464Z",
+    "totalChecked": 9,
+    "summary": {
+      "no_results": 9
+    }
+  },
+  "results": [
+    {
+      "gmdnCode": "42811",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Compression/pressure sock/stocking, reusable"
+    },
+    {
+      "gmdnCode": "46207",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Peristomal/periwound dressing"
+    },
+    {
+      "gmdnCode": "62525",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Intestinal ostomy bag/support kit"
+    },
+    {
+      "gmdnCode": "35352",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Vaginal speculum, reusable"
+    },
+    {
+      "gmdnCode": "37459",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Nose clip, reusable"
+    },
+    {
+      "gmdnCode": "46346",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Paediatric blood donor set"
+    },
+    {
+      "gmdnCode": "41981",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Hepatitis B virus core immunoglobulin M (IgM) antibody IVD, calibrator"
+    },
+    {
+      "gmdnCode": "46832",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Laryngoscope blade cover"
+    },
+    {
+      "gmdnCode": "37447",
+      "status": "no_results",
+      "message": "No devices found in GUDID for this GMDN code",
+      "ourDescription": "Aspiration tray, reusable"
+    }
+  ]
+}

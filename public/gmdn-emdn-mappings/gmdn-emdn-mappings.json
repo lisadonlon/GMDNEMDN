@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "generated": "2025-10-11T16:27:24.690Z",
+    "version": "1.0.0",
+    "description": "GMDN to EMDN device code mappings",
+    "stats": {
+      "totalGmdn": 22,
+      "mappedGmdn": 22,
+      "manualMappings": 23,
+      "automaticMappings": 0
+    }
+  },
+  "mappings": {
+    "13755": {
+      "gmdnCode": "13755",
+      "gmdnDescription": "GMDN 13755",
+      "emdnMatches": [
+        {
+          "emdnCode": "C9005",
+          "emdnDescription": "PHONENDOSCOPES AND STETHOSCOPES",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "17887": {
+      "gmdnCode": "17887",
+      "gmdnDescription": "GMDN 17887",
+      "emdnMatches": [
+        {
+          "emdnCode": "V0301010202",
+          "emdnDescription": "NON-CONTACT DIGITAL THERMOMETERS",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "34978": {
+      "gmdnCode": "34978",
+      "gmdnDescription": "GMDN 34978",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12030285",
+          "emdnDescription": "VITAL SIGNS MONITORING INSTRUMENTS - CONSUMABLES",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "35352": {
+      "gmdnCode": "35352",
+      "gmdnDescription": "GMDN 35352",
+      "emdnMatches": [
+        {
+          "emdnCode": "G0101",
+          "emdnDescription": "OESOPHAGEAL DILATION TUBES",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "36349": {
+      "gmdnCode": "36349",
+      "gmdnDescription": "GMDN 36349",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z120302",
+          "emdnDescription": "VITAL SIGNS MONITORING INSTRUMENTS",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "37447": {
+      "gmdnCode": "37447",
+      "gmdnDescription": "GMDN 37447",
+      "emdnMatches": [
+        {
+          "emdnCode": "L0101",
+          "emdnDescription": "SURGICAL SCALPELS, REUSABLE",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "37459": {
+      "gmdnCode": "37459",
+      "gmdnDescription": "GMDN 37459",
+      "emdnMatches": [
+        {
+          "emdnCode": "M0101",
+          "emdnDescription": "COTTON WADDING",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "41981": {
+      "gmdnCode": "41981",
+      "gmdnDescription": "GMDN 41981",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0101",
+          "emdnDescription": "CLINICAL CHEMISTRY",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "42811": {
+      "gmdnCode": "42811",
+      "gmdnDescription": "GMDN 42811",
+      "emdnMatches": [
+        {
+          "emdnCode": "M030405",
+          "emdnDescription": "COMPRESSION STOCKINGS",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "44970": {
+      "gmdnCode": "44970",
+      "gmdnDescription": "GMDN 44970",
+      "emdnMatches": [
+        {
+          "emdnCode": "M0402",
+          "emdnDescription": "NON-ADHESIVE ABSORBENT DRESSINGS",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "46207": {
+      "gmdnCode": "46207",
+      "gmdnDescription": "GMDN 46207",
+      "emdnMatches": [
+        {
+          "emdnCode": "M0101",
+          "emdnDescription": "COTTON WADDING",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "46346": {
+      "gmdnCode": "46346",
+      "gmdnDescription": "GMDN 46346",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0101",
+          "emdnDescription": "NEEDLES FOR INFUSION AND SAMPLING",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "46832": {
+      "gmdnCode": "46832",
+      "gmdnDescription": "GMDN 46832",
+      "emdnMatches": [
+        {
+          "emdnCode": "R9002",
+          "emdnDescription": "LARYNGOSCOPE BLADES, SINGLE-USE",
+          "score": 100,
+          "source": "manual"
+        },
+        {
+          "emdnCode": "Z12021003",
+          "emdnDescription": "LARYNGOSCOPES",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 2
+    },
+    "46967": {
+      "gmdnCode": "46967",
+      "gmdnDescription": "GMDN 46967",
+      "emdnMatches": [
+        {
+          "emdnCode": "R0103",
+          "emdnDescription": "ENDOTRACHEAL TUBES",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "47017": {
+      "gmdnCode": "47017",
+      "gmdnDescription": "GMDN 47017",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0201",
+          "emdnDescription": "SINGLE-USE SYRINGES",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "47569": {
+      "gmdnCode": "47569",
+      "gmdnDescription": "GMDN 47569",
+      "emdnMatches": [
+        {
+          "emdnCode": "V0101",
+          "emdnDescription": "SCALPELS, SINGLE-USE",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "47764": {
+      "gmdnCode": "47764",
+      "gmdnDescription": "GMDN 47764",
+      "emdnMatches": [
+        {
+          "emdnCode": "M04040501",
+          "emdnDescription": "HYDROGEL DRESSINGS, NON-COMBINED",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "56286": {
+      "gmdnCode": "56286",
+      "gmdnDescription": "GMDN 56286",
+      "emdnMatches": [
+        {
+          "emdnCode": "T01020204",
+          "emdnDescription": "NITRILE EXAMINATION / TREATMENT GLOVES",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "58865": {
+      "gmdnCode": "58865",
+      "gmdnDescription": "GMDN 58865",
+      "emdnMatches": [
+        {
+          "emdnCode": "C05",
+          "emdnDescription": "CARDIOVASCULAR INTRODUCER SHEATHS",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "62525": {
+      "gmdnCode": "62525",
+      "gmdnDescription": "GMDN 62525",
+      "emdnMatches": [
+        {
+          "emdnCode": "G0301",
+          "emdnDescription": "DEVICES FOR DILATION IN DIGESTIVE ENDOSCOPY",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "64574": {
+      "gmdnCode": "64574",
+      "gmdnDescription": "GMDN 64574",
+      "emdnMatches": [
+        {
+          "emdnCode": "C010101",
+          "emdnDescription": "PERIPHERAL I.V. CATHETERS",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "66199": {
+      "gmdnCode": "66199",
+      "gmdnDescription": "GMDN 66199",
+      "emdnMatches": [
+        {
+          "emdnCode": "T020604",
+          "emdnDescription": "MEDICAL USE FACE MASKS, TYPE II AND IIR",
+          "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "generated": "2025-10-06T16:24:58.515Z",
+  "totalEntries": 8453,
+  "totalCategories": 23,
+  "categories": [
+    {
+      "category": "A",
+      "filename": "emdn-A.json",
+      "entryCount": 359,
+      "terminalCount": 261,
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION"
+    },
+    {
+      "category": "B",
+      "filename": "emdn-B.json",
+      "entryCount": 82,
+      "terminalCount": 60,
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES"
+    },
+    {
+      "category": "C",
+      "filename": "emdn-C.json",
+      "entryCount": 292,
+      "terminalCount": 223,
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES"
+    },
+    {
+      "category": "D",
+      "filename": "emdn-D.json",
+      "entryCount": 63,
+      "terminalCount": 43,
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES"
+    },
+    {
+      "category": "F",
+      "filename": "emdn-F.json",
+      "entryCount": 92,
+      "terminalCount": 66,
+      "categoryDescription": "DIALYSIS DEVICES"
+    },
+    {
+      "category": "G",
+      "filename": "emdn-G.json",
+      "entryCount": 169,
+      "terminalCount": 122,
+      "categoryDescription": "GASTROINTESTINAL DEVICES"
+    },
+    {
+      "category": "H",
+      "filename": "emdn-H.json",
+      "entryCount": 267,
+      "terminalCount": 182,
+      "categoryDescription": "SUTURE DEVICES"
+    },
+    {
+      "category": "J",
+      "filename": "emdn-J.json",
+      "entryCount": 153,
+      "terminalCount": 115,
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES"
+    },
+    {
+      "category": "K",
+      "filename": "emdn-K.json",
+      "entryCount": 209,
+      "terminalCount": 158,
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES"
+    },
+    {
+      "category": "L",
+      "filename": "emdn-L.json",
+      "entryCount": 712,
+      "terminalCount": 566,
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS"
+    },
+    {
+      "category": "M",
+      "filename": "emdn-M.json",
+      "entryCount": 254,
+      "terminalCount": 176,
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS"
+    },
+    {
+      "category": "N",
+      "filename": "emdn-N.json",
+      "entryCount": 84,
+      "terminalCount": 65,
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES"
+    },
+    {
+      "category": "P",
+      "filename": "emdn-P.json",
+      "entryCount": 660,
+      "terminalCount": 473,
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES"
+    },
+    {
+      "category": "Q",
+      "filename": "emdn-Q.json",
+      "entryCount": 253,
+      "terminalCount": 199,
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES"
+    },
+    {
+      "category": "R",
+      "filename": "emdn-R.json",
+      "entryCount": 229,
+      "terminalCount": 166,
+      "categoryDescription": "RESPIRATORY AND ANAESTHESIA DEVICES"
+    },
+    {
+      "category": "S",
+      "filename": "emdn-S.json",
+      "entryCount": 39,
+      "terminalCount": 25,
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)"
+    },
+    {
+      "category": "T",
+      "filename": "emdn-T.json",
+      "entryCount": 89,
+      "terminalCount": 67,
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)"
+    },
+    {
+      "category": "U",
+      "filename": "emdn-U.json",
+      "entryCount": 216,
+      "terminalCount": 159,
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM"
+    },
+    {
+      "category": "V",
+      "filename": "emdn-V.json",
+      "entryCount": 187,
+      "terminalCount": 146,
+      "categoryDescription": "VARIOUS MEDICAL DEVICES"
+    },
+    {
+      "category": "W",
+      "filename": "emdn-W.json",
+      "entryCount": 2262,
+      "terminalCount": 1924,
+      "categoryDescription": "IN VITRO DIAGNOSTIC MEDICAL DEVICES"
+    },
+    {
+      "category": "X",
+      "filename": "emdn-X.json",
+      "entryCount": 29,
+      "terminalCount": 19,
+      "categoryDescription": "PRODUCTS WITHOUT AN INTENDED MEDICAL PURPOSE (Annex XVI)"
+    },
+    {
+      "category": "Y",
+      "filename": "emdn-Y.json",
+      "entryCount": 249,
+      "terminalCount": 195,
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES"
+    },
+    {
+      "category": "Z",
+      "filename": "emdn-Z.json",
+      "entryCount": 1504,
+      "terminalCount": 1312,
+      "categoryDescription": "MEDICAL EQUIPMENT AND RELATED ACCESSORIES, SOFTWARE AND CONSUMABLES"
+    }
+  ]
+}

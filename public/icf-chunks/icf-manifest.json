@@ -1,0 +1,30 @@
+{
+  "type": "ICF",
+  "version": "1.0.0",
+  "generated": "2025-10-07T12:36:54.441Z",
+  "totalEntries": 1587,
+  "totalCategories": 1587,
+  "totalChunks": 2,
+  "chunkSize": 1000,
+  "stats": {
+    "totalEntries": 1587,
+    "totalCategories": 1587,
+    "chapters": 0,
+    "blocks": 0,
+    "categories": 1197
+  },
+  "chunks": [
+    {
+      "file": "icf-chunk-0.json",
+      "entries": 1000,
+      "firstEntry": "- - - Consciousness functions",
+      "lastEntry": "- - - Products and technology for education"
+    },
+    {
+      "file": "icf-chunk-1.json",
+      "entries": 587,
+      "firstEntry": "- - Products and technology for employment",
+      "lastEntry": "- not applicable"
+    }
+  ]
+}

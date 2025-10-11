@@ -1,0 +1,512 @@
+{
+  "category": "D",
+  "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+  "entryCount": 63,
+  "terminalCount": 43,
+  "entries": [
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D",
+      "term": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D01",
+      "term": "ALDEHYDES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0101",
+      "term": "GLUTARALDEHYDE AND ASSOCIATES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D010101",
+      "term": "GLUTARALDEHYDE FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D01010101",
+      "term": "GLUTARALDEHYDE, BASIC SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D01010102",
+      "term": "GLUTARALDEHYDE, ACIDIC SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D01010103",
+      "term": "GLUTARALDEHYDE, NEUTRAL SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D010102",
+      "term": "GLUTARALDEHYDE AND POLYPHENOLS FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D01010201",
+      "term": "GLUTARALDEHYDE AND POLYPHENOLS, SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D010103",
+      "term": "ORTHOPHTALALDEHYDE FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D010199",
+      "term": "ASSOCIATED GLUTARALDEHYDE FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0199",
+      "term": "ALDEHYDES FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D02",
+      "term": "BIGUANIDES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0201",
+      "term": "CHLORHEXIDINE AND ASSOCIATES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D020101",
+      "term": "CHLORHEXIDINE FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D02010101",
+      "term": "CHLORHEXIDINE, AQUEOUS SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D02010102",
+      "term": "CHLORHEXIDINE, HYDROALCOHOLIC SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D02010199",
+      "term": "CHLORHEXIDINE FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D020102",
+      "term": "CHLORHEXIDINE WITH DETERGENT FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D020199",
+      "term": "CHLORHEXIDINE IN ASSCOCIATION FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0299",
+      "term": "BIGUANIDES FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D03",
+      "term": "CHLORINE DERIVATIVES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0301",
+      "term": "HYPOCHLORITES AND ASSOCIATES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D030101",
+      "term": "HYPOCHLORITE FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D03010101",
+      "term": "HYPOCHLORITE, AQUEOUS SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D03010102",
+      "term": "HYPOCHLORITE, HYDROALCOHOLIC SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D03010199",
+      "term": "HYPOCHLORITE FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D030102",
+      "term": "HYPOCHLORITE WITH DETERGENT FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D030103",
+      "term": "HYPOCHLORITE WITH DISINCRUSTANTS FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D030199",
+      "term": "ASSOCIATED HYPOCHLORITES FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0302",
+      "term": "DICHLOROISOCYANURATES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0303",
+      "term": "SODIUM CHLORITES AND ASSOCIATES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D030301",
+      "term": "SODIUM CHLORITE AND LACTIC ACID FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D030302",
+      "term": "SODIUM CHLORITE FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D030399",
+      "term": "ASSOCIATED SODIUM CHLORITES FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0399",
+      "term": "CHLORINE DERIVATIVES FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D05",
+      "term": "OXYGEN PRODUCERS FOR DISINFECTION OF MEDICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0501",
+      "term": "PERACETIC ACID AND ASSOCIATES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D050101",
+      "term": "PERACETIC AND ACETIC ACID WITH HYDROGEN PEROXIDE FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D050102",
+      "term": "PERACETIC ACID AND ADAMANTAN DERIVATIVES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D050103",
+      "term": "PERACETIC ACID FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D050199",
+      "term": "ASSOCIATED PERACETIC ACID FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0502",
+      "term": "HYDROGEN PEROXIDE FOR DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0599",
+      "term": "OXYGEN PRODUCERS FOR DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D06",
+      "term": "PHENOLS FOR DISINFECTION OF MEDICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0601",
+      "term": "POLYPHENOLS AND ASSOCIATES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D060101",
+      "term": "POLYPHENOLS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D06010101",
+      "term": "POLYPHENOLS, AQUEOUS SOLUTION FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D06010199",
+      "term": "POLYPHENOLS FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D060102",
+      "term": "POLYPHENOLS WITH DETERGENTSFOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D060199",
+      "term": "ASSOCIATED POLYPHENOLS FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0699",
+      "term": "PHENOLS FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D07",
+      "term": "ALCOHOLS FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0701",
+      "term": "ETHANOL FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0702",
+      "term": "ISOPROPYL ALCOHOL FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0799",
+      "term": "ALCOHOLS FOR THE DISINFECTION OF MEDICAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D08",
+      "term": "DETERGENTS FOR MEDICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0801",
+      "term": "ENZYMATIC DETERGENTS FOR MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0899",
+      "term": "DETERGENTS FOR MEDICAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D09",
+      "term": "AMMONIUM SALTS AND ASSOCIATES FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0901",
+      "term": "AMMONIUM SALTS FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D0902",
+      "term": "ASSOCIATED AMMONIUM SALTS FOR THE DISINFECTION OF MEDICAL DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "D",
+      "categoryDescription": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES",
+      "code": "D99",
+      "term": "DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

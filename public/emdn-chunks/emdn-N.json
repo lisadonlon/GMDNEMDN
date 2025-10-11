@@ -1,0 +1,680 @@
+{
+  "category": "N",
+  "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+  "entryCount": 84,
+  "terminalCount": 65,
+  "entries": [
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N",
+      "term": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0101",
+      "term": "NEUROPHYSIOLOGY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010101",
+      "term": "ELECTROMYOGRAPHIC ELECTRODES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010102",
+      "term": "ELECTROENCEPHALOGRAPHIC ELECTRODES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01010201",
+      "term": "EEG INTRACRANIC ELECTRODES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0101020101",
+      "term": "EEG CORTICAL ELECTRODES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0101020102",
+      "term": "EEG DEPTH ELECTRODES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0101020199",
+      "term": "EEG INTRACRANIC ELECTRODES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01010202",
+      "term": "EEG EXTRACRANIC ELECTRODES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01010203",
+      "term": "EEG HEADSETS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01010299",
+      "term": "EEG ELECTRODES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010103",
+      "term": "BIPOLAR NERVOUS ELECTROSTIMULATORS, BATTERY-POWERED",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010180",
+      "term": "NEUROPHYSIOLOGY DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010199",
+      "term": "NEUROPHYSIOLOGY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0102",
+      "term": "NEUROLOGIC PHYSIOTHERAPHY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010201",
+      "term": "TENS SYSTEM ELECTRODES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010202",
+      "term": "STIMULATION POINT LOCATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010280",
+      "term": "NEUROLOGICAL PHYSIOTHERAPY DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01028001",
+      "term": "SPONGES FOR THE APPLICATION OF CUTANEOUS NEUROLOGICAL ELECTRODES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01028002",
+      "term": "NEUROLOGICAL PHYSIOTHERAPY CONNECTORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01028003",
+      "term": "NEUROLOGICAL ELECTRODES BANDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01028099",
+      "term": "NEUROLOGICAL PHYSIOTHERAPY DEVICES - ACCESSORIES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010299",
+      "term": "NEUROLOGIC PHYSIOTHERAPHY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0103",
+      "term": "CRANIAL DRAINAGE DEVICES AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010301",
+      "term": "VENTRICULAR-PERITONEAL SHUNTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010302",
+      "term": "VENTRICULAR-ATRIAL SHUNTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010303",
+      "term": "CEREBRAL FLUID EXTERNAL DRAINS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010380",
+      "term": "INTRACRANIAL DRAINAGE DEVICES AND KITS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01038001",
+      "term": "INTRACRANIAL DRAINAGE DEVICES ADAPTERS AND CONNECTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01038002",
+      "term": "INTRACRANIAL DRAINAGE DEVICE VALVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01038099",
+      "term": "INTRACRANIAL DRAINAGE DEVICES AND KITS - ACCESSORIES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010399",
+      "term": "INTRACRANIAL DRAINAGE DEVICES AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0104",
+      "term": "PERIPHERAL NERVOUS SYSTEM CATHETERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010401",
+      "term": "PERIPHERAL NERVOUS SYSTEM CATHETERS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010480",
+      "term": "PERIPHERAL NERVOUS SYSTEM CATHETERS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N010499",
+      "term": "PERIPHERAL NERVOUS SYSTEM CATHETERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0180",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N018001",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM SURGICAL INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01800101",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM SURGICAL FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01800102",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM SURGICAL SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01800103",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM NEEDLE HOLDERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01800104",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM SPREADERS AND RETRACTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01800105",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM SURGICAL BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01800106",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM SURGICAL INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N01800199",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM SURGICAL INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N018099",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM DEVICES - ACCESSORIES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0199",
+      "term": "ENCEPHALIC AND PERIPHERAL NERVOUS SYSTEM DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02",
+      "term": "SPINAL MEDULLAR SYSTEM DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0201",
+      "term": "SPINAL CATHETERS AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020101",
+      "term": "PERIDURAL / EPIDURAL SPINAL CATHETERS AND KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02010101",
+      "term": "EPIDUROSCOPY AND EPIDUROPLASTICS CATHETERS AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02010102",
+      "term": "PERIDURAL / EPIDURAL CATHETERS FOR CONTINUOUS ANALGESIA AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02010180",
+      "term": "PERIDURAL / EPIDURAL SPINAL CATHETERS AND KITS - ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02010199",
+      "term": "PERIDURAL / EPIDURAL SPINAL CATHETERS AND KITS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020102",
+      "term": "SUBARACHNOID SPINAL CATHETERS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020180",
+      "term": "SPINAL CATHETERS AND KITS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020199",
+      "term": "SPINAL CATHETERS AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0202",
+      "term": "SPINAL ACCESS SYSTEMS FOR INFUSION THERAPY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020201",
+      "term": "PERIDURAL / EPIDURAL ACCESS SYSTEMS FOR INFUSION THERAPY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020202",
+      "term": "SUBARACHNOID ACCESS SYSTEMS FOR INFUSION THERAPY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020280",
+      "term": "SPINAL ACCESS SYSTEMS FOR INFUSION THERAPY - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020299",
+      "term": "SPINAL ACCESS SYSTEMS FOR INFUSION THERAPY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0203",
+      "term": "SPINAL LUMBAR DRAINAGE DEVICES AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020301",
+      "term": "LUMBO-PERITONEAL SHUNTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020302",
+      "term": "EXTERNAL SPINAL FLUID DRAINS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020380",
+      "term": "SPINAL LUMBAR DRAINAGE DEVICES AND KITS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N020399",
+      "term": "SPINAL LUMBAR DRAINAGE DEVICES AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0280",
+      "term": "SPINAL MEDULLARY SYSTEM DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N028001",
+      "term": "FILTERS FOR CONTINUOUS SPINAL ANALGESIA",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N028002",
+      "term": "SPINAL MEDULLARY SYSTEM SURGICAL INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800201",
+      "term": "SPINAL MEDULLARY SYSTEM SURGICAL FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800202",
+      "term": "SPINAL MEDULLARY SYSTEM SURGICAL SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800203",
+      "term": "SPINAL MEDULLARY SYSTEM NEEDLE HOLDERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800204",
+      "term": "SPINAL MEDULLARY SYSTEM SPREADERS AND RETRACTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800205",
+      "term": "SPINAL MEDULLAR SYSTEM SURGICAL BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800206",
+      "term": "DILATORS FOR POSITIONING OF SPINAL DEVICES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800207",
+      "term": "SPINAL DEVICES INTRODUCERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800208",
+      "term": "SPINAL DEVICES TUNNELISERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800209",
+      "term": "SPINAL MEDULLARY SYSTEM SURGICAL INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N02800299",
+      "term": "SPINAL MEDULLARY SYSTEM SURGICAL INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N028099",
+      "term": "SPINAL MEDULLARY SYSTEM DEVICES - ACCESSORIES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N0299",
+      "term": "SPINAL MEDULLARY SYSTEM DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "N",
+      "categoryDescription": "NERVOUS AND MEDULLARY SYSTEMS DEVICES",
+      "code": "N99",
+      "term": "NERVOUS AND MEDULLARY SYSTEM DEVICES - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

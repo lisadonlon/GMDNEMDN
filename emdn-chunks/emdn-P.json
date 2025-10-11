@@ -1,0 +1,5288 @@
+{
+  "category": "P",
+  "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+  "entryCount": 660,
+  "terminalCount": 473,
+  "entries": [
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P",
+      "term": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P01",
+      "term": "PROSTHESES, FACIAL, ODONTOLOGICAL, AND CRANIAL",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0101",
+      "term": "FACIAL PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P010101",
+      "term": "CHIN PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P010102",
+      "term": "ZYGOMATIC PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P010103",
+      "term": "MANDIBULAR PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P010104",
+      "term": "PROSTHESES, ORBITAL CAVITY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P01010401",
+      "term": "PROSTHESES, ORBITAL CAVITY - PARTIAL",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P01010402",
+      "term": "PROSTHESES, ORBITAL CAVITY - TOTAL",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P010199",
+      "term": "FACIAL PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0102",
+      "term": "ODONTOLOGICAL PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P010201",
+      "term": "DENTAL IMPLANTS AND ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P01020101",
+      "term": "DENTAL IMPLANTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P01020180",
+      "term": "DENTAL IMPLANTS - ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P010299",
+      "term": "ODONTOLOGICAL PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0103",
+      "term": "PROSTHESES, CRANIAL",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0180",
+      "term": "FACIAL AND ODONTOLOGICAL PROSTHESES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0199",
+      "term": "PROSTHESES, FACIAL, ODONTOLOGICAL, AND CRANIAL - OTHERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P02",
+      "term": "ENT PROSTHESES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0201",
+      "term": "OTOLOGIC PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020101",
+      "term": "MIDDLE EAR IMPLANTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P02010101",
+      "term": "OSSICULAR PROSTHESES (PORP AND TORP)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P02010102",
+      "term": "STAPEDIOPLASTIC PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P02010103",
+      "term": "EUSTACHIAN TUBE PROSTHESIS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P02010199",
+      "term": "MIDDLE EAR IMPLANTS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020102",
+      "term": "EXTERNAL-MIDDLE EAR IMPLANTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P02010201",
+      "term": "TRANSTYMPANIC DRAINAGE PROSTHESES (VENTILATION TUBES)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P02010202",
+      "term": "TYMPANIC PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P02010299",
+      "term": "EXTERNAL-MIDDLE EAR IMPLANTS- OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020103",
+      "term": "EXTERNAL EAR PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020180",
+      "term": "OTOLOGIC PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020199",
+      "term": "OTOLOGIC PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0202",
+      "term": "RHINOLOGY PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020201",
+      "term": "NASAL SEPTAL PLUGGERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020202",
+      "term": "NASAL SINUS STENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020203",
+      "term": "NASAL SPLINTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020299",
+      "term": "RHINOLOGY PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0203",
+      "term": "PHARYNGO-OESOPHAGEAL PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020301",
+      "term": "PHARYNX PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P020399",
+      "term": "PHARYNGO-OOESOPHAGEAL PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0204",
+      "term": "LARYNX PROSTHESES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0205",
+      "term": "PHONATION PROSTHESES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0280",
+      "term": "ENT PROSTHESES- ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0299",
+      "term": "ENT PROSTHESES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P03",
+      "term": "OCULAR PROSTHESES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301",
+      "term": "INTRAOCULAR LENSES (IOL)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101",
+      "term": "IOLs, PHAKIC",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P03010103",
+      "term": "IOLs, PHAKIC, MONOFOCAL",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301010301",
+      "term": "IOLs, PHAKIC, MONOFOCAL, SPHERICAL",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030101",
+      "term": "IOLs, PHAKIC, MONOFOCAL, SPHERICAL, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030102",
+      "term": "IOLs, PHAKIC, MONOFOCAL, SPHERICAL, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030103",
+      "term": "IOLs, PHAKIC, MONOFOCAL, SPHERICAL, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030104",
+      "term": "IOLs, PHAKIC, MONOFOCAL, SPHERICAL, PMMA",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030199",
+      "term": "IOLs, PHAKIC, MONOFOCAL, SPHERICAL - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301010302",
+      "term": "IOLs, PHAKIC, MONOFOCAL, ASPHERIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030201",
+      "term": "IOLs, PHAKIC, MONOFOCAL, ASPHERIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030202",
+      "term": "IOLs, PHAKIC, MONOFOCAL, ASPHERIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030203",
+      "term": "IOLs, PHAKIC, MONOFOCAL, ASPHERIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030299",
+      "term": "IOLs, PHAKIC, MONOFOCAL, ASPHERIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301010303",
+      "term": "IOLs, PHAKIC, MONOFOCAL, TORIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030301",
+      "term": "IOLs, PHAKIC, MONOFOCAL, TORIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030302",
+      "term": "IOLs, PHAKIC, MONOFOCAL, TORIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030303",
+      "term": "IOLs, PHAKIC, MONOFOCAL, TORIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101030399",
+      "term": "IOLs, PHAKIC, MONOFOCAL, TORIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P03010104",
+      "term": "IOLs, PHAKIC, MULTIFOCAL",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301010401",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, SPHERICAL",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040101",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, SPHERICAL, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040102",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, SPHERICAL, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040103",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, SPHERICAL, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040199",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, SPHERICAL - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301010402",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, ASPHERIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040201",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, ASPHERIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040202",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, ASPHERIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040203",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, ASPHERIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040299",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, ASPHERIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301010403",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, TORIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040301",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, TORIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040302",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, TORIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040303",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, TORIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030101040399",
+      "term": "IOLs, PHAKIC, MULTIFOCAL, TORIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102",
+      "term": "IOLs, APHAKIC",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P03010209",
+      "term": "IOLs, APHAKIC, MONOFOCAL",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301020901",
+      "term": "IOLs, APHAKIC, MONOFOCAL, SPHERICAL",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090101",
+      "term": "IOLs, APHAKIC, MONOFOCAL, SPHERICAL, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090102",
+      "term": "IOLs, APHAKIC, MONOFOCAL, SPHERICAL, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090103",
+      "term": "IOLs, APHAKIC, MONOFOCAL, SPHERICAL, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090104",
+      "term": "IOLs, APHAKIC, MONOFOCAL, SPHERICAL, PMMA",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090199",
+      "term": "IOLs, APHAKIC, MONOFOCAL, SPHERICAL - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301020902",
+      "term": "IOLs, APHAKIC, MONOFOCAL, ASPHERIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090201",
+      "term": "IOLs, APHAKIC, MONOFOCAL, ASPHERIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090202",
+      "term": "IOLs, APHAKIC, MONOFOCAL, ASPHERIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090203",
+      "term": "IOLs, APHAKIC, MONOFOCAL, ASPHERIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090299",
+      "term": "IOLs, APHAKIC, MONOFOCAL, ASPHERIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301020903",
+      "term": "IOLs, APHAKIC, MONOFOCAL, TORIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090301",
+      "term": "IOLs, APHAKIC, MONOFOCAL, TORIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090302",
+      "term": "IOLs, APHAKIC, MONOFOCAL, TORIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090303",
+      "term": "IOLs, APHAKIC, MONOFOCAL, TORIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102090399",
+      "term": "IOLs, APHAKIC, MONOFOCAL, TORIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P03010210",
+      "term": "IOLs, APHAKIC, MULTIFOCAL",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301021001",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, SPHERICAL",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100101",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, SPHERICAL, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100102",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, SPHERICAL, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100103",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, SPHERICAL, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100199",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, SPHERICAL - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301021002",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, ASPHERIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100201",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, ASPHERIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100202",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, ASPHERIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100203",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, ASPHERIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100299",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, ASPHERIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301021003",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, TORIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100301",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, TORIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100302",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, TORIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100303",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, TORIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102100399",
+      "term": "IOLs, APHAKIC, MULTIFOCAL, TORIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P03010211",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301021101",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, SPHERICAL",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110101",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, SPHERICAL, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110102",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, SPHERICAL, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110103",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, SPHERICAL, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110199",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, SPHERICAL - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301021102",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, ASPHERIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110201",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, ASPHERIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110202",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, ASPHERIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110203",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, ASPHERIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110299",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, ASPHERIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0301021103",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, TORIC",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110301",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, TORIC, HYDROPHOBIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110302",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, TORIC, HYDROPHILIC ACRYLIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110303",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, TORIC, SILICONE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030102110399",
+      "term": "IOLs, APHAKIC, ACCOMMODATIVE, TORIC - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030190",
+      "term": "INTRAOCULAR LENSES (IOL) - VARIOUS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P03019001",
+      "term": "MACULOPATHY LOW VISION CORRECTION LENSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P030199",
+      "term": "INTRAOCULAR LENSES (IOL) - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0380",
+      "term": "OCULAR PROSTHESES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0399",
+      "term": "OCULAR PROSTHESES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P04",
+      "term": "RESPIRATORY PROSTHESES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0401",
+      "term": "TRACHEOBRONCHIAL PROSTHESES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0480",
+      "term": "RESPIRATORY PROSTHESES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0499",
+      "term": "RESPIRATORY PROSTHESES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P05",
+      "term": "OESOPHAGEAL AND GASTROINTESTINAL PROSTHESES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0501",
+      "term": "OESOPHAGEAL PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P050101",
+      "term": "GASTRO-ESOPHAGEAL REFLUX CORRECTION PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P050199",
+      "term": "ESOPHAGEAL PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0502",
+      "term": "BILIARY AND PANCREATIC PROSTHESES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0503",
+      "term": "COLONIC AND DUODENAL PROSTHESES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0504",
+      "term": "FAECAL INCONTINENCE PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P050401",
+      "term": "ANAL SPHINCTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P050499",
+      "term": "FAECAL INCONTINENCE PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0580",
+      "term": "OESOPHAGEAL AND GASTROINTESTINAL PROSTHESES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P058001",
+      "term": "OESOPHAGEAL AND GASTROINTESTINAL PROSTHESES POSITIONING DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P058099",
+      "term": "OESOPHAGEAL AND GASTROINTESTINAL PROSTHESES - OTHER ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0599",
+      "term": "PROSTHESES, OESOPHAGEAL AND GASTROINTESTINAL PROSTHESES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P06",
+      "term": "BREAST IMPLANTS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601",
+      "term": "PERMANENT, NON-EXPANDABLE BREAST IMPLANTS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P060101",
+      "term": "BREAST PROSTHESES, ROUND",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P06010101",
+      "term": "BREAST IMPLANTS, ROUND, SALINE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601010101",
+      "term": "BREAST IMPLANTS, ROUND, SALINE, WITH SMOOTH SURFACE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601010102",
+      "term": "BREAST IMPLANTS, ROUND, SALINE, WITH TEXTURED SURFACE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601010199",
+      "term": "BREAST IMPLANTS, ROUND, SALINE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P06010102",
+      "term": "BREAST IMPLANTS, ROUND, MADE OF SILICONE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601010201",
+      "term": "BREAST IMPLANTS, ROUND, MADE OF SILICONE, WITH SMOOTH SURFACE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601010202",
+      "term": "BREAST IMPLANTS, ROUND, MADE OF SILICONE, WITH TEXTURED SURFACE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601010299",
+      "term": "BREAST IMPLANTS, ROUND, MADE OF SILICONE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P060102",
+      "term": "BREAST IMPLANTS, ANATOMIC",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P06010201",
+      "term": "BREAST IMPLANTS, ANATOMICAL, SALINE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601020101",
+      "term": "BREAST IMPLANTS, ANATOMICAL, SALINE, WITH SMOOTH SURFACE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601020102",
+      "term": "BREAST IMPLANTS, ANATOMICAL, SALINE, WITH TEXTURED SURFACE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601020199",
+      "term": "BREAST IMPLANTS, ANATOMICAL, SALINE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P06010202",
+      "term": "BREAST IMPLANTS, ANATOMICAL, MADE OF SILICONE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601020201",
+      "term": "BREAST IMPLANTS, ANATOMICAL, MADE OF SILICONE, WITH SMOOTH SURFACE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601020202",
+      "term": "BREAST IMPLANTS, ANATOMICAL, MADE OF SILICONE, WITH TEXTURED SURFACE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0601020299",
+      "term": "BREAST IMPLANTS, ANATOMICAL, MADE OF SILICONE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P060199",
+      "term": "BREAST IMPLANTS, STANDARD - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0602",
+      "term": "BREAST IMPLANTS, EXPANDER",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P060201",
+      "term": "BREAST IMPLANTS, BECKER TYPE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P060299",
+      "term": "BREAST IMPLANTS, EXPANDER - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0680",
+      "term": "BREAST IMPLANTS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0699",
+      "term": "BREAST IMPLANTS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07",
+      "term": "VASCULAR AND CARDIAC PROSTHESES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701",
+      "term": "VASCULAR PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070101",
+      "term": "BIOLOGICAL VASCULAR PROSTHESES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07010101",
+      "term": "PERICARDIUM VASCULAR PROSTHESES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701010101",
+      "term": "PERICARDIUM VASCULAR PROSTHESES, STRAIGHT",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701010102",
+      "term": "PERICARDIUM VASCULAR PROSTHESES, BIFURCATED",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07010102",
+      "term": "HOMOLOGOUS VASCULAR PROSTHESES,",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701010201",
+      "term": "HOMOLOGOUS VASCULAR PROSTHESES, STRAIGHT",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701010202",
+      "term": "HOMOLOGOUS VASCULAR PROSTHESES, BIFURCATED",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07010199",
+      "term": "BIOLOGICAL VASCULAR PROSTHESES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102",
+      "term": "VASCULAR PROSTHESES, SYNTHETIC",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07010201",
+      "term": "DACRON VASCULAR PROSTHESES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701020101",
+      "term": "DACRON VASCULAR PROSTHESES, STRAIGHT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102010101",
+      "term": "DACRON VASCULAR PROSTHESES, STRAIGHT, KNITTED",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102010102",
+      "term": "DACRON VASCULAR PROSTHESES, STRAIGHT, WOVEN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701020102",
+      "term": "DACRON VASCULAR PROSTHESES, MULTIFURCATED",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102010201",
+      "term": "DACRON VASCULAR PROSTHESES, MULTIFURCATED (AORTIC ARCH (ALSO COLLATERAL AND MULTIPLE) AND THORACIC-ABDOMINAL)",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102010202",
+      "term": "DACRON VASCULAR PROSTHESES, WOVEN, MULTIFURCATED",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07010202",
+      "term": "PTFE VASCULAR PROSTHESES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701020201",
+      "term": "PTFE VASCULAR PROSTHESES, STRAIGHT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102020101",
+      "term": "PTFE VASCULAR PROSTHESES, STRAIGHT, SIMPLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102020102",
+      "term": "PTFE VASCULAR PROSTHESES, STRAIGHT, REINFORCED",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0701020202",
+      "term": "PTFE VASCULAR PROSTHESES, BIFURCATED",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102020201",
+      "term": "PTFE VASCULAR PROSTHESES, BIFURCATED, SIMPLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070102020202",
+      "term": "PTFE VASCULAR PROSTHESES, BIFURCATED, REINFORCED",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07010299",
+      "term": "VASCULAR PROSTHESES, SYNTHETIC - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070180",
+      "term": "VASCULAR PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0702",
+      "term": "VASCULAR PATCHES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070201",
+      "term": "BIOLOGICAL VASCULAR PATCHES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07020101",
+      "term": "PERICARDIUM VASCULAR PATCHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07020102",
+      "term": "SIS (SMALL INTESTINAL SUBMUCOSA) VASCULAR PATCHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07020199",
+      "term": "BIOLOGICAL VASCULAR PATCHES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070202",
+      "term": "SYNTHETIC VASCULAR PATCHES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07020201",
+      "term": "DACRON VASCULAR PATCHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07020202",
+      "term": "PTFE VASCULAR PATCHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07020203",
+      "term": "PET VASCULAR PATCHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07020204",
+      "term": "PU VASCULAR PATCHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07020299",
+      "term": "SYNTHETIC VASCULAR PATCHES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703",
+      "term": "CARDIAC VALVES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301",
+      "term": "BIOLOGICAL CARDIAC VALVES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030101",
+      "term": "BIOLOGICAL CARDIAC VALVES FOR SURGICAL IMPLANT WITH SUPPORT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703010101",
+      "term": "STENTED BIOLOGICAL HEART VALVES FOR SURGICAL IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301010101",
+      "term": "STENTED AORTIC BIOLOGICAL VALVES FOR SURGICAL IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301010102",
+      "term": "STENTED MITRAL BIOLOGICAL VALVES FOR SURGICAL IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301010103",
+      "term": "STENTED PULMONARY BIOLOGICAL VALVES FOR SURGICAL IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301010104",
+      "term": "STENTED TRICUSPID BIOLOGICAL VALVES FOR SURGICAL IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703010102",
+      "term": "STENTED BIOLOGICAL HEART VALVES FOR SURGICAL IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301010201",
+      "term": "STENTED AORTIC BIOLOGICAL VALVES FOR SURGICAL IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301010202",
+      "term": "STENTED MITRAL BIOLOGICAL VALVES FOR SURGICAL IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301010203",
+      "term": "STENTED PULMONARY BIOLOGICAL VALVES FOR SURGICAL IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301010204",
+      "term": "STENTED TRICUSPID BIOLOGICAL VALVES FOR SURGICAL IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030102",
+      "term": "STENTLESS BIOLOGICAL HEART VALVES FOR SURGICAL IMPLANT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703010201",
+      "term": "STENTLESS BIOLOGICAL HEART VALVES FOR SURGICAL IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703010202",
+      "term": "STENTLESS BIOLOGICAL HEART VALVES FOR SURGICAL IMPLANT - TISSUE OF ANIMAL ORIGIN",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030103",
+      "term": "BIOLOGICAL HEART VALVES FOR PERCUTANEOUS IMPLANTATION, WITH SUPPORT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703010301",
+      "term": "STENTED BIOLOGICAL HEART VALVES FOR PERCUTANEOUS IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301030101",
+      "term": "STENTED BIOLOGICAL AORTIC VALVES FOR PERCUTANEOUS IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301030102",
+      "term": "STENTED BIOLOGICAL MITRAL VALVES FOR PERCUTANEOUS IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301030103",
+      "term": "STENTED BIOLOGICAL PULMONARY VALVES FOR PERCUTANEOUS IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301030104",
+      "term": "STENTED BIOLOGICAL TRICUSPID VALVES FOR PERCUTANEOUS IMPLANT - VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703010302",
+      "term": "BIOLOGICAL HEART VALVES WITH SUPPORT FOR PERCUTANEOUS IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301030201",
+      "term": "STENTED BIOLOGICAL AORTIC VALVES FOR PERCUTANEOUS IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301030202",
+      "term": "STENTED BIOLOGICAL MITRAL VALVES FOR PERCUTANEOUS IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301030203",
+      "term": "STENTED BIOLOGICAL PULMONARY VALVES FOR PERCUTANEOUS IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070301030204",
+      "term": "STENTED BIOLOGICAL TRICUSPID VALVES FOR PERCUTANEOUS IMPLANT - NON-VALVE TISSUE OF ANIMAL ORIGIN",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030104",
+      "term": "BIOLOGICAL VALVES, BICAVAL",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030199",
+      "term": "BIOLOGICAL HEART VALVES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070302",
+      "term": "MECHANICAL HEART VALVES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030201",
+      "term": "MECHANICAL HEART VALVES, BALL-VALVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030202",
+      "term": "MECHANICAL HEART VALVES, SINGLE-DISC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030203",
+      "term": "MECHANICAL HEART VALVES DOUBLE-DISC",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703020301",
+      "term": "BILEAFLET MECHANICAL AORTIC VALVES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703020302",
+      "term": "BILEAFLET MECHANICAL MITRAL VALVES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0703020399",
+      "term": "BILEAFLET MECHANICAL HEART VALVES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030299",
+      "term": "MECHANICAL HEART VALVES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070303",
+      "term": "HEART VALVE TUBES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030301",
+      "term": "BIOLOGICAL HEART VALVE TUBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030302",
+      "term": "MECHANICAL HEART VALVE TUBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030399",
+      "term": "HEART VALVE TUBES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070304",
+      "term": "HEART VALVE RINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030401",
+      "term": "FLEXIBLE OR UNSUPPORTED HEART VALVE RINGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030402",
+      "term": "RIGID OR SEMI-RIGID HEART VALVE RINGS WITH SUPPORT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030403",
+      "term": "INCOMPLETE SEMI-RIGID HEART VALVE RINGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07030499",
+      "term": "HEART VALVE RINGS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070380",
+      "term": "HEART VALVES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07038001",
+      "term": "HEART VALVE IMPLANT SIZERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07038002",
+      "term": "CARDIAC VALVE TRANSCATHETER IMPLANT ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07038003",
+      "term": "MECHANICAL HEART VALVE IMPLANT ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07038004",
+      "term": "HEART VALVE RECONSTRUCTION IMPLANTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07038099",
+      "term": "HEART VALVE ACCESSORIES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070399",
+      "term": "CARDIAC VALVES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704",
+      "term": "VASCULAR AND CARDIAC ENDOPROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070401",
+      "term": "VASCULAR ENDOPROSTHESES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040101",
+      "term": "DACRON VASCULAR ENDOPROSTHESES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704010101",
+      "term": "DACRON VASCULAR ENDOPROSTHESES, STRAIGHT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070401010101",
+      "term": "DACRON VASCULAR ENDOPROSTHESES, STRAIGHT - ABDOMINAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070401010102",
+      "term": "DACRON VASCULAR ENDOPROSTHESES, STRAIGHT - THORACIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070401010199",
+      "term": "DACRON VASCULAR ENDOPROSTHESES, STRAIGHT - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704010102",
+      "term": "DACRON VASCULAR ENDOPROSTHESES, BIFURCATED",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704010103",
+      "term": "DACRON VASCULAR ENDOPROSTHESES, AUXILIARY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040102",
+      "term": "PTFE VASCULAR ENDOPROSTHESES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704010201",
+      "term": "PTFE VASCULAR ENDOPROSTHESES, STRAIGHT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070401020101",
+      "term": "PTFE VASCULAR ENDOPROSTHESES, STRAIGHT - ABDOMINAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070401020102",
+      "term": "PTFE VASCULAR ENDOPROSTHESES, STRAIGHT - THORACIC",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070401020103",
+      "term": "PTFE VASCULAR ENDOPROSTHESES, STRAIGHT - PERIPHERAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070401020199",
+      "term": "PTFE VASCULAR ENDOPROSTHESES, STRAIGHT - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704010202",
+      "term": "PTFE VASCULAR ENDOPROSTHESES, BIFURCATED",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704010203",
+      "term": "PTFE VASCULAR ENDOPROSTHESES, AUXILIARY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040199",
+      "term": "VASCULAR ENDOPROSTHESES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402",
+      "term": "VASCULAR STENTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040201",
+      "term": "CORONARY STENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020101",
+      "term": "CORONARY BARE METAL STENTS (BMS)",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402010101",
+      "term": "STAINLESS STEEL CORONARY BARE METAL STENTS (BMS)",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402010102",
+      "term": "METALLIC NON-STAINLESS STEEL CORONARY STENTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402010199",
+      "term": "CORONARY BARE METAL STENTS (BMS) - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020102",
+      "term": "COATED CORONARY STENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020103",
+      "term": "CORONARY DRUG ELUTING STENTS (DES)",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402010301",
+      "term": "CORONARY DRUG ELUTING STENTS (DES) WITH POLYMERS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402010302",
+      "term": "CORONARY DRUG ELUTING STENTS (DES) WITHOUT POLYMERS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020104",
+      "term": "CORONARY STENTS, ABSORBABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020105",
+      "term": "CORONARY STENTS, BIOACTIVE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020199",
+      "term": "CORONARY STENTS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040202",
+      "term": "PERIPHERAL VASCULAR STENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020201",
+      "term": "PERIPHERAL VASCULAR STENTS, BMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402020101",
+      "term": "STAINLESS STEEL PERIPHERAL VASCULAR BARE METAL STENTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402020102",
+      "term": "NON-STAINLESS STEEL PERIPHERAL VASCULAR BARE METAL STENTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070402020199",
+      "term": "PERIPHERAL VASCULAR BARE STENTS - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020202",
+      "term": "PERIPHERAL VASCULAR COATED STENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020203",
+      "term": "PERIPHERAL VASCULAR DRUG ELUTING STENTS (DES)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020204",
+      "term": "PERIPHERAL VASCULAR STENTS, BIOACTIVE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0704020299",
+      "term": "PERIPHERAL VASCULAR STENTS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070403",
+      "term": "CARDIAC AND CORONARY DEFECT OCCLUDERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040301",
+      "term": "CARDIAC OCCLUDERS, VENTRICULAR SEPTAL DEFECTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040302",
+      "term": "CARDIAC OCCLUDERS, ATRIAL SEPTAL DEFECTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040303",
+      "term": "CARDIAC OCCLUDERS, FORAMEN OVALE AND BOTALLO DUCT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P07040399",
+      "term": "HEART AND CORONARY DEFECT OCCLUDERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P070404",
+      "term": "LEFT ATRIAL APPENDAGE OCCLUDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0780",
+      "term": "VASCULAR AND CARDIAC PROSTHESES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0799",
+      "term": "VASCULAR AND CARDIAC PROSTHESES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P08",
+      "term": "UROGENITAL PROSTHESES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0801",
+      "term": "URINARY INCONTINENCE PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080102",
+      "term": "ARTIFICIAL URINARY SPHINCTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080199",
+      "term": "URINARY INCONTINENCE PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0802",
+      "term": "MALE GENITAL SYSTEM PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080201",
+      "term": "TESTICLE PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080202",
+      "term": "PENILE PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080299",
+      "term": "MALE GENITAL SYSTEM PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0803",
+      "term": "URINARY OBSTRUCTION PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080301",
+      "term": "URETHRAL PROSTHESES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P08030101",
+      "term": "TRANS-PROSTATIC URETHRAL PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P08030102",
+      "term": "VAS DEFERENS PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P08030199",
+      "term": "ENDOURETHRAL PROSTHESES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080302",
+      "term": "URETERAL PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080399",
+      "term": "URINARY OBSTRUCTION PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0804",
+      "term": "FEMALE GENITAL SYSTEM PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080401",
+      "term": "FALLOPIAN TUBE PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P080499",
+      "term": "FEMALE GENITAL SYSTEM PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0805",
+      "term": "URINARY TRACT IMPLANTABLE VALVES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0880",
+      "term": "UROGENITAL PROSTHESES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0899",
+      "term": "UROGENITAL PROSTHESES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09",
+      "term": "ORTHOPAEDIC PROSTHESES, OSTEOSYNTHESIS DEVICES, DEVICES FOR TENDON AND LIGAMENT SYNTHESIS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901",
+      "term": "SHOULDER PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090103",
+      "term": "GLENOID COMPONENTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010301",
+      "term": "METAL BACK AND METAGLENE GLENOID BASEPLATES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010302",
+      "term": "ANATOMICAL SHOULDER PROSTHESIS INSERTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010303",
+      "term": "GLENOSPHERES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010304",
+      "term": "MONOBLOCK GLENOIDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010399",
+      "term": "GLENOID COMPONENTS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090104",
+      "term": "SHOULDER PROSTHESES HUMERAL COMPONENTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010401",
+      "term": "EPIPHYSARY HUMERAL COMPONENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040101",
+      "term": "EPIPHYSARY HUMERAL COMPONENTS FOR ANATOMICAL PROSTHESES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090104010101",
+      "term": "EPIPHYSARY HUMERAL COMPONENTS FOR ANATOMICAL PROSTHESES - HUMERAL HEADS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090104010102",
+      "term": "EPIPHYSARY HUMERAL COMPONENTS FOR RESURFACING ANATOMICAL PROSTHESES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040102",
+      "term": "EPIPHYSARY HUMERAL COMPONENTS FOR REVERSE PROSTHESES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090104010201",
+      "term": "EPIPHYSARY HUMERAL COMPONENTS FOR REVERSE PROSTHESES - INSERTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090104010202",
+      "term": "EPIPHYSARY HUMERAL COMPONENTS FOR REVERSE PROSTHESES - HUMERAL CUPS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040199",
+      "term": "EPIPHYSARY HUMERAL COMPONENTS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010402",
+      "term": "DIAPHYSARY HUMERAL COMPONENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040201",
+      "term": "SHOULDER PROSTHESES NON MODULAR STEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040202",
+      "term": "SHOULDER PROSTHESES MODULAR STEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040203",
+      "term": "MONOBLOCK DIAPHYSARY HUMERAL COMPONENTS (STEM + EPIPHYSARY COMPONENT)",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090104020301",
+      "term": "MONOBLOCK DIAPHYSARY HUMERAL COMPONENTS FOR ANATOMICAL PROSTHESIS (STEM + HEAD)",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090104020302",
+      "term": "MONOBLOCK DIAPHYSARY HUMERAL COMPONENTS FOR REVERSE PROSTHESIS (STEM + CUP)",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040204",
+      "term": "SHOULDER PROSTHESES REVISION STEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040205",
+      "term": "SHOULDER PROSTHESES LARGE RESECTIONS STEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901040299",
+      "term": "DIAPHYSARY HUMERAL COMPONENTS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010403",
+      "term": "SHOULDER PROSTHESES SPACERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09010499",
+      "term": "HUMERAL COMPONENTS FOR SHOULDER PROSTHESES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090180",
+      "term": "SHOULDER PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09018001",
+      "term": "SHOULDER PROSTHESES FIXING SCREWS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09018002",
+      "term": "SHOULDER PROSTHESES ADAPTERS (INCLUDING CONES AND SLEEVES)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901800201",
+      "term": "GLENOID COMPONENTS ADAPTERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0901800202",
+      "term": "HUMERAL COMPONENTS ADAPTERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09018003",
+      "term": "SHOULDER PROSTHESES ENDOMIDOLLAR CAPS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09018099",
+      "term": "SHOULDER PROSTHESES - ACCESSORIES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090199",
+      "term": "SHOULDER PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0902",
+      "term": "ELBOW PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090203",
+      "term": "ELBOW PROSTHESES HUMERAL COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090204",
+      "term": "ELBOW PROSTHESES RADIAL COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090205",
+      "term": "ELBOW PROSTHESES ULNAR COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090280",
+      "term": "ELBOW PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090299",
+      "term": "ELBOW PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0903",
+      "term": "WRIST PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090303",
+      "term": "WRIST PROSTHESES CARPAL COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090304",
+      "term": "WRIST PROSTHESES RADIAL-ULNAR COMPONENTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09030401",
+      "term": "WRIST PROSTHESES RADIAL COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09030402",
+      "term": "WRIST PROSTHESES ULNAR COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090305",
+      "term": "TOTAL WRIST PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090380",
+      "term": "WRIST PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090399",
+      "term": "WRIST PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0904",
+      "term": "HAND PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090403",
+      "term": "HAND PROSTHESES INTERPHALANGE COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090404",
+      "term": "HAND PROSTHESES TRAPEZIO-METACARPAL COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090480",
+      "term": "HAND PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090499",
+      "term": "HAND PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905",
+      "term": "ANKLE PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090506",
+      "term": "ANKLE PROSTHESIS WITH MOBILE INSERT",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09050601",
+      "term": "ANKLE PROSTHESES WITH CEMENTED MOBILE INSERT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905060101",
+      "term": "ANKLE PROSTHESES WITH CEMENTED MOBILE INSERT - TIBIAL COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905060102",
+      "term": "ANKLE PROSTHESES WITH CEMENTED MOBILE INSERT - TALAR COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09050602",
+      "term": "ANKLE PROSTHESES WITH UNCEMENTED MOBILE INSERT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905060201",
+      "term": "ANKLE PROSTHESES WITH UNCEMENTED MOBILE INSERT - TIBIAL COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905060202",
+      "term": "ANKLE PROSTHESES WITH UNCEMENTED MOBILE INSERT - TALAR COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09050603",
+      "term": "ANKLE PROSTHESES MOBILE INSERTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090507",
+      "term": "ANKLE PROSTHESIS WITH FIXED INSERT",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09050701",
+      "term": "ANKLE PROSTHESES WITH CEMENTED FIXED INSERT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905070101",
+      "term": "ANKLE PROSTHESES WITH CEMENTED FIXED INSERT - TIBIAL COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905070102",
+      "term": "ANKLE PROSTHESES WITH CEMENTED FIXED INSERT - TALAR COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09050702",
+      "term": "ANKLE PROSTHESES WITH UNCEMENTED FIXED INSERT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905070201",
+      "term": "ANKLE PROSTHESES WITH UNCEMENTED FIXED INSERT - TIBIAL COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0905070202",
+      "term": "ANKLE PROSTHESES WITH UNCEMENTED FIXED INSERT - TALAR COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09050703",
+      "term": "ANKLE PROSTHESES FIXED INSERTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090508",
+      "term": "ANKLE PROSTHESES SPACERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090580",
+      "term": "ANKLE PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09058001",
+      "term": "ANKLE PROSTHESES TIBIAL STEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09058099",
+      "term": "ANKLE PROSTHESES - ACCESSORIES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090599",
+      "term": "ANKLE PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0906",
+      "term": "FOOT PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090603",
+      "term": "FOOT PROSTHESES INTERPHALANGEAL COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090604",
+      "term": "FOOT PROSTHESES METATARSALPHALANGEAL COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090605",
+      "term": "FOOT ENDORTHESIS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090680",
+      "term": "FOOT PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090699",
+      "term": "FOOT PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0907",
+      "term": "SPINE STABILISATION PROSTHESES AND SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090701",
+      "term": "SPINAL FUSION SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09070101",
+      "term": "SPINAL CAGES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09070199",
+      "term": "SPINAL FUSION SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090702",
+      "term": "INTERVERTEBRAL DISCS REPLACEMENT SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09070201",
+      "term": "DISC PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090703",
+      "term": "IMPLANTABLE VERTEBRAL STABILISATION OR FIXATION SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09070301",
+      "term": "CERVICAL FIXATION SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09070302",
+      "term": "THORACOLUMBOSACRAL FIXATION SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09070304",
+      "term": "SPINE FIXATION SYSTEM CONNECTORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09070305",
+      "term": "SPINAL STABILISERS, DYNAMIC TYPE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09070399",
+      "term": "IMPLANTABLE SPINAL STABILISATION OR FIXATION SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090780",
+      "term": "SPINAL PROSTHESES AND STABILISATION SYSTEMS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090799",
+      "term": "SPINAL PROSTHESES AND STABILISATION SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908",
+      "term": "HIP PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803",
+      "term": "HIP PROSTHESES ACETABULAR COMPONENTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080301",
+      "term": "PRIMARY IMPLANT ACETABULAR CUPS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030101",
+      "term": "PRIMARY IMPLANT CEMENTED ACETABULAR CUPS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803010101",
+      "term": "PRIMARY IMPLANT CEMENTED METAL ACETABULAR CUPS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803010102",
+      "term": "PRIMARY IMPLANT CEMENTED POLYETHYLENE ACETABULAR CUPS, ONE-PIECE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803010199",
+      "term": "PRIMARY IMPLANT CEMENTED ACETABULAR CUPS - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030102",
+      "term": "PRIMARY IMPLANT UNCEMENTED ACETABULAR CUPS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803010201",
+      "term": "PRIMARY IMPLANT UNCEMENTED METAL ACETABULAR CUPS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803010202",
+      "term": "PRIMARY IMPLANT UNCEMENTED ONE-PIECE POLYETHYLENE ACETABULAR CUPS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803010203",
+      "term": "PRIMARY IMPLANT UNCEMENTED ONE-PIECE METAL ACETABULAR CUPS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803010299",
+      "term": "PRIMARY IMPLANT UNCEMENTED ACETABULAR CUPS - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080302",
+      "term": "HIP RESURFACING ACETABULAR COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080303",
+      "term": "REVISION SURGERY ACETABULAR CUPS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030301",
+      "term": "REVISION SURGERY CEMENTED ACETABULAR CUPS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030302",
+      "term": "REVISION SURGERY UNCEMENTED ACETABULAR CUPS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080304",
+      "term": "HIP PROSTHESES ACETABULAR INSERTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030401",
+      "term": "HIP PROSTHESES POLYETHYLENE ACETABULAR INSERTS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803040101",
+      "term": "STANDARD POLYETHYLENE HIP PROSTHESES INSERTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803040102",
+      "term": "ECCENTRIC POLYETHYLENE HIP PROSTHESES INSERTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803040103",
+      "term": "RETENTIVE POLYETHYLENE HIP PROSTHESES INSERTS, ANTI-DISLOCATION",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030402",
+      "term": "HIP PROSTHESES CERAMIC ACETABULAR INSERTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030403",
+      "term": "HIP PROSTHESES METAL ACETABULAR INSERTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030499",
+      "term": "HIP PROSTHESES ACETABULAR INSERTS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080305",
+      "term": "DUAL-MOBILITY ACETABULAR COMPONENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030501",
+      "term": "DOUBLE-MOBILITY ACETABULAR CUPS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803050101",
+      "term": "CEMENTED DOUBLE-MOBILITY ACETABULAR CUPS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090803050102",
+      "term": "UNCEMENTED DOUBLE-MOBILITY ACETABULAR CUPS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030502",
+      "term": "DOUBLE-MOBILITY ACETABULAR COMPONENTS INSERTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080306",
+      "term": "PRE-ASSEMBLED ACETABULAR COMPONENTS (ACETABULAR CUP + INSERT)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030601",
+      "term": "PRE-ASSEMBLED ACETABULAR COMPONENTS WITH CERAMIC INSERT",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030602",
+      "term": "PRE-ASSEMBLED ACETABULAR COMPONENTS WITH POLYETHYLENE INSERTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908030699",
+      "term": "PRE-ASSEMBLED ACETABULAR COMPONENTS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804",
+      "term": "HIP PROSTHESES FEMORAL COMPONENTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080401",
+      "term": "PRIMARY IMPLANT FEMORAL STEMS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908040101",
+      "term": "PRIMARY IMPLANT CEMENTED FEMORAL STEMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010101",
+      "term": "CEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH FIXED NECK, STRAIGHT",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010102",
+      "term": "CEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH FIXED NECK, ANATOMICAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010105",
+      "term": "CEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH FIXED NECK, FOR PRESERVATION",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010106",
+      "term": "CEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH MODULAR NECK, STRAIGHT",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010107",
+      "term": "CEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH MODULAR NECK, ANATOMICAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908040102",
+      "term": "PRIMARY IMPLANT UNCEMENTED FEMORAL STEMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010201",
+      "term": "UNCEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH FIXED NECK, STRAIGHT",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010202",
+      "term": "UNCEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH FIXED NECK, ANATOMICAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010205",
+      "term": "UNCEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH FIXED NECK, FOR PRESERVATION",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010206",
+      "term": "UNCEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH MODULAR NECK, STRAIGHT",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804010207",
+      "term": "UNCEMENTED FEMORAL STEMS FOR PRIMARY IMPLANT, WITH MODULAR NECK, ANATOMICAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080402",
+      "term": "HIP RESURFACING FEMORAL COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080403",
+      "term": "REVISION SURGERY FEMORAL STEMS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908040301",
+      "term": "REVISION SURGERY CEMENTED FEMORAL STEMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804030101",
+      "term": "REVISION CEMENTED FEMORAL STEMS, WITH FIXED NECK",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804030102",
+      "term": "REVISION CEMENTED FEMORAL STEMS, WITH MODULAR NECK",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908040302",
+      "term": "REVISION UNCEMENTED FEMORAL STEMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804030201",
+      "term": "REVISION UNCEMENTED FEMORAL STEMS, WITH FIXED NECK",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804030202",
+      "term": "REVISION UNCEMENTED FEMORAL STEMS, WITH MODULAR NECK",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080404",
+      "term": "LARGE RESECTIONS FEMORAL STEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080405",
+      "term": "FEMORAL HEADS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908040501",
+      "term": "FEMORAL HEADS FOR PRIMARY IMPLANT OF PARTIAL PROSTHESES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804050101",
+      "term": "CERAMIC FEMORAL HEADS, PARTIAL HIP REPLACEMENT",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804050102",
+      "term": "METAL FEMORAL HEADS, PARTIAL HIP REPLACEMENT",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804050199",
+      "term": "FEMORAL HEADS FOR PRIMARY IMPLANT OF PARTIAL PROSTHESES - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908040502",
+      "term": "FEMORAL HEADS FOR PRIMARY IMPLANT OF TOTAL PROSTHESES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804050201",
+      "term": "CERAMIC FEMORAL HEADS, TOTAL HIP REPLACEMENT",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804050202",
+      "term": "METAL FEMORAL HEADS, TOTAL HIP REPLACEMENT",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090804050299",
+      "term": "FEMORAL HEADS FOR PRIMARY IMPLANT OF TOTAL PROSTHESES - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908040503",
+      "term": "HIP PROSTHESES, BI-ARTICULAR CUPS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0908040504",
+      "term": "REVISION FEMORAL HEADS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080406",
+      "term": "ONE-PIECE FEMORAL PROSTHESES (STEM+HEAD)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09080407",
+      "term": "MODULAR NECKS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090805",
+      "term": "HIP PROSTHESES SPACERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090880",
+      "term": "HIP PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09088001",
+      "term": "ACETABULAR RINGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09088002",
+      "term": "ACETABULAR MESHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09088003",
+      "term": "HIP PROSTHESES AUGMENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09088004",
+      "term": "HIP PROSTHESES ADAPTERS (INCLUDING CONES AND SLEEVES)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09088005",
+      "term": "HIP PROSTHESES CENTRALIZERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09088006",
+      "term": "FEMORAL INTRAMEDULLARY CAPS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09088007",
+      "term": "HIP PROSTHESES FIXING SCREWS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09088099",
+      "term": "HIP PROSTHESES - OTHER ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090899",
+      "term": "HIP PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909",
+      "term": "KNEE PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT KNEE PROSTHESES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09090301",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT FEMORAL COMPONENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909030101",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT CEMENTED FEMORAL COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909030102",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT UNCEMENTED FEMORAL COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909030103",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT CEMENTABLE FEMORAL COMPONENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09090302",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT TIBIAL COMPONENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909030201",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT TIBIAL PLATES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020101",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT CEMENTED MOBILE BEARING TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020102",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT UNCEMENTED MOBILE BEARING TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020103",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT CEMENTABLE MOBILE BEARING TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020104",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT CEMENTED FIXED BEARING TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020105",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT UNCEMENTED FIXED BEARING TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020106",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT CEMENTABLE FIXED BEARING TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909030202",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT TIBIAL INSERTS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020201",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT MOBILE BEARING TIBIAL INSERTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020202",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT FIXED BEARING TIBIAL INSERTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909030203",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT TIBIAL COMPONENTS, MONOBLOCK",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020301",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT TIBIAL COMPONENTS, MONOBLOCK MADE OF POLYETHYLENE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090903020399",
+      "term": "BICOMPARTMENTAL PRIMARY IMPLANT TIBIAL COMPONENTS, MONOBLOCK - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES (UNICONDYLAR)",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09090401",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES FEMORAL COMPONENTS (UNICONDYLAR)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909040101",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES FEMORAL COMPONENTS (UNICONDYLAR), CEMENTED",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909040102",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES FEMORAL COMPONENTS (UNICONDYLAR), UNCEMENTED",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09090402",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL COMPONENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909040201",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL PLATES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020101",
+      "term": "MOBILE CEMENTED UNICOMPARTMENTAL PRIMARY IMPLANT TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020102",
+      "term": "MOBILE UNCEMENTED UNICOMPARTMENTAL PRIMARY IMPLANT TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020103",
+      "term": "FIXED CEMENTED UNICOMPARTMENTAL PRIMARY IMPLANT TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020104",
+      "term": "FIXED UNCEMENTED UNICOMPARTMENTAL PRIMARY IMPLANT TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909040202",
+      "term": "UNICOMPARTMENTAL KNEE REPLACEMENT TIBIAL INSERTS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020201",
+      "term": "MOBILE UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL INSERTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020202",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL INSERTS, FIXED",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909040203",
+      "term": "PRE-ASSEMBLED UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL COMPONENTS (INSERT + TIBIAL PLATE)",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020301",
+      "term": "KNEE PROSTHESES TIBIAL COMPONENTS, PREASSEMBLED, CEMENTED",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020302",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL COMPONENTS, PREASSEMBLED, UNCEMENTED",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909040204",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL COMPONENTS, MONOBLOCK",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020401",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL COMPONENTS, MONOBLOCK, MADE OF POLYETHYLENE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090904020499",
+      "term": "UNICOMPARTMENTAL KNEE PROSTHESES TIBIAL COMPONENTS, MONOBLOCK - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090905",
+      "term": "REVISION KNEE PROSTHESES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09090501",
+      "term": "REVISION KNEE PROSTHESES FEMORAL COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09090502",
+      "term": "REVISION KNEE PROSTHESES TIBIAL COMPONENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909050201",
+      "term": "REVISION KNEE PROSTHESES TIBIAL PLATES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090905020101",
+      "term": "REVISION KNEE PROSTHESES MOBILE BEARING TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090905020102",
+      "term": "REVISION KNEE PROSTHESES FIXED BEARING TIBIAL PLATES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909050202",
+      "term": "REVISION KNEE PROSTHESES TIBIAL INSERTS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090905020201",
+      "term": "REVISION KNEE PROSTHESES MOBILE BEARING TIBIAL INSERTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090905020202",
+      "term": "REVISION KNEE PROSTHESES FIXED BEARING TIBIAL INSERTS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090906",
+      "term": "KNEE PROSTHESES FOR LARGE RESECTIONS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090907",
+      "term": "PATELLO-FEMORAL KNEE PROSTHESES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09090701",
+      "term": "FEMORAL TROCHLEA RESURFACING COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09090702",
+      "term": "PATELLAR COMPONENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909070201",
+      "term": "PATELLAR COMPONENTS, MONOBLOCK",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909070202",
+      "term": "PATELLAR COMPONENTS, MODULAR",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090908",
+      "term": "KNEE PROSTHESES SPACERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090980",
+      "term": "KNEE PROSTHESES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09098001",
+      "term": "KNEE PROSTHESES AUGMENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09098002",
+      "term": "KNEE PROSTHESES ADAPTERS (INCLUDING CONES AND SLEEVES)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09098003",
+      "term": "KNEE PROSTHESES OBTURATORS AND PLUGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09098004",
+      "term": "KNEE PROSTHESES CENTRALISERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09098006",
+      "term": "KNEE PROSTHESES STEMS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909800601",
+      "term": "KNEE PROSTHESES FEMORAL STEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0909800602",
+      "term": "KNEE PROSTHESES TIBIAL STEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09098099",
+      "term": "KNEE PROSTHESES - ACCESSORIES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P090999",
+      "term": "KNEE PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0910",
+      "term": "LIGAMENT PROSTHESES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0912",
+      "term": "OSTEOSYNTHESIS DEVICES, DEVICES FOR TENDON AND LIGAMENT SYNTHESIS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091201",
+      "term": "OSTEOSYNTHESIS STAPLES AND ANCHORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120101",
+      "term": "OSTEOSYNTHESIS STAPLES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120102",
+      "term": "ANCHORS, TENDON AND LIGAMENT SYNTHESIS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091202",
+      "term": "BONE FIXATION NAILS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120201",
+      "term": "INTRAMEDULLARY NAILS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120202",
+      "term": "INTRAMEDULLARY NAILS IN COMPLEX SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120299",
+      "term": "OSTEOSYNTHESIS NAILS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091203",
+      "term": "BONE FIXATION WIRES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120301",
+      "term": "KIRSCHNER BONE WIRES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120302",
+      "term": "CERCLAGE DEVICES, WIRES AND BINDERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120399",
+      "term": "BONE FIXATION WIRES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091204",
+      "term": "EXTERNAL BONE FIXATION SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120401",
+      "term": "BONE FIXATION SYSTEMS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0912040101",
+      "term": "RADIAL BONE FIXATION SYSTEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0912040102",
+      "term": "AXIAL BONE FIXATION SYSTEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120402",
+      "term": "SCREWS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120403",
+      "term": "OSTEOSYNTHESIS DISTRACTORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120499",
+      "term": "EXTERNAL BONE FIXATION SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091205",
+      "term": "BONE FIXATION PLATES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120501",
+      "term": "OSTEOSYNTHESIS COMPRESSION PLATES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120502",
+      "term": "OSTEOSYNTHESIS NEUTRALISATION AND SUPPORT PLATES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120503",
+      "term": "OSTEOSYNTHESIS SCREW-PLATE SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120504",
+      "term": "OSTEOSYNTHESIS BLADE-PLATE SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120599",
+      "term": "BONE FIXATION PLATES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091206",
+      "term": "BONE FIXATION SCREWS, TENDON AND LIGAMENT SYNTHESIS SCREWS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120601",
+      "term": "CORTICAL SCREWS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120602",
+      "term": "CANCELLOUS SCREWS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120603",
+      "term": "CANNULATED SCREWS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120604",
+      "term": "OSTEOSYNTHESIS NAIL-SCREW SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120605",
+      "term": "INTERFERENCE SCREWS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120606",
+      "term": "OSTEOSYNTHESIS DEVICES, BIODEGRADABLE SCREWS AND BARS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P09120699",
+      "term": "BONE FIXATION SCREWS, TENDON AND LIGAMENT SYNTHESIS SCREWS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091280",
+      "term": "OSTEOSYNTHESIS DEVICES, DEVICES FOR TENDON AND LIGAMENT SYNTHESIS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091299",
+      "term": "OSTEOSYNTHESIS DEVICES, DEVICES FOR TENDON AND LIGAMENT SYNTHESIS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0913",
+      "term": "ORTHOPAEDIC IMPLANT INSTRUMENTS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091301",
+      "term": "ORTHOPAEDIC IMPLANT REAMERS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091302",
+      "term": "ORTHOPAEDIC IMPLANT BLADES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091303",
+      "term": "ORTHOPAEDIC IMPLANT DRILL BITS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091304",
+      "term": "CRANIAL PERFORATORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091305",
+      "term": "BONE SAWS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P091399",
+      "term": "ORTHOPAEDIC IMPLANT INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0990",
+      "term": "ORTHOPAEDIC PROSTHESES - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P099001",
+      "term": "ORTHOPAEDIC PROSTHESES CEMENTS AND ACCESSORIES FOR MIXING",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P099002",
+      "term": "ORTHOPAEDIC CEMENT PREPARATION AND APPLICATION DEVICES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P099003",
+      "term": "ORTHOPAEDIC PROSTHESES FIXING ELEMENTS - NOT OTHERWISE CLASSIFIED",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P0999",
+      "term": "ORTHOPAEDIC PROSTHESES, OSTEOSYNTHESIS DEVICES, DEVICES FOR TENDON AND LIGAMENT SYNTHESIS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P10",
+      "term": "EXTRA-VASCULAR SUPPORT PROSTHESES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P1001",
+      "term": "LOWER LIMB EXTRAVENOUS VALVE SUPPORT PROSTHESES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P1002",
+      "term": "CORONARY BYPASS EXTRAVENOUS SUPPORTS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P1099",
+      "term": "EXTRAVASCULAR SUPPORT PROSTHESES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P90",
+      "term": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES - VARIOUS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P9001",
+      "term": "TEMPORARY TISSUE EXPANDERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900101",
+      "term": "CYLINDRICAL TISSUE EXPANDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900102",
+      "term": "ELLIPTICAL TISSUE EXPANDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900103",
+      "term": "BREAST TISSUE EXPANDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900104",
+      "term": "RECTANGULAR TISSUE EXPANDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900105",
+      "term": "ROUND TISSUE EXPANDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900106",
+      "term": "SEMILUNAR OR CRESCENT TISSUE EXPANDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900199",
+      "term": "TISSUE EXPANDERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P9002",
+      "term": "SURGICAL MESHES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900201",
+      "term": "POLYGLYCOLIC ACID AND ASSOCIATIONS MESHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900202",
+      "term": "POLYPROPYLENE SURGICAL MESHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900203",
+      "term": "PTFE SURGICAL MESHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900204",
+      "term": "SURGICAL MESHES, MORE THAN ONE COMPONENT",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900205",
+      "term": "POLYESTER SURGICAL MESHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900206",
+      "term": "METALLIC SURGICAL MESHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900299",
+      "term": "SURGICAL MESHES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P9003",
+      "term": "TISSUE PATCHES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900301",
+      "term": "PTFE TISSUE PATCHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900302",
+      "term": "POLYESTER TISSUE PATCHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900399",
+      "term": "TISSUE PATCHES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P9004",
+      "term": "STRUCTURES FILLING, REPLACEMENT AND RECONSTRUCTION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900401",
+      "term": "BONE AND TENDON REPLACEMENT DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900402",
+      "term": "RESORBABLE FILLING AND RECONSTRUCTION DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900403",
+      "term": "NON-RESORBABLE FILLING AND RECONSTRUCTION DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P900404",
+      "term": "AUTOLOGOUS GRAFT SUPPORTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P9005",
+      "term": "IMPLANTABLE SPACERS FOR PROTECTION DURING RADIATION THERAPY",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "P",
+      "categoryDescription": "IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES",
+      "code": "P9099",
+      "term": "IMPLANTABLE PROSTHETIC DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    }
+  ]
+}

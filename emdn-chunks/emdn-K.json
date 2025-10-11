@@ -1,0 +1,1680 @@
+{
+  "category": "K",
+  "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+  "entryCount": 209,
+  "terminalCount": 158,
+  "entries": [
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K",
+      "term": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01",
+      "term": "ENDOTHERAPY DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0101",
+      "term": "TROCAR AND KITS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K010101",
+      "term": "TROCAR, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01010101",
+      "term": "TROCAR STANDARD, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01010102",
+      "term": "HASSON TROCAR, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01010103",
+      "term": "OPTICAL TROCAR, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01010104",
+      "term": "THORACIC TROCAR, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01010105",
+      "term": "SPECIAL TROCAR, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01010180",
+      "term": "TROCAR, SINGLE-USE - ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01010199",
+      "term": "TROCAR, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K010102",
+      "term": "MINIMALLY INVASIVE SURGERY KITS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0102",
+      "term": "IMINIMALLY INVASIVE AND ROBOTIC SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K010201",
+      "term": "MINIMALLY INVASIVE SURGERY SURGICAL INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020101",
+      "term": "MINIMALLY INVASIVE SURGERY DISSECTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020102",
+      "term": "MINIMALLY INVASIVE SURGERY SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020103",
+      "term": "MINIMALLY INVASIVE SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020104",
+      "term": "MINIMALLY INVASIVE SURGERY FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020105",
+      "term": "MINIMALLY INVASIVE SURGERY NEEDLE HOLDERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020106",
+      "term": "MINIMALLY INVASIVE SURGERY SPREADERS AND RETRACTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020107",
+      "term": "MINIMALLY INVASIVE SURGERY RECOVERY BAGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020109",
+      "term": "MINIMALLY INVASIVE SURGERY SWABS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020110",
+      "term": "MINIMALLY INVASIVE SURGERY CANNULAS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020111",
+      "term": "MINIMALLY INVASIVE SURGERY BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020112",
+      "term": "MINIMALLY INVASIVE SURGERY HOOKS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020113",
+      "term": "MINIMALLY INVASIVE SURGERY SPATULAS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020114",
+      "term": "MINIMALLY INVASIVE SURGERY GUIDES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020115",
+      "term": "MINIMALLY INVASIVE SURGERY HANDPIECES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020116",
+      "term": "ENDOSCOPIC TISSUE SUTURE APPROXIMATORS, SINGLE - USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020117",
+      "term": "MINIMALLY INVASIVE SURGERY DILATORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020118",
+      "term": "MINIMALLY INVASIVE SURGERY NEEDLES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020119",
+      "term": "MINIMALLY INVASIVE SURGERY PALPATORS, SINGLE USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020120",
+      "term": "MINIMALLY INVASIVE SURGERY SURGICAL INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020199",
+      "term": "MINIMALLY INVASIVE SURGERY SURGICAL INSTRUMENT KITS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K010202",
+      "term": "ROBOTIC SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020201",
+      "term": "ROBOTIC SURGERY SCALPELS AND BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020202",
+      "term": "ROBOTIC SURGERY CLIPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020203",
+      "term": "ROBOTIC SURGERY SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020204",
+      "term": "ROBOTIC SURGERY FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020205",
+      "term": "ROBOTIC SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K01020299",
+      "term": "ROBOTIC SURGERY INSTRUMENT, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0103",
+      "term": "SPINAL ENDOTHERAPY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K010301",
+      "term": "SPINAL PERCUTANEOUS PLASTIC DEVICES WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K010302",
+      "term": "MINIMALLY INVASIVE SPINAL SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K010399",
+      "term": "SPINAL ENDOTHERAPY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0104",
+      "term": "VERESS NEEDLES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0105",
+      "term": "MINIMALLY INVASIVE SURGERY STABILITY SCREW THREADS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0106",
+      "term": "MINIMALLY INVASIVE SURGERY REDUCERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0107",
+      "term": "CHOLANGIOGRAPHY PROBES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0108",
+      "term": "HAND-ASSISTED SURGERY DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0180",
+      "term": "ENDOTHERAPY DEVICES - OTHER ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0199",
+      "term": "ENDOTHERAPY DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02",
+      "term": "ELECTROSURGERY DEVICES, SINGLE-USE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201",
+      "term": "MONO- AND BIPOLAR DEVICES, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020101",
+      "term": "MONO- AND BIPOLAR SURGICAL INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010101",
+      "term": "ELECTROSURGERY MULTIFUNCTIONAL CANNULAS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010101",
+      "term": "OPEN ELECTROSURGERY MULTIFUNCTIONAL CANNULAS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010102",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY MULTIFUNCTIONAL CANNULAS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010102",
+      "term": "ELECTROSURGERY DISSECTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010201",
+      "term": "OPEN ELECTROSURGERY DISSECTORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010202",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY DISSECTORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010103",
+      "term": "ELECTROSURGERY ELECTRODES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010301",
+      "term": "OPEN ELECTROSURGERY ELECTRODES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010302",
+      "term": "LAPAR AND THORACOSCOPIC ELECTROSURGERY ELECTRODES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010104",
+      "term": "ELECTROSURGERY SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010401",
+      "term": "OPEN ELECTROSURGERY SCISSORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010402",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY SCISSORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010105",
+      "term": "ELECTROSURGERY HANDPIECES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010501",
+      "term": "OPEN ELECTROSURGERY HANDPIECES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010502",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY HANDPIECES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010106",
+      "term": "ELECTROSURGERY FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010601",
+      "term": "OPEN ELECTROSURGERY FORCEPS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010602",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY FORCEPS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010107",
+      "term": "SMOKE EVACUATION SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010108",
+      "term": "ELECTROSURGERY NEEDLES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010801",
+      "term": "OPEN ELECTROSURGERY NEEDLES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010802",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY NEEDLES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010109",
+      "term": "ELECTROSURGERY BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010901",
+      "term": "OPEN ELECTROSURGERY BLADES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201010902",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY BLADES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010110",
+      "term": "ELECTROSURGERY MANIPULATORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201011001",
+      "term": "OPEN ELECTROSURGERY MANIPULATORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201011002",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY MANIPULATORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010111",
+      "term": "ELECTROSURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201011101",
+      "term": "OPEN ELECTROSURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201011102",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010112",
+      "term": "ELECTROSURGERY PROBES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201011201",
+      "term": "OPEN ELECTROSURGERY PROBES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0201011202",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY PROBES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010113",
+      "term": "MINIMALLY INVASIVE SURGERY MULTIPURPOSE HANDPIECES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010199",
+      "term": "MONO- AND BIPOLAR INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020102",
+      "term": "ELECTROSURGERY PADS (NEUTRAL ELECTRODES) AND CABLES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010201",
+      "term": "ELECTROSURGERY SINGLE PATIENT PADS (NEUTRAL ELECTRODES), SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010202",
+      "term": "ELECTROSURGERY DUAL PATIENT PADS (NEUTRAL ELECTRODES), SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010203",
+      "term": "ELECTROSURGERY CONNECTION CABLES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020103",
+      "term": "SELF-POWERED BIPOLAR ELECTROCAUTERS SINGLE USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010301",
+      "term": "LOW TEMPERATURE BIPOLAR ELECTROCAUTERS, SINGLE USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010302",
+      "term": "MEDIUM TEMPERATURE BIPOLAR ELECTROCAUTERS, SINGLE USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02010303",
+      "term": "HIGH TEMPERATURE BIPOLAR ELECTROCAUTERS, SINGLE USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020180",
+      "term": "SINGLE- AND BIPOLAR DEVICES, SINGLE USE - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020199",
+      "term": "MONO- AND BIPOLAR DEVICES, SINGLE USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202",
+      "term": "DEVICES FOR SURGERY WITH ULTRASONIC GENERATOR, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020201",
+      "term": "ULTRASONIC SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020101",
+      "term": "ULTRASONIC SURGERY SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010101",
+      "term": "ULTRASONIC OPEN SURGERY SCISSORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010102",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ULTRASONIC SURGERY SCISSORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020102",
+      "term": "ULTRASONIC SURGERY HANDPIECES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010201",
+      "term": "ULTRASONIC OPEN SURGERY HANDPIECES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010202",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ULTRASONIC SURGERY HANDPIECES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020103",
+      "term": "ULTRASONIC SURGERY BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010301",
+      "term": "ULTRASONIC OPEN SURGERY BLADES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010302",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ULTRASONIC SURGERY BLADES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020104",
+      "term": "ULTRASONIC SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010401",
+      "term": "ULTRASONIC OPEN SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010402",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ULTRASONIC SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020105",
+      "term": "ULTRASONIC SURGERY CANNULAS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010501",
+      "term": "ULTRASONIC OPEN SURGERY CANNULAS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010502",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ULTRASONIC SURGERY CANNULAS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020106",
+      "term": "ULTRASONIC SURGERY DISSECTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010601",
+      "term": "ULTRASONIC OPEN SURGERY DISSECTORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010602",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ULTRASONIC SURGERY DISSECTORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020107",
+      "term": "ULTRASONIC SURGERY ELECTRODES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010701",
+      "term": "ULTRASONIC OPEN SURGERY ELECTRODES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010702",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ULTRASONIC SURGERY ELECTRODES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020108",
+      "term": "ULTRASONIC SURGERY FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010801",
+      "term": "ULTRASONIC OPEN SURGERY FORCEPS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010802",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC ULTRASONIC SURGERY FORCEPS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020109",
+      "term": "ULTRASONIC SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010901",
+      "term": "ULTRASONIC OPEN SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0202010902",
+      "term": "ULTRASONIC LAPAROSCOPIC AND THORACOSCOPIC SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02020199",
+      "term": "ULTRASONIC SURGERY INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020280",
+      "term": "DEVICES FOR SURGERY WITH ULTRASONIC GENERATOR, SINGLE-USE - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020299",
+      "term": "DEVICES FOR SURGERY WITH ULTRASONIC GENERATOR, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0203",
+      "term": "DEVICES FOR SURGERY WITH RADIOFREQUENCY GENERATOR, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020301",
+      "term": "RADIOFREQUENCY SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030101",
+      "term": "RADIOFREQUENCY SURGERY ELECTRODES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030102",
+      "term": "RADIOFREQUENCY SURGERY FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030103",
+      "term": "RADIOFREQUENCY SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030104",
+      "term": "RADIOFREQUENCY SURGERY NEEDLES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030105",
+      "term": "RADIOFREQUENCY SURGERY DISSECTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030106",
+      "term": "RADIOFREQUENCY SURGERY CANNULAS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030107",
+      "term": "RADIOFREQUENCY SURGERY BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030108",
+      "term": "RADIOFREQUENCY SURGERY SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030109",
+      "term": "RADIOFREQUENCY SURGERY HANDPIECES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030110",
+      "term": "RADIOFREQUENCY SURGERY MANIPULATORS,  SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02030199",
+      "term": "RADIOFREQUENCY SURGERY INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020380",
+      "term": "DEVICES FOR SURGERY WITH RADIOFREQUENCY GENERATOR, SINGLE-USE - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020399",
+      "term": "DEVICES FOR SURGERY WITH RADIOFREQUENCY GENERATOR, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204",
+      "term": "DEVICES FOR SURGERY WITH ARGON GAS GENERATOR, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020401",
+      "term": "ARGON GAS SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040101",
+      "term": "ARGON GAS SURGERY ELECTRODES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010101",
+      "term": "ARGON GAS OPEN SURGERY ELECTRODES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010102",
+      "term": "ARGON GAS LAPAROSCOPIC AND THORACOSCOPIC SURGERY ELECTRODES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040102",
+      "term": "ARGON GAS SURGERY HANDPIECES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010201",
+      "term": "ARGON GAS OPEN SURGERY HANDPIECES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010202",
+      "term": "ARGON GAS LAPAROSCOPIC AND THORACOSCOPIC GAS SURGERY HANDPIECES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040103",
+      "term": "ARGON GAS SURGERY FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010301",
+      "term": "ARGON GAS OPEN SURGERY FORCEPS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010302",
+      "term": "ARGON GAS LAPAROSCOPIC AND THORACOSCOPIC SURGERY FORCEPS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040104",
+      "term": "ARGON GAS SURGERY SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010401",
+      "term": "ARGON GAS OPEN SURGERY SCISSORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010402",
+      "term": "ARGON GAS LAPAROSCOPIC AND THORACOSCOPIC SURGERY SCISSORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040105",
+      "term": "ARGON GAS SURGERY BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010501",
+      "term": "ARGON GAS OPEN SURGERY BLADES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010502",
+      "term": "ARGON GAS LAPAROSCOPIC AND THORACOSCOPIC SURGERY BLADES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040106",
+      "term": "ARGON GAS SURGERY DISSECTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010601",
+      "term": "ARGON GAS OPEN SURGERY DISSECTORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010602",
+      "term": "ARGON GAS LAPAROSCOPIC AND THORACOSCOPIC SURGERY DISSECTORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040107",
+      "term": "ARGON GAS SURGERY CANNULAS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010701",
+      "term": "ARGON GAS OPEN SURGERY CANNULAS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010702",
+      "term": "ARGON GAS LAPAROSCOPIC AND THORACOSCOPIC SURGERY CANNULAS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040108",
+      "term": "ARGON GAS SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010801",
+      "term": "ARGON GAS OPEN SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0204010802",
+      "term": "ARGON GAS LAPAROSCOPIC AND THORACOSCOPIC SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040109",
+      "term": "ARGON GAS SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02040199",
+      "term": "ARGON GAS SURGERY INSTRUMENTS, SINGLE-USE- OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020480",
+      "term": "DEVICES FOR SURGERY WITH ARGON GAS GENERATOR, SINGLE-USE- ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020499",
+      "term": "DEVICES FOR SURGERY WITH ARGON GAS GENERATOR, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0205",
+      "term": "DEVICES FOR SURGERY WITH COMBINED RADIOFREQUENCY / ULTRASOUND GENERATORS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K020501",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASOUND SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050101",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASONIC SURGERY ELECTRODES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050102",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASONIC SURGERY FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050103",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASOUND SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050104",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASONIC SURGERY NEEDLES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050105",
+      "term": "RADIOFREQUENCY / ULTRASONIC SURGERY COMBINED DISSECTORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050106",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASOUND SURGERY CANNULAS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050107",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASONIC SURGERY BLADES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050108",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASONIC SURGERY SCISSORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050109",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASONIC SURGERY HANDPIECES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K02050110",
+      "term": "COMBINED RADIOFREQUENCY / ULTRASONIC SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0299",
+      "term": "ELECTROSURGERY DEVICES, SINGLE-USE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K03",
+      "term": "ARTHROSCOPY DEVICES, SINGLE-USE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0301",
+      "term": "ARTHROSCOPY TRACTION SYSTEMS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0302",
+      "term": "ARTHROSCOPY SURGICAL INSTRUMENTS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030201",
+      "term": "ARTHROSCOPY CANNULAS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030202",
+      "term": "ARTHROSCOPY GUIDE WIRES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030203",
+      "term": "ARTHROSCOPY BLADES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030204",
+      "term": "ARTHROSCOPY BURS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030205",
+      "term": "ARTHROSCOPY SUTURE DEVICES NOT INCLUDED IN OTHER CLASSES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030206",
+      "term": "ARTHROSCOPY DISSECTORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030207",
+      "term": "ARTHROSCOPY ELECTRODES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030208",
+      "term": "ARTHROSCOPY FORCEPS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030209",
+      "term": "ARTHROSCOPY SCISSORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030210",
+      "term": "ARTHROSCOPY HANDPIECES, SINGLE USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030211",
+      "term": "ARTHROSCOPY MANIPULATORS, SINGLE USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030212",
+      "term": "ARTHROSCOPY INSTRUMENT KITS, SINGLE USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K030299",
+      "term": "ARTHROSCOPY SURGICAL INSTRUMENTS, SINGLE USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0380",
+      "term": "ARTHROSCOPY DEVICES, SINGLE USE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "K",
+      "categoryDescription": "ENDOTHERAPY AND ELECTROSURGICAL DEVICES",
+      "code": "K0399",
+      "term": "ARTHROSCOPY DEVICES, SINGLE USE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    }
+  ]
+}

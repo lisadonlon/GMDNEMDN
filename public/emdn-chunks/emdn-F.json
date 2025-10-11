@@ -1,0 +1,744 @@
+{
+  "category": "F",
+  "categoryDescription": "DIALYSIS DEVICES",
+  "entryCount": 92,
+  "terminalCount": 66,
+  "entries": [
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F",
+      "term": "DIALYSIS DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01",
+      "term": "DIALYSIS FILTERS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0106",
+      "term": "HAEMODIALYSIS, HAEMOFILTRATION, HAEMODIAFILTRATION FILTERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010601",
+      "term": "DIALYSERS - UFC < 18 ml/h/mmHg",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060101",
+      "term": "DIALYSERS - UFC < 18 ml/h/mmHg, CELLULOSE MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060102",
+      "term": "DIALYSERS - UFC < 18 ml/h/mmHg, SUBSTITUTED CELLULOSE MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060103",
+      "term": "DIALYSERS - UFC < 18 ml/h/mmHg, SYNTHETIC MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060199",
+      "term": "DIALYSERS - UFC < 18 ml/h/mmHg - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010602",
+      "term": "DIALYSERS - UFC = 18 - 35 ml/h/mmHg",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060201",
+      "term": "DIALYSERS - UFC = 18 - 35 ml/h/mmHg, CELLULOSE MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060202",
+      "term": "DIALYSERS - UFC = 18 - 35 ml/h/mmHg, SUBSTITUTED CELLULOSE MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060203",
+      "term": "DIALYSERS - UFC = 18 - 35 ml/h/mmHg, SYNTHETIC MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060299",
+      "term": "DIALYSERS - UFC = 18 - 35 ml/h/mmHg - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010603",
+      "term": "DIALYSERS - UFC > 35 ml/h/mmHg",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060301",
+      "term": "DIALYSERS - UFC > 35 ml/h/mmHg, CELLULOSE MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060302",
+      "term": "DIALYSERS - UFC > 35 ml/h/mmHg, SUBSTITUTED CELLULOSE MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060303",
+      "term": "DIALYSERS - UFC > 35 ml/h/mmHg, SYNTHETIC MEMBRANES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01060399",
+      "term": "DIALYSERS - UFC > 35 ml/h/mmHg - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010604",
+      "term": "DIALYSERS FOR SPECIAL HAEMODIAFILTRATION AND OTHER THERAPIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0107",
+      "term": "HAEMOPERFUSION FILTERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010701",
+      "term": "HAEMOPERFUSION CARBON FILTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010702",
+      "term": "HAEMOPERFUSION RESIN FILTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010799",
+      "term": "HAEMOPERFUSION FILTERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0108",
+      "term": "ADSORPTION FILTERS AND COLUMNS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010801",
+      "term": "IMMUNOADSORPTION FILTERS AND COLUMNS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01080101",
+      "term": "IMMUNOADSORPTION FILTERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01080102",
+      "term": "IMMUNOADSORPTION COLUMNS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F010802",
+      "term": "ENDOTOXIN REMOVAL FILTERS AND COLUMNS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01080201",
+      "term": "ENDOTOXIN REMOVAL FILTERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F01080202",
+      "term": "ENDOTOXIN REMOVAL COLUMNS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0109",
+      "term": "PERITONEAL DIALYSIS FILTERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0199",
+      "term": "HAEMODIALYSIS FILTERS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F02",
+      "term": "DIALYSIS LINES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0201",
+      "term": "ARTERIOVENOUS DIALYSIS LINES FOR HAEMODIALYSIS - HAEMOFILTRATION -HAEMODIAFILTRATION",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020101",
+      "term": "ARTERIOVENOUS DIALYSIS LINES, ONE NEEDLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020102",
+      "term": "ARTERIOVENOUS DIALYSIS LINES, TWO NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020104",
+      "term": "REINFUSION DIALYSIS LINES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020180",
+      "term": "ARTERIOVENOUS DIALYSIS LINES FOR HAEMODIALYSIS - HAEMOFILTRATION -HAEMODIAFILTRATION - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020199",
+      "term": "ARTERIOVENOUS DIALYSIS LINES FOR HAEMODIALYSIS - HAEMOFILTRATION -HAEMODIAFILTRATION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0202",
+      "term": "PERITONAEAL DIALYSIS LINES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020201",
+      "term": "PERMANENT PERITONAEAL DIALYSIS LINES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F02020101",
+      "term": "PERMANENT PERITONAEAL DIALYSIS LINES, ONE BAG (CAPD)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F02020102",
+      "term": "PERMANENT PERITONAEAL DIALYSIS LINES, TWO BAGS (CAPD)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F02020199",
+      "term": "PERMANENT PERITONAEAL DIALYSIS LINES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020202",
+      "term": "TEMPORARY PERITONAEAL DIALYSIS LINES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F02020201",
+      "term": "TEMPORARY PERITONAEAL DIALYSIS LINES, GRAVITY (APD)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F02020202",
+      "term": "TEMPORARY PERITONAEAL DIALYSIS LINES, WITH PUMP (APD)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F02020299",
+      "term": "TEMPORARY PERITONAEAL DIALYSIS LINES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020280",
+      "term": "PERITONAEAL DIALYSIS LINES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F020299",
+      "term": "PERITONAEAL DIALYSIS LINES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0299",
+      "term": "DIALYSIS LINES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F03",
+      "term": "DIALYSIS KITS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0301",
+      "term": "HAEMOFILTRATION-HAEMODIAFILTRATION KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0302",
+      "term": "BIOFILTRATION KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0303",
+      "term": "HAEMODIALYSIS KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0304",
+      "term": "DIALYSIS WASHING/FILLING KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0305",
+      "term": "HAEMOPERFUSION KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0306",
+      "term": "CONTINUOUS DIALYSIS KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0307",
+      "term": "ULTRAFILTRATION KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0399",
+      "term": "DIALYSIS KITS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F04",
+      "term": "DIALYSIS CONCENTRATES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0401",
+      "term": "DIALYSIS CONCENTRATES, ACID SOLUTIONS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F040101",
+      "term": "DIALYSIS CONCENTRATES, ACID SOLUTIONS, NON-STERILE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F040102",
+      "term": "DIALYSIS CONCENTRATES, ACID SOLUTIONS, STERILE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0402",
+      "term": "DIALYSIS CONCENTRATES, BASIC SOLUTIONS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F040201",
+      "term": "DIALYSIS CONCENTRATES, BASIC SOLUTIONS, POWDER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F040202",
+      "term": "DIALYSIS CONCENTRATES, BASIC SOLUTIONS, LIQUID",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0403",
+      "term": "DIALYSIS CONCENTRATES, WITHOUT ACETATE BUFFER",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F040302",
+      "term": "DIALYSIS CONCENTRATES, WITHOUT ACETATE BUFFER - AFB",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F040399",
+      "term": "DIALYSIS CONCENTRATES, WITHOUT ACETATE BUFFER FOR OTHER TREATMENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0404",
+      "term": "DIALYSIS PROCEDURES, SALTS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F0499",
+      "term": "DIALYSIS CONCENTRATES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F05",
+      "term": "DEVICES FOR MICRODIALYSIS OF SPECIFIC ORGANS",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F90",
+      "term": "DIALYSIS DEVICES - VARIOUS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F9001",
+      "term": "PERITONAEAL DIALYSIS DEVICES (NOT INCLUDED IN OTHER GROUPS)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900101",
+      "term": "PERITONEAL DIALYSIS CATHETERS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900199",
+      "term": "PERITONAEAL DIALYSIS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F9002",
+      "term": "VASCULAR ACCESS DEVICES (ONLY FOR HAEMODIALYSIS)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900201",
+      "term": "TEMPORARY HEMODIALYSIS CATHETERS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900202",
+      "term": "PERMANENT HEMODIALYSIS CATHETERS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900299",
+      "term": "VASCULAR ACCESS DEVICES (ONLY FOR HAEMODIALYSIS) - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F9003",
+      "term": "DIALYSIS ADAPTORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900301",
+      "term": "HAEMODIALYSIS ADAPTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900302",
+      "term": "PERITONAEAL DIALYSIS ADAPTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F9004",
+      "term": "DIALYSATE COLLECTION AND REINFUSION BAGS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900401",
+      "term": "DIALYSATE COLLECTION BAGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F90040101",
+      "term": "HAEMODIALYSATE COLLECTION BAGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F90040102",
+      "term": "PERITONAEAL DIALYSATE COLLECTION BAGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F900402",
+      "term": "DIALYSATE REINFUSION BAGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F9006",
+      "term": "DIALYTIC TREATMENT INSTRUMENTS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F9080",
+      "term": "DIALYSIS DEVICES - OTHER ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "F",
+      "categoryDescription": "DIALYSIS DEVICES",
+      "code": "F9099",
+      "term": "DIALYSIS DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    }
+  ]
+}

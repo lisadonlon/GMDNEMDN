@@ -1,0 +1,2344 @@
+{
+  "category": "C",
+  "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+  "entryCount": 292,
+  "terminalCount": 223,
+  "entries": [
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C",
+      "term": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01",
+      "term": "ARTERIO-VENOUS SYSTEM DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0101",
+      "term": "PERIPHERAL  I.V. CATHETERS AND CANNULAS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010101",
+      "term": "PERIPHERAL I.V. CATHETERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01010101",
+      "term": "PERIPHERAL I.V. CATHETERS, W/O SAFETY SYSTEMS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0101010101",
+      "term": "PERIPHERAL I.V. CATHETERS, W/O SAFETY SYSTEMS, WITH INJECTION VALVES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0101010102",
+      "term": "PERIPHERAL I.V. CATHETERS, W/O SAFETY SYSTEMS, W/O INJECTION VALVES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01010102",
+      "term": "PERIPHERAL I.V. CATHETERS, WITH SAFETY SYSTEMS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0101010201",
+      "term": "PERIPHERAL I.V. CATHETERS, WITH SAFETY SYSTEMS, WITH INJECTION VALVES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0101010202",
+      "term": "PERIPHERAL I.V. CATHETERS, WITH SAFETY SYSTEMS, W/O INJECTION VALVES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01010103",
+      "term": "PERIPHERAL I.V. CATHETERS, WITH INTEGRATED EXTENSIONS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01010180",
+      "term": "PERIPHERAL I.V. CATHETERS - ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01010199",
+      "term": "PERIPHERAL I.V. CATHETERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010102",
+      "term": "PERIPHERAL I.V. CATHETER SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010103",
+      "term": "INTEGRATED PERIPHERAL I.V. DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010104",
+      "term": "UMBILICAL I.V. CANNULAS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010180",
+      "term": "PERIPHERAL I.V. CATHETERS AND CANNULAS - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010199",
+      "term": "PERIPHERAL I.V. CATHETERS AND CANNULAS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0102",
+      "term": "CENTRAL I.V. CATHETERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010201",
+      "term": "CENTRAL I.V. CATHETERS, PERIPHERAL ACCESS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020101",
+      "term": "CENTRAL I.V. SINGLE-LUMEN CATHETERS, PERIPHERAL ACCESS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020102",
+      "term": "CENTRAL I.V. MULTI-LUMEN CATHETERS, PERIPHERAL ACCESS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010202",
+      "term": "CENTRAL I.V. CATHETERS, NON-TUNNELED",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020201",
+      "term": "CENTRAL I.V. SINGLE-LUMEN CATHETERS, NON-TUNNELED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020202",
+      "term": "CENTRAL VENOUS DOUBLE-LUMEN CATHETERS, NON-TUNNELED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020203",
+      "term": "CENTRAL VENOUS MULTI-LUMEN (>2) CATHETERS, NON-TUNNELED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010203",
+      "term": "CENTRAL VENOUS CATHETERS, PARTIALLY TUNNELED",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020301",
+      "term": "CENTRAL VENOUS SINGLE-LUMEN CATHETERS, PARTIALLY TUNNELED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020302",
+      "term": "CENTRAL VENOUS DOUBLE-LUMEN CATHETERS, PARTIALLY TUNNELED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020303",
+      "term": "CENTRAL VENOUS MULTI-LUMEN (>2) CATHETERS, PARTIALLY TUNNELED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010204",
+      "term": "SUBCUTANEOUS IMPLANTABLE VENOUS ACCESS PORT SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020401",
+      "term": "SUBCUTANEOUS IMPLANTABLE VENOUS ACCESS PORT SYSTEMS, SINGLE-CHAMBER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020402",
+      "term": "SUBCUTANEOUS IMPLANTABLE VENOUS ACCESS PORT SYSTEMS, DUAL-CHAMBER OR DOUBLE-LUMEN",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01020499",
+      "term": "SUBCUTANEOUS IMPLANTABLE VENOUS ACCESS PORT SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010280",
+      "term": "CENTRAL VENOUS CATHETERS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010299",
+      "term": "CENTRAL VENOUS CATHETERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0103",
+      "term": "ARTERIAL CANNULAS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010301",
+      "term": "RADIAL CANNULAS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010302",
+      "term": "UMBILICAL CANNULAS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010303",
+      "term": "FEMORAL CANNULAS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010380",
+      "term": "ARTERIAL CANNULAS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010399",
+      "term": "ARTERIAL CANNULAS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104",
+      "term": "ANGIOGRAPHY AND HAEMODYNAMIC DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401",
+      "term": "CARDIAC ANGIOGRAPHY DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01040101",
+      "term": "CARDIAC ANGIOGRAPHY DIAGNOSTIC DEVICES,",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010101",
+      "term": "CARDIAC ANGIOGRAPHY DIAGNOSTIC CATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010102",
+      "term": "CARDIAC AND INTRACORONARY ULTRASOUND CATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010199",
+      "term": "CARDIAC ANGIOGRAPHY DIAGNOSTIC DEVICES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01040102",
+      "term": "CORONARY ANGIOGRAPHY THERAPEUTIC DEVICES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010201",
+      "term": "PERCUTANEOUS TRANSLUMINAL CORONARY ANGIOPLASTY (PTCA) DILATATION CATHETERS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020101",
+      "term": "PTCA BALLOON DILATION CATHETERS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020102",
+      "term": "CORONARY STENT IMPLANTATION DILATION CATHETERS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020180",
+      "term": "PTCA BALLOON DILATATION CATHETERS - ACCESSORIES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020199",
+      "term": "PTCA DIALATION CATHETERS - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010202",
+      "term": "CARDIAC ANGIOGRAPHY GUIDE CATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010203",
+      "term": "PHARMACEUTICAL INFUSION AND ADMINISTRATION INTRACORONARY AND INTRACARDIAC CATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010204",
+      "term": "CORONARY ARTERY ATHERECTOMY SYSTEMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020401",
+      "term": "CORONARY ARTERY ATHERECTOMY SYSTEMS, DIRECTIONAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020402",
+      "term": "CORONARY ARTERY ATHERECTOMY SYSTEMS, ROTATIONAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020480",
+      "term": "CORONARY ATHERECTOMY SYSTEMS - ACCESSORIES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020499",
+      "term": "CORONARY ARTERY ATHERECTOMY SYSTEMS - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010205",
+      "term": "CARDIAC THROMBECTOMY AND THROMBOASPIRATION SYSTEMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020501",
+      "term": "MANUAL CARDIAC THROMBECTOMY AND THROMBOASPIRATION SYSTEMS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020502",
+      "term": "MOTERED CARDIAC THROMBECTOMY AND THROMBOASPIRATION SYSTEMS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010401020580",
+      "term": "THROMBECTOMY AND CARDIAC THROMBOASPIRATION SYSTEMS - ACCESSORIES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010280",
+      "term": "INTERVENTIONAL CORONARY ANGIOGRAPHY DEVICES - ACCESSORIES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104010299",
+      "term": "CARDIAC THROMBECTOMY AND THROMBOASPIRATION SYSTEMS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01040180",
+      "term": "CORONARY ANGIOGRAPHY DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01040199",
+      "term": "CARDIAC ANGIOGRAPHY DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402",
+      "term": "PERIPHERAL ANGIOGRAPHY DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01040201",
+      "term": "PERIPHERAL ANGIOGRAPHY DIAGNOSTIC DEVICES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020101",
+      "term": "PANORAMIC AND SELECTIVE PERIPHERAL DIAGNOSTIC ANGIOGRAPHY CATHETERS AND MICROCATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020102",
+      "term": "INTRAVASCULAR ULTRASOUND CATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020103",
+      "term": "VASCULAR OCCLUSION CATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020180",
+      "term": "DIAGNOSTIC PERIPHERAL ANGIOGRAPHY DEVICES - ACCESSORIES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020199",
+      "term": "PERIPHERAL ANGIOGRAPHY DIAGNOSTIC DEVICES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01040202",
+      "term": "PERIPHERAL ANGIOGRAPHY THERAPEUTIC DEVICES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020201",
+      "term": "PERCUTANEOUS TRANSLUMINAL ANGIOPLASTY (PTA) DILATATION CATHETERS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020101",
+      "term": "PTA BALLOON DILATATION CATHETERS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020102",
+      "term": "STENT POSITIONING VASCULAR BALLOON DILATATION CATHETERS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020180",
+      "term": "PTA BALLOON DILATATION CATHETERS - ACCESSORIES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020199",
+      "term": "PTA DILATATION CATHETERS - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020202",
+      "term": "PERIPHERAL EMBOLISATION CATHETERS AND MICROCATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020203",
+      "term": "EMBOLISATION DEVICES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020301",
+      "term": "EMBOLISATION COILS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020302",
+      "term": "EMBOLISATION FLUIDS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020303",
+      "term": "EMBOLISATION PARTICLES AND MICROSPHERES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020380",
+      "term": "EMBOLISATION DEVICES - ACCESSORIES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020399",
+      "term": "EMBOLISATION DEVICES - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020204",
+      "term": "PERIPHERAL ANGIOGRAPHY GUIDE CATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020205",
+      "term": "PHARMACEUTICAL INFUSION AND ADMINISTRATION INTRAVASCULAR CATHETERS AND MICROCATHETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020206",
+      "term": "PERIPHERAL ATHERECTOMY SYSTEMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020601",
+      "term": "PERIPHERAL ATHERECTOMY SYSTEMS, DIRECTIONAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020602",
+      "term": "PERIPHERAL ATHERECTOMY SYSTEMS, ROTATIONAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020680",
+      "term": "PERIPHERAL ATHERECTOMY DEVICES - ACCESSORIES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020699",
+      "term": "PERIPHERAL ATHERECTOMY SYSTEMS - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020207",
+      "term": "PERIPHERAL THROMBECTOMY AND THROMBOASPIRATION SYSTEMS",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020701",
+      "term": "MANUAL PERIPHERAL THROMBECTOMY AND THROMBOASPIRATION SYSTEMS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020702",
+      "term": "MECHANICAL PERIPHERAL THROMBECTOMY AND THROMBOASPIRATION SYSTEMS",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010402020780",
+      "term": "THROMBECTOMY AND PERIPHERAL THROMBOASPIRATION SYSTEMS - ACCESSORIES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020208",
+      "term": "TRANSJUGULAR INTRAHEPATIC PORTOSYSTEMIC SHUNT (TIPS) PERCUTANEOUS SYSTEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020209",
+      "term": "PERIPHERAL VASCULAR SYSTEM TOTAL CHRONIC OCCLUSION DEVICES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020280",
+      "term": "INTERVENTIONAL PERIPHERAL ANGIOGRAPHY DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0104020299",
+      "term": "PERIPHERAL ANGIOGRAPHY THERAPEUTIC DEVICES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01040280",
+      "term": "PERIPHERAL ANGIOGRAPHY DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01040299",
+      "term": "PERIPHERAL ANGIOGRAPHY DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010403",
+      "term": "FRACTIONAL FLOW RESERVE (FFR) MEASUREMENT DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010480",
+      "term": "ANGIOGRAPHY AND HEMODYNAMICS DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010499",
+      "term": "ANGIOGRAPHY AND HEMODYNAMICS DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0105",
+      "term": "INTRAVASCULAR PROTECTION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010501",
+      "term": "VENA CAVA FILTERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01050101",
+      "term": "VENA CAVA FILTERS, RETRIEVABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01050102",
+      "term": "VENA CAVA FILTERS, PERMANENT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010502",
+      "term": "INTRAVASCULAR EMOBILIC PROTECTION CATHETERS AND SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01050201",
+      "term": "PTCA EMBOLIC PROTECTION CATHETERS AND SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01050202",
+      "term": "PTA EMBOLIC PROTECTION CATHETERS AND SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01050203",
+      "term": "ARTERIO-SURGERY EMBOLIC PROTECTION CATHETERS AND SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01050299",
+      "term": "INTRAVASCULAR EMBOLIC PROTECTION CATHETERS AND SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010580",
+      "term": "INTRAVASCULAR PROTECTION DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C010599",
+      "term": "INTRAVASCULAR PROTECTION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0180",
+      "term": "ARTERO-VENOUS SYSTEM DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0190",
+      "term": "DEVICES FOR VASCULAR PROCEDURES - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019001",
+      "term": "AORTIC COUNTERPULSATION CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019002",
+      "term": "EMBOLECTOMY CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019003",
+      "term": "THERMODILUTION CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019004",
+      "term": "CARDIOVASCULAR MONITORING SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019005",
+      "term": "RETRIEVING SYSTEMS FOR VASCULAR FOREIGN BODIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019006",
+      "term": "CAROTID ARTERY SHUNTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019007",
+      "term": "CARDIOVASCULAR SYSTEM BRACHYTHERAPY RADIOFREQUENCY SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019008",
+      "term": "IMPLANTABLE SUBCUTANEOUS ARTERIAL ACCESS SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019009",
+      "term": "AORTIC OCCLUSION SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019010",
+      "term": "INTRAVASCULAR RECANALISATION SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019011",
+      "term": "INTRAVASCULAR AND CARDIAC BIOPSY SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01901101",
+      "term": "INTRAVASCULAR BIOPSY SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01901102",
+      "term": "MYOCARDIAL BIOPSY KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019012",
+      "term": "AORTIC PUNCHES AND AORTOTOMY SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01901201",
+      "term": "AORTIC PUNCHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01901202",
+      "term": "AORTOTOMY SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019013",
+      "term": "ISOLATED TISSUE PERFUSION SYSTEMS (LOCOREGIONAL TUMOR THERAPY)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019014",
+      "term": "CARDIAC VALVULOPLASTY CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019015",
+      "term": "CARDIAC TRANSSEPTAL PUNCTURE KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019016",
+      "term": "PERITONEOVENOUS SHUNTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019017",
+      "term": "VALVULOTOMES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019018",
+      "term": "SURGICAL VENTRICULAR REMODELLING SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019019",
+      "term": "VESSEL STRIPPER SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01901901",
+      "term": "VEIN STRIPPER DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01901902",
+      "term": "RADIOFREQUENCY VENOUS ABLATION CATHETERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01901903",
+      "term": "VASCULAR EXTRACTION SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C01901999",
+      "term": "VEIN STRIPPER SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C019020",
+      "term": "SELECTIVE LOCAL HYPERTHERMIA KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0199",
+      "term": "ARTERIO-VENOUS DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C02",
+      "term": "ARRHYTHMOLOGY DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0201",
+      "term": "CARDIAC ELECTROPHYSIOLOGY AND MAPPING DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020101",
+      "term": "ARRHYTHMOLOGY BIPOLAR DIAGNOSTIC CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020102",
+      "term": "ARRHYTHMOLOGY TRIPOLAR DIAGNOSTIC CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020103",
+      "term": "ARRHYTHMOLOGY TETRAPOLAR DIAGNOSTIC CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020104",
+      "term": "ARRHYTHMOLOGY MULTIPOLAR DIAGNOSTIC CATHETERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C02010401",
+      "term": "ARRHYTHMOLOGY MULTIPOLAR DIAGNOSTIC CATHETERS, CONVENTIONAL",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C02010402",
+      "term": "ARRHYTHMOLOGY MULTIPOLAR DIAGNOSTIC CATHETERS, BASKET TYPE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C02010403",
+      "term": "ARRHYTHMOLOGY MULTIPOLAR DIAGNOSTIC CATHETERS, ADJUSTABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C02010499",
+      "term": "ARRHYTHMOLOGY MULTIPOLAR DIAGNOSTIC CATHETERS – OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020105",
+      "term": "NON-CONVENTIONAL MAPPING (CONTACT AND NON-CONTACT) THREE-DIMENSIONAL DIAGNOSTIC CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020180",
+      "term": "CARDIAC ELECTROPHYSIOLOGY AND MAPPING DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020199",
+      "term": "CARDIAC ELECTROPHYSIOLOGY AND MAPPING DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0202",
+      "term": "CARDIAC TEMPORARY STIMULATION DEVICES (WITH OR WITHOUT ACTIVE SUBSTANCES)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020201",
+      "term": "TEMPORARY ENDOCARDIAL LEADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020202",
+      "term": "EPICARDIAL LEADS (MONOPOLAR AND BIPOLAR)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020203",
+      "term": "TRANSOESOPHAGEAL RECORDING AND STIMULATION LEADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020280",
+      "term": "TEMPORARY CARDIAC ELECTRICAL STIMULATION DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020299",
+      "term": "CARDIAC TEMPORARY STIMULATION DEVICES (WITH OR WITHOUT ACTIVE SUBSTANCES) - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0203",
+      "term": "CARDIAC TISSUE ABLATION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020301",
+      "term": "ARRHYTHMOGENIC FOCI RADIOFREQUENCY ABLATION CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020302",
+      "term": "ARRHYTHMOGENIC FOCI CRYOENERGY ABLATION CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020304",
+      "term": "ARRHYTHMOGENIC FOCI PULSED FIELD ABLATION CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020305",
+      "term": "ARRHYTHMOGENIC FOCI LASER ABLATION CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020380",
+      "term": "ABLATION OF ARRHYTHMOGENIC FOCUS DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020399",
+      "term": "CARDIAC TISSUE ABLATION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0204",
+      "term": "EXTERNAL CARDIOVERSION AND DEFIBRILLATION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020401",
+      "term": "EXTERNAL CARDIOVERSION DEFIBRILLATOR ELECTRODE PADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020402",
+      "term": "TEMPORARY CARDIOVERSION LEADS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C02040201",
+      "term": "TEMPORARY ENDOCAVITARY CARDIOVERSION LEADS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C02040202",
+      "term": "TEMPORARY TRANSOESOPHAGEAL CARDIOVERSION LEADS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C02040299",
+      "term": "TEMPORARY CARDIOVERSION LEADS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020480",
+      "term": "CARDIOVERSION AND EXTERNAL DEFIBRILLATION DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020499",
+      "term": "EXTERNAL CARDIOVERSION AND DEFIBRILLATION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0205",
+      "term": "CARDIAC DIAGNOSTIC DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020501",
+      "term": "ECG ELECTRODES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C020599",
+      "term": "CARDIAC DIAGNOSTIC DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0280",
+      "term": "ARRYTHMOLOGY DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0299",
+      "term": "ARRHYTHMOLOGY DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03",
+      "term": "CARDIAC SURGERY AND HEART TRANSPLANT DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0301",
+      "term": "EXTRACORPOREAL ASSISTED CIRCULATION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C030101",
+      "term": "EXTRACORPOREAL CIRCULATION KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010101",
+      "term": "EXTRACORPOREAL CIRCULATION CIRCUITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010102",
+      "term": "OXYGENATOR KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010104",
+      "term": "EXTRACORPOREAL CIRCULATION FILTERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010199",
+      "term": "EXTRACORPOREAL CIRCULATION KITS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C030102",
+      "term": "CARDIOPLEGIA SOLUTION ADMINISTRATION KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C030103",
+      "term": "CIRCULATORY SUPPORT KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010301",
+      "term": "CARDIOPULMONARY SUPPORT KITS (C.P.S. AND ECMO)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010399",
+      "term": "CIRCULATORY SUPPORT KITS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C030104",
+      "term": "EXTRACORPOREAL CIRCULATION CANNULAS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010401",
+      "term": "EXTRACORPOREAL CIRCULATION ARTERIAL CANNULAS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0301040101",
+      "term": "EXTRACORPOREAL CIRCULATION ARTERIAL CANNULAS, W/O FILTER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0301040102",
+      "term": "EXTRACORPOREAL CIRCULATION ARTERIAL CANNULAS, WITH FILTER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010402",
+      "term": "EXTRACORPOREAL CIRCULATION VENOUS CANNULAS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0301040201",
+      "term": "ATRIOCAVAL CANNULAS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0301040202",
+      "term": "BICAVAL CANNULAS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010403",
+      "term": "INTRACAVITARY SUCTION CANNULAS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010404",
+      "term": "CARDIOPLEGIA CANNULAS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0301040401",
+      "term": "EXTRACORPOREAL CIRCULATION NON-SELECTIVE PERFUSION CANNULAS (WITH AORTIC VENTING LUMEN)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0301040402",
+      "term": "SELECTIVE CORONARY ARTERIES PERFUSION CANNULAS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0301040499",
+      "term": "CARDIOPLEGIA CANNULAS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010405",
+      "term": "SELECTIVE CAROTID ARTERY AND CORONARY SINUS PERFUSION CANNULAS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010406",
+      "term": "PERCUTANEOUS ARTERIOVENOUS CANNULAS (WITH ENDOCLAMP AND CARDIPLEGIA VENTING LUMEN)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03010499",
+      "term": "EXTRACORPOREAL CIRCULATION CANNULAS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C030180",
+      "term": "EXTRACORPOREAL AND ASSISTED CIRCULATION DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C030199",
+      "term": "EXTRACORPOREAL AND ASSISTED CIRCULATION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0380",
+      "term": "HEART SURGERY AND ORGAN TRANSPLANTATION DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0390",
+      "term": "CARDIAC SURGERY AND HEART TRANSPLANT DEVICES - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C039001",
+      "term": "MINIMALLY INVASIVE ACCESS CARDIAC SURGERY SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03900101",
+      "term": "DIRECT VISION MINIMALLY INVASIVE CARDIAC ACCESS KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03900102",
+      "term": "MINI-INVASIVE VIDEO-ASSISTED CARDIO-SURGICAL ACCESS KITS (WITH EXTERNAL MONITOR)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C039002",
+      "term": "BEATING HEART CARDIOSURGERY DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03900201",
+      "term": "EPI-MYOCARDIAL STABILISATION KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03900202",
+      "term": "INTRACORONARY SHUNTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03900203",
+      "term": "GAS-JET CARDIAC SURGERY FIELD CLEANSING KITS (BLOWER)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C03900299",
+      "term": "BEATING HEART CARDIOSURGERY DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0399",
+      "term": "CARDIOSURGERY AND ORGAN TRANSPLANTATION DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04",
+      "term": "CARDIOVASCULAR GUIDEWIRES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0401",
+      "term": "CORONARY ARTERY GUIDEWIRES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C040101",
+      "term": "CORONARY ARTERY DIAGNOSTIC GUIDEWIRES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04010101",
+      "term": "CORONARY ARTERY DIAGNOSTIC GUIDEWIRES, HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04010102",
+      "term": "CORONARY ARTERY DIAGNOSTIC GUIDEWIRES, NON-HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04010199",
+      "term": "CORONARY ARTERY DIAGNOSTIC GUIDEWIRES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C040102",
+      "term": "CORONARY ARTERY THERAPEUTIC GUIDEWIRES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04010201",
+      "term": "CORONARY ARTERY THERAPEUTIC GUIDEWIRES, HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04010202",
+      "term": "CORONARY ARTERY THERAPEUTIC GUIDEWIRES, NON-HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04010299",
+      "term": "CORONARY ARTERY THERAPEUTIC GUIDEWIRES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0402",
+      "term": "PERIPHERAL VASCULAR GUIDEWIRES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C040201",
+      "term": "PERIPHERAL VASCULAR DIAGNOSTIC GUIDEWIRES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04020101",
+      "term": "PERIPHERAL VASCULAR DIAGNOSTIC GUIDEWIRES, HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04020102",
+      "term": "PERIPHERAL VASCULAR DIAGNOSTIC GUIDEWIRES, NON-HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04020199",
+      "term": "PERIPHERAL VASCULAR DIAGNOSTIC GUIDEWIRES- OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C040202",
+      "term": "PERIPHERAL VASCULAR THERAPEUTIC GUIDEWIRES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04020201",
+      "term": "PERIPHERAL VASCULAR THERAPEUTIC GUIDEWIRES, HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04020202",
+      "term": "PERIPHERAL VASCULAR THERAPEUTIC GUIDEWIRES, NON-HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04020299",
+      "term": "PERIPHERAL VASCULAR GUIDEWIRES, THERAPEUTICAL - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0403",
+      "term": "CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C040301",
+      "term": "DIAGNOSTIC CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04030101",
+      "term": "DIAGNOSTIC CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES, HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04030102",
+      "term": "DIAGNOSTIC CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES, NON-HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04030199",
+      "term": "DIAGNOSTIC CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C040302",
+      "term": "INTERVENTIONAL CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04030201",
+      "term": "INTERVENTIONAL CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES, HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04030202",
+      "term": "INTERVENTIONAL CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES, NON-HYDROPHILIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C04030299",
+      "term": "INTERVENTIONAL CORONARY AND PERIPHERAL VASCULAR GUIDE WIRES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0480",
+      "term": "CARDIOVASCULAR GUIDEWIRES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0499",
+      "term": "CARDIOVASCULAR GUIDEWIRES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C05",
+      "term": "CARDIOVASCULAR INTRODUCER SHEATHS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0501",
+      "term": "CARDIOVASCULAR INTRODUCER SHEATHS, NON-VALVED",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0502",
+      "term": "CARDIOVASCULAR INTRODUCER SHEATHS, VALVED",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0503",
+      "term": "CARDIOVASCULAR INTRODUCER SHEATHS, PEEL-AWAY",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0504",
+      "term": "ARTERIAL INTRODUCTION SETS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0580",
+      "term": "CARDIOVASCULAR INTRODUCER SHEATHS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C058001",
+      "term": "ADAPTERS AND CONNECTORS FOR CARDIOVASCULAR INTRODUCERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C058099",
+      "term": "CARDIOCIRCULATORY SYSTEM INTRODUCERS - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0599",
+      "term": "CARDIOVASCULAR INTRODUCER SHEATHS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C06",
+      "term": "CARDIOVASCULAR SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0601",
+      "term": "CARDIOVASCULAR SURGERY INSTRUMENT KITS NOT INCLUDED IN OTHER CLASSES, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0602",
+      "term": "CARDIOVASCULAR SURGERY DILATORS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0603",
+      "term": "CARDIOVASCULAR SURGERY FORCEPS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C0699",
+      "term": "CARDIOVASCULAR SURGERY INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C90",
+      "term": "CARDIOCIRCULATORY DEVICES - VARIOUS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C9001",
+      "term": "HAEMOSTASIS VALVES AND SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C900101",
+      "term": "HAEMOSTASIS VALVES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C900102",
+      "term": "HAEMOSTASIS ADAPTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C900103",
+      "term": "PERCUTANEOUS ARTERIAL ACCESS HAEMOSTASIS SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C90010301",
+      "term": "HAEMOSTASIS MECHANICAL SYSTEMS (INCLUDING SINGLE-USE TOURNIQUETS)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C90010302",
+      "term": "COLLAGEN-BASED HAEMOSTASIS SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C90010303",
+      "term": "HAEMOSTASIS SYSTEMS WITH SUTURE OR CLIP SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C90010399",
+      "term": "PERCUTANEOUS ARTERIAL ACCESS HAEMOSTASIS SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C900180",
+      "term": "HAEMOSTASIS SYSTEMS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C900199",
+      "term": "HAEMOSTASIS SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C9002",
+      "term": "VASCULAR AND FASCIAL DILATORS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C9003",
+      "term": "CARDIOVASCULAR SENSORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C900301",
+      "term": "PULSE OXIMETER SENSORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C900399",
+      "term": "CARDIOVASCULAR SENSORS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C9005",
+      "term": "PHONENDOSCOPES AND STETHOSCOPES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C9006",
+      "term": "ANEROID SPHYGMOMANOMETERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C9080",
+      "term": "CARDIOCIRCULATORY SYSTEM DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "C",
+      "categoryDescription": "CARDIOCIRCULATORY SYSTEM DEVICES",
+      "code": "C99",
+      "term": "CARDIOCIRCULATORY DEVICES - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

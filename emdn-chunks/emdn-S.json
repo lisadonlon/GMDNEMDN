@@ -1,0 +1,320 @@
+{
+  "category": "S",
+  "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+  "entryCount": 39,
+  "terminalCount": 25,
+  "entries": [
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S",
+      "term": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01",
+      "term": "DEVICES FOR STERILISATION AND PACKAGING (EXCLUDING CAT. D - Z)",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S0101",
+      "term": "STERILISATION POUCHES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010101",
+      "term": "STERILISATION POUCHES, PAPER/PLASTIC FILM",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01010101",
+      "term": "STERILISATION POUCHES, FLAT, PAPER/PLASTIC FILM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01010102",
+      "term": "STERILISATION POUCHES, GUSSETED, PAPER/PLASTIC FILM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010102",
+      "term": "STERILISATION POUCHES, TYVEK/PLASTIC FILM",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01010201",
+      "term": "FLAT STERILISATION POUCHES, TYVEK/PLASTIC FILM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010103",
+      "term": "STERILISATION POUCHES, POLYETHYLENE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01010301",
+      "term": "FLAT STERILISATION POUCHES, POLYETHYLENE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010199",
+      "term": "STERILISATION POUCHES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S0102",
+      "term": "STERILISATION REELS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010201",
+      "term": "STERILISATION REELS, PAPER/PLASTIC FILM",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01020101",
+      "term": "FLAT STERILISATION REELS, PAPER/PLASTIC FILM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01020102",
+      "term": "STERILISATION REELS, GUSSETED, PAPER/PLASTIC FILM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010202",
+      "term": "STERILISATION REELS, TYVEK/PLASTIC FILM",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01020201",
+      "term": "FLAT STERILISATION REELS, TYVEK/PLASTIC FILM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010203",
+      "term": "STERILISATION REELS, POLYETHYLENE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S01020301",
+      "term": "FLAT STERILISATION REELS, POLYETHYLENE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010299",
+      "term": "STERILISATION REELS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S0103",
+      "term": "MATERIALS FOR PACKAGING PACKS TO BE STERILIZED",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010301",
+      "term": "MEDICAL CREPE PAPER FOR STERILISATION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010302",
+      "term": "NON-WOVEN FABRIC FOR STERILISATION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010399",
+      "term": "MATERIALS FOR PACKAGING PACKS TO BE STERILIZED - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S0104",
+      "term": "CONTAINERS FOR STERILISATION",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010401",
+      "term": "TRAYS, BASKETS, TUBS FOR STERILISATION AND THEIR COMPONENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010402",
+      "term": "FILTERS FOR STERILISATION CONTAINERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S010499",
+      "term": "STERILISATION CONTAINERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S0199",
+      "term": "DEVICES FOR STERILISATION AND PACKAGING (EXCLUDING CAT. D - Z) - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S90",
+      "term": "DEVICES FOR STERILISATION (EXCLUDING CAT. D - Z) - VARIOUS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S9001",
+      "term": "DEVICES FOR GAS PLASMA STERILISATION (EXCLUDING CAT. D - Z)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S900101",
+      "term": "HYDROGEN PEROXIDE CARTRIDGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S900102",
+      "term": "HYDROGEN PEROXIDE DIFFUSERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S900103",
+      "term": "DIFFUSER ADAPTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S900199",
+      "term": "DEVICES FOR GAS PLASMA STERILISATION (EXCLUDING CAT. D - Z) - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S9002",
+      "term": "DEVICES FOR STERILISATION WITH PERACETIC ACID (EXCLUDING CAT. D - Z)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S9003",
+      "term": "DEVICES FOR STERILISATION WITH ETHYLENE OXIDE (EXCLUDING CAT. D - Z)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S9080",
+      "term": "DEVICES FOR STERILISATION (EXCLUDING CAT. D - Z) - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "S",
+      "categoryDescription": "STERILISATION DEVICES (EXCLUDING CAT. D - Z)",
+      "code": "S9099",
+      "term": "STERILISATION DEVICES (EXCLUDING CAT. D - Z) - OTHER",
+      "level": 3,
+      "isTerminal": true
+    }
+  ]
+}

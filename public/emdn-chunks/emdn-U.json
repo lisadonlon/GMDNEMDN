@@ -1,0 +1,1736 @@
+{
+  "category": "U",
+  "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+  "entryCount": 216,
+  "terminalCount": 159,
+  "entries": [
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U",
+      "term": "DEVICES FOR UROGENITAL SYSTEM",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U01",
+      "term": "URETHRAL, PROSTATIC AND BLADDER CATHETERS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0101",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, WITHOUT BALLOON",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010101",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, CONICAL-OLIVARY TIP (URETHRAL CALIBRATION)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010102",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, COUVELAIRE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010103",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, MALECOT",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010104",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, MERCIER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010105",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, NELATON",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U01010501",
+      "term": "NELATON CATHETERS, SELF-LUBRICATING",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U01010502",
+      "term": "NELATON CATHETERS, NON SELF-LUBRICATING",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010106",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, TIEMANN",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U01010601",
+      "term": "TIEMANN CATHETERS, SELF-LUBRICATING",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U01010602",
+      "term": "TIEMANN CATHETERS, NON SELF-LUBRICATING",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010107",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, PEZZER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010199",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, NOT SELF-RETAINED - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0102",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, WITH BALLOON",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010201",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, NELATON, WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010202",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, COUVELAIRE, WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010203",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, DELINOTTE, WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010204",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, DUFOUR, WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010205",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, MERCIER, WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010206",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, TIEMANN WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U010299",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS, WITH BALLOON - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0103",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS WITH TEMPERATURE SENSORS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0180",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0199",
+      "term": "URETHRAL PROSTATIC AND BLADDER CATHETERS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U02",
+      "term": "URETERAL CATHETERS AND STENTS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0201",
+      "term": "URETERAL CATHETERS WITHOUT BALLOON",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020101",
+      "term": "URETERAL CATHETERS WITH CYLINDRICAL TIP",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020102",
+      "term": "URETERALCATHETERS WITH OPEN FLUTE BEAK TIP",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020103",
+      "term": "URETERAL CATHETERS WITH CHEVASSU TIP",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020104",
+      "term": "URETERAL CATHETERS WITH OLIVARE TIP",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020199",
+      "term": "URETERAL CATHETERS WITHOUT BALLOON - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0202",
+      "term": "URETERAL CATHETERS WITH BALLOON",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020201",
+      "term": "URETERAL CATHETERS FOR OCCLUSION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020202",
+      "term": "URETERAL CATHETERS WITH FLUTE TIP WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020299",
+      "term": "URETERAL CATHETERS WITH BALLOON - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0203",
+      "term": "URETERAL STENTS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020301",
+      "term": "SINGLE LOOP URETERAL STENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020302",
+      "term": "DOUBLE LOOP URETERAL STENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U020399",
+      "term": "URETERAL STENTS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0204",
+      "term": "TRANSILLUMINATING URETERAL CATHETERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0280",
+      "term": "URETERAL CATHETERS AND STENTS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0299",
+      "term": "URETERAL CATHETERS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U03",
+      "term": "DEVICES FOR URETHRAL, URETERAL AND NEPHROSTOMIC DILATION",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0301",
+      "term": "DEVICES FOR RIGID DILATION OF THE URINARY TRACT",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U030101",
+      "term": "SEQUENTIAL DILATORS FOR PERCUTANEOUS NEPHROSTOMY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U03010101",
+      "term": "AMPLATZ CANNULAS FOR URINARY DILATION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U03010199",
+      "term": "PERCUTANEOUS NEPHROSTOMY, SEQUENTIAL DILATORS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U030102",
+      "term": "URETHRAL AND URETERAL DILATORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U03010201",
+      "term": "URETHRAL DILATORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U03010202",
+      "term": "URETERAL DILATORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0302",
+      "term": "DEVICES FOR PNEUMATIC DILATION OF THE URINARY TRACT",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U030201",
+      "term": "URETHRAL DILATORS, WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U030202",
+      "term": "URETERAL DILATORS, WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0380",
+      "term": "DEVICES FOR URINARY TRACT DILATION - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0399",
+      "term": "DEVICES FOR URINARY TRACT DILATION - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U04",
+      "term": "DEVICES FOR PERCUTANEOUS URINARY DRAINAGE AND NEPHROSTOMY CATHETERS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0401",
+      "term": "DEVICES FOR SUPRAPUBIC URINARY DRAINAGE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040101",
+      "term": "KITS WITH DRAINAGE CATHETERS, DIRECT PUNCTURE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040102",
+      "term": "KITS WITH DRAINAGE CATHETERS AND INTRODUCERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040199",
+      "term": "DEVICES FOR SUPRAPUBIC URINARY DRAINAGE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0402",
+      "term": "DEVICES FOR PERCUTANEOUS NEPHROSTOMY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040201",
+      "term": "NEPHROSTOMY KITS, DIRECT PUNCTURE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040202",
+      "term": "NEPHROSTOMY KITS, SELDINGER METHOD",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040203",
+      "term": "NEPHROSTOMY CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040299",
+      "term": "DEVICES FOR PERCUTANEOUS NEPHROSTOMY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0403",
+      "term": "DEVICES FOR URETERAL DIVERSION AND URETEROCUTANEOSTOMY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040301",
+      "term": "URETERAL DIVERSION PROBES, BRACCI",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040302",
+      "term": "URETEROCUTANEOSTOMY PROBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U040399",
+      "term": "DEVICES FOR URETERAL DIVERSION AND URETEROCUTANEOSTOMY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0480",
+      "term": "DEVICES FOR PERCUTANEOUS URINARY DRAINAGE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0499",
+      "term": "DEVICES FOR PERCUTANEOUS URINARY DRAINAGE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U05",
+      "term": "URODYNAMICS DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0501",
+      "term": "CYSTOMANOMETRY AND URETHROMANOMETRY CATHETERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050101",
+      "term": "CYSTOMANOMETRY CATHETERS, WITHOUT BALLOON",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U05010101",
+      "term": "CYSTOMANOMETRY CATHETERS, WITHOUT BALLOON, 2-WAY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U05010102",
+      "term": "CYSTOMANOMETRY CATHETERS, WITHOUT BALLOON, 3-WAY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050199",
+      "term": "CYSTOMANOMETRY AND URETHROMANOMETRY CATHETERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0502",
+      "term": "URINARY PRESSURE-FLOW STUDY CATHETERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050201",
+      "term": "FILLING CATHETERS FOR URINARY PRESSURE-FLOW STUDY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050202",
+      "term": "BLADDER PRESSURE-FLOW STUDY CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050299",
+      "term": "URINARY PRESSURE-FLOW STUDY CATHETERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0503",
+      "term": "URETHRAL PRESSURE PROFILE CATHETERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050301",
+      "term": "URETHRAL PRESSURE PROFILE CATHETERS WITHOUT BALLOON",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U05030101",
+      "term": "URETHRAL PRESSURE PROFILE CATHETERS WITHOUT BALLOON, 1-WAY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U05030102",
+      "term": "URETHRAL PRESSURE PROFILE CATHETERS WITHOUT BALLOON, 2-WAY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050399",
+      "term": "URETHRAL PRESSURE PROFILE CATHETERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0504",
+      "term": "INTRA-ABDOMINAL PRESSURE MEASUREMENT CATHETERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050401",
+      "term": "INTRA-ABDOMINAL PRESSURE MEASUREMENT CATHETERS, WITHOUT BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U050402",
+      "term": "INTRA-ABDOMINAL PRESSURE MEASUREMENT CATHETERS, WITH BALLOON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0505",
+      "term": "CAVERNOSOMETRY AND CAVERNOSOGRAPHY PROBES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0580",
+      "term": "URODYNAMICS DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0599",
+      "term": "URODYNAMICS DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U06",
+      "term": "UROLOGICAL GUIDEWIRES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0601",
+      "term": "UROLOGICAL GUIDEWIRES, HYDROPHILIC",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0602",
+      "term": "UROLOGICAL GUIDEWIRES, NOT HYDROPHILIC",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0699",
+      "term": "UROLOGICAL GUIDEWIRES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U07",
+      "term": "DEVICES FOR THE TREATMENT OF INCONTINENCE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0701",
+      "term": "INTERNAL SYSTEMS FOR THE TREATMENT OF INCONTINENCE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U070101",
+      "term": "SLING SYSTEMS FOR THE TREATMENT OF INCONTINENCE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U070199",
+      "term": "INTERNAL SYSTEMS FOR THE TREATMENT OF INCONTINENCE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0702",
+      "term": "EXTERNAL DEVICES FOR THE TREATMENT OF INCONTINENCE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U070201",
+      "term": "SHEATH CATHETER FOR THE TREATMENT OF INCONTINENCE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U070299",
+      "term": "EXTERNAL DEVICES FOR THE TREATMENT OF INCONTINENCE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0703",
+      "term": "PELVIC FLOOR REHABILITATION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U070301",
+      "term": "PELVIC FLOOR REHABILITATION DEVICES, BIOFEEDBACK, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U070302",
+      "term": "PELVIC FLOOR REHABILITATION DEVICES, FUNCTIONAL ELECTROSTIMULATION, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U070399",
+      "term": "PELVIC FLOOR REHABILITATION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0780",
+      "term": "DEVICES FOR THE TREATMENT OF INCONTINENCE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0799",
+      "term": "DEVICES FOR THE TREATMENT OF INCONTINENCE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08",
+      "term": "GYNAECOLOGICAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0801",
+      "term": "GYNAECOLOGICAL CATHETERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080101",
+      "term": "CATHETERS FOR ENDOMETRIAL ABLATION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080102",
+      "term": "CATHETERS FOR HYSTEROSALPINGOGRAPHY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080103",
+      "term": "CATHETERS FOR HYSTEROSCOPY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080199",
+      "term": "GYNAECOLOGICAL CATHETERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802",
+      "term": "DEVICES FOR ASSISTED REPRODUCTION",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080201",
+      "term": "CATHETERS FOR ASSISTED REPRODUCTION",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020101",
+      "term": "CATHETERS FOR INSEMINATION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020102",
+      "term": "CATHETERS FOR EMBRYO TRANSFER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020180",
+      "term": "ASSISTED REPRODUCTION CATHETERS - ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020199",
+      "term": "ASSISTED REPRODUCTION CATHETERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080202",
+      "term": "NEEDLES AND SETS FOR OOCYTE RETRIEVAL FOR ASSISTED REPRODUCTION",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020201",
+      "term": "SINGLE LUMEN NEEDLES AND SETS/SYSTEMS FOR OOCYTE RETRIEVAL",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020202",
+      "term": "DOUBLE LUMEN NEEDLES AND SETS/SYSTEMS FOR OOCYTE RETRIEVAL",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080203",
+      "term": "DEVICES FOR MICROMANIPULATION OF BIOLOGICAL MATERIAL FOR ASSISTED REPRODUCTION",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020301",
+      "term": "PIPETTES FOR ASSISTED REPRODUCTION",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030101",
+      "term": "BIOPSY PIPETTES FOR ASSISTED REPRODUCTION",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030102",
+      "term": "DENUDING PIPETTES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030103",
+      "term": "HANDLING PIPETTES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030104",
+      "term": "HATCHING/DRILLING PIPETTES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030105",
+      "term": "HOLDING PIPETTES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030106",
+      "term": "ICSI PIPETTES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030107",
+      "term": "PASTEUR PIPETTES FOR ASSISTED REPRODUCTION",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030108",
+      "term": "PZD PIPETTES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030199",
+      "term": "PIPETTES FOR ASSISTED REPRODUCTION - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020302",
+      "term": "SYSTEMS FOR MICROMANIPULATION OF BIOLOGICAL MATERIAL FOR ASSISTED REPRODUCTION",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030201",
+      "term": "TIPS FOR ASSISTED REPRODUCTION",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0802030202",
+      "term": "HANDPIECES FOR TIPS FOR ASSISTED REPRODUCTION",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020380",
+      "term": "DEVICES FOR MICROMANIPULATION OF BIOLOGICAL MATERIAL FOR ASSISTED REPRODUCTION - ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020399",
+      "term": "DEVICES FOR MICROMANIPULATION OF BIOLOGICAL MATERIAL FOR ASSISTED REPRODUCTION - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080204",
+      "term": "CRYOPRESERVATION CONTAINERS/SETS FOR ASSISTED REPRODUCTION",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020401",
+      "term": "CRYOPRESERVATION CONTAINERS/STRAWS/VIALS FOR ASSISTED REPRODUCTION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080205",
+      "term": "SUBSTRATES FOR STORING/HANDLING BIOLOGICAL MATERIAL FOR ASSISTED REPRODUCTION",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020501",
+      "term": "MATERIALS/SOLUTIONS FOR FREEZING/THAWING FOR ASSISTED REPRODUCTION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020502",
+      "term": "MATERIALS/SOLUTIONS FOR PREPARATION/HANDLING FOR ASSISTED REPRODUCTION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020503",
+      "term": "MATERIALS/CULTURE MEDIA FOR ASSISTED REPRODUCTION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U08020599",
+      "term": "SUBSTRATES FOR STORING/HANDLING BIOLOGICAL MATERIAL FOR ASSISTED REPRODUCTION - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080206",
+      "term": "CULTURE PLATES FOR ASSISTED REPRODUCTION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080207",
+      "term": "CONTAINERS FOR PREPARATION OF BIOLOGICAL MATERIAL FOR ASSISTED REPRODUCTION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U080299",
+      "term": "DEVICES FOR ASSISTED REPRODUCTION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0803",
+      "term": "VAGINAL DEVICES IN THE FORM OF SOLUTIONS/CREAMS/OVA/TABLETS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0890",
+      "term": "DEVICES FOR GYNECOLOGY - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U089002",
+      "term": "DEVICES FOR GYNAECOLOGICAL CYTOLOGY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U089003",
+      "term": "HYSTEROMETERS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U089005",
+      "term": "PESSARIANS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U089006",
+      "term": "VAGINAL SPECULUM, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U089009",
+      "term": "VAGINAL APPLICATORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U089010",
+      "term": "UTERINE CURETTES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0899",
+      "term": "GYNAECOLOGICAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U09",
+      "term": "UROGENITAL ENDOSCOPIC DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0901",
+      "term": "URINARY STONE RETRIEVAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090101",
+      "term": "URINARY STONE RETRIEVAL BASKETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090102",
+      "term": "URINARY STONE RETRIEVAL BALLOON CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090199",
+      "term": "URINARY STONE RETRIEVAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0902",
+      "term": "UROGENITAL ENDOSCOPIC RESECTION INSTRUMENTS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090201",
+      "term": "UROGENITAL THERMOABLATION, NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090202",
+      "term": "PROSTATECTOMY LOOPS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090203",
+      "term": "GYNAECOLOGY LOOPS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090204",
+      "term": "BLADDER EVACUATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090299",
+      "term": "UROGENITAL ENDOSCOPIC RESECTION INSTRUMENTS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0903",
+      "term": "SINGLE-USE INSTRUMENTS FOR UROGENITAL ENDOSCOPY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090301",
+      "term": "FORCEPS FOR UROGENITAL ENDOSCOPY, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U09030101",
+      "term": "BIOPSY FORCEPS FOR UROGENITAL ENDOSCOPY, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0903010101",
+      "term": "COLD BIOPSY FORCEPS FOR UROGENITAL ENDOSCOPY, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0903010102",
+      "term": "HOT BIOPSY FORCEPS FOR UROGENITAL ENDOSCOPY, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U09030102",
+      "term": "EXTRACTION FORCEPS FOR UROGENITAL ENDOSCOPY, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U09030199",
+      "term": "FORCEPS FOR UROGENITAL ENDOSCOPY, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090303",
+      "term": "UROGENITAL ENDOSCOPY BRUSHES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U09030301",
+      "term": "UROGENITAL CYTOLOGY BRUSHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U090399",
+      "term": "SINGLE-USE INSTRUMENTS FOR UROGENITAL ENDOSCOPY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U0999",
+      "term": "UROGENITAL ENDOSCOPIC DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U10",
+      "term": "OBSTETRICS DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1001",
+      "term": "OBSTETRICS CATHETERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U100101",
+      "term": "CATHETERS FOR VOLUNTARY TERMINATION OF PREGNANCY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U100102",
+      "term": "POSTPARTUM INTRAUTERINE CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U100199",
+      "term": "OBSTETRICAL CATHETERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1002",
+      "term": "FETAL STUDY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U100201",
+      "term": "FOETAL SCALP ELECTRODES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U100299",
+      "term": "FOETAL STUDY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1003",
+      "term": "PUERPERIUM DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1004",
+      "term": "MANUAL OBSTETRICAL EXTRACTORS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1005",
+      "term": "AMNIOTIC MEMBRANE PERFORATORS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1006",
+      "term": "SINGLE-USE RIGID AMNIOSCOPES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1007",
+      "term": "UTERINE CERCLAGE DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1080",
+      "term": "OBSTETRICS DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1099",
+      "term": "OBSTETRICS DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U11",
+      "term": "CONTRACEPTIVE DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1101",
+      "term": "MALE CONTRACEPTIVE DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U110101",
+      "term": "CONDOMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U110102",
+      "term": "DEVICES FOR LIGATION OF THE VASA DEFERENTIA",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U110199",
+      "term": "DEVICES FOR MALE CONTRACEPTION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1102",
+      "term": "DEVICES FOR FEMALE CONTRACEPTION",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U110201",
+      "term": "INTRAUTERINE COILS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U110202",
+      "term": "VAGINAL DIAPHRAGMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U110203",
+      "term": "FEMALE CONDOMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U110299",
+      "term": "DEVICES FOR FEMALE CONTRACEPTION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U12",
+      "term": "SINGLE-USE INSTRUMENTATION FOR UROGENITAL SYSTEM (NON-ENDOSCOPIC)",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1201",
+      "term": "NON-ENDOSCOPIC SINGLE-USE FORCEPS FOR UROGENITAL SYSTEM",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1202",
+      "term": "SINGLE-USE NON-ENDOSCOPIC UROGENITAL SCISSORS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1299",
+      "term": "SINGLE-USE UROGENITAL INSTRUMENTATION (NON-ENDOSCOPIC) - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U13",
+      "term": "SOLUTIONS AND KITS FOR BLADDER WASHING AND INSTILLATION",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1301",
+      "term": "SOLUTIONS FOR BLADDER WASHING AND INSTILLATION",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U1302",
+      "term": "KITS FOR BLADDER WASHING AND INSTILLATION",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "U",
+      "categoryDescription": "DEVICES FOR UROGENITAL SYSTEM",
+      "code": "U99",
+      "term": "DEVICES FOR UROGENITAL SYSTEM - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

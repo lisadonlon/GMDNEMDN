@@ -1,0 +1,5704 @@
+{
+  "category": "L",
+  "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+  "entryCount": 712,
+  "terminalCount": 566,
+  "entries": [
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L",
+      "term": "REUSABLE SURGICAL INSTRUMENTS",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01",
+      "term": "SHARP INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0101",
+      "term": "SURGICAL SCALPELS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010101",
+      "term": "MONOBLOCK SURGICAL SCALPELS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010102",
+      "term": "SCALPEL BLADES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010103",
+      "term": "HANDLES FOR SCALPELS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0102",
+      "term": "SURGICAL KNIVES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0103",
+      "term": "DERMOTOMES AND BLADES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104",
+      "term": "SURGICAL SCISSORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010401",
+      "term": "SCISSORS FOR BANDAGES AND CLOTHING, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040101",
+      "term": "SCISSORS FOR PLASTERS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040102",
+      "term": "SCISSORS FOR BANDAGES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040103",
+      "term": "SCISSORS FOR CLOTHING, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040199",
+      "term": "SCISSORS FOR BANDAGES AND CLOTHING, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010402",
+      "term": "SURGICAL SUTURES SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040201",
+      "term": "STAPLE REMOVER SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040202",
+      "term": "LIGATURES SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040299",
+      "term": "SURGICAL SUTURES SCISSORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010403",
+      "term": "SURGICAL DISSECTION SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010404",
+      "term": "CARDIOVASCULAR SURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040401",
+      "term": "CARDIAC SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040402",
+      "term": "VASCULAR SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010405",
+      "term": "OPHTHALMOLOGY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040501",
+      "term": "CORNEAL SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040502",
+      "term": "OCULAR ENUCLEATION SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040503",
+      "term": "IRIS SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040504",
+      "term": "VITREO-RETINA SURGERY SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040505",
+      "term": "CONJUNCTIVA SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040506",
+      "term": "TENOTOMY AND STRABISM CORRECTION SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040507",
+      "term": "BLEPHAROPLASTY SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040508",
+      "term": "ENDOCULAR IMPLANTS SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040509",
+      "term": "OCULAR ADNEXA SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104050901",
+      "term": "CILIARY SCISSORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104050999",
+      "term": "OCULAR ADNEXA SCISSORS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040510",
+      "term": "CAPSULOTOMY SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040599",
+      "term": "OPHTHALMOLOGY SCISSORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010406",
+      "term": "OTOLARYNGOLOGICAL (ENT) SURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040601",
+      "term": "NASAL SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040602",
+      "term": "EAR SURGERY SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040603",
+      "term": "TONSILLAR SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040604",
+      "term": "LARYNGEAL SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040699",
+      "term": "OTOLARYNGOLOGICAL (ENT) SURGERY SCISSORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010407",
+      "term": "NEUROSURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040701",
+      "term": "DURA MATER SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040702",
+      "term": "NERVES SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040799",
+      "term": "NEUROSURGERY SCISSORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010408",
+      "term": "GASTROENTEROLOGY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040801",
+      "term": "INTESTINAL SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104080101",
+      "term": "RECTAL SCISSORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104080102",
+      "term": "ENTEROTOMY SCISSORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104080199",
+      "term": "INTESTINAL SCISSORS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01040899",
+      "term": "GASTROENTEROLOGY SCISSORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010409",
+      "term": "THORACIC SURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010410",
+      "term": "ODONTOSTOMATOLOGY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01041001",
+      "term": "GINGIVAL SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01041099",
+      "term": "ODONTOSTOMATOLOGY SCISSORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010411",
+      "term": "OBSTETRIC-GYNECOLOGICAL SURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01041101",
+      "term": "OBSTETRICS SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104110101",
+      "term": "UMBILICAL SCISSORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104110102",
+      "term": "EPISIOTOMY SCISSORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104110103",
+      "term": "CEPHALOTOMY SCISSORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104110199",
+      "term": "OBSTETRICS SCISSORS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01041102",
+      "term": "GYNECOLOGY SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104110201",
+      "term": "UTERINE SCISSORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104110202",
+      "term": "PARAMETRIUM SCISSORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0104110299",
+      "term": "GYNECOLOGY SCISSORS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01041199",
+      "term": "OBSTETRIC-GYNECOLOGICAL SURGERY SCISSORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010412",
+      "term": "ORTHOPAEDIC SURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01041201",
+      "term": "BONE SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01041202",
+      "term": "WIRES AND METAL PLATES SCISSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L01041299",
+      "term": "ORTHOPAEDIC SURGERY SCISSORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010413",
+      "term": "MICROSURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010499",
+      "term": "SURGICAL SCISSORS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0107",
+      "term": "SURGICAL SAWS AND BLADES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010701",
+      "term": "MANUAL SURGICAL SAWS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010702",
+      "term": "BLADES FOR MANUAL SURGICAL SAWS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L010703",
+      "term": "BLADES FOR MOTORISED SURGICAL SAWS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0180",
+      "term": "SHARP INSTRUMENTS, REUSABLE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0199",
+      "term": "SHARP INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L02",
+      "term": "SUTURE INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0201",
+      "term": "NEEDLES AND APPLICATORS FOR LIGATURES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0202",
+      "term": "SUTURE NEEDLES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0203",
+      "term": "NEEDLE CONTAINERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0204",
+      "term": "STAPLE REMOVERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0205",
+      "term": "NEEDLE HOLDERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0206",
+      "term": "GROOVED PROBES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0207",
+      "term": "KNOT PUSHERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0208",
+      "term": "MULTIPLE CLIPS APPLICATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L020801",
+      "term": "MULTIPLE CLIPS APPLICATORS FOR OPEN SURGERY, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L020802",
+      "term": "MULTIPLE APPLICATORS OF CLIPS FOR VIDEO SURGERY, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0299",
+      "term": "SUTURE INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03",
+      "term": "GENERAL SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0301",
+      "term": "GENERAL SURGERY SURGICAL CANNULAS AND HANDPIECES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L030101",
+      "term": "SUCTION AND IRRIGATION SURGICAL CANNULAS AND HANDPIECES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L030199",
+      "term": "GENERAL SURGERY SURGICAL CANNULAS AND HANDPIECES, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0311",
+      "term": "PROBES AND EXPLORERS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031101",
+      "term": "FISTULA PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031102",
+      "term": "EXPLORATION PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031103",
+      "term": "BUTTONED PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031104",
+      "term": "SURGICAL MIRRORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031199",
+      "term": "PROBES AND MIRRORS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0312",
+      "term": "SURGICAL TROCAR, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031201",
+      "term": "THORACIC TROCAR, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031202",
+      "term": "ABDOMINAL TROCAR, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031203",
+      "term": "OTOLARYNGOLOGICAL SURGERY TROCAR, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031204",
+      "term": "ARTHROSCOPIC SURGERY TROCAR, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031205",
+      "term": "ORTHOPAEDIC SURGERY TROCAR, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031280",
+      "term": "SURGICAL TROCAR, REUSABLE - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031299",
+      "term": "SURGICAL TROCAR, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0313",
+      "term": "GENERAL SURGERY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031301",
+      "term": "GENERAL SURGERY BIOPSY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031302",
+      "term": "MEDICATION FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031303",
+      "term": "SWAB FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031304",
+      "term": "GRASPING FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03130401",
+      "term": "TISSUE AND ORGAN GRASPING FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03130402",
+      "term": "FORCEPS FOR EXTERNAL BODIES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03130403",
+      "term": "SPLINTER FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03130499",
+      "term": "GRASPING FORCEPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031305",
+      "term": "FORCEPS FOR FABRICS AND BANDAGES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031306",
+      "term": "HEMOSTATIC FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031307",
+      "term": "TOWEL AND TUBE CLAMPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031308",
+      "term": "SURGICAL AND ANATOMICAL TWEEZERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031309",
+      "term": "SUTURE NEEDLE PASSERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031310",
+      "term": "DISSECTION FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031312",
+      "term": "INTUBATION FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031399",
+      "term": "GENERAL SURGERY FORCEPS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0314",
+      "term": "GENERAL SURGERY SPREADERS AND SPATULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031401",
+      "term": "GENERAL SURGERY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03140101",
+      "term": "SELF-STATIC SPREADERS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03140102",
+      "term": "VAGINAL SPREADERS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03140103",
+      "term": "VASCULAR SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03140104",
+      "term": "SPREADERS HOOKS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03140105",
+      "term": "SKIN RETRACTORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L03140199",
+      "term": "SPREADERS AND RETRACTORS FOR GENERAL SURGERY, REUSABLE   - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L031402",
+      "term": "GENERAL SURGERY SPATULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0315",
+      "term": "GENERAL SURGERY DISSECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0316",
+      "term": "HELMETS AND BINOCULAR GLASSES FOR SURGEONS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0317",
+      "term": "GENERAL SURGERY ADAPTERS AND CONNECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0318",
+      "term": "INSTRUMENTS FOR SUPPORT OF SURGICAL DEVICES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0399",
+      "term": "GENERAL SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04",
+      "term": "ABDOMINAL SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0406",
+      "term": "RIGID RECTOSCOPES AND ANOSCOPES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0408",
+      "term": "ABDOMINAL SURGERY SPECIAL FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L040801",
+      "term": "LIVER AND BILIARY TRACT SPECIAL FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080101",
+      "term": "GALLBLADDER FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080102",
+      "term": "GALLSTONES FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080103",
+      "term": "BILIARY TRACT FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080199",
+      "term": "LIVER AND BILIARY TRACT SPECIAL FORCEPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L040802",
+      "term": "GASTROINTESTINAL SYSTEM SPECIAL FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080201",
+      "term": "ESOPHAGEAL FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080202",
+      "term": "GASTRIC FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080203",
+      "term": "INTESTINAL FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0408020301",
+      "term": "INTESTINAL TISSUE GRIPPERS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0408020302",
+      "term": "ENTEROSTATS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0408020303",
+      "term": "RECTAL BIOPTIC FORCEPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0408020304",
+      "term": "INTESTINAL COMPRESSION FORCEPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0408020305",
+      "term": "INTESTINAL ANASTOMOSIS FORCEPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0408020306",
+      "term": "HEMORROIDAL FORCEPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0408020399",
+      "term": "INTESTINAL FORCEPS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080204",
+      "term": "PERITONEAL FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04080299",
+      "term": "GASTROINTESTINAL SYSTEM SPECIAL FORCEPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0409",
+      "term": "ABDOMINAL SURGERY DILATORS AND SPREADERS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L040901",
+      "term": "ABDOMINAL SPREADERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L040902",
+      "term": "RECTAL AND ANAL SPREADERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L040903",
+      "term": "GASTRIC DILATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L040999",
+      "term": "ABDOMINAL SURGERY DILATORS AND SPREADERS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0410",
+      "term": "ABDOMINAL SURGERY PROBES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L041001",
+      "term": "LIVER AND BILIARY ROUTES SURGICAL PROBES, MULTIPURPOSE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04100101",
+      "term": "BILIARY SURGICAL PROBES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04100102",
+      "term": "LIVER SURGICAL PROBES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L041002",
+      "term": "DIGESTIVE SYSTEM SURGICAL PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04100201",
+      "term": "ESOPHAGEAL SURGICAL PROBES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04100202",
+      "term": "RECTAL SURGICAL PROBES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L04100299",
+      "term": "DIGESTIVE SYSTEM SURGICAL PROBES, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0411",
+      "term": "ABDOMINAL SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0499",
+      "term": "ABDOMINAL SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05",
+      "term": "OBSTETRICS AND GYNECOLOGY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0508",
+      "term": "OBSTETRICS INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050801",
+      "term": "OBSTETRICS FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050802",
+      "term": "AMNIOTOMES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050803",
+      "term": "OBSTETRIC SURGERY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05080301",
+      "term": "OBSTETRIC SURGERY CLAMPS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0508030101",
+      "term": "UMBILICAL CLAMPING FORCEPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0508030199",
+      "term": "OBSTETRIC SURGERY CLAMPS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05080302",
+      "term": "OBSTETRIC GRIPPERS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05080303",
+      "term": "PLACENTA AND ABORTIVE TISSUE FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05080399",
+      "term": "OBSTETRIC SURGERY FORCEPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050804",
+      "term": "OBSTETRICS HOOKS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050899",
+      "term": "OBSTETRICS INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509",
+      "term": "GYNECOLOGICAL SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050901",
+      "term": "UTERINE CURETTES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050902",
+      "term": "GYNECOLOGICAL USE DILATORS AND SPREADERS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05090201",
+      "term": "GYNECOLOGICAL USE DILATORS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509020101",
+      "term": "VAGINAL DILATORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509020102",
+      "term": "CERVICAL DILATORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509020103",
+      "term": "TUBES DILATORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509020199",
+      "term": "GYNECOLOGICAL USE DILATORS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05090202",
+      "term": "GYNECOLOGICAL USE SPREADERS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509020201",
+      "term": "UTERINE RETRACTORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509020299",
+      "term": "GYNECOLOGICAL USE SPREADERS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050903",
+      "term": "GYNECOLOGICAL SURGERY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05090301",
+      "term": "GYNECOLOGICAL BIOPSY FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05090302",
+      "term": "UTERINE FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509030201",
+      "term": "HYSTERECTOMY FORCEPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509030202",
+      "term": "UTERINE GRIPPERS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509030203",
+      "term": "PARAMETRIUM FORCEPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0509030299",
+      "term": "UTERINE FORCEPS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05090399",
+      "term": "GYNECOLOGICAL SURGERY FORCEPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050905",
+      "term": "GYNECOLOGICAL SURGERY PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05090501",
+      "term": "UTERINE SURGICAL PROBES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L05090599",
+      "term": "GYNECOLOGICAL SURGERY PROBES, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L050906",
+      "term": "GYNECOLOGICAL PROSTHETIC INSTRUMENTS AND KIT, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0590",
+      "term": "OBSTETRICS AND GYNECOLOGY INSTRUMENTS, REUSABLE - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059001",
+      "term": "VAGINAL SPECULUMS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059002",
+      "term": "UTERINE LEVERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059003",
+      "term": "GYNECOLOGICAL USE HOOKS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059004",
+      "term": "UTERINE MANIPULATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059005",
+      "term": "CERVICAL CERCLAGE NEEDLES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059006",
+      "term": "OBSTETRIC AND GYNECOLOGICAL SURGERY SCALPELS AND KNIVES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059007",
+      "term": "UTERINE MYOMA EXTRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059008",
+      "term": "OBSTETRIC AND GYNECOLOGICAL SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L059099",
+      "term": "OBSTETRICS AND GYNECOLOGY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06",
+      "term": "UROLOGY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0604",
+      "term": "ENDOSCOPIC UROLOGY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060401",
+      "term": "ENDOSCOPIC UROLOGY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060402",
+      "term": "ENDOSCOPIC UROLOGY MANIPULATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060403",
+      "term": "ENDOSCOPIC UROLOGY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060404",
+      "term": "ENDOSCOPIC UROLOGY DISSECTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060405",
+      "term": "ENDOSCOPIC UROLOGY SCALPELS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06040501",
+      "term": "ENDOSCOPIC SURGERY URETHROTOMES AND URETHEROTOMES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06040599",
+      "term": "ENDOSCOPIC UROLOGY SCALPELS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060406",
+      "term": "ENDOSCOPIC UROLOGY RECOVERY BASKETS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060407",
+      "term": "ENDOSCOPIC UROLOGY SHIRTS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060408",
+      "term": "ENDOSCOPIC UROLOGY FILLERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060409",
+      "term": "ENDOSCOPIC UROLOGY CANNULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060410",
+      "term": "ENDOSCOPIC UROLOGY NEEDLES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060411",
+      "term": "ENDOSCOPIC UROLOGY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060412",
+      "term": "ENDOSCOPIC UROLOGY DILATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060413",
+      "term": "ENDOSCOPIC UROLOGY ADAPTERS AND CONNECTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060480",
+      "term": "ENDOSCOPIC UROLOGY INSTRUMENTS, REUSABLE - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060499",
+      "term": "ENDOSCOPIC UROLOGY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0605",
+      "term": "NON-ENDOSCOPIC UROLOGY DILATORS AND SPREADERS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060501",
+      "term": "NON-ENDOSCOPIC UROLOGICAL EXPANSION INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06050101",
+      "term": "NON-ENDOSCOPIC URETHRAL EXPANSION INSTRUMENTS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06050199",
+      "term": "NON-ENDOSCOPIC UROLOGICAL DILATION INSTRUMENTS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060502",
+      "term": "NON-ENDOSCOPIC UROLOGY SPREADERS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06050201",
+      "term": "NON-ENDOSCOPIC BLADDER SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06050202",
+      "term": "NON-ENDOSCOPIC PROSTATIC SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06050299",
+      "term": "NON-ENDOSCOPIC UROLOGY RETRACTORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0606",
+      "term": "NON-ENDOSCOPIC UROLOGY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060601",
+      "term": "NON-ENDOSCOPIC KIDNEY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06060101",
+      "term": "KIDNEY STONES NON-ENDOSCOPIC FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06060102",
+      "term": "NON-ENDOSCOPIC UROLOGICAL SURGERY SPATULAS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06060103",
+      "term": "NON-ENDOSCOPIC KIDNEY GRIPPERS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06060199",
+      "term": "NON-ENDOSCOPIC KIDNEY FORCEPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060602",
+      "term": "NON-ENDOSCOPIC URINARY TRACT FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060603",
+      "term": "EXTERNAL MALE GENITALS FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06060301",
+      "term": "EXTERNAL MALE GENITALS CLAMPS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0606030101",
+      "term": "PENILE CLAMPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0606030199",
+      "term": "EXTERNAL MALE GENITALS CLAMPS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L06060399",
+      "term": "EXTERNAL MALE GENITALS FORCEPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060604",
+      "term": "NON-ENDOSCOPIC PROSTATIC FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L060699",
+      "term": "NON-ENDOSCOPIC UROLOGY FORCEPS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0607",
+      "term": "SUPRAPUBIC ACCESS HANDPIECES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0608",
+      "term": "NON-ENDOSCOPIC URINARY TRACT SURGICAL MANIPULATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0609",
+      "term": "UROLOGICAL SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0610",
+      "term": "NON-ENDOSCOPIC UROLOGICAL SURGERY SPATULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0611",
+      "term": "NON-ENDOSCOPIC UROLOGY NEEDLES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0612",
+      "term": "UROLOGY PROSTHETIC INSTRUMENTS AND KIT, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0699",
+      "term": "UROLOGY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07",
+      "term": "CARDIOVASCULAR SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0707",
+      "term": "CARDIAC SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070701",
+      "term": "CARDIAC SURGERY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070702",
+      "term": "CARDIAC DILATORS AND RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07070201",
+      "term": "CARDIAC DILATORS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0707020101",
+      "term": "VALVE DILATORS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0707020199",
+      "term": "CARDIAC DILATORS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07070202",
+      "term": "CARDIAC RETRACTORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070703",
+      "term": "CARDIAC VALVULOTOMES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070704",
+      "term": "CARDIAC SURGERY MEASUREMENT INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070705",
+      "term": "CARDIAC SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070799",
+      "term": "CARDIAC SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708",
+      "term": "VASCULAR SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070801",
+      "term": "VASCULAR SURGERY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080101",
+      "term": "VASCULAR CLIPS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708010101",
+      "term": "BULLDOG VASCULAR CLIPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708010180",
+      "term": "VASCULAR CLIPS, REUSABLE- ACCESSORIES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070801018001",
+      "term": "FORCEPS FOR THE APPLICATION AND REMOVAL OF VASCULAR CLIPS, REUSABLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070801018099",
+      "term": "VASCULAR CLIPS, REUSABLE - OTHER - ACCESSORIES",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708010199",
+      "term": "VASCULAR CLIPS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080102",
+      "term": "GENERIC VASCULAR CLAMPING ANGIOSTATS AND FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080103",
+      "term": "VASCULAR ANASTOMOSIS FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080104",
+      "term": "VASCULAR APPROXIMATORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080105",
+      "term": "SPECIFIC VESSELS CLAMPS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708010501",
+      "term": "AORTIC CLAMPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708010502",
+      "term": "CAROTID CLAMPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708010503",
+      "term": "VENA CAVA CLAMPS, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708010599",
+      "term": "SPECIFIC VESSELS CLAMPS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080199",
+      "term": "VASCULAR SURGERY CLAMPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070802",
+      "term": "VASCULAR DILATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070803",
+      "term": "VASCULAR SPATULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070804",
+      "term": "VENOUS STRIPPERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070805",
+      "term": "VASCULAR TUNNELLERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070806",
+      "term": "CARDIOVASCULAR PROSTHETICS INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080601",
+      "term": "VASCULAR PROSTHETICS FORCEPS, REUSABLE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708060101",
+      "term": "FORCEPS FOR THE APPLICATION OF VASCULAR PROSTHESES, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0708060199",
+      "term": "VASCULAR PROSTHETICS FORCEPS, REUSABLE - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080699",
+      "term": "CARDIOVASCULAR PROSTHETICS INSTRUMENTS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070807",
+      "term": "VASCULAR PERFORATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070808",
+      "term": "VASCULAR SURGERY MANIPULATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080801",
+      "term": "VASCULAR DEPRESSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L07080899",
+      "term": "VASCULAR SURGERY MANIPULATORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070809",
+      "term": "ENDOARTERIECTOMY INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070810",
+      "term": "VASCULAR SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L070899",
+      "term": "VASCULAR SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L08",
+      "term": "THORACIC SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0801",
+      "term": "COSTOTOMES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0804",
+      "term": "STERNOTOMY SURGICAL INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0805",
+      "term": "THORACIC SURGERY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080501",
+      "term": "BRONCHUS CLAMPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080502",
+      "term": "PULMONARY CLAMPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L08050201",
+      "term": "PULMONARY TISSUE GRIPPERS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L08050299",
+      "term": "PULMONARY CLAMPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080599",
+      "term": "THORACIC SURGERY CLAMPS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0806",
+      "term": "THORACIC SURGERY DILATORS AND SPREADERS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080601",
+      "term": "THORACIC SURGERY DILATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L08060101",
+      "term": "PULMONARY DILATORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L08060199",
+      "term": "THORACIC SURGERY DILATORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080602",
+      "term": "THORACIC SURGERY SPREADERS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L08060201",
+      "term": "COSTAL AND STERNAL RETRACTORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L08060299",
+      "term": "THORACIC SURGERY SPREADERS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0807",
+      "term": "THORACIC SURGERY SPATULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0808",
+      "term": "BRONCHOSCOPIC SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080801",
+      "term": "BRONCHOSCOPIC SURGERY DISSECTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080802",
+      "term": "BRONCHOSCOPIC SURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080803",
+      "term": "BRONCHOSCOPIC SURGERY CLAMPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080804",
+      "term": "BRONCHOSCOPIC SURGERY CURETTES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080805",
+      "term": "BRONCHOSCOPIC SURGERY CANNULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080806",
+      "term": "BRONCHOSCOPY ADAPTERS AND CONNECTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L080899",
+      "term": "BRONCHOSCOPIC SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0809",
+      "term": "THORACIC SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0899",
+      "term": "THORACIC SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L09",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGICAL SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0901",
+      "term": "ORTHOPAEDIC SURGERY SPOONS AND CURETTES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0902",
+      "term": "ORTHOPAEDIC SURGERY LEVERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0903",
+      "term": "ORTHOPAEDIC SURGERY HAMMERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0904",
+      "term": "OSTEOTOMES AND SCALPELS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L090401",
+      "term": "ORTHOPAEDIC SURGERY OSTEOTOMES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L090402",
+      "term": "ORTHOPAEDIC SURGERY SCALPELS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L090403",
+      "term": "ORTHOPAEDIC SURGERY GOUGES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L090404",
+      "term": "OSTEOTOMES AND SCALPELS BLADES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0908",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGICAL TRACTION INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0909",
+      "term": "ORTHOPAEDIC SURGERY CUTTING INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L090901",
+      "term": "BONE CUTTERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L090902",
+      "term": "ORTHOPAEDIC SURGERY TREPHINES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L090903",
+      "term": "ORTHOPAEDIC SURGERY SCALPELS AND KNIVES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L090999",
+      "term": "ORTHOPAEDIC SURGERY CUTTING INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0910",
+      "term": "OSTEOSYNTHESIS INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091001",
+      "term": "INSTRUMENTS FOR INSERTION AND EXTRACTION OF MATERIALS FOR OSTEOSYNTHESIS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091002",
+      "term": "INSTRUMENTS FOR PROCESSING MATERIALS FOR OSTEOSYNTHESIS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091099",
+      "term": "OSTEOSYNTHESIS INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0911",
+      "term": "ORTHOPAEDIC PROSTHETICS INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091101",
+      "term": "ORTHOPAEDIC PROSTHESES AND TRAUMATOLOGICAL IMPLANTS EXTRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091102",
+      "term": "ORTHOPAEDIC PROSTHESES REAMERS AND BURS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091103",
+      "term": "ORTHOPAEDIC PROSTHESES FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091104",
+      "term": "ORTHOPAEDIC PROSTHESES POSITIONERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091105",
+      "term": "CEMENTATION INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091106",
+      "term": "INSTRUMENTS FOR THE PREPARATION OF TISSUE IMPLANTS IN ORTHOPAEDIC AND TRAUMATOLOGICAL SURGERY, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091199",
+      "term": "ORTHOPAEDIC PROSTHETICS INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0912",
+      "term": "ORTHOPAEDIC RASPS AND FILES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091201",
+      "term": "ORTHOPAEDIC SURGERY RASPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091202",
+      "term": "ORTHOPAEDIC SURGERY FILES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0913",
+      "term": "ORTHOPAEDIC SURGERY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091301",
+      "term": "BONE GRASPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091302",
+      "term": "BONE RONGEURS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091303",
+      "term": "BONE REDUCTION FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091304",
+      "term": "SEQUESTRIAL PLIERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091305",
+      "term": "FORCEPS FOR TENDONS AND LIGAMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091306",
+      "term": "CARTILAGE FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091307",
+      "term": "ORTHOPAEDIC SURGERY RONGEURS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L091399",
+      "term": "ORTHOPAEDIC SURGERY FORCEPS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0914",
+      "term": "SCOLLAPERIOSTIUM AND PERIOSTEOTOMES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0915",
+      "term": "SPREADERS AND RETRACTORS FOR ORTHOPAEDIC SURGERY, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0916",
+      "term": "ORTHOPAEDIC SURGERY BURS AND TIPS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0917",
+      "term": "ORTHOPAEDIC SPATULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0918",
+      "term": "ORTHOPAEDIC TUNNELISERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0919",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGICAL SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0920",
+      "term": "ORTHOPAEDIC SURGERY DISTRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0921",
+      "term": "NON-IMPLANTABLE ORTHOPAEDIC DEVICES EXTRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0922",
+      "term": "ORTHOPAEDIC SURGERY GUIDES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0923",
+      "term": "ORTHOPAEDICS SURGICAL MEASURERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0924",
+      "term": "TENOTOMES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0925",
+      "term": "ORTHOPAEDIC SURGERY DILATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0926",
+      "term": "ORTHOPAEDIC SURGERY DISSECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0927",
+      "term": "ORTHOPAEDIC SURGERY MANUAL PERFORATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0980",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGICAL SURGERY INSTRUMENTS, REUSABLE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L098001",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGICAL SURGERY MANDRELS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L098002",
+      "term": "ORTHOPAEDIC INSTRUMENTS KEYS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L098003",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGICAL SURGERY TAPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L098099",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGICAL SURGERY INSTRUMENTS, REUSABLE - OTHER ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L0999",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGICAL SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L10",
+      "term": "MICROSURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1001",
+      "term": "MICROSURGERY APPROXIMATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1003",
+      "term": "MICROSURGERY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1004",
+      "term": "MICROSURGERY NEEDLE HOLDERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1005",
+      "term": "MICROSURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1099",
+      "term": "MICROSURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11",
+      "term": "NEUROSURGERY AND SPINAL SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1102",
+      "term": "NEUROSURGERY SPATULAS AND DISSECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1103",
+      "term": "CERVICAL TRACTION BRACKETS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1104",
+      "term": "BITS FOR NEUROSURGERY DRILLS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1105",
+      "term": "NEUROSURGERY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110501",
+      "term": "VERTEBRAL SURGERY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11050101",
+      "term": "LAMINECTOMY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11050199",
+      "term": "VERTEBRAL SURGERY SPREADERS AND RETRACTORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110502",
+      "term": "NERVES AND VESSELS HOOK RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110503",
+      "term": "CRANIAL SURGERY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11050301",
+      "term": "CEREBRAL SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11050399",
+      "term": "CRANIAL SURGERY SPREADERS AND RETRACTORS, REUSABLE- OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110599",
+      "term": "NEUROSURGERY SPREADERS AND RETRACTORS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1106",
+      "term": "NEUROSURGERY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110601",
+      "term": "DISC HERNIA FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110602",
+      "term": "NEUROSURGERY GRIPPERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110603",
+      "term": "CRANIAL CLIPS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11060301",
+      "term": "SCALP CLIPS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11060399",
+      "term": "CRANIAL CLIPS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110604",
+      "term": "NEUROSURGERY RONGEURS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110699",
+      "term": "NEUROSURGERY FORCEPS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1107",
+      "term": "NEUROSURGERY SCALPELS AND KNIVES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110701",
+      "term": "CEREBRAL AND MENINGEAL SURGERY SCALPELS AND KNIVES, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11070101",
+      "term": "LEUCOTOMES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L11070199",
+      "term": "CEREBRAL AND MENINGEAL SURGERY SCALPELS AND KNIVES, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110702",
+      "term": "CRANIAL TREPHINES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L110799",
+      "term": "NEUROSURGERY SCALPELS AND KNIVES, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1108",
+      "term": "NEUROSURGERY LEVERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1109",
+      "term": "NEUROSURGERY AND SPINAL SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1110",
+      "term": "NEUROSURGERY OBTURATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1111",
+      "term": "NEUROSURGERY MANIPULATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1112",
+      "term": "NEUROSURGERY SUCTION CANNULES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1113",
+      "term": "NEUROSURGERY BURS AND TIPS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1199",
+      "term": "NEUROSURGERY INSTRUMENTS, REUSABLE- OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L12",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1201",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY DISSECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1202",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY SCISSORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1203",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY MANIPULATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1204",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY FORCEPS REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1205",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY NEEDLE HOLDERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1206",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1207",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY CANNULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1208",
+      "term": "SUTURING ENDOSCOPIC TISSUE APPROXIMATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1209",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY SCALPELS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1210",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY HOOKS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1211",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY SPATULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1212",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY GUIDES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1213",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY HANDPIECES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1214",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY DILATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1215",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY NEEDLES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1216",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY PALPATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1217",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1218",
+      "term": "LAPAROSCOPIC AND THORACOSCOPY ADAPTERS AND CONNECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1280",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC SURGERY INSTRUMENTS, REUSABLE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1299",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L13",
+      "term": "ROBOTIC SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1301",
+      "term": "ROBOTIC SURGERY SCALPELS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1302",
+      "term": "ROBOTIC SURGERY CLIPS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1303",
+      "term": "ROBOTIC SURGERY SCISSORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1304",
+      "term": "ROBOTIC SURGERY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1305",
+      "term": "ROBOTIC SURGERY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1306",
+      "term": "ULTRASONIC GENERATOR ROBOTIC SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1307",
+      "term": "ROBOTIC SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1399",
+      "term": "ROBOTIC SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14",
+      "term": "ENT INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1401",
+      "term": "PHARYNX SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140101",
+      "term": "RHINOPHARYNGAL SURGERY INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010101",
+      "term": "ADENOTOMES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010102",
+      "term": "RHINOPHARYNGAL SURGERY SCALPELS AND KNIVES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010103",
+      "term": "RHINOPHARYNGAL SURGERY CURETTES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010199",
+      "term": "RHINOPHARYNGAL SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140102",
+      "term": "OROPHARYNX SURGERY INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010201",
+      "term": "TONSILLARY PLIERS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010202",
+      "term": "TONSILLARY HOOKS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010203",
+      "term": "OROPHARYNGAL SURGERY TONSILOTOMES AND SCALPELS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010204",
+      "term": "OROPHARYNX SURGERY PLIERS NOT INCLUDED IN OTHER CLASSES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010205",
+      "term": "OROPHARYNGAL SURGERY DEPRESSORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010206",
+      "term": "OROPHARYNGAL SURGERY CANNULAS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14010299",
+      "term": "OROPHARYNGAL SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1402",
+      "term": "NASAL AND PARANASAL CAVITY SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140201",
+      "term": "NASAL DILATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140202",
+      "term": "NASAL AND PARANASAL CAVITY SURGERY PLIERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140203",
+      "term": "NASAL HOOKS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140204",
+      "term": "NASAL SURGERY RASPS AND FILES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140205",
+      "term": "NASAL AND PARANASAL CAVITY SURGERY RASPS AND KNIVES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140206",
+      "term": "NASAL AND PARANASAL CAVITY SURGERY CANNULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140299",
+      "term": "NASAL AND PARANASAL CAVITY SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1403",
+      "term": "LARYNX SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140301",
+      "term": "LARYNX SURGERY SCALPELS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140399",
+      "term": "LARYNX SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1404",
+      "term": "TRACHEA SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140401",
+      "term": "TRACHEAL DILATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140402",
+      "term": "TRACHEOTOMY INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14040201",
+      "term": "TRACHEOTOMY INSTRUMENT KITS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14040202",
+      "term": "CRICOTHYROTOMY INSTRUMENT KITS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14040203",
+      "term": "TRACHEOTOMES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14040204",
+      "term": "CRICOTHYROTOMES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14040299",
+      "term": "TRACHEOTOMY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140499",
+      "term": "TRACHEA SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1405",
+      "term": "EAR SURGERY INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140501",
+      "term": "MIDDLE EAR SURGERY INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14050101",
+      "term": "BONE SURGERY HOOKS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14050102",
+      "term": "OSSICULAR SURGERY RASPS AND FILES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14050103",
+      "term": "BONE SURGERY SPATULAS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L14050199",
+      "term": "MIDDLE EAR SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140502",
+      "term": "EAR SURGERY PLIERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140503",
+      "term": "EAR SURGERY SCALPELS AND KNIVES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140599",
+      "term": "EAR SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1406",
+      "term": "ENT OSTEOTOMES AND SCALPELS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140601",
+      "term": "ENT OSTEOTOMES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L140602",
+      "term": "ENT CHISELS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1490",
+      "term": "ENT INSTRUMENTS, REUSABLE - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149001",
+      "term": "ENT CURETTES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149002",
+      "term": "ENT LEVERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149003",
+      "term": "ENT RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149004",
+      "term": "ENT SPECULUMS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149005",
+      "term": "ENT PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149006",
+      "term": "ENT PERFORATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149007",
+      "term": "ENT SPOONS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149008",
+      "term": "ENT ENUCLEATION INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149009",
+      "term": "ENT SURGERY BURS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149010",
+      "term": "ENT SURGERY MANIPULATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149011",
+      "term": "ENT SURGERY DISSECTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149012",
+      "term": "ENT SURGERY PUNCHES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149013",
+      "term": "ENT SURGERY INSTRUMENT KITS NOT INCLUDED IN OTHER CLASSES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L149099",
+      "term": "ENT INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15",
+      "term": "ODONTOSTOMATOLOGY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1501",
+      "term": "ODONTOSTOMATOLOGY OSTEOTOMES AND SCALPELS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150101",
+      "term": "ODONTOSTOMATOLOGY OSTEOTOMES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150102",
+      "term": "ODONTOSTOMATOLOGY CHISELS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150103",
+      "term": "DENTAL OSTEOTOME BLADES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1502",
+      "term": "ODONTOSTOMATOLOGY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150201",
+      "term": "DENTAL RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150202",
+      "term": "BUCCAL SPREADERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150299",
+      "term": "ODONTOSTOMATOLOGY SPREADERS AND RETRACTORS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1503",
+      "term": "ODONTOSTOMATOLOGY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150301",
+      "term": "DENTAL EXTRACTION TOOTH FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150302",
+      "term": "DENTAL RONGEURS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150399",
+      "term": "ODONTOSTOMATOLOGY FORCEPS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1504",
+      "term": "ODONTOSTOMATOLOGY MODELERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1505",
+      "term": "ODONTOSTOMATOLOGY LEVERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1506",
+      "term": "ODONTOSTOMATOLOGY OBTURATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1507",
+      "term": "ORTHODONTIC INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150701",
+      "term": "ORTHODONTIC LIGATURE TOOLS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150702",
+      "term": "ORTHODONTIC PLIERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150703",
+      "term": "ORTHODONTIC CUTTERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150704",
+      "term": "ORTHODONTIC BAND PUSHERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150705",
+      "term": "ORTHODONTIC MEASUREMENT INSTRUMENTS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L150799",
+      "term": "ORTHODONTIC INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1508",
+      "term": "REAMERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1590",
+      "term": "ODONTOSTOMATOLOGY INSTRUMENTS, REUSABLE - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159001",
+      "term": "DENTAL AND PERIODONTAL CURETTES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159002",
+      "term": "DENTAL EXCAVATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159003",
+      "term": "DENTAL AND PERIODONTAL PROBES AND EXPLORERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159004",
+      "term": "ENDODONTIC RASPS AND FILES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159005",
+      "term": "SYNDESMOTOMES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159006",
+      "term": "DENTAL MATERIAL PROCESSING TOOLS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15900601",
+      "term": "DENTAL MATERIAL PROCESSING MILLS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15900602",
+      "term": "DENTAL MATERIAL PROCESSING SHARP INSTRUMENTS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15900699",
+      "term": "DENTAL MATERIAL PROCESSING INSTRUMENTS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159007",
+      "term": "ODONTOSTOMATOLOGY BURS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159008",
+      "term": "DENTAL EQUIPMENT TIPS NOT INCLUDED IN OTHER CLASSES, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15900801",
+      "term": "PNEUMATIC SYSTEM TIPS FOR DENTAL USE, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15900899",
+      "term": "DENTAL EQUIPMENT TIPS NOT INCLUDED IN OTHER CLASSES, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159009",
+      "term": "ODONTOSTOMATOLOGY SCALERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159010",
+      "term": "STOMATOLOGICAL SURGERY DILATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159011",
+      "term": "POSITIONING INSTRUMENTS FOR DENTAL DEVICES, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15901101",
+      "term": "POSITIONING INSTRUMENTS FOR DENTAL MATRICES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15901102",
+      "term": "DAM POSITIONING INSTRUMENTS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L15901199",
+      "term": "POSITIONING INSTRUMENTS FOR DENTAL DEVICES, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159012",
+      "term": "ENDODONTIC SPREADERS AND PLUGGERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159013",
+      "term": "DENTAL SPATULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159014",
+      "term": "ODONTOSTOMATOLOGY BURNISHERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159015",
+      "term": "HONEYCOMB SPOONS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159016",
+      "term": "DENTAL SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159017",
+      "term": "DENTAL RESTORATION CARVERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159018",
+      "term": "ODONTOSTOMATOLOGICAL SURGERY SCALPELS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159019",
+      "term": "DENTAL FINISHING RASPS AND FILES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L159099",
+      "term": "ODONTOSTOMATOLOGY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L16",
+      "term": "DIAGNOSTIC INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1601",
+      "term": "DIAGNOSTIC HAMMERS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L160101",
+      "term": "NEUROLOGICAL HAMMERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L160199",
+      "term": "DIAGNOSTIC HAMMERS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1602",
+      "term": "DIAGNOSTIC USE MIRRORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L160201",
+      "term": "DENTAL MIRRORS AND HANDLES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L160202",
+      "term": "LARYNGEAL MIRRORS AND HANDLES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L160299",
+      "term": "DIAGNOSTIC USE MIRRORS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1699",
+      "term": "DIAGNOSTIC INSTRUMENTS, REUSABLE- OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L17",
+      "term": "OPHTHALMOLOGY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1701",
+      "term": "OPHTHALMOLOGY DILATORS AND RETRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170101",
+      "term": "OCULAR DILATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L17010101",
+      "term": "LACRIMAL DUCTS DILATORS, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L17010199",
+      "term": "OCULAR DILATORS, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170102",
+      "term": "OCULAR AND ENDOCULAR RETRACTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1702",
+      "term": "OPHTHALMOLOGY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170201",
+      "term": "OPHTHALMIC GRASPING FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170202",
+      "term": "ENDOCULAR IMPLANTS FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170203",
+      "term": "FORCEPS FOR HANDLING DEVICES FOR OPHTHALMIC USE, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170299",
+      "term": "OPHTHALMOLOGY FORCEPS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1703",
+      "term": "OPHTHALMOLOGY CURETTES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1704",
+      "term": "OPHTHALMOLOGY SHARP INSTRUMENTS (EXCLUDING SCISSORS), REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170401",
+      "term": "CORNEAL TREPHINES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170402",
+      "term": "KERATOMES AND BLADES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L170499",
+      "term": "OPHTHALMOLOGY SHARP INSTRUMENTS (EXCLUDING SCISSORS), REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1705",
+      "term": "OPHTHALMOLOGY PROBES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1706",
+      "term": "OPHTHALMOLOGY SPATULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1707",
+      "term": "OPHTHALMOLOGY SPOONS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1708",
+      "term": "OPHTHALMOLOGY ENUCLEATION INSTRUMENTS (EXCLUDING SCISSORS), REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1709",
+      "term": "OCULAR IMPLANT INSTRUMENTS NOT INCLUDED IN OTHER CLASSES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1710",
+      "term": "EYE SURGERY HANDPIECES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1711",
+      "term": "OPHTHALMOLOGY HOOKS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1712",
+      "term": "SCLEROTOMES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1713",
+      "term": "OCULAR IRRIGATION OR SUCTION CANNULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1714",
+      "term": "TRABECULOTOMES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1715",
+      "term": "SCLERAL MARKERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1790",
+      "term": "OPHTHALMOLOGY INSTRUMENTS, REUSABLE - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L179001",
+      "term": "OPHTHALMOLOGY SURGICAL GAUGES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L179002",
+      "term": "INTRAOPERATIVE KERATOMETERS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L179003",
+      "term": "OCULAR ADNEXA INSTRUMENTS NOT INCLUDED IN OTHER CLASSES, REUSABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L17900301",
+      "term": "POSITIONERS AND MODELERS OF LACRIMAL TUBES, REUSABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L17900399",
+      "term": "OCULAR ADNEXA INSTRUMENTS NOT INCLUDED IN OTHER CLASSES, REUSABLE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L179004",
+      "term": "OCULAR IRRIGATION OR SUCTION HANDPIECES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L179005",
+      "term": "OPHTHALMIC SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1799",
+      "term": "OPHTHALMOLOGY INSTRUMENTS, REUSABLE- OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L18",
+      "term": "ELECTROSURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1801",
+      "term": "ELECTROSURGERY DISSECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180101",
+      "term": "OPEN ELECTROSURGERY DISSECTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180102",
+      "term": "ENDOSCOPIC ELECTROSURGERY DISSECTORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1802",
+      "term": "ELECTROSURGERY SCISSORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180201",
+      "term": "OPEN ELECTROSURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180202",
+      "term": "ENDOSCOPIC ELECTROSURGERY SCISSORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1803",
+      "term": "ELECTROSURGERY HANDPIECES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180301",
+      "term": "OPEN ELECTROSURGERY HANDPIECES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180302",
+      "term": "ENDOSCOPIC ELECTROSURGERY HANDPIECES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1804",
+      "term": "ELECTROSURGERY FORCEPS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180401",
+      "term": "OPEN ELECTROSURGERY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180402",
+      "term": "ENDOSCOPIC ELECTROSURGERY FORCEPS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1805",
+      "term": "ELECTROSURGERY MULTIFUNCTIONAL CANNULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180501",
+      "term": "OPEN ELECTROSURGERY MULTIFUNCTIONAL CANNULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180502",
+      "term": "ENDOSCOPIC ELECTROSURGERY MULTIFUNCTIONAL CANNULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1806",
+      "term": "ELECTROSURGERY ELECTRODES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180601",
+      "term": "OPEN ELECTROSURGERY ELECTRODES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180602",
+      "term": "ENDOSCOPIC ELECTROSURGERY ELECTRODES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1807",
+      "term": "ELECTROSURGERY PROBES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180701",
+      "term": "OPEN ELECTROSURGERY PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180702",
+      "term": "ENDOSCOPIC ELECTROSURGERY PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1808",
+      "term": "ELECTROSURGERY MANIPULATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180801",
+      "term": "OPEN ELECTROSURGERY MANIPULATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180802",
+      "term": "ENDOSCOPIC ELECTROSURGERY MANIPULATORS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1809",
+      "term": "ELECTROSURGERY NEEDLES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180901",
+      "term": "OPEN ELECTROSURGERY NEEDLES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L180902",
+      "term": "ENDOSCOPIC ELECTROSURGERY NEEDLES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1810",
+      "term": "ELECTROSURGERY PADS (NEUTRAL ELECTRODES) AND CABLES, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L181001",
+      "term": "ELECTROSURGERY SINGLE PATIENT PADS (NEUTRAL ELECTRODES), REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L181002",
+      "term": "ELECTROSURGERY DUAL PATIENT PADS (NEUTRAL ELECTRODES), REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L181003",
+      "term": "ELECTROSURGERY CONNECTION CABLES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1890",
+      "term": "ELECTROSURGERY INSTRUMENTS, REUSABLE - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L189001",
+      "term": "ELECTROSURGICAL DENERVATION PROBES, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L189002",
+      "term": "ELECTROSURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1899",
+      "term": "ELECTROSURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L19",
+      "term": "ARTHROSCOPIC SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1901",
+      "term": "ARTHROSCOPIC SURGERY DISSECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1902",
+      "term": "ARTHROSCOPIC SURGERY SCISSORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1903",
+      "term": "ARTHROSCOPIC SURGERY MANIPULATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1904",
+      "term": "ARTHROSCOPIC SURGERY FORCEPS AND PUNCHES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1905",
+      "term": "ARTHROSCOPIC SURGERY NEEDLE HOLDERS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1906",
+      "term": "ARTHROSCOPIC SURGERY SPREADERS AND RETRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1907",
+      "term": "ARTHROSCOPIC SURGERY CANNULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1908",
+      "term": "ARTHROSCOPIC SURGERY INSTRUMENT KITS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1909",
+      "term": "ARTHROSCOPIC SURGERY SCALPELS, MENISCOTOMES AND KNIVES REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1910",
+      "term": "ARTHROSCOPIC SURGERY HOOKS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1911",
+      "term": "ARTHROSCOPIC SURGERY SPATULAS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1912",
+      "term": "ARTHROSCOPIC SURGERY GUIDES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1913",
+      "term": "ARTHROSCOPIC SURGERY HANDPIECES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1914",
+      "term": "ARTHROSCOPIC SURGERY DILATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1915",
+      "term": "ARTHROSCOPIC SURGERY NEEDLES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1916",
+      "term": "ARTHROSCOPIC SURGERY PALPATORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1917",
+      "term": "ARTHROSCOPY ADAPTERS AND CONNECTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1918",
+      "term": "MICROFRACTORS FOR BONE STIMULATION, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1919",
+      "term": "ARTHROSCOPIC SURGERY SPOONS AND CURETTES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1920",
+      "term": "ARTHROSCOPIC SURGERY FILES AND RASPS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1921",
+      "term": "ARTHROSCOPIC SURGERY PROBES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1980",
+      "term": "ARTHROSCOPIC SURGERY INSTRUMENTS, REUSABLE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L1999",
+      "term": "ARTHROSCOPIC SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L20",
+      "term": "THYROID SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2001",
+      "term": "THYROID RETRACTORS, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2099",
+      "term": "THYROID SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L21",
+      "term": "CLIP REMOVAL SURGICAL FORCEPS, REUSABLE",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L22",
+      "term": "IMPLANTABLE TISSUES HANDLING GRASPING FORCEPS, REUSABLE",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L23",
+      "term": "SURGICAL TUNNELIZATION FORCEPS, REUSABLE",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L24",
+      "term": "DERMATOLOGICAL SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2401",
+      "term": "DERMATOLOGICAL SURGERY CURETTES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2402",
+      "term": "DERMATOLOGICAL SURGERY TREPHINES AND PUNCHES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2403",
+      "term": "DERMATOLOGICAL SURGERY SCALPELS AND KNIVES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2499",
+      "term": "DERMATOLOGICAL SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L25",
+      "term": "PLASTIC SURGERY INSTRUMENTS, REUSABLE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2501",
+      "term": "PLASTIC SURGERY OSTEOTOMES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2502",
+      "term": "PLASTIC SURGERY RASPS AND FILES, REUSABLE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2503",
+      "term": "LIPOSUCTION INSTRUMENTS, REUSABLE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L250301",
+      "term": "LIPOSUCTION CANNULAS, REUSABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L250399",
+      "term": "LIPOSUCTION INSTRUMENTS, REUSABLE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L2599",
+      "term": "PLASTIC SURGERY INSTRUMENTS, REUSABLE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L26",
+      "term": "SURGICAL SCREWDRIVERS, REUSABLE",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L80",
+      "term": "SURGICAL INSTRUMENTS, REUSABLE - VARIOUS ACCESSORIES",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "L",
+      "categoryDescription": "REUSABLE SURGICAL INSTRUMENTS",
+      "code": "L99",
+      "term": "SURGICAL INSTRUMENTS, REUSABLE - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

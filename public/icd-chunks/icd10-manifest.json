@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "generated": "2025-10-07T12:08:00.056Z",
+  "source": "WHO ICD API v2",
+  "release": {
+    "releaseId": "2019",
+    "title": "International Statistical Classification of Diseases and Related Health Problems 10th Revision (ICD-10) Version for 2019",
+    "description": "International Classification of Diseases 10th Revision",
+    "version": "ICD-10"
+  },
+  "totalEntries": 3,
+  "totalChunks": 1,
+  "chunkSize": 1000,
+  "chunks": [
+    {
+      "id": 0,
+      "startIndex": 0,
+      "endIndex": 2,
+      "count": 3,
+      "file": "chunk-0.json"
+    }
+  ]
+}

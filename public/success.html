@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Success - Medical Device Navigator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #0f172a; color: white; }
+    </style>
+</head>
+<body>
+    <div id="app" class="min-h-screen flex items-center justify-center">
+        <div class="text-center max-w-md">
+            <div class="text-6xl mb-4">⏳</div>
+            <h2 class="text-xl font-semibold">Verifying Payment...</h2>
+            <p class="text-gray-400 mt-2">Please wait while we confirm your transaction.</p>
+        </div>
+    </div>
+
+    <script>
+        console.log('Success page loaded');
+        console.log('Current URL:', window.location.href);
+        console.log('Search params:', window.location.search);
+        
+        async function verifyPayment() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const sessionId = urlParams.get('session_id');
+            
+            if (!sessionId) {
+                showError();
+                return;
+            }
+
+            // For local development (simulated payment)
+            if (window.location.hostname === 'localhost' && sessionId.startsWith('cs_test_')) {
+                console.log('Local development mode - simulating payment verification');
+                
+                // Generate a simulated access code
+                const accessCode = generateSimulatedAccessCode();
+                
+                const simulatedData = {
+                    success: true,
+                    accessCode: accessCode,
+                    customerEmail: 'test@example.com',
+                    currency: '€',
+                    amountPaid: '2.00',
+                    expiresAt: new Date(Date.now() + 365 * 24 * 60 * 60 * 1000).toISOString() // 1 year from now
+                };
+
+                // Activate premium
+                localStorage.setItem('meddev_premium', 'true');
+                localStorage.setItem('meddev_premium_email', simulatedData.customerEmail);
+                localStorage.setItem('meddev_payment_verified', 'true');
+                
+                showSuccess(simulatedData);
+                
+                // Redirect after 5 seconds (longer to see the code)
+                setTimeout(() => {
+                    window.location.href = '/';
+                }, 5000);
+                
+                return;
+            }
+
+            // Real payment verification (for production)
+            try {
+                const response = await fetch(`/api/payment-success?session_id=${sessionId}`);
+                const data = await response.json();
+
+                if (data.success) {
+                    // Activate premium
+                    localStorage.setItem('meddev_premium', 'true');
+                    localStorage.setItem('meddev_premium_email', data.customerEmail || '');
+                    localStorage.setItem('meddev_payment_verified', 'true');
+                    
+                    showSuccess(data);
+                    
+                    // Redirect after 3 seconds
+                    setTimeout(() => {
+                        window.location.href = '/';
+                    }, 3000);
+                } else {
+                    showError();
+                }
+            } catch (error) {
+                console.error('Payment verification failed:', error);
+                showError();
+            }
+        }
+
+        function generateSimulatedAccessCode() {
+            // Generate a code similar to the real system for testing
+            const year = new Date().getFullYear();
+            const random1 = Math.random().toString(36).substr(2, 3).toUpperCase();
+            const random2 = Math.random().toString(36).substr(2, 3).toUpperCase();
+            const random3 = Math.random().toString(36).substr(2, 3).toUpperCase();
+            const random4 = year.toString().substr(2) + Math.random().toString(36).substr(2, 2).toUpperCase();
+            
+            return `${random1}-${random2}-${random3}-${random4}`;
+        }
+
+        function showSuccess(details) {
+            document.getElementById('app').innerHTML = `
+                <div class="text-center max-w-md">
+                    <div class="text-green-500 text-6xl mb-4">✅</div>
+                    <h2 class="text-2xl font-bold mb-2">Payment Successful!</h2>
+                    <p class="text-gray-300 mb-4">Your annual access code is ready!</p>
+                    
+                    ${details.accessCode ? `
+                    <div class="bg-green-900 border border-green-700 rounded-lg p-4 mb-6">
+                        <h3 class="font-semibold mb-2 text-green-300">Your Access Code:</h3>
+                        <div class="bg-black rounded p-3 mb-3">
+                            <code class="text-green-400 text-xl font-mono">${details.accessCode}</code>
+                        </div>
+                        <p class="text-green-200 text-sm">
+                            Save this code! Enter it in the app to activate your annual access.
+                        </p>
+                        <button onclick="copyToClipboard('${details.accessCode}')" 
+                                class="mt-2 bg-green-600 text-white px-3 py-1 rounded text-sm hover:bg-green-700">
+                            Copy Code
+                        </button>
+                    </div>
+                    ` : ''}
+                    
+                    <div class="bg-slate-800 rounded-lg p-4 mb-6">
+                        <h3 class="font-semibold mb-2">Payment Details:</h3>
+                        <p class="text-sm text-gray-400">Amount: ${details.currency} ${details.amountPaid}</p>
+                        ${details.customerEmail ? `<p class="text-sm text-gray-400">Email: ${details.customerEmail}</p>` : ''}
+                        ${details.expiresAt ? `<p class="text-sm text-gray-400">Valid until: ${new Date(details.expiresAt).toLocaleDateString()}</p>` : ''}
+                    </div>
+
+                    <div class="bg-blue-900 border border-blue-700 rounded-lg p-4 mb-6">
+                        <h3 class="font-semibold mb-2 text-blue-300">Your annual access includes:</h3>
+                        <ul class="text-sm text-blue-200 space-y-1 text-left">
+                            <li>✓ Unlimited usage time</li>
+                            <li>✓ All GMDN-EMDN mappings</li>
+                            <li>✓ Export functionality</li>
+                            <li>✓ Priority support</li>
+                            <li>✓ Valid for 1 full year</li>
+                            <li>✓ No personal data stored</li>
+                        </ul>
+                    </div>
+
+                    <p class="text-gray-400 text-sm mb-4">Click "Enter Code" in the app and paste your access code to activate.</p>
+                    
+                    <a href="/" class="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors inline-block">
+                        Return to App
+                    </a>
+                </div>
+            `;
+        }
+
+        function showError() {
+            document.getElementById('app').innerHTML = `
+                <div class="text-center max-w-md">
+                    <div class="text-red-500 text-6xl mb-4">❌</div>
+                    <h2 class="text-xl font-semibold mb-2">Payment Verification Failed</h2>
+                    <p class="text-gray-400 mb-6">We couldn't verify your payment. Please contact support if you were charged.</p>
+                    <a href="/" class="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors">
+                        Return to App
+                    </a>
+                </div>
+            `;
+        }
+
+        // Start verification
+        verifyPayment();
+
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                alert('Access code copied to clipboard!');
+            }).catch(() => {
+                // Fallback for older browsers
+                const textArea = document.createElement('textarea');
+                textArea.value = text;
+                document.body.appendChild(textArea);
+                textArea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textArea);
+                alert('Access code copied to clipboard!');
+            });
+        }
+    </script>
+</body>
+</html>

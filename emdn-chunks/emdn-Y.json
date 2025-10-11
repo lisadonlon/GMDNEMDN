@@ -1,0 +1,2000 @@
+{
+  "category": "Y",
+  "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+  "entryCount": 249,
+  "terminalCount": 195,
+  "entries": [
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y",
+      "term": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y05",
+      "term": "ABILITIES LEARNING AND TRAINING DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0501",
+      "term": "CONTINENCE TRAINING DEVICES (INCLUDING INCONTINENCE ALARM SYSTEMS)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0502",
+      "term": "GAIT TRAINERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y050201",
+      "term": "STANDING SUPPORT GAIT TRAINERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y050202",
+      "term": "STANDING FRAMES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0503",
+      "term": "HANDS AND FINGERS RE-EDUCATION DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0504",
+      "term": "ARMS, TORSO AND LEGS RE-EDUCATION DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0580",
+      "term": "LEARNING AND TRAINING DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0599",
+      "term": "LEARNING AND TRAINING DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y06",
+      "term": "EXTERNAL PROSTHESES AND ORTHOSES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0603",
+      "term": "SPINE ORTHOSES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060303",
+      "term": "SACROILIAC SPINE ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060306",
+      "term": "THORACOLUMBAR ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060307",
+      "term": "THORACIC ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060308",
+      "term": "LUMBOSACRAL SPINE ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060309",
+      "term": "THORACOLUMBOSACRAL SPINE ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060312",
+      "term": "CERVICAL SPINE ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060315",
+      "term": "CERVICOTHORACIC SPINE ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060318",
+      "term": "CERVICOTHORACOLUMBOSACRAL SPINE ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060380",
+      "term": "SPINAL ORTHOSES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060399",
+      "term": "SPINE ORTHOSES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0604",
+      "term": "ABDOMINAL ORTHOSES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060403",
+      "term": "ABDOMINAL MUSCLES SUPPORTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060406",
+      "term": "ABDOMINAL HERNIA SUPPORTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060499",
+      "term": "ABDOMINAL ORTHOSES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0606",
+      "term": "UPPER EXTREMITY ORTHOSES (SPLINTS AND BRACES)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060603",
+      "term": "FINGERS ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060606",
+      "term": "HAND ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060609",
+      "term": "WRIST (FOREARM) ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060612",
+      "term": "WRIST-HAND ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060613",
+      "term": "WRIST-HAND-FINGERS ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060615",
+      "term": "ELBOW ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060618",
+      "term": "ELBOW-WRIST ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060619",
+      "term": "ELBOW-WRIST-HAND ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060621",
+      "term": "SHOULDER ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060624",
+      "term": "SHOULDER-ELBOW ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060627",
+      "term": "SHOULDER-ELBOW - WRIST ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060630",
+      "term": "SHOULDER-ELBOW-WRIST- HAND ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060680",
+      "term": "UPPER LIMB ORTHOSES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y060699",
+      "term": "ORTHOSES, UPPER EXTREMITY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0612",
+      "term": "ORTHOSIS, LOWER EXTREMITY (INSOLES, LIFTS, SPLINTS, BRACES, CLAMPS)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061203",
+      "term": "ORTHOSES, FOOT (INCLUDING INSOLES AND INSERTS)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061206",
+      "term": "ANKLE-FOOT ORTHOSES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y06120601",
+      "term": "PASSIVE ANKLE-FOOT ORTHOSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y06120602",
+      "term": "ENERGY RETURN ANKLE-FOOT ORTHOSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061209",
+      "term": "KNEE ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061212",
+      "term": "KNEE-ANKLE-FOOT ORTHOSES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y06121201",
+      "term": "PASSIVE KNEE-ANKLE-FOOT ORTHOSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y06121202",
+      "term": "ENERGY RETURN ORTHOSES FOR KNEE-ANKLE-FOOT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y06121203",
+      "term": "ACTIVE KNEE-ANKLE-FOOT ORTHOSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061215",
+      "term": "HIP ORTHOSES (INCLUDING ABDUCTION ORTHOSES)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061216",
+      "term": "HIP-KNEE ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061217",
+      "term": "THIGH ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061218",
+      "term": "HIP-KNEE-ANKLE-FOOT ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061219",
+      "term": "CHEST-LUMB-SACRAL-HIP-KNEE-ANKLE-FOOT ORTHOSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061280",
+      "term": "LOWER LIMB ORTHOSES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061299",
+      "term": "LOWER EXTREMITY ORTHOSES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0618",
+      "term": "UPPER EXTREMITY PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061803",
+      "term": "PARTIAL HAND PROSTHESES (INCLUDING FINGERS PROSTHESES)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061806",
+      "term": "WRIST DISARTICULATION PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061809",
+      "term": "TRANSRADIAL PROSTHESES (FOR AMPUTATION UNDER ELBOW)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061812",
+      "term": "ELBOW DISARTICULATION PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061815",
+      "term": "TRANSHUMERAL PROSTHESES (FOR AMPUTATION ABOVE ELBOW)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061818",
+      "term": "SHOULDER DISARTICULATION PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y061899",
+      "term": "UPPER EXTREMITY PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0624",
+      "term": "LOWER EXTREMITY PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y062403",
+      "term": "FOOT PARTIAL PROSTHESES (INCLUDING TOE PROSTHESES)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y062409",
+      "term": "TRANSTIBIAL PROSTHESES (FOR AMPUTATION UNDER KNEE)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y062412",
+      "term": "KNEE DISARTICULATION PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y062415",
+      "term": "TRANSFEMORAL PROSTHESES (FOR AMPUTATION ABOVE KNEE)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y062418",
+      "term": "HIP DISARTICULATION PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y062499",
+      "term": "LOWER EXTREMITY PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0627",
+      "term": "COSMETIC AND NON-FUNCTIONAL LOWER LIMB PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y062703",
+      "term": "AESTHETIC FILLERS, CALF AND THIGH",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0630",
+      "term": "NON-EXTREMITY PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y063018",
+      "term": "EXTERNAL BREAST PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y063021",
+      "term": "OCULAR PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y063099",
+      "term": "NON-EXTREMITY PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0633",
+      "term": "ORTHOTIC SHOES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y063303",
+      "term": "READY-MADE ORTHOTIC SHOES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0699",
+      "term": "EXTERNAL PROSTHESES AND ORTHOSES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y09",
+      "term": "PERSONAL CARE AIDS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0903",
+      "term": "CLOTHES, FOOTWEAR AND COVERS FOR PROSTHESES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y090312",
+      "term": "GLOVES AND HANDLES FOR PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y090327",
+      "term": "SOCKS FOR PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y090342",
+      "term": "SHOES AND BOOTS FOR PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y090399",
+      "term": "CLOTHES, FOOTWEAR AND COVERS FOR PROSTHESES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0906",
+      "term": "BODY PROTECTION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y090612",
+      "term": "ARM AND ELBOW PROTECTIONS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y090618",
+      "term": "LEG AND KNEE PROTECTIONS (INCLUDING SOCKS FOR AMPUTATED LEGS)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y090699",
+      "term": "DEVICES FOR BODY PROTECTION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0912",
+      "term": "DEJECTION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y091203",
+      "term": "CHAIRS, TOILET AND SHOWER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y091209",
+      "term": "TOILET SEATS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y091212",
+      "term": "TOILET STOOLS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y091215",
+      "term": "TOILET SEATS, RAISED",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y091299",
+      "term": "DEJECTION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0933",
+      "term": "WASHING, BATHING AND SHOWERING DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y093303",
+      "term": "FIXED AND ROTARY CHAIRS FOR BATH AND SHOWER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y093312",
+      "term": "SHOWER STRETCHERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y093399",
+      "term": "WASHING, BATHING AND SHOWERING DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y0999",
+      "term": "PERSONAL CARE AIDS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y12",
+      "term": "PERSONAL MOBILITY DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1203",
+      "term": "WALKING DEVICES, ONE-HANDED OPERATION",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120303",
+      "term": "WHITE STICKS FOR BLIND PERSONS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120306",
+      "term": "WALKING CRUTCHES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y12030601",
+      "term": "ELBOW CRUTCHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y12030602",
+      "term": "CRUTCHES WITH ANTIBRACHIAL SUPPORT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y12030603",
+      "term": "CRUTCHES WITH UNDER-AXLE SUPPORT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120315",
+      "term": "TRIPODS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120318",
+      "term": "QUADRIPODS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120380",
+      "term": "ONE ARM MANIPULATED WALKING AIDS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120399",
+      "term": "WALKING DEVICES, ONE-HANDED OPERATION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1206",
+      "term": "WALKING DEVICES, TWO-HANDED OPERATION",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120603",
+      "term": "WALKING FRAMES, 4 TIPS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120606",
+      "term": "WHEELED WALKER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120609",
+      "term": "WALKING FRAMES WITH CHAIR, 4 WHEELS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120612",
+      "term": "WALKING TROLLEYS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120615",
+      "term": "POWER ASSISTED MOBILITY ROLLATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120680",
+      "term": "TWO ARMS MANIPULATED WALKING AIDS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y120699",
+      "term": "WALKING DEVICES, TWO-HANDED OPERATION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1218",
+      "term": "CYCLES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y121801",
+      "term": "BICYCLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y121806",
+      "term": "PEDAL TRICYCLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y121809",
+      "term": "MANUALLY PROPELLED TRICYCLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y121821",
+      "term": "RETRACTORS, BACKRESTS, BRACKETS AND SUPPORTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y121899",
+      "term": "CYCLES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1221",
+      "term": "WHEELCHAIRS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122103",
+      "term": "PUSH WHEELCHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122106",
+      "term": "REAR SELF-PROPELLED WHEELCHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122109",
+      "term": "FRONT SELF-PROPELLED WHEELCHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122124",
+      "term": "ELECTRIC SCOOTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122127",
+      "term": "ELECTRIC WHEELCHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122130",
+      "term": "DISABILITY MOPEDS, 3-WHEELED",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122199",
+      "term": "WHEELCHAIRS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1224",
+      "term": "WHEELCHAIR ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122403",
+      "term": "WHEELCHAIR FOOTRESTS, SUPPORTS AND CONTROLS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122406",
+      "term": "BELTS, SEATS AND ARMRESTS FOR WHEELCHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122409",
+      "term": "HANDRIMS AND ONE-ARM-DRIVE SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122410",
+      "term": "ELECTRIC PROPULSION UNIT",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122411",
+      "term": "WHEELCHAIR UNICYCLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122412",
+      "term": "WHEELCHAIR LIGHTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122499",
+      "term": "WHEELCHAIRS ACCESSORIES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1227",
+      "term": "NON-MOTORIZED VEHICLES AND MEANS OF TRANSPORT",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122703",
+      "term": "PUSHCHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y122799",
+      "term": "NON-MOTORIZED VEHICLES AND MEANS OF TRANSPORT - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1299",
+      "term": "PERSONAL MOBILITY DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y15",
+      "term": "DOMESTIC ACTIVITIES AIDS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1509",
+      "term": "ASSISTIVE EATING AND DRINKING DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y150912",
+      "term": "CUTLERY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y150915",
+      "term": "GLASSES AND CUPS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y150918",
+      "term": "ADAPTABLE DISHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y150921",
+      "term": "ADAPTABLE CUTTERS AND EDGES FOR DISHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y150999",
+      "term": "ASSISTIVE EATING AND DRINKING DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1599",
+      "term": "HOUSEHOLD ACTIVITIES AIDS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y18",
+      "term": "AIDS, FURNITURE AND HOME AIDS FOR PERSONS WITH DISABILITIES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1803",
+      "term": "ASSISTIVE TABLES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1809",
+      "term": "CHAIRS / POSTURE SYSTEMS / SEAT POSITIONING AIDS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y180918",
+      "term": "MULTIFUNCTIONAL CHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y180939",
+      "term": "MODULAR POSTURE SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y180980",
+      "term": "SEATING SYSTEMS / POSTURE SYSTEMS / SEATING AIDS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y180999",
+      "term": "CHAIRS / POSTURE SYSTEMS / SEAT POSITIONING AIDS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1818",
+      "term": "SUPPORT SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y181803",
+      "term": "HANDRAILS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y181806",
+      "term": "HANDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y181809",
+      "term": "ARMRESTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y181899",
+      "term": "SUPPORT SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1830",
+      "term": "LIFTING DEVICES (STAIRLIFTS)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y183012",
+      "term": "MOBILE STAIRLIFTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y183015",
+      "term": "PORTABLE RAMPS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y183099",
+      "term": "LIFTING DEVICES (STAIRLIFTS) - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y1899",
+      "term": "AIDS, FURNITURE AND HOME AIDS FOR PERSONS WITH DISABILITIES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y21",
+      "term": "COMMUNICATION AND INFORMATION MANAGEMENT AIDS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2103",
+      "term": "OPTICAL AIDS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210306",
+      "term": "PRISMATIC OPHTHALMIC LENSES FOR RAISING AND LOWERING THE EYE WITH PROSTHESES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210321",
+      "term": "FAR SIGHTEDNESS TELESCOPIC SYSTEMS/SPECTACLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210324",
+      "term": "NEAR SIGHTEDNESS TELESCOPIC SYSTEMS/SPECTACLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210330",
+      "term": "MAGNIFYING ACHROMATIC DOUBLET LENSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210333",
+      "term": "PRISMATIC SPECTACLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210336",
+      "term": "OCCLUSION AND ANTI-RADIATION FILTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210399",
+      "term": "OPTICAL AIDS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2106",
+      "term": "OPTICAL ELECTRONIC AIDS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210603",
+      "term": "VIDEO MAGNIFIERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210606",
+      "term": "OCR SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210609",
+      "term": "MAGNIFIERS FOR PERSONAL COMPUTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210699",
+      "term": "ELECTRONIC OPTICAL AIDS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2109",
+      "term": "PERSONAL COMPUTER INPUT AND OUTPUT PERIPHERAL EQUIPMENT",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210905",
+      "term": "EXTERNAL SENSOR INTERFACES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210906",
+      "term": "MOUSE AND KEYBOARD EMULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210915",
+      "term": "VOCAL SYNTHESIS DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210924",
+      "term": "ARM SUPPORTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y210999",
+      "term": "PERSONAL COMPUTER INPUT AND OUTPUT PERIPHERAL EQUIPMENT - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2115",
+      "term": "WRITING MACHINES AND TEXT PROCESSING SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y211518",
+      "term": "WRITING SOFTWARE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y211599",
+      "term": "WRITING MACHINES AND TEXT PROCESSING SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2127",
+      "term": "NON-OPTICAL READING AIDS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y212703",
+      "term": "PAGE-TURNERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y212706",
+      "term": "BOOKRESTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2136",
+      "term": "TELEPHONES AND TELEPHONING AIDS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y213603",
+      "term": "EASY ACCESS TELEPHONES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y213609",
+      "term": "TELEPHONE COMMUNICATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y213624",
+      "term": "TELEPHONE HANDSET REPLACEMENT DEVICES AND CALL SIGNALERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y213699",
+      "term": "TELEPHONES AND TELEPHONING AIDS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2139",
+      "term": "SOUND TRANSMISSION SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y213924",
+      "term": "MF RECEIVER-TRANSMITTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y213999",
+      "term": "SOUND TRANSMISSION SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2142",
+      "term": "INTERPERSONAL COMUNICATION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y214209",
+      "term": "ALPHABETIC AND SYMBOLIC COMMUNICATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y214212",
+      "term": "VOICE GENERATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y214224",
+      "term": "AUGMENTATIVE SOFTWARE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y214299",
+      "term": "DEVICES FOR INTERPERSONAL COMUNICATION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2145",
+      "term": "HEARING AIDS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y214506",
+      "term": "AIR CONDUCTION HEARING AIDS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y21450601",
+      "term": "BEHIND-THE-EAR HEARING AIDS (BTEs)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2145060101",
+      "term": "BEHIND-THE-EAR HEARING AIDS WITH RECEIVER IN THE DEVICE (BTE)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2145060102",
+      "term": "BEHIND-THE-EAR HEARING AIDS WITH RECEIVER IN THE CANAL (RIC, RITE)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y21450602",
+      "term": "IN-THE-EAR HEARING AIDS (ITEs)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2145060201",
+      "term": "HEARING AID IN THE-EAR (ITE)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2145060202",
+      "term": "HEARING AIDS IN-THE-CANAL (ITC)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2145060203",
+      "term": "HEARING AIDS COMPLETELY-IN-THE-CANAL (CIC)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2145060204",
+      "term": "HEARING AIDS INVISIBLE-IN-THE-CANAL (IIC)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y21450603",
+      "term": "BOX HEARING AIDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y214509",
+      "term": "BONE CONDUCTION HEARING AIDS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y21450901",
+      "term": "SPECTACLE HEARING AIDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y21450902",
+      "term": "HEADBAND HEARING AIDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y21450903",
+      "term": "HEARING AIDS WITH ELASTIC BAND",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y21450904",
+      "term": "HEARING AIDS USING ADHESIVE PATCH",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y214580",
+      "term": "HEARING AIDS OR HEARING DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y214599",
+      "term": "HEARING AIDS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2151",
+      "term": "ALARM SYSTEMS + SIGNALLING, INDICATION AND REMINDER AIDS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y215112",
+      "term": "CLOCKS FOR PERSONS WITH DISABILITIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y215199",
+      "term": "ALARM SYSTEMS + SIGNALING, INDICATION AND REMINDER AIDS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2199",
+      "term": "COMMUNICATION AND INFORMATION MANAGEMENT AIDS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y24",
+      "term": "OBJECT MANIPULATION DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2409",
+      "term": "CONTROL DEVICES AND SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y240918",
+      "term": "CONTROL SENSORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y240999",
+      "term": "CONTROL DEVICES AND SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2412",
+      "term": "AMBIENT CONTROL SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y241203",
+      "term": "PROGRAMMABLE REMOTE CONTROLS, HOME AUTOMATION SYSTEMS, CONTROL SATELLITES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y241299",
+      "term": "AMBIENT CONTROL SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2418",
+      "term": "ARM, HAND, FINGER FUNCTION AID AND/OR SUBSTITUTION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y241815",
+      "term": "FUNCTIONAL HELMETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y241899",
+      "term": "ARM, HAND, FINGER FUNCTION AID AND/OR SUBSTITUTION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2421",
+      "term": "DEVICES FOR REACHING AND GRASPING OBJECTS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y242103",
+      "term": "MANUAL PREHENSILE GRIPPERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y242199",
+      "term": "DEVICES FOR REACHING AND GRASPING OBJECTS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y2499",
+      "term": "DEVICES FOR OBJECT MANIPULATION - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Y",
+      "categoryDescription": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES",
+      "code": "Y99",
+      "term": "DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "generated": "2025-10-11T16:33:21.368Z",
+    "totalMappings": 22,
+    "criticalIssues": 0,
+    "highIssues": 0,
+    "mediumWarnings": 0
+  },
+  "results": [
+    {
+      "gmdnCode": "13755",
+      "gmdnName": "Mechanical external stethoscope",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "17887",
+      "gmdnName": "Infrared patient thermometer, ear",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "34978",
+      "gmdnName": "Blood pressure cuff, reusable",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "35352",
+      "gmdnName": "Vaginal speculum, reusable",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "36349",
+      "gmdnName": "Patient monitoring system module, electrocardiographic",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "37447",
+      "gmdnName": "Aspiration tray, reusable",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "37459",
+      "gmdnName": "Nose clip, reusable",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "41981",
+      "gmdnName": "Hepatitis B virus core immunoglobulin M (IgM) antibody IVD, calibrator",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "42811",
+      "gmdnName": "Compression/pressure sock/stocking, reusable",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "44970",
+      "gmdnName": "Exudate-absorbent dressing, non-gel, non-antimicrobial",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "46207",
+      "gmdnName": "Peristomal/periwound dressing",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "46346",
+      "gmdnName": "Paediatric blood donor set",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "46832",
+      "gmdnName": "Laryngoscope blade cover",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 2
+    },
+    {
+      "gmdnCode": "46967",
+      "gmdnName": "Basic endotracheal tube, single-use",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "47017",
+      "gmdnName": "General-purpose syringe, single-use",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "47569",
+      "gmdnName": "Scalpel, single-use",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "47764",
+      "gmdnName": "Wound hydrogel dressing, non-antimicrobial",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "56286",
+      "gmdnName": "Nitrile examination/treatment glove, non-powdered, non-antimicrobial",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "58865",
+      "gmdnName": "Vascular catheter introduction set, nonimplantable",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "62525",
+      "gmdnName": "Intestinal ostomy bag/support kit",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "64574",
+      "gmdnName": "Peripheral intravenous cannula",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    },
+    {
+      "gmdnCode": "66199",
+      "gmdnName": "Surgical/medical face mask, non-antimicrobial, single-use",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "mappingCount": 1
+    }
+  ]
+}

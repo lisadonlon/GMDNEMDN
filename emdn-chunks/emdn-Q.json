@@ -1,0 +1,2032 @@
+{
+  "category": "Q",
+  "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+  "entryCount": 253,
+  "terminalCount": 199,
+  "entries": [
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q",
+      "term": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01",
+      "term": "DENTAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0101",
+      "term": "DEVICES FOR CONSERVATIVE DENTISTRY AND ENDODONTICS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010101",
+      "term": "DENTAL RESTORATION DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010101",
+      "term": "DENTAL CONSERVATION AMALGAMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010102",
+      "term": "TEMPORARY AND PERMANENT DENTAL RESTORATION CEMENTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0101010201",
+      "term": "DENTAL BASE CEMENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0101010202",
+      "term": "ROOT CANAL CEMENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0101010203",
+      "term": "TEMPORARY DENTAL CEMENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0101010204",
+      "term": "ENDODONTIC SURGERY CEMENTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0101010299",
+      "term": "TEMPORARY AND PERMANENT DENTAL RESTORATION CEMENTS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010103",
+      "term": "DENTAL CONSERVATION COMPOSITES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010104",
+      "term": "DENTAL BONDING AGENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010105",
+      "term": "DENTAL RESTORATION COMPOMERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010106",
+      "term": "DENTAL RESTORATION GLASS IONOMERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010199",
+      "term": "DENTAL RESTORATION DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010102",
+      "term": "ROOT CANAL FILLING DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010201",
+      "term": "ROOT CANAL FILLING DENTAL PASTES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010202",
+      "term": "ROOT CANAL FILLING DENTAL CEMENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010203",
+      "term": "DENTAL CONES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010299",
+      "term": "ROOT CANAL FILLING DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010103",
+      "term": "DENTAL MEDICATION DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010301",
+      "term": "DENTAL MEDICATION COMPOUNDS WITH DISINFECTANTS, ANTIBIOTICS AND ANTI-INFLAMMATORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010399",
+      "term": "DENTAL MEDICATION DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010104",
+      "term": "DENTAL PROCEDURE DEVICES - VARIOUS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010401",
+      "term": "PAPER AND GUTTA-PERCHA TIPS, MATRICES AND WEDGES FOR DENTISTRY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010402",
+      "term": "ENAMEL-DENTINAL ETCHING MATERIALS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01010403",
+      "term": "DENTAL ABRASIVE AND POLISHING MATERIALS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010105",
+      "term": "RECONSTRUCTION ENDODONTIC PINS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010199",
+      "term": "CONSERVATIVE DENTISTRY AND ENDODONTICS DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0102",
+      "term": "DEVICES FOR PROSTHETIC DENTISTRY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010201",
+      "term": "DENTAL IMPRESSION MATERIALS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020101",
+      "term": "DENTAL IMPRESSION ALGINATES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020102",
+      "term": "DENTAL IMPRESSION VINYLSILOXANS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020103",
+      "term": "DENTAL IMPRESSION POLYETHERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020104",
+      "term": "DENTAL IMPRESSION SILICONES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020199",
+      "term": "DENTAL IMPRESSION MATERIALS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010202",
+      "term": "DENTAL CONTACT INDICATORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020201",
+      "term": "ARTICULATION PAPERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020202",
+      "term": "SPRAY AND LIQUID DENTAL CONTACT INDICATORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020203",
+      "term": "OCCLUSAL WAXES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020299",
+      "term": "DENTAL CONTACT INDICATORS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010204",
+      "term": "RETRACTION WIRES AND GINGIVAL RETRACTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010205",
+      "term": "PRE-FORMED RESINS AND DENTAL CROWNS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020501",
+      "term": "DENTISTRY RESINS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0102050101",
+      "term": "TEMPORARY TEETH RESINS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0102050102",
+      "term": "DENTAL REBASING RESINS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0102050199",
+      "term": "DENTISTRY RESINS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020502",
+      "term": "PRE-FORMED DENTAL CROWNS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010206",
+      "term": "DENTAL PROSTHESES (FOR DENTAL IMPLANTS SEE P010201)",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020601",
+      "term": "MOBILE DENTAL PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020602",
+      "term": "COMBINED DENTAL PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020603",
+      "term": "SKELETAL DENTAL PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020604",
+      "term": "ORTHODONTIC DENTAL PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q01020605",
+      "term": "TEMPORARY DENTAL PROSTHESES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010207",
+      "term": "DENTAL IMPRESSION DEVICES FOR PROSTHETIC DENTISTRY",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010280",
+      "term": "PROSTHETIC DENTISTRY DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010299",
+      "term": "PROSTHETIC DENTISTRY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0103",
+      "term": "SURGICAL DENTAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010301",
+      "term": "PERIODONTAL MEMBRANES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010302",
+      "term": "DENTAL GRAFT DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010303",
+      "term": "RETROGRADE FILLING DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010304",
+      "term": "PERIODONTAL DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010305",
+      "term": "SURGICAL DENTISTRY CEMENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010399",
+      "term": "SURGICAL DENTAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0104",
+      "term": "ORTHODONTIC DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010401",
+      "term": "ORTHODONTIC FACE BOWS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010402",
+      "term": "ORTHODONTIC BANDS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010403",
+      "term": "ORTHODONTIC BRACKETS AND BUTTONS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010404",
+      "term": "ORTHODONTIC ELASTICS, CHAINS AND SPRINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010405",
+      "term": "ORTHODONTIC WIRES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010406",
+      "term": "ORTHODONTIC LIGATURES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010407",
+      "term": "ORTHODONTIC CEMENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010499",
+      "term": "ORTHODONTIC DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0105",
+      "term": "INSTRUMENTS FOR DENTISTRY, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010501",
+      "term": "DENTAL BURS AND ABRASIVE DISKS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010502",
+      "term": "DENTAL POLISHING CUPS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010503",
+      "term": "IMPRESSION MATERIAL TRAYS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010504",
+      "term": "DENTISTRY MIRRORS AND STYLETS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010505",
+      "term": "AMALGAM APPLICATORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010506",
+      "term": "PASTE APPLICATORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010507",
+      "term": "ENDODONTIC INSTRUMENTS (CANAL ENLARGERS, FILES, RASPS, ETC.), SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010508",
+      "term": "DENTAL SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010599",
+      "term": "DENTAL INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0106",
+      "term": "MATERIALS FOR THE PREPARATION OF CUSTOM-MADE DENTAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010601",
+      "term": "DENTAL ALLOYS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q010699",
+      "term": "MATERIALS FOR THE PREPARATION OF CUSTOM-MADE DENTAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0190",
+      "term": "DENTAL DEVICES - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q019001",
+      "term": "SALIVA ASPIRATORS AND SALIVA ABSORBENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q019002",
+      "term": "DENTISTRY DAMS AND HOOKS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q019003",
+      "term": "DENTAL FLOSS AND OTHER DEVICES FOR ORAL HYGIENE (FOR PROFESSIONAL USE)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q019004",
+      "term": "DENTAL COTTON ROLLS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q019005",
+      "term": "CASTABLE DENTAL POSTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q019006",
+      "term": "DENTAL MATERIAL APPLICATION TIPS AND BRUSHES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q019007",
+      "term": "BUCCAL TOPICAL TREATMENT PREPARATIONS NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q019008",
+      "term": "DENTINAL DESENSITISERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0199",
+      "term": "ODONTOLOGY DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02",
+      "term": "OPHTHALMIC DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0201",
+      "term": "OPHTHALMIC MICROKNIVES AND CUTTING DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020101",
+      "term": "OPHTHALMIC MICROKNIVES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02010101",
+      "term": "OPHTHALMIC MICROKNIVES, STRAIGHT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02010102",
+      "term": "OPHTHALMIC MICROKNIVES, ANGLED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02010103",
+      "term": "OPHTHALMIC CALIBRATED MICROKNIVES, PHACO (UPPER SHARPENED BEVEL UP, DOUBLE EDGED, GLAZED)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02010199",
+      "term": "OPHTHALMIC MICROKNIVES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020102",
+      "term": "SCLERAL SCALPELS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020199",
+      "term": "OPHTHALMIC CUTTING DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0202",
+      "term": "DEVICES FOR CORNEA EXPLANTATION AND TRANSPLANTATION",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020201",
+      "term": "CORNEAL PUNCHES AND TREPHINES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020202",
+      "term": "CORNEAL DRILLS, SINGLE-USE (MECHANICAL AND HAND-ASSISTED)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020203",
+      "term": "CORNEAL MARKERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020204",
+      "term": "CORNEAL EXPLANTS STORING AND TRANSPORT SUBSTANCES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020299",
+      "term": "CORNEA EXPLANTATION AND TRANSPLANTATION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0203",
+      "term": "GASEOUS, LIQUID AND VISCOELASTIC FLUIDS FOR OPHTHALMIC SURGERY AND CLINICAL OPHTHALMOLOGY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020301",
+      "term": "OPHTHALMIC SURGERY, GASEOUS FLUIDS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030101",
+      "term": "INTRAOCULAR FLUORINATED DERIVATIVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030199",
+      "term": "OPHTHALMIC SURGERY, GASEOUS FLUIDS – OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020302",
+      "term": "OPHTHALMOLOGY, LIQUID FLUIDS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030201",
+      "term": "OPHTHALMIC DYES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030202",
+      "term": "OPHTHALMIC SURGERY, SILICONE OILS, PURE AND COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030203",
+      "term": "OPHTHALMIC SURGERY BALANCED SALINE SOLUTIONS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030204",
+      "term": "CONTACT LENSES STORING AND CLEANING SOLUTIONS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030205",
+      "term": "OPHTHALMIC SURGERY, PERFLUOROCARBONS PURE AND COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030206",
+      "term": "EYE LUBRICANT SOLUTIONS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030299",
+      "term": "OPHTHALMOLOGY, LIQUID FLUIDS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020303",
+      "term": "OPHTHALMOLOGY, VISCOELASTIC FLUIDS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030301",
+      "term": "OPHTHALMOLOGY, HYALURONIC ACID AND DERIVATIVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02030399",
+      "term": "OPHTHALMOLOGY, VISCOELASTIC FLUIDS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0204",
+      "term": "VITRECTOMY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020401",
+      "term": "ANTERIOR VITRECTOMY SETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020402",
+      "term": "POSTERIOR VITRECTOMY SETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020403",
+      "term": "OPHTHALMOLOGY LASER THERAPY FIBERS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02040301",
+      "term": "OCULAR ENDOPHOTOCOAGULATION FIBERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02040302",
+      "term": "OCULAR CYCLOPHOTOCOAGULATION FIBERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02040399",
+      "term": "OPHTHALMOLOGY LASER THERAPY FIBERS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020499",
+      "term": "VITRECTOMY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0205",
+      "term": "RETINAL DETACHMENT DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020501",
+      "term": "RETINAL CERCLAGE BANDS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020502",
+      "term": "RETINAL DETACHMENT RAILS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020503",
+      "term": "RETINAL SPONGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020504",
+      "term": "RETINAL DETACHMENT CLIPS, METALLIC",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020599",
+      "term": "RETINAL DETACHMENT DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0206",
+      "term": "PHACOEMULSIFICATION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020601",
+      "term": "PHACOEMULSIFICATION SETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020680",
+      "term": "PHACOEMULSIFICATION DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020699",
+      "term": "PHACOEMULSIFICATION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0207",
+      "term": "LACRIMAL DUCT DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020701",
+      "term": "LACRIMAL DUCT DILATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020702",
+      "term": "LACRIMAL DUCT OCCLUDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020703",
+      "term": "LACRIMAL DUCT PLUGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020704",
+      "term": "LACRIMAL TUBES, SETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020705",
+      "term": "LACRIMAL DYSFUNCTIONS, TESTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020706",
+      "term": "LACRIMAL TUBES, SILICONE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q020799",
+      "term": "LACRIMAL DUCT DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0208",
+      "term": "GLAUCOMA DRAINAGES AND KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0209",
+      "term": "STRABISMUS DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210",
+      "term": "CORRECTIVE OPTICAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021001",
+      "term": "OPHTHALMIC LENSES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100101",
+      "term": "ORGANIC OPHTHALMIC LENSES (PLASTIC MATERIALS)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210010101",
+      "term": "MONOFOCAL ORGANIC OPHTHALMIC LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210010102",
+      "term": "MULTIFOCAL ORGANIC OPHTHALMIC LENSES (BIFOCAL, TRIFOCAL)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210010103",
+      "term": "PROGRESSIVE ORGANIC OPHTHALMIC LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210010199",
+      "term": "ORGANIC OPHTHALMIC LENSES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100102",
+      "term": "MINERAL OPHTHALMIC LENSES (GLASS)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210010201",
+      "term": "MONOFOCAL MINERAL OPHTHALMIC LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210010202",
+      "term": "MULTIFOCAL MINERAL OPHTHALMIC LENSES (BIFOCAL, TRIFOCAL)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210010203",
+      "term": "PROGRESSIVE MINERAL OPHTHALMIC LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210010299",
+      "term": "MINERAL OPHTHALMIC LENSES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021002",
+      "term": "SPECTACLE FRAMES WITHOUT LENSES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100201",
+      "term": "METAL SPECTACLE FRAMES WITHOUT LENSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100202",
+      "term": "PLASTIC SPECTACLE FRAMES WITHOUT LENSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100203",
+      "term": "METAL AND PLASTIC SPECTACLE FRAMES WITHOUT LENSES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100299",
+      "term": "SPECTACLE FRAMES WITHOUT LENSES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021003",
+      "term": "READY TO WEAR SPECTACLES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100301",
+      "term": "READY TO WEAR SPECTACLES WITH ORGANIC LENSES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210030101",
+      "term": "READY TO WEAR METAL SPECTACLES WITH ORGANIC LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210030102",
+      "term": "READY TO WEAR PLASTIC SPECTACLES WITH ORGANIC LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210030103",
+      "term": "READY TO WEAR METAL AND PLASTIC SPECTACLES WITH ORGANIC LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210030199",
+      "term": "READY TO WEAR SPECTACLES WITH ORGANIC LENSES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100302",
+      "term": "READY TO WEAR SPECTACLES WITH MINERAL LENSES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210030201",
+      "term": "READY TO WEAR METAL SPECTACLES WITH MINERAL LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210030202",
+      "term": "READY TO WEAR PLASTIC SPECTACLES WITH MINERAL LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210030203",
+      "term": "READY TO WEAR METAL AND PLASTIC SEPECTACLES WITH MINERAL LENSES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210030299",
+      "term": "READY TO WEAR SPECTACLES WITH MINERAL LENSES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021004",
+      "term": "CONTACT LENSES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100401",
+      "term": "CONTACT LENSES - HYDROGEL",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210040101",
+      "term": "CONTACT LENSES - HYDROGEL, SINGLE-USE",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021004010101",
+      "term": "CONTACT LENSES - HYDROGEL, DAILY SINGLE-USE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021004010102",
+      "term": "CONTACT LENSES - HYDROGEL, EXTENDED SINGLE-USE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0210040102",
+      "term": "CONTACT LENSES - HYDROGEL, REUSABLE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100402",
+      "term": "CONTACT LENSES - NON HYDROGEL",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q02100499",
+      "term": "CONTACT LENSES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021099",
+      "term": "CORRECTIVE OPTICAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0211",
+      "term": "OPHTHALMIC SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021101",
+      "term": "OCCULAR IRRIGATION AND ASPIRATION CANNULAS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021102",
+      "term": "OPHTHALMIC SURGERY FORCEPS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021103",
+      "term": "OPHTHALMIC SURGERY SCISSORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021104",
+      "term": "OPHTHALMIC SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021105",
+      "term": "OPHTHALMIC SURGERY NEEDLE HOLDERS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021106",
+      "term": "OPHTHALMIC SURGERY DILATORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021107",
+      "term": "OPHTHALMIC SURGERY RETRACTORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021108",
+      "term": "OPHTHALMIC SURGERY PROBES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021109",
+      "term": "OPHTHALMIC SURGERY SPATULAS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021110",
+      "term": "OPHTHALMIC SURGERY SPOONS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021111",
+      "term": "OCULAR IMPLANT INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021112",
+      "term": "OCULAR ADNEXA INSTRUMENTS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021113",
+      "term": "OPHTHALMIC SURGERY INSTRUMENT KITS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q021199",
+      "term": "OPHTHALMIC SURGERY INSTRUMENTS, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0290",
+      "term": "OPHTHALMIC DEVICES - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q029001",
+      "term": "RIGID MONOCULAR MASKS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q029002",
+      "term": "OPHTHALMOLOGICAL DIAGNOSTIC ELECTRODES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q029003",
+      "term": "CORNEAL PROTECTION MECHANICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0299",
+      "term": "OPHTHALMIC DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03",
+      "term": "ENT DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0301",
+      "term": "NASOPHARYNGEAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030101",
+      "term": "TURBINATE REDUCTION DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03010101",
+      "term": "RADIOFREQUENCY TURBINATE REDUCTION DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03010199",
+      "term": "DEVICES FOR TURBINATE REDUCTION - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030102",
+      "term": "ANTISNORING AND OBSTRUCTIVE SLEEP APNOEA DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03010201",
+      "term": "RADIOFREQUENCY ANTISNORING AND OBSTRUCTIVE SLEEP APNOEA DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03010299",
+      "term": "ANTISNORING AND OBSTRUCTIVE SLEEP APNOEA DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030103",
+      "term": "NASAL IRRIGATION SOLUTIONS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030199",
+      "term": "NASOPHARYNGEAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0302",
+      "term": "EPISTAXIS DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030201",
+      "term": "EPISTAXIS CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030299",
+      "term": "EPISTAXIS DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0303",
+      "term": "ENT SURGERY INSTRUMENTS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030301",
+      "term": "ENT SURGERY BLADES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030302",
+      "term": "ENT SURGERY BURS AND HANDPIECES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030303",
+      "term": "NASAL MIRRORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030304",
+      "term": "ENT SURGERY FORCEPS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030305",
+      "term": "ENT SURGERY SCISSORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030306",
+      "term": "ENT SURGERY CURETTES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030307",
+      "term": "ENT SURGERY DISSECTORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030308",
+      "term": "ENT SURGERY DILATORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030309",
+      "term": "ADENOTOMES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030310",
+      "term": "ENT SURGERY HOOKS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030311",
+      "term": "ENT SURGERY RASPS AND FILES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030312",
+      "term": "ENT SURGERY SPATULAS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030313",
+      "term": "ENT SURGERY PROBES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030314",
+      "term": "ENT SURGERY SPOONS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030315",
+      "term": "ENT SURGERY MANIPULATORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030316",
+      "term": "ENT SURGERY INSTRUMENT KITS NOT INCLUDED IN OTHER CLASSES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030399",
+      "term": "INSTRUMENTS FOR ENT SURGERY, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0304",
+      "term": "OTOLOGY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030401",
+      "term": "EAR DRAINAGE AND VENTILATION DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03040101",
+      "term": "EAR DRAINAGE AND VENTILATION CATHETERS AND CANNULAS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03040102",
+      "term": "ENDOLYMPHATIC SHUNTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03040199",
+      "term": "EAR DRAINAGE AND VENTILATION DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030402",
+      "term": "EAR IRRIGATION DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03040201",
+      "term": "EAR DROPPERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q03040299",
+      "term": "EAR IRRIGATION DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q030499",
+      "term": "OTOLOGY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "Q",
+      "categoryDescription": "DENTAL, OPHTHALMOLOGIC AND ENT DEVICES",
+      "code": "Q0399",
+      "term": "ENT DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    }
+  ]
+}

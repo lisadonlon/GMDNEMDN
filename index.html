@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>European Medical Device Nomenclature Navigator</title>
+    
+    <!-- WHO ICD Embedded Classification Tool -->
+    <link rel="stylesheet" href="https://icdcdn.who.int/embeddedct/icd11ect-1.7.1.css">
+    
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+    "react/": "https://aistudiocdn.com/react@^19.1.1/",
+    "fuse.js": "https://aistudiocdn.com/fuse.js@^7.1.0",
+    "vite": "https://aistudiocdn.com/vite@^7.1.7",
+    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.0.3",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.21.0"
+  }
+}
+</script>
+</head>
+  <body class="bg-slate-900">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+    
+    <!-- WHO ICD Embedded Classification Tool JavaScript -->
+    <script src="https://icdcdn.who.int/embeddedct/icd11ect-1.7.1.js"></script>
+  </body>
+</html>

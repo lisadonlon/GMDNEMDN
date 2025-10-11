@@ -1,0 +1,5 @@
+{
+  "name": "European Medical Device Nomenclature Navigator",
+  "description": "An interactive tool to cross-reference EMDN, GMDN, and reimbursement information across various European HTA (Health Technology Assessment) agencies, based on the provided research report.",
+  "requestFramePermissions": []
+}

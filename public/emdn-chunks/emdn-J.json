@@ -1,0 +1,1232 @@
+{
+  "category": "J",
+  "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+  "entryCount": 153,
+  "terminalCount": 115,
+  "entries": [
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J",
+      "term": "ACTIVE-IMPLANTABLE DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01",
+      "term": "CARDIAC FUNCTIONALITY IMPLANTABLE DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0101",
+      "term": "IMPLANTABLE PACEMAKERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010101",
+      "term": "IMPLANTABLE SINGLE CHAMBER PACEMAKERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01010101",
+      "term": "IMPLANTABLE SINGLE CHAMBER PACEMAKERS (SC)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01010102",
+      "term": "IMPLANTABLE SINGLE CHAMBER PACEMAKERS WITH SENSOR (SR)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010102",
+      "term": "IMPLANTABLE SINGLE LEAD PACEMAKERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01010201",
+      "term": "IMPLANTABLE SINGLE LEAD VDD PACEMAKERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01010202",
+      "term": "IMPLANTABLE SINGLE LEAD VDDR PACEMAKERS WITH SENSOR",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010103",
+      "term": "IMPLANTABLE DUAL CHAMBER PACEMAKERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01010301",
+      "term": "IMPLANTABLE DUAL CHAMBER PACEMAKERS (DC)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01010302",
+      "term": "IMPLANTABLE DUAL CHAMBER PACEMAKERS WITH SENSOR (DR)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010104",
+      "term": "IMPLANTABLE TRIPLE CHAMBER PACEMAKERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01010401",
+      "term": "IMPLANTABLE TRIPLE CHAMBER PACEMAKERS FOR CARDIAC RESYNCHRONIZATION (TR)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010105",
+      "term": "IMPLANTABLE PACEMAKERS WITH INCORPORATED ELECTRODES (LEADLESS)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010180",
+      "term": "IMPLANTABLE PACEMAKERS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010199",
+      "term": "IMPLANTABLE PACEMAKERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0102",
+      "term": "IMPLANTABLE CARDIAC DIAGNOSTIC DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010201",
+      "term": "IMPLANTABLE DIAGNOSTIC ARRHYTHMIAS RECORDING CARDIAC DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010280",
+      "term": "CARDIAC DIAGNOSTIC DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010299",
+      "term": "CARDIAC DIAGNOSTIC DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0103",
+      "term": "IMPLANTABLE VENTRICULAR ASSISTANCE SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010301",
+      "term": "IMPLANTABLE MONOVENTRICULAR AND BIVENTRICULAR ASSISTANCE SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01030101",
+      "term": "IMPLANTABLE RIGHT MONOVENTRICULAR ASSISTANCE SYSTEMS (RVAD)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01030102",
+      "term": "IMPLANTABLE LEFT MONOVENTRICULAR ASSISTANCE SYSTEMS (LVAD)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01030103",
+      "term": "IMPLANTABLE BIVENTRICULAR ASSISTANCE SYSTEMS (BIVAD)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010380",
+      "term": "IMPLANTABLE VENTRICULAR ASSISTANCE SYSTEMS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010399",
+      "term": "IMPLANTABLE VENTRICULAR ASSISTANCE SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0104",
+      "term": "IMPLANTABLE ARTIFICIAL HEART AND IMPLANT KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010401",
+      "term": "IMPLANTABLE ARTIFICIAL HEART AND IMPLANT KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010480",
+      "term": "IMPLANTABLE ARTIFICIAL HEART AND IMPLANT KITS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010499",
+      "term": "IMPLANTABLE ARTIFICIAL HEART AND IMPLANT KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0105",
+      "term": "IMPLANTABLE DEFIBRILLATORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010501",
+      "term": "IMPLANTABLE SINGLE CHAMBER DEFIBRILLATORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01050101",
+      "term": "IMPLANTABLE SINGLE CHAMBER DEFIBRILLATORS, WITH SENSORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010502",
+      "term": "IMPLANTABLE DUAL CHAMBER DEFIBRILLATORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01050201",
+      "term": "IMPLANTABLE DUAL CHAMBER DEFIBRILLATORS, WITH SENSORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010503",
+      "term": "IMPLANTABLE TRIPLE CHAMBER DEFIBRILLATORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01050301",
+      "term": "IMPLANTABLE TRIPLE CHAMBER DEFIBRILLATORS, WITH SENSORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010504",
+      "term": "SUBCUTANEOUS IMPLANTABLE DEFIBRILLATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010580",
+      "term": "IMPLANTABLE DEFIBRILLATORS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010599",
+      "term": "IMPLANTABLE DEFIBRILLATORS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0106",
+      "term": "CARDIAC CONTRACTILITY MODULATION IMPLANTABLE DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0107",
+      "term": "ACTIVE IMPLANTABLE CARDIAC DEVICES REMOTE MONITORING SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010701",
+      "term": "PULMONARY BLOOD PRESSURE REMOTE MONITORING SYSTEMS (INCLUDING SENSORS)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010702",
+      "term": "PACEMAKER AND IMPLANTABLE DEFIBRILLATOR REMOTE MONITORING SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010780",
+      "term": "ACTIVE IMPLANTABLE CARDIAC DEVICES REMOTE MONITORING SYSTEMS - HARDWARE ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010782",
+      "term": "ACTIVE IMPLANTABLE CARDIAC DEVICES REMOTE MONITORING SYSTEMS - SOFTWARE ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010792",
+      "term": "ACTIVE IMPLANTABLE CARDIAC DEVICES REMOTE MONITORING SYSTEMS - MEDICAL DEVICE SOFTWARE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J010799",
+      "term": "ACTIVE IMPLANTABLE CARDIAC DEVICES REMOTE MONITORING SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0190",
+      "term": "IMPLANTABLE CARDIAC DEVICES - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019001",
+      "term": "PERMANENT CARDIAC LEADS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900101",
+      "term": "PERMANENT PACEMAKER LEADS (WITH OR W/O STEROID-ELUTION)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0190010101",
+      "term": "ENDOCARDIAL ATRIAL AND VENTRICULAR LEADS, UNIPOLAR",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019001010101",
+      "term": "ATRIAL LEADS, PASSIVE FIXATION",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019001010102",
+      "term": "VENTRICULAR LEADS, PASSIVE FIXATION",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0190010102",
+      "term": "ENDOCARDIAL ATRIAL AND VENTRICULAR LEADS, BIPOLAR (WITH ACTIVE OR PASSIVE FIXATION)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0190010103",
+      "term": "LEFT VENTRICULAR LEADS WITH CORONARY SINUS CANNULATION SYSTEM (TRIPLE CHAMBER P.M.)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0190010104",
+      "term": "ENDOCARDIAL PACEMAKER LEADS, SINGLE-LEAD",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0190010105",
+      "term": "EPICARDIAL PERMANENT CARDIAC LEADS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900102",
+      "term": "PERMANENT DEFIBRILLATOR LEADS (STEROID RELEASE INCLUDED)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0190010201",
+      "term": "PERMANENT PACING AND DEFIBRILLATION RIGHT VENTRICULAR LEADS (WITH ACTIVE AND PASSIVE FIXATION)",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019001020101",
+      "term": "PERMANENT CARDIAC DEFIBRILLATOR LEADS, SINGLE COIL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019001020102",
+      "term": "PERMANENT CARDIAC DEFIBRILLATOR LEADS, DOUBLE COIL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019001020199",
+      "term": "PERMANENT PACING AND DEFIBRILLATION RIGHT VENTRICULAR LEADS - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0190010202",
+      "term": "PERMANENT SUBCUTANEOUS DEFIBRILLATOR LEADS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900180",
+      "term": "PERMANENT CARDIAC LEADS - ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900199",
+      "term": "PERMANENT CARDIAC LEADS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019002",
+      "term": "IMPLANTABLE CARDIAC DEVICES PROGRAMMERS AND ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900203",
+      "term": "IMPLANTABLE CARDIAC DEVICES PROGRAMMERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900280",
+      "term": "IMPLANTABLE CARDIAC DEVICES PROGRAMMERS - HARDWARE ACCESSORY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900282",
+      "term": "IMPLANTABLE CARDIAC DEVICES PROGRAMMERS - SOFTWARE ACCESSORY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900285",
+      "term": "IMPLANTABLE CARDIAC DEVICES PROGRAMMERS - CONSUMABLES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J01900292",
+      "term": "IMPLANTABLE CARDIAC DEVICES PROGRAMMERS - MEDICAL DEVICE SOFTWARE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019003",
+      "term": "ACTIVE-IMPLANTABLE CARDIAC SYSTEMS MAGNETISED DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019004",
+      "term": "ACTIVE-IMPLANTABLE CARDIAC SYSTEMS ADAPTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019005",
+      "term": "CARDIAC LEADS EXTRACTION SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J019099",
+      "term": "IMPLANTABLE CARDIAC DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J02",
+      "term": "IMPLANTABLE NEUROSTIMULATORS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0201",
+      "term": "CEREBRAL IMPLANTABLE NEUROSTIMULATORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020101",
+      "term": "DEEP BRAIN STIMULATION (DBS) IMPLANTABLE NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J02010101",
+      "term": "DEEP BRAIN STIMULATION (DBS) IMPLANTABLE NEUROSTIMULATORS, RECHARGEABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J02010102",
+      "term": "DEEP BRAIN STIMULATION (DBS) IMPLANTABLE NEUROSTIMULATORS, NOT RECHARGEABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020102",
+      "term": "DEEP BRAIN STIMULATION (DBS) LEADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020180",
+      "term": "CEREBRAL IMPLANTABLE NEUROSTIMULATORS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020199",
+      "term": "CEREBRAL IMPLANTABLE NEUROSTIMULATORS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0202",
+      "term": "SPINAL IMPLANTABLE NEUROSTIMULATORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020201",
+      "term": "RADIOFREQUENCY IMPLANTABLE SPINAL NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020202",
+      "term": "FULLY IMPLANTABLE SPINAL NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J02020201",
+      "term": "FULLY IMPLANTABLE SPINAL NEUROSTIMULATORS, RECHARGEABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J02020202",
+      "term": "FULLY IMPLANTABLE SPINAL NEUROSTIMULATORSS, NOT RECHARGEABLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020203",
+      "term": "SPINAL NEUROSTIMULATION LEADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020280",
+      "term": "SPINAL IMPLANTABLE NEUROSTIMULATORS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020299",
+      "term": "SPINAL IMPLANTABLE NEUROSTIMULATORS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0203",
+      "term": "VAGAL IMPLANTABLE NEUROSTIMULATORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020301",
+      "term": "DRUG-RESISTANT EPILEPSY NON-SURGICAL THERAPY IMPLANTABLE NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020302",
+      "term": "VAGAL NEUROSTIMULATION LEADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020380",
+      "term": "VAGAL IMPLANTABLE NEUROSTIMULATORS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020399",
+      "term": "VAGAL IMPLANTABLE NEUROSTIMULATORS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0204",
+      "term": "SACRAL SPINE IMPLANTABLE NEUROSTIMULATORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020401",
+      "term": "BLADDER INCONTINENCE NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020402",
+      "term": "INTESTINAL INCONTINENCE NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020403",
+      "term": "SACRAL SPINE NEUROSTIMULATION LEADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020480",
+      "term": "SACRAL SPINE IMPLANTABLE NEUROSTIMULATORS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020499",
+      "term": "SACRAL SPINE IMPLANTABLE NEUROSTIMULATORS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0206",
+      "term": "FRENIC NERVE IMPLANTABLE NEUROSTIMULATORS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0207",
+      "term": "NEUROSTIMULATORS PROGRAMMERS AND ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020701",
+      "term": "NEUROSTIMULATORS PROGRAMMERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020780",
+      "term": "NEUROSTIMULATORS PROGRAMMERS - HARDWARE ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020782",
+      "term": "NEUROSTIMULATORS PROGRAMMERS - SOFTWARE ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020785",
+      "term": "NEUROSTIMULATORS PROGRAMMERS - CONSUMABLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020792",
+      "term": "NEUROSTIMULATORS PROGRAMMERS - MEDICAL DEVICE SOFTWARE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0208",
+      "term": "GASTRIC IMPLANTABLE NEUROSTIMULATORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020801",
+      "term": "INFERIOR ESOPHAGEAL SPHINCTER IMPLANTABLE NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020802",
+      "term": "GASTRIC IMPLANTABLE OBESITY TREATMENT NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020803",
+      "term": "GASTRIC IMPLANTABLE NAUSEA THERAPY NEUROSTIMULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J020804",
+      "term": "GASTRIC NEUROSTIMULATION LEADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0209",
+      "term": "CAROTID SINUS IMPLANTABLE NEUROSTIMULATORS AND LEADS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0210",
+      "term": "PERIPHERAL NERVE IMPLANTABLE NEUROSTIMULATORS AND PAIN THERAPY LEADS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0211",
+      "term": "SLEEP APNEA TREATMENT IMPLANTABLE NEUROSTIMULATORS AND LEADS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0280",
+      "term": "IMPLANTABLE NEUROSTIMULATORS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0299",
+      "term": "IMPLANTABLE NEUROSTIMULATORS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J03",
+      "term": "AUDITORY ACTIVE-IMPLANTABLE DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0301",
+      "term": "COCHLEAR IMPLANTABLE DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0302",
+      "term": "MIDDLE EAR ACTIVE-IMPLANTABLE DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0303",
+      "term": "PROFOUND DEAFNESS BRAINSTEM ACTIVE-IMPLANTABLE DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0380",
+      "term": "AUDITORY ACTIVE-IMPLANTABLE DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0399",
+      "term": "AUDITORY ACTIVE-IMPLANTABLE DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J04",
+      "term": "IMPLANTABLE PUMPS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0401",
+      "term": "IMPLANTABLE PUMPS, ELECTRONIC",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0402",
+      "term": "IMPLANTABLE PUMPS, MECHANICAL",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0403",
+      "term": "IMPLANTABLE PUMPS PROGRAMMERS AND ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J040301",
+      "term": "IMPLANTABLE PUMPS PROGRAMMERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J040380",
+      "term": "IMPLANTABLE PUMPS PROGRAMMERS - HARDWARE ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J040382",
+      "term": "IMPLANTABLE PUMPS PROGRAMMERS - SOFTWARE ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J040385",
+      "term": "IMPLANTABLE PUMPS PROGRAMMERS - CONSUMABLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J040392",
+      "term": "IMPLANTABLE PUMPS PROGRAMMERS - MEDICAL DEVICE SOFTWARE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0480",
+      "term": "IMPLANTABLE PUMPS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0499",
+      "term": "IMPLANTABLE PUMPS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J05",
+      "term": "BRACHYTHERAPY IMPLANTABLE DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0501",
+      "term": "BRACHYTHERAPY SOURCES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0502",
+      "term": "BRACHYTHERAPY ADMINISTRATION KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0580",
+      "term": "IMPLANTABLE BRACHYTHERAPY DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J06",
+      "term": "ACTIVE IMPLANTABLE GLUCOSE MONITORING SYSTEMS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0601",
+      "term": "IMPLANTABLE GLUCOSE MONITORING SENSORS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0602",
+      "term": "ACTIVE IMPLANTABLE GLUCOSE MONITORING SYSTEM TRANSMITTERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0680",
+      "term": "ACTIVE IMPLANTABLE GLUCOSE MONITORING SYSTEMS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J07",
+      "term": "OPHTHALMOLOGICAL USE ACTIVE IMPLANTABLE DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0701",
+      "term": "ACTIVE RETINAL IMPLANTABLE DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0702",
+      "term": "INTRAOCULAR PRESSURE MONITORING IMPLANTABLE DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0780",
+      "term": "OPHTHALMOLOGICAL USE ACTIVE IMPLANTABLE DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J0799",
+      "term": "OPHTHALMOLOGICAL USE ACTIVE IMPLANTABLE DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "J",
+      "categoryDescription": "ACTIVE-IMPLANTABLE DEVICES",
+      "code": "J99",
+      "term": "ACTIVE-IMPLANTABLE DEVICES - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

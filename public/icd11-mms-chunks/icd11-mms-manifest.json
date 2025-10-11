@@ -1,0 +1,322 @@
+{
+  "linearization": "mms",
+  "totalEntries": 37042,
+  "totalChunks": 38,
+  "maxEntriesPerChunk": 1000,
+  "stats": {
+    "totalEntries": 37042,
+    "chapters": 28,
+    "blocks": 1417,
+    "categories": 35597,
+    "depthDistribution": {
+      "1": 12816,
+      "2": 13727,
+      "3": 6893,
+      "4": 2304,
+      "5": 936,
+      "6": 237,
+      "7": 127,
+      "8": 2
+    },
+    "chapterNumbers": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "V",
+      "X"
+    ]
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "file": "icd11-mms-chunk-0.json",
+      "entryCount": 1000,
+      "startIndex": 0,
+      "endIndex": 999
+    },
+    {
+      "index": 1,
+      "file": "icd11-mms-chunk-1.json",
+      "entryCount": 1000,
+      "startIndex": 1000,
+      "endIndex": 1999
+    },
+    {
+      "index": 2,
+      "file": "icd11-mms-chunk-2.json",
+      "entryCount": 1000,
+      "startIndex": 2000,
+      "endIndex": 2999
+    },
+    {
+      "index": 3,
+      "file": "icd11-mms-chunk-3.json",
+      "entryCount": 1000,
+      "startIndex": 3000,
+      "endIndex": 3999
+    },
+    {
+      "index": 4,
+      "file": "icd11-mms-chunk-4.json",
+      "entryCount": 1000,
+      "startIndex": 4000,
+      "endIndex": 4999
+    },
+    {
+      "index": 5,
+      "file": "icd11-mms-chunk-5.json",
+      "entryCount": 1000,
+      "startIndex": 5000,
+      "endIndex": 5999
+    },
+    {
+      "index": 6,
+      "file": "icd11-mms-chunk-6.json",
+      "entryCount": 1000,
+      "startIndex": 6000,
+      "endIndex": 6999
+    },
+    {
+      "index": 7,
+      "file": "icd11-mms-chunk-7.json",
+      "entryCount": 1000,
+      "startIndex": 7000,
+      "endIndex": 7999
+    },
+    {
+      "index": 8,
+      "file": "icd11-mms-chunk-8.json",
+      "entryCount": 1000,
+      "startIndex": 8000,
+      "endIndex": 8999
+    },
+    {
+      "index": 9,
+      "file": "icd11-mms-chunk-9.json",
+      "entryCount": 1000,
+      "startIndex": 9000,
+      "endIndex": 9999
+    },
+    {
+      "index": 10,
+      "file": "icd11-mms-chunk-10.json",
+      "entryCount": 1000,
+      "startIndex": 10000,
+      "endIndex": 10999
+    },
+    {
+      "index": 11,
+      "file": "icd11-mms-chunk-11.json",
+      "entryCount": 1000,
+      "startIndex": 11000,
+      "endIndex": 11999
+    },
+    {
+      "index": 12,
+      "file": "icd11-mms-chunk-12.json",
+      "entryCount": 1000,
+      "startIndex": 12000,
+      "endIndex": 12999
+    },
+    {
+      "index": 13,
+      "file": "icd11-mms-chunk-13.json",
+      "entryCount": 1000,
+      "startIndex": 13000,
+      "endIndex": 13999
+    },
+    {
+      "index": 14,
+      "file": "icd11-mms-chunk-14.json",
+      "entryCount": 1000,
+      "startIndex": 14000,
+      "endIndex": 14999
+    },
+    {
+      "index": 15,
+      "file": "icd11-mms-chunk-15.json",
+      "entryCount": 1000,
+      "startIndex": 15000,
+      "endIndex": 15999
+    },
+    {
+      "index": 16,
+      "file": "icd11-mms-chunk-16.json",
+      "entryCount": 1000,
+      "startIndex": 16000,
+      "endIndex": 16999
+    },
+    {
+      "index": 17,
+      "file": "icd11-mms-chunk-17.json",
+      "entryCount": 1000,
+      "startIndex": 17000,
+      "endIndex": 17999
+    },
+    {
+      "index": 18,
+      "file": "icd11-mms-chunk-18.json",
+      "entryCount": 1000,
+      "startIndex": 18000,
+      "endIndex": 18999
+    },
+    {
+      "index": 19,
+      "file": "icd11-mms-chunk-19.json",
+      "entryCount": 1000,
+      "startIndex": 19000,
+      "endIndex": 19999
+    },
+    {
+      "index": 20,
+      "file": "icd11-mms-chunk-20.json",
+      "entryCount": 1000,
+      "startIndex": 20000,
+      "endIndex": 20999
+    },
+    {
+      "index": 21,
+      "file": "icd11-mms-chunk-21.json",
+      "entryCount": 1000,
+      "startIndex": 21000,
+      "endIndex": 21999
+    },
+    {
+      "index": 22,
+      "file": "icd11-mms-chunk-22.json",
+      "entryCount": 1000,
+      "startIndex": 22000,
+      "endIndex": 22999
+    },
+    {
+      "index": 23,
+      "file": "icd11-mms-chunk-23.json",
+      "entryCount": 1000,
+      "startIndex": 23000,
+      "endIndex": 23999
+    },
+    {
+      "index": 24,
+      "file": "icd11-mms-chunk-24.json",
+      "entryCount": 1000,
+      "startIndex": 24000,
+      "endIndex": 24999
+    },
+    {
+      "index": 25,
+      "file": "icd11-mms-chunk-25.json",
+      "entryCount": 1000,
+      "startIndex": 25000,
+      "endIndex": 25999
+    },
+    {
+      "index": 26,
+      "file": "icd11-mms-chunk-26.json",
+      "entryCount": 1000,
+      "startIndex": 26000,
+      "endIndex": 26999
+    },
+    {
+      "index": 27,
+      "file": "icd11-mms-chunk-27.json",
+      "entryCount": 1000,
+      "startIndex": 27000,
+      "endIndex": 27999
+    },
+    {
+      "index": 28,
+      "file": "icd11-mms-chunk-28.json",
+      "entryCount": 1000,
+      "startIndex": 28000,
+      "endIndex": 28999
+    },
+    {
+      "index": 29,
+      "file": "icd11-mms-chunk-29.json",
+      "entryCount": 1000,
+      "startIndex": 29000,
+      "endIndex": 29999
+    },
+    {
+      "index": 30,
+      "file": "icd11-mms-chunk-30.json",
+      "entryCount": 1000,
+      "startIndex": 30000,
+      "endIndex": 30999
+    },
+    {
+      "index": 31,
+      "file": "icd11-mms-chunk-31.json",
+      "entryCount": 1000,
+      "startIndex": 31000,
+      "endIndex": 31999
+    },
+    {
+      "index": 32,
+      "file": "icd11-mms-chunk-32.json",
+      "entryCount": 1000,
+      "startIndex": 32000,
+      "endIndex": 32999
+    },
+    {
+      "index": 33,
+      "file": "icd11-mms-chunk-33.json",
+      "entryCount": 1000,
+      "startIndex": 33000,
+      "endIndex": 33999
+    },
+    {
+      "index": 34,
+      "file": "icd11-mms-chunk-34.json",
+      "entryCount": 1000,
+      "startIndex": 34000,
+      "endIndex": 34999
+    },
+    {
+      "index": 35,
+      "file": "icd11-mms-chunk-35.json",
+      "entryCount": 1000,
+      "startIndex": 35000,
+      "endIndex": 35999
+    },
+    {
+      "index": 36,
+      "file": "icd11-mms-chunk-36.json",
+      "entryCount": 1000,
+      "startIndex": 36000,
+      "endIndex": 36999
+    },
+    {
+      "index": 37,
+      "file": "icd11-mms-chunk-37.json",
+      "entryCount": 42,
+      "startIndex": 37000,
+      "endIndex": 37041
+    }
+  ],
+  "generatedAt": "2025-10-07T13:09:48.685Z",
+  "version": "1.0.0"
+}

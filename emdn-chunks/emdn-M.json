@@ -1,0 +1,2040 @@
+{
+  "category": "M",
+  "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+  "entryCount": 254,
+  "terminalCount": 176,
+  "entries": [
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M",
+      "term": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M01",
+      "term": "COTTON AND SYNTHETIC WADDING",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0101",
+      "term": "COTTON WADDING",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M010101",
+      "term": "HYDROPHILIC COTTON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M010102",
+      "term": "PURE COTTON",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M010103",
+      "term": "COTTON PAD",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M010199",
+      "term": "COTTON WADDING - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0102",
+      "term": "ORTHOPAEDIC WADDING",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M010201",
+      "term": "ORTHOPAEDICS COTTON WADDING",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M010202",
+      "term": "SYNTHETIC WOOL WADDING",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M01020201",
+      "term": "SYNTHETIC WOOL WADDING RUBBERISED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M01020202",
+      "term": "SYNTHETIC WOOL WADDING NON-RUBBERISED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M010203",
+      "term": "PADDING FELT",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M010299",
+      "term": "ORTHOPAEDIC WADDING - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0199",
+      "term": "WOOL AND SYNTHETIC COTTON - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02",
+      "term": "GAUZES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201",
+      "term": "COTTON GAUZES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020101",
+      "term": "COTTON GAUZES, CUT",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02010101",
+      "term": "COTTON GAUZES, CUT, WITHOUT X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201010101",
+      "term": "COTTON GAUZE, CUT, WITHOUT X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201010102",
+      "term": "COTTON GAUZES, CUT, WITHOUT X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02010102",
+      "term": "COTTON GAUZES, CUT, WITH X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201010201",
+      "term": "COTTON GAUZES, CUT, WITH X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201010202",
+      "term": "COTTON GAUZES, CUT, WITH X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020102",
+      "term": "COTTON GAUZES, FOLDED",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02010201",
+      "term": "COTTON GAUZES, FOLDED, WITHOUT X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201020101",
+      "term": "COTTON GAUZES, FOLDED, WITHOUT X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201020102",
+      "term": "COTTON GAUZES, FOLDED, WITHOUT X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02010202",
+      "term": "COTTON GAUZES, FOLDED, WITH X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201020201",
+      "term": "COTTON GAUZES, FOLDED, WITH X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201020202",
+      "term": "COTTON GAUZES, FOLDED, WITH X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020103",
+      "term": "LAPAROTOMY COTTON GAUZES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02010301",
+      "term": "LAPAROTOMY COTTON GAUZES, WITHOUT X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201030101",
+      "term": "LAPAROTOMY COTTON GAUZES, WITHOUT X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201030102",
+      "term": "LAPAROTOMY COTTON GAUZES, WITHOUT X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02010302",
+      "term": "LAPAROTOMY COTTON GAUZES, WITH X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201030201",
+      "term": "LAPAROTOMY COTTON GAUZES, WITH X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201030202",
+      "term": "LAPAROTOMY COTTON GAUZES, WITH X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020104",
+      "term": "STARCHED COTTON GAUZES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020105",
+      "term": "COTTON GAUZE PADS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02010501",
+      "term": "COTTON GAUZE PADS, WITHOUT X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201050101",
+      "term": "COTTON GAUZE PADS, WITHOUT X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201050102",
+      "term": "COTTON GAUZE PADS, WITH X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02010502",
+      "term": "COTTON GAUZE PADS, WITH X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201050201",
+      "term": "COTTON GAUZE PADS, WITH X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0201050202",
+      "term": "COTTON GAUZE PADS, WITH X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020106",
+      "term": "COTTON GAUZES IN PIECES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020107",
+      "term": "COTTON GAUZES IN ROLLS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020199",
+      "term": "COTTON GAUZES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202",
+      "term": "NON-WOVEN GAUZES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020201",
+      "term": "NON-WOVEN FOLDED GAUZES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02020101",
+      "term": "NON-WOVEN FOLDED GAUZES, WITHOUT X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202010101",
+      "term": "NON-WOVEN FOLDED GAUZES, WITHOUT X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202010102",
+      "term": "NON-WOVEN FOLDED GAUZES, WITHOUT X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02020102",
+      "term": "NON-WOVEN FOLDED GAUZES, WITH X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202010201",
+      "term": "NON-WOVEN FOLDED GAUZES, WITH X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202010202",
+      "term": "NON-WOVEN FOLDED GAUZES, WITH X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020202",
+      "term": "NON-WOVEN LAPAROTOMY GAUZES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02020201",
+      "term": "NON-WOVEN LAPAROTOMY GAUZES, WITHOUT X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202020101",
+      "term": "NON-WOVEN LAPAROTOMY GAUZES, WITHOUT X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202020102",
+      "term": "NON-WOVEN LAPAROTOMY GAUZES, WITHOUT X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02020202",
+      "term": "NON-WOVEN LAPAROTOMY GAUZES, WITH X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202020201",
+      "term": "NON-WOVEN LAPAROTOMY GAUZES, WITH X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202020202",
+      "term": "NON-WOVEN LAPAROTOMY GAUZES, WITH X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020203",
+      "term": "NON-WOVEN GAUZE PADS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02020301",
+      "term": "NON-WOVEN GAUZE PADS, WITHOUT X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202030101",
+      "term": "NON-WOVEN GAUZE PADS, WITHOUT X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202030102",
+      "term": "NON-WOVEN GAUZE PADS, WITHOUT X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02020302",
+      "term": "NON-WOVEN GAUZE PADS, WITH X-RAY DETECTABLE THREAD",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202030201",
+      "term": "NON-WOVEN GAUZE PADS, WITH X-RAY DETECTABLE THREAD, STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0202030202",
+      "term": "NON-WOVEN GAUZE PADS, WITH X-RAY DETECTABLE THREAD, NON-STERILE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020204",
+      "term": "NON-WOVEN GAUZES IN PIECES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020205",
+      "term": "NON-WOVEN GAUZES IN ROLLS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020299",
+      "term": "NON-WOVEN GAUZES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0203",
+      "term": "MEDICATED GAUZES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020301",
+      "term": "IODOFORM GAUZES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020302",
+      "term": "IMPREGNATED GAUZES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02030201",
+      "term": "GAUZE IMPREGNATED WITHOUT ANTISEPTIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M02030202",
+      "term": "GAUZE IMPREGNATED WITH ANTISEPTIC",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M020399",
+      "term": "MEDICATED GAUZES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0299",
+      "term": "GAUZES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03",
+      "term": "BANDAGES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0301",
+      "term": "HYDROPHILIC AND NON-WOVEN GAUZE BANDAGES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030101",
+      "term": "HYDROPHILIC GAUZE BANDAGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030102",
+      "term": "NON-WOVEN BANDAGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0302",
+      "term": "MEDICATED BANDAGES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030201",
+      "term": "IODOFORM MEDICATED BANDAGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030202",
+      "term": "MEDICATED BANDAGES, WITH ZINC OXIDE AND OTHER COMPONENTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03020201",
+      "term": "MEDICATED BANDAGES, WITH ZINC OXIDE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03020202",
+      "term": "MEDICATED BANDAGES, WITH ZINC OXIDE AND AMMONIUM BITUMINOSULFONATE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03020299",
+      "term": "MEDICATED BANDAGES, WITH ZINC OXIDE AND OTHER COMPONENTS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030299",
+      "term": "MEDICATED BANDAGES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0303",
+      "term": "ELASTIC FIXING OR PROTECTION BANDAGES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030301",
+      "term": "ELASTIC FIXING BANDAGES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03030101",
+      "term": "ELASTIC FIXING BANDAGES, NON-ADHESIVE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0303010101",
+      "term": "ELASTIC FIXING BANDAGES, NON-ADHESIVE, EXTENSIBLE IN ONE DIRECTION",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0303010103",
+      "term": "ELASTIC FIXING BANDAGES, NON-ADHESIVE, EXTENSIBLE IN TWO DIRECTIONS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03030102",
+      "term": "ELASTIC FIXING BANDAGES, SELF-ADHESIVE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0303010201",
+      "term": "ELASTIC FIXING BANDAGES, SELF-ADHESIVE, EXTENSIBLE IN ONE DIRECTION",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0303010203",
+      "term": "ELASTIC FIXING BANDAGES, SELF-ADHESIVE, EXTENSIBLE IN TWO DIRECTIONS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03030103",
+      "term": "TUBULAR NET BANDAGES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03030199",
+      "term": "ELASTIC FIXING BANDAGES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030302",
+      "term": "PROTECTION SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03030201",
+      "term": "TUBULAR MESH",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03030202",
+      "term": "SKIN PROTECTIVE BANDAGES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03030203",
+      "term": "FOAM PADS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03030299",
+      "term": "PROTECTION SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304",
+      "term": "ELASTIC BANDAGES, SUPPORT AND COMPRESSION",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030401",
+      "term": "ELASTIC COMPRESSION BANDAGES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03040101",
+      "term": "ELASTIC COMPRESSION BANDAGES, NON-ADHESIVE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010101",
+      "term": "ELASTIC COMPRESSION BANDAGES, NON-ADHESIVE, LOW EXTENSIBILITY (<70%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010102",
+      "term": "ELASTIC COMPRESSION BANDAGES, NON-ADHESIVE, MEDIUM EXTENSIBILITY (70-140%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010103",
+      "term": "ELASTIC COMPRESSION BANDAGES, NON-ADHESIVE, HIGH EXTENSIBILITY (>140%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03040102",
+      "term": "ELASTIC COMPRESSION BANDAGES, COHESIVE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010201",
+      "term": "ELASTIC COMPRESSION BANDAGES, COHESIVE, LOW EXTENSIBILITY (<70%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010202",
+      "term": "ELASTIC COMPRESSION BANDAGES, COHESIVE, MEDIUM EXTENSIBILITY (70-140%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010203",
+      "term": "ELASTIC COMPRESSION BANDAGES, COHESIVE, HIGH EXTENSIBILITY (>140%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03040103",
+      "term": "ELASTIC COMPRESSION BANDAGES, ADHESIVE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010301",
+      "term": "ELASTIC COMPRESSION BANDAGES, ADHESIVE, LOW EXTENSIBILITY (<70%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010302",
+      "term": "ELASTIC COMPRESSION BANDAGES, ADHESIVE, MEDIUM EXTENSIBILITY (70-140%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304010303",
+      "term": "ELASTIC COMPRESSION BANDAGES, ADHESIVE, HIGH EXTENSIBILITY (> 140%)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03040199",
+      "term": "ELASTIC COMPRESSION BANDAGES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030402",
+      "term": "ELASTIC SUPPORT BANDAGES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03040201",
+      "term": "ELASTIC SUPPORT BANDAGES, NON-ADHESIVE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304020101",
+      "term": "ELASTIC SUPPORT BANDAGES, NON-ADHESIVE, HIGH EXTENSIBILITY (>140%)",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030402010101",
+      "term": "ELASTIC SUPPORT BANDAGES, NON-ADHESIVE, EXTENSIBLE IN ONE DIRECTION, HIGH EXTENSIBILITY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030402010103",
+      "term": "ELASTIC SUPPORT BANDAGES, NON-ADHESIVE, EXTENSIBLE IN TWO DIRECTIONS, HIGH EXTENSIBILITY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03040202",
+      "term": "ELASTIC SUPPORT BANDAGES, COHESIVE (SELF-ADHESIVE)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304020201",
+      "term": "ELASTIC SUPPORT BANDAGES, COHESIVE, HIGH EXTENSIBILITY (>140%)",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030402020101",
+      "term": "ELASTIC SUPPORT BANDAGES, COHESIVE, EXTENSIBLE IN ONE DIRECTION, HIGH EXTENSIBILITY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030402020103",
+      "term": "ELASTIC SUPPORT BANDAGES, COHESIVE, EXTENSIBLE IN TWO DIRECTIONS, HIGH EXTENSIBILITY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03040203",
+      "term": "ELASTIC SUPPORT BANDAGES, ADHESIVE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0304020301",
+      "term": "ELASTIC SUPPORT BANDAGES, ADHESIVE, HIGH EXTENSIBILITY (>140%)",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030402030102",
+      "term": "ELASTIC SUPPORT BANDAGES, ADHESIVE EXTENSIBLE IN ONE DIRECTION, HIGH EXTENSIBILITY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030402030103",
+      "term": "ELASTIC SUPPORT BANDAGES, ADHESIVE, EXTENSIBLE IN TWO DIRECTIONS, HIGH EXTENSIBILITY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03040299",
+      "term": "ELASTIC SUPPORT BANDAGES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030403",
+      "term": "FUNCTIONAL BANDAGES WITH ANELASTIC TAPES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030404",
+      "term": "DIALYSIS FISTULA, BANDAGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030405",
+      "term": "COMPRESSION STOCKINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030499",
+      "term": "ELASTIC BANDAGES, SUPPORT AND COMPRESSION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0305",
+      "term": "IMMOBILISATION SYSTEMS AND DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030501",
+      "term": "IMMOBILISATION BANDAGES FOR SHOULDER, ARM AND COLLARBONE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030502",
+      "term": "BANDAGES AND SPLINTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03050201",
+      "term": "NATURAL CAST BANDAGES AND SPLINTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03050202",
+      "term": "SYNTHETIC CAST BANDAGES AND SPLINTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M03050299",
+      "term": "BANDAGES AND SPLINTS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030503",
+      "term": "SKIN TRACTION SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030504",
+      "term": "IMMOBILISATION SYSTEMS, MOULDABLE UNDER COLD AND HOT TEMPRATURES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030505",
+      "term": "ZIMMER SPLINTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030506",
+      "term": "FERULES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M030599",
+      "term": "IMMOBILISATION SYSTEMS AND DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0399",
+      "term": "BANDAGES - OTHER (see Y06 for collars, tutors, etc.)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04",
+      "term": "SPECIAL DRESSINGS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0401",
+      "term": "PREPARED DRESSINGS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040101",
+      "term": "ADHESIVE DRESSINGS, WITH ABSORBENT PAD",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04010101",
+      "term": "NON-WOVEN ADHESIVE DRESSINGS, WITH ABSORBENT PAD",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04010102",
+      "term": "POLYURETHANE (OR OTHER MATERIAL) ADHESIVE DRESSINGS, WITH ABSORBENT PAD",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04010199",
+      "term": "ADHESIVE DRESSINGS, WITH ABSORBENT PAD - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040102",
+      "term": "FIXING DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04010201",
+      "term": "NON-WOVEN FIXING DRESSINGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04010202",
+      "term": "POLYURETHANE FIXING DRESSINGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04010203",
+      "term": "SILICONE DRESSINGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04010299",
+      "term": "FIXING DRESSINGS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040199",
+      "term": "PREPARED DRESSINGS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0402",
+      "term": "NON-ADHESIVE ABSORBENT DRESSINGS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040201",
+      "term": "ABSORBENT DRESSINGS WITH CELLULOSE PAD AND NON-WOVEN WRAPS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040202",
+      "term": "ALUMINIUM NON-WOVEN ABSORBENT DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040203",
+      "term": "TRACHEOSTOMY DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040204",
+      "term": "NON-ADHERENT ABSORBENT DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040299",
+      "term": "NON-ADHESIVE ABSORBENT DRESSINGS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0403",
+      "term": "OPHTHALMIC DRESSINGS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040301",
+      "term": "EYE PADS, COTTON OR NON-WOVEN MATERIALS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040302",
+      "term": "STICKS/LANCETS/STRIPS FOR OPHTHALMIC USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040303",
+      "term": "ORTHOPTIC EYE PATCHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040304",
+      "term": "OPHTHALMIC DRESSINGS CONTAINING COMPONENTS OF HUMAN ORIGIN",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040305",
+      "term": "OPHTHALMIC DRESSINGS IN THE FORM OF EYE DROPS/GEL/CREAMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040306",
+      "term": "OPHTHALMIC PROTECTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040399",
+      "term": "OPHTHALMIC DRESSINGS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0404",
+      "term": "DRESSINGS FOR WOUNDS, SORES AND ULCERATIONS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040401",
+      "term": "SALINE DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040101",
+      "term": "SALINE DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040102",
+      "term": "SALINE DRESSINGS IN COMBINATION WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040402",
+      "term": "ALGINATE DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040201",
+      "term": "ALGINATE DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040202",
+      "term": "ALGINATE DRESSINGS, COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040403",
+      "term": "HYDROCOLLOID DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040301",
+      "term": "HYDROCOLLOID DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040302",
+      "term": "HYDROCOLLOID DRESSINGS, COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040404",
+      "term": "CELLULOSE AND/OR MODIFIED CELLULOSE DRESSINGS, NON-COMBINED OR COMBINED WITH OTHER SUBSTANCES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040405",
+      "term": "HYDROGEL DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040501",
+      "term": "HYDROGEL DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040502",
+      "term": "HYDROGEL DRESSINGS, COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040406",
+      "term": "POLYURETHANE DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040601",
+      "term": "POLYURETHANE DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040602",
+      "term": "POLYURETHANE DRESSINGS, COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040407",
+      "term": "SILICONE DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040701",
+      "term": "SILICONE DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040702",
+      "term": "SILICONE DRESSINGS, COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040408",
+      "term": "SILVER DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040801",
+      "term": "SILVER DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040802",
+      "term": "SILVER DRESSINGS, COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040409",
+      "term": "ACTIVATED CHARCOAL DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040901",
+      "term": "ACTIVATED CHARCOAL DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04040902",
+      "term": "ACTIVATED CHARCOAL DRESSINGS, COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040410",
+      "term": "ANIMAL-DERIVED COLLAGEN DRESSINGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04041001",
+      "term": "ANIMAL-DERIVED COLLAGEN DRESSINGS, NON-COMBINED",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04041002",
+      "term": "ANIMAL-DERIVED COLLAGEN DRESSINGS, COMBINED WITH OTHER SUBSTANCES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040411",
+      "term": "INSTRUMENT DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040412",
+      "term": "ANTISEPTICS-BASED DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040413",
+      "term": "INTERACTIVE DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040414",
+      "term": "MULTI-LAYER ABSORBENT DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040415",
+      "term": "DRESSINGS IN SOLUTIONS, EMULSIONS, GELS, POWDERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04041501",
+      "term": "DRESSINGS IN SOLUTIONS, EMULSIONS, GELS, POWDERS WITH HERBAL COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04041502",
+      "term": "DRESSINGS IN SOLUTIONS, EMULSIONS, GELS, POWDERS WITH ANIMAL COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04041503",
+      "term": "DRESSINGS IN SOLUTIONS, EMULSIONS, GELS, POWDERS WITH SYNTHETIC COMPONENTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040416",
+      "term": "HYDROPHOBIC DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040499",
+      "term": "DRESSINGS FOR WOUNDS, SORES AND ULCERATIONS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0405",
+      "term": "HAEMOSTATIC DRESSINGS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040501",
+      "term": "POLYSACCHARIDE HAEMOSTATIC DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040502",
+      "term": "ANIMAL COLLAGEN HAEMOSTATIC DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040503",
+      "term": "GELATINE SPONGE HAEMOSTATIC DRESSINGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040504",
+      "term": "INORGANIC HAEMOSTATIC DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040505",
+      "term": "HAEMOSTATIC DEVICES BASED ON CLOTTING FACTORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04050501",
+      "term": "HEMOSTATIC DRESSINGS BASED ON COAGULATION FACTORS OF ANIMAL ORIGIN",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M04050502",
+      "term": "HEMOSTATIC DRESSINGS BASED ON COAGULATION FACTORS OF HUMAN ORIGIN",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040506",
+      "term": "HEMOSTATIC WAXES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040599",
+      "term": "HAEMOSTATIC DRESSINGS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0406",
+      "term": "DRESSINGS FOR THE PREVENTION OF POST-OPERATIVE ADHESIONS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0407",
+      "term": "SPECIAL PADS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040701",
+      "term": "NASAL PADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040702",
+      "term": "SURGICAL PADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040703",
+      "term": "WOUND DEBRIDEMENT PADS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M040799",
+      "term": "SPECIAL PADS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0408",
+      "term": "DRESSINGS FOR BURNS ONLY",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0409",
+      "term": "DRESSINGS FOR PHOTO- AND THERMOTHERAPY IN THE FORM OF GELS AND SOLUTIONS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0410",
+      "term": "DRESSINGS FOR NAILS IN THE FORM OF LIQUIDS, GELS AND CREAMS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0411",
+      "term": "OSMOTIC DRESSINGS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0412",
+      "term": "DRESSINGS FOR THE TREATMENT OF WARTS, CORNS AND CALLUSES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0499",
+      "term": "SPECIAL DRESSINGS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M05",
+      "term": "PLASTERS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0501",
+      "term": "SURGICAL PLASTERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M050101",
+      "term": "PLASTERS ON SPOOLS (ROLLS)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M050102",
+      "term": "MEDICATED PLASTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M050199",
+      "term": "SURGICAL PLASTERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0502",
+      "term": "PLASTERS FOR EXTENSIVE AREAS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M050201",
+      "term": "EXTENSIBLE NON-WOVEN PLASTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M050202",
+      "term": "NON-EXTENSIBLE WOVEN PLASTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M050299",
+      "term": "PLASTERS FOR EXTENSIVE AREAS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M0599",
+      "term": "MEDICAL PLASTERS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M90",
+      "term": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS - VARIOUS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M9001",
+      "term": "CRYOTHERAPY AND THERMOTHERAPY DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M9002",
+      "term": "PROTECTIVE DEVICES, LUBRICANTS AND SOOTHING DEVICES (SPRAYS, GELS, FLUIDS AND CREAMS)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M9003",
+      "term": "SOLUTIONS FOR ADHESIVE TAPE REMOVAL",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "M",
+      "categoryDescription": "DEVICES FOR GENERAL AND SPECIALIST DRESSINGS",
+      "code": "M9099",
+      "term": "GENERAL AND SPECIALIST MEDICAL DEVICES – OTHER (SUTURE PATCHES SEE H900102)",
+      "level": 3,
+      "isTerminal": true
+    }
+  ]
+}

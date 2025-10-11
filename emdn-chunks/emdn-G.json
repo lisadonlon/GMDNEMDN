@@ -1,0 +1,1360 @@
+{
+  "category": "G",
+  "categoryDescription": "GASTROINTESTINAL DEVICES",
+  "entryCount": 169,
+  "terminalCount": 122,
+  "entries": [
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G",
+      "term": "GASTROINTESTINAL DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G01",
+      "term": "ORO-OESOPHAGEAL TUBES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0101",
+      "term": "OESOPHAGEAL DILATION TUBES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010101",
+      "term": "OESOPHAGEAL BOUGIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010102",
+      "term": "CARDIAS DILATATION TUBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010199",
+      "term": "OESOPHAGEAL DILATION TUBES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0102",
+      "term": "OESOPHAGEAL HAEMOSTASIS TUBES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010201",
+      "term": "SENGSTAKEN TUBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010202",
+      "term": "LINTON-NACHLAS TUBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010299",
+      "term": "OESOPHAGEAL HAEMOSTASIS TUBES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0103",
+      "term": "ORO-ESOPAGHEAL DIAGNOSTIC TUBES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010301",
+      "term": "OESOPHAGEAL PH-METRY, TUBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010302",
+      "term": "OESOPHAGEAL MANOMETRY, CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010303",
+      "term": "SIALOGRAPHY, CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010304",
+      "term": "TUBES FOR pH METRY AND OESOPHAGEAL IMPEDANCE ANALYSIS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010305",
+      "term": "TUBES FOR OESOPHAGEA pH METRY AND BILIARY REFLUX ASSESSMENT",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G010399",
+      "term": "ORO-OESOPAGHEAL DIAGNOSTIC TUBES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0180",
+      "term": "ORO-OESOPHAGEAL TUBES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0199",
+      "term": "ORO-OESOPHAGEAL TUBES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02",
+      "term": "GASTROINTESTINAL TUBES AND SETS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0201",
+      "term": "GASTRO-INTESTINAL LAVAGE TUBES AND SETS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020101",
+      "term": "GASTRIC LAVAGE TUBES AND SETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020102",
+      "term": "INTESTINAL LAVAGE TUBES AND SETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020199",
+      "term": "GASTROINTESTINAL LAVAGE, TUBES AND SETS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0202",
+      "term": "GASTROINTESTINAL FEEDING/ASPIRATION TUBES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020201",
+      "term": "NASOGASTRIC INTESTINAL TUBES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02020101",
+      "term": "NASOGASTRIC TUBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02020102",
+      "term": "NASOJEJUNAL/NASODUODENAL TUBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02020199",
+      "term": "NASOGASTRIC INTESTINAL TUBES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020202",
+      "term": "GASTRO-JEJUNOSTOMY, TUBES AND SETS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02020201",
+      "term": "GASTROSTOMY, TUBES AND SETS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02020202",
+      "term": "JEJUNOSTOMY, TUBES AND SETS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02020203",
+      "term": "ILEOSTOMY, TUBES AND SETS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020299",
+      "term": "GASTROINTESTINAL FEEDING/ASPIRATION TUBES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0203",
+      "term": "EVACUATION TUBES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020301",
+      "term": "RECTAL TUBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020399",
+      "term": "EVACUATION TUBES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0204",
+      "term": "GASTROINTESTINAL HAEMOSTASIS DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020401",
+      "term": "HAEMORRHOID LIGATURE SETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020402",
+      "term": "HAEMORRHOID SCLEROTHERAPY DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020499",
+      "term": "GASTROINTESTINAL HAEMOSTASIS DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0205",
+      "term": "DEVICES FOR THE SURGICAL OBESITY THERAPY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020501",
+      "term": "GASTRIC BANDS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020502",
+      "term": "GASTRIC CALIBRATION TUBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020503",
+      "term": "GASTRIC BAND SYSTEM ADJUSTMENT SETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020599",
+      "term": "DEVICES FOR THE SURGICAL THERAPY OF OBESITY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0206",
+      "term": "DEVICES FOR GASTROINTESTINAL DIAGNOSTIC PROCEDURES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020601",
+      "term": "GASTROINTESTINAL DIAGNOSTIC PROCEDURE CATHETERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060101",
+      "term": "DUODENOGRAPHY CATHETERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060102",
+      "term": "CATHETERS FOR GASTRO-JEJUNAL MANOMETRY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060199",
+      "term": "CATHETERS FOR GASTRO-DUODENAL-DIGIUNAL DIAGNOSTICS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020602",
+      "term": "CATHETERS FOR BILIARY AND PANCREATIC DIAGNOSTIC PROCEDURES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060201",
+      "term": "OPEN SURGERY CHOLANGIOGRAPHY CATHETERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060202",
+      "term": "BILIARY MANOMETRY CATHETERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060299",
+      "term": "BILIARY AND PANCREATIC DIAGNOSTIC PROCEDURE CATHETERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G020603",
+      "term": "DEVICES FOR COLORECTAL DIAGNOSTIC PROCEDURES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060301",
+      "term": "ANOSCOPES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060302",
+      "term": "RIGID PROCTOSCOPES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060303",
+      "term": "BALLOON CATHETERS, BARIUM ENEMA",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060304",
+      "term": "COLORECTAL INSUFFLATION TUBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060305",
+      "term": "COLORECTAL MANOMETRY CATHETERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G02060399",
+      "term": "DEVICES FOR COLORECTAL DIAGNOSTIC PROCEDURES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0280",
+      "term": "GASTROINTESTINAL TUBES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0299",
+      "term": "GASTROINTESTINAL TUBES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03",
+      "term": "GASTROINTESTINAL ENDOSCOPY DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301",
+      "term": "DEVICES FOR DILATION IN DIGESTIVE ENDOSCOPY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030101",
+      "term": "GASTROINTESTINAL ENDOSCOPY, BALLOON CATHETERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03010101",
+      "term": "OESOPHAGEAL BALLOON CATHETERS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010101",
+      "term": "OESOPHAGEAL BALLOON CATHETERS, LOW PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010102",
+      "term": "OESOPHAGEAL BALLOON CATHETERS, HIGH PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03010102",
+      "term": "ACHALASIA BALLOON CATHETERS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010201",
+      "term": "ACHALASIA BALLOON CATHETERS, LOW PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010202",
+      "term": "ACHALASIA BALLOON CATHETERS, HIGH PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03010103",
+      "term": "PYLORIC BALLOON CATHETERS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010301",
+      "term": "PYLORIC BALLOON CATHETERS, LOW PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010302",
+      "term": "PYLORIC BALLOON CATHETERS, HIGH PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03010104",
+      "term": "BILIARY BALLOON CATHETERS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010401",
+      "term": "BILIARY BALLOON CATHETERS, LOW PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010402",
+      "term": "BILIARY BALLOON CATHETERS, HIGH PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03010105",
+      "term": "COLONIC BALLOON CATHETERS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010501",
+      "term": "COLONIC BALLOON CATHETERS, LOW PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0301010502",
+      "term": "COLONIC BALLOON CATHETERS, HIGH PRESSURE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03010199",
+      "term": "GASTROINTESTINAL ENDOSCOPY, BALLOON CATHETERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030102",
+      "term": "DIGESTIVE ENDOSCOPY, PROGRESSIVE DILATORS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03010201",
+      "term": "DIGESTIVE ENDOSCOPY, PROGRESSIVE RIGID DILATORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03010202",
+      "term": "DIGESTIVE ENDOSCOPY, PROGRESSIVE FLEXIBLE DILATORS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0302",
+      "term": "DIGESTIVE ENDOSCOPY, HAEMOSTASIS DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030201",
+      "term": "DIGESTIVE ENDOSCOPY, NEEDLES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03020101",
+      "term": "DIGESTIVE ENDOSCOPY, SINGLE-LUMEN NEEDLES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03020102",
+      "term": "DIGESTIVE ENDOSCOPY, MULTI-LUMEN NEEDLES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030202",
+      "term": "DIGESTIVE ENDOSCOPY, HAEMOSTASIS CLIPS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030203",
+      "term": "DIGESTIVE ENDOSCOPY, LIGATURE SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03020301",
+      "term": "LIGATURE SYSTEMS, OESOPHAGEAL VARICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03020302",
+      "term": "DIGESTIVE LIGATURE DEVICES, POLYPS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03020399",
+      "term": "DIGESTIVE ENDOSCOPY, LIGATURE SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030204",
+      "term": "DIGESTIVE ENDOSCOPY, THERMOCOAGULATION PROBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030299",
+      "term": "DIGESTIVE ENDOSCOPY, HAEMOSTASIS DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0303",
+      "term": "POLYPECTOMY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030301",
+      "term": "POLYPECTOMY SNARES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03030101",
+      "term": "POLYPECTOMY SNARES, REVOLVING",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03030102",
+      "term": "POLYPECTOMY SNARES, NON-REVOLVING",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03030199",
+      "term": "POLYPECTOMY SNARES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030399",
+      "term": "POLYPECTOMY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304",
+      "term": "ENDOSCOPIC RETROGRADE CHOLANGIOPANCREATOGRAPHY (ERCP) AND SPHINCTEROTOMY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030401",
+      "term": "ERCP CANNULAS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03040101",
+      "term": "ERCP CANNULAS, SINGLE-LUMEN",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010101",
+      "term": "ERCP CANNULAS, SINGLE-LUMEN, STANDARD TIP",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010102",
+      "term": "ERCP CANNULAS, SINGLE-LUMEN, CONICAL TIP",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010103",
+      "term": "ERCP CANNULAS, SINGLE-LUMEN, TAPERED TIP",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010104",
+      "term": "ERCP CANNULAS, SINGLE-LUMEN, CIRCULAR TIP",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010199",
+      "term": "ERCP CANNULAS, SINGLE-LUMEN - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03040102",
+      "term": "ERCP CANNULAS, MULTI-LUMEN",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010201",
+      "term": "ERCP CANNULAS, MULTI-LUMEN, STANDARD TIP",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010202",
+      "term": "ERCP CANNULAS, MULTI-LUMEN, CONICAL TIP",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010203",
+      "term": "ERCP CANNULAS, MULTI-LUMEN, TAPERED TIP",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010204",
+      "term": "ERCP CANNULAS, MULTI-LUMEN, CIRCULAR TIP",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0304010299",
+      "term": "ERCP CANNULAS, MULTI-LUMEN - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030402",
+      "term": "PAPILLOTOMES / SPHINCTEROTOMES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03040201",
+      "term": "PAPILLOTOMES / SPHINCTEROTOMES, DOUBLE-LUMEN",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03040202",
+      "term": "PAPILLOTOMES / SPHINCTEROTOMES, TRIPLE (OR MORE) LUMEN",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03040299",
+      "term": "PAPILLOTOMES / SPHINCTEROTOMES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030403",
+      "term": "NASO-BILIARY-PANCREATIC TUBES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03040301",
+      "term": "BILIARY TUBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03040302",
+      "term": "HEPATIC DUCT TUBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03040303",
+      "term": "PANCREATIC TUBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030499",
+      "term": "ERCP AND SPHINCTEROTOMY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0305",
+      "term": "RETRIEVAL AND LITHOTRIPSY DEVICES (stones, polyps and foreign bodies)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030501",
+      "term": "DIGESTIVE ENDOSCOPY, RETRIEVAL DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03050101",
+      "term": "DIGESTIVE ENDOSCOPY, RETRIEVAL BALLOON DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03050102",
+      "term": "DIGESTIVE ENDOSCOPY, RETRIEVAL BASKET DEVICES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0305010201",
+      "term": "DIGESTIVE ENDOSCOPY, RETRIEVAL BASKET DEVICES, REVOLVING",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0305010202",
+      "term": "DIGESTIVE ENDOSCOPY, RETRIEVAL BASKET DEVICES, NON-REVOLVING",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03050103",
+      "term": "DIGESTIVE ENDOSCOPY, DEVICES FOR RECOVERY BY ASPIRATION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03050199",
+      "term": "DIGESTIVE ENDOSCOPY, RETRIEVAL DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030502",
+      "term": "LITHOTRIPSY DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0306",
+      "term": "DEVICES FOR THE NON-SURGICAL THERAPY OF OBESITY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030601",
+      "term": "INTRAGASTRIC BALLOON SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030602",
+      "term": "DEVICES FOR REMOVAL OF INTRAGASTRIC BALLOONS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030603",
+      "term": "INTESTINAL COATING YSTEMS FOR ABSORPTION REDUCTION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030604",
+      "term": "DEVICES FOR REMOVAL OF INTESTINAL COATING SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030699",
+      "term": "DEVICES FOR THE NON-SURGICAL TREATMENT OF OBESITY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0307",
+      "term": "GASTROINTESTINAL ENDOSCOPY, DIAGNOSTIC DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030701",
+      "term": "GASTROINTESTINAL IMAGING DIAGNOSTIC DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030702",
+      "term": "PH MONITORING DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030703",
+      "term": "MARKERS FOR EVALUATION OF GASTROINTESTINAL PASSAGE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030704",
+      "term": "COLON DYE SPRAYING CATHETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030799",
+      "term": "GASTROINTESTINAL ENDOSCOPY, DIAGNOSTIC DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0308",
+      "term": "GASTROINTESTINAL ENDOSCOPY AND ECHOENDOSCOPY, SINGLE-USE INSTRUMENTS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030801",
+      "term": "GASTROINTESTINAL ENDOSCOPY, FORCEPS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03080101",
+      "term": "GASTROINTESTINAL ENDOSCOPY, BIOPSY FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0308010101",
+      "term": "GASTROINTESTINAL ENDOSCOPY, COLD BIOPSY FORCEPS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0308010102",
+      "term": "GASTROINTESTINAL ENDOSCOPY, HOT BIOPSY FORCEPS, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03080102",
+      "term": "GASTROINTESTINAL ENDOSCOPY, EXTRACTION FORCEPS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03080199",
+      "term": "GASTROINTESTINAL ENDOSCOPY, FORCEPS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030803",
+      "term": "GASTROINTESTINAL ENDOSCOPY AND ECHOENDOSCOPY, BRUSHES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03080301",
+      "term": "GASTROINTESTINAL CYTOLOGY, BRUSHES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G03080399",
+      "term": "GASTROINTESTINAL ENDOSCOPY AND ECHOENDOSCOPY, BRUSHES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030804",
+      "term": "GASTROINTESTINAL ENDOSCOPY AND ECHOENDOSCOPY, BITE BLOCKS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030805",
+      "term": "GASTROINTESTINAL ENDOSCOPIC TATTOOING SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G030899",
+      "term": "INSTRUMENTS FOR GASTRO-INTESTINAL ENDOSCOPY AND ECO-ENDOSCOPY, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0380",
+      "term": "DIGESTIVE ENDOSCOPY DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0399",
+      "term": "DIGESTIVE ENDOSCOPY DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G04",
+      "term": "ORALLY ADMINISTERED GASTROINTESTINAL DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0401",
+      "term": "ORALLY ADMINISTERED DEVICES FOR THE THERAPY OF GASTRO-INTESTINAL DISORDERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0402",
+      "term": "ORALLY ADMINISTERED DEVICES FOR APPETITE CONTROL AND REDUCTION OF INTESTINAL ABSORPTION",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G0499",
+      "term": "ORALLY ADMINISTERED GASTROINTESTINAL DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G05",
+      "term": "TOPICAL ANORECTAL ADMINISTERED GASTRO-INTESTINAL SYSTEM DEVICES",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G06",
+      "term": "ANAL DILATORS",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "G",
+      "categoryDescription": "GASTROINTESTINAL DEVICES",
+      "code": "G99",
+      "term": "GASTROINTESTINAL DEVICES - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

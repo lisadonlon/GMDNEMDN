@@ -1,0 +1,2880 @@
+{
+  "category": "A",
+  "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+  "entryCount": 359,
+  "terminalCount": 261,
+  "entries": [
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A",
+      "term": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01",
+      "term": "NEEDLES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0101",
+      "term": "NEEDLES FOR INFUSION AND SAMPLING",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010101",
+      "term": "HYPODERMIC NEEDLES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010101",
+      "term": "HYPODERMIC SYRINGE NEEDLES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0101010101",
+      "term": "HYPODERMIC SYRINGE NEEDLES, WITH SAFETY SYSTEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0101010102",
+      "term": "HYPODERMIC SYRINGE NEEDLES, W/O SAFETY SYSTEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010102",
+      "term": "HYPODERMIC PEN NEEDLES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0101010201",
+      "term": "HYPODERMIC PEN NEEDLES, WITH SAFETY SYSTEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0101010202",
+      "term": "HYPODERMIC PEN NEEDLES, W/O SAFETY SYSTEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010199",
+      "term": "HYPODERMIC NEEDLES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010102",
+      "term": "BUTTERFLY NEEDLES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010201",
+      "term": "BUTTERFLY NEEDLES, WITH SAFETY SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010202",
+      "term": "BUTTERFLY NEEDLES, W/O SAFETY SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010103",
+      "term": "NEEDLES AND KITS FOR IMPLANTABLE SYSTEMS (PORT)",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010301",
+      "term": "NEEDLES AND KITS FOR IMPLANTABLE SYSTEMS (PORT), WITH SAFETY SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010302",
+      "term": "NEEDLES AND KITS FOR IMPLANTABLE SYSTEMS (PORT), W/O SAFETY SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010104",
+      "term": "NEEDLES FOR VIAL COLLECTION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010105",
+      "term": "NEEDLES FOR COLLECTION UNDER VACUUM",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010501",
+      "term": "NEEDLES FOR COLLECTION UNDER VACUUM, WITH SAFETY SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01010502",
+      "term": "NEEDLES FOR COLLECTION UNDER VACCUM, W/O SAFETY SYSTEMS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010106",
+      "term": "NEEDLES AND KITS FOR RECONSTRUCTIVE FILLING",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010180",
+      "term": "NEEDLES FOR INFUSION AND COLLECTION - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01018001",
+      "term": "HOLDERS FOR COLLECTION NEEDLES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01018099",
+      "term": "NEEDLES FOR INFUSION AND COLLECTION - OTHER ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010199",
+      "term": "NEEDLES FOR INFUSION AND COLLECTION - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0102",
+      "term": "BIOPSY NEEDLES AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010201",
+      "term": "NEEDLES AND KITS - HISTOLOGICAL AND CYTOLOGICAL BIOPSY OF SOFT TISSUES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020101",
+      "term": "SHEARING BIOPSY NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0102010101",
+      "term": "SHEARING BIOPSY NEEDLES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0102010102",
+      "term": "SHEARING BIOPSY GUNS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020102",
+      "term": "ASPIRATION FINE NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020199",
+      "term": "NEEDLES AND KITS FOR HISTOLOGICAL AND CYTOLOGICAL BIOPSY OF SOFT TISSUES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010202",
+      "term": "BONE MARROW BIOPSY NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020201",
+      "term": "ILIAC-STERNAL BIOPSY NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020202",
+      "term": "BONE MARROW EXPLANT NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020203",
+      "term": "VERTEBRAL AND PARAVERTEBRAL BIOPSY NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020204",
+      "term": "MOTORISED BONE BIOPSY KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020299",
+      "term": "NEEDLES AND KITS - BONE MARROW BIOPSY - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010203",
+      "term": "CUTANEOUS BIOPSY NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020301",
+      "term": "CUTANEOUS BIOPSY NEEDLES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020302",
+      "term": "CUTANEOUS BIOPSY PUNCHES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020303",
+      "term": "CUTANEOUS BIOPSY CURETTES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020399",
+      "term": "CUTANEOUS BIOPSY NEEDLES AND KITS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010204",
+      "term": "AMNIOCENTESIS AND VILLOCENTESIS NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020401",
+      "term": "AMNIOCENTESIS NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020402",
+      "term": "VILLOCENTESIS NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010205",
+      "term": "PERENDOSCOPIC BIOPSY NEEDLES AND KITS (NON-GASTROINTESTINAL APPARATUS)",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020501",
+      "term": "PERENDOSCOPIC BRONCHIAL BIOPSY NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020502",
+      "term": "LAPAROSCOPIC AND THORACOSCOPIC BIOPSY NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01020599",
+      "term": "PERENDOSCOPIC BIOPSY NEEDLES AND KITS (NON-GASTROINTESTINAL APPARATUS) - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010206",
+      "term": "CEREBRAL BIOPSY NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010207",
+      "term": "PULMONARY BIOPSY NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010299",
+      "term": "BIOPSY NEEDLES AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0103",
+      "term": "ANAESTHESIA NEEDLES AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010301",
+      "term": "SPINAL AND EPIDURAL ANAESTHESIA NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01030101",
+      "term": "SPINAL ANAESTHESIA NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01030102",
+      "term": "EPIDURAL ANAESTHESIA NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A01030103",
+      "term": "COMBINED EPIDURAL AND SPINAL ANAESTHESIA NEEDLES AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010302",
+      "term": "PLEXUS BLOCK NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010399",
+      "term": "ANAESTHESIA NEEDLES AND KIT - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0104",
+      "term": "DIALYSIS NEEDLES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010401",
+      "term": "ARTERIOVENOUS FISTULA NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010480",
+      "term": "DIALYSIS NEEDLES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010499",
+      "term": "DIALYSIS NEEDLES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0105",
+      "term": "OPHTHALMOLOGY INJECTION NEEDLES AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010501",
+      "term": "ANTERIOR EYE CHAMBER NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010502",
+      "term": "EYE IRRIGATION NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010503",
+      "term": "PERIBULBAR NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010504",
+      "term": "RETROBULBAR NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010505",
+      "term": "ENDOCULAR INJECTION NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010506",
+      "term": "ENDOCULAR ASPIRATION CANNULA NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010599",
+      "term": "OPHTHALMOLOGY INJECTION NEEDLES AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0106",
+      "term": "DENTISTRY NEEDLES AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010601",
+      "term": "CARPULE NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010602",
+      "term": "DENTAL IRRIGATION NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A010699",
+      "term": "DENTISTRY NEEDLES AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0180",
+      "term": "NEEDLES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A018001",
+      "term": "NEEDLE CAPS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A018002",
+      "term": "NEEDLE GUIDES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A018003",
+      "term": "NEEDLE INTRODUCERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A018004",
+      "term": "NEEDLE CONNECTORS AND ADAPTERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A018005",
+      "term": "NEEDLE COUNTING CONTAINERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A018006",
+      "term": "HYPODERMIC NEEDLES PEN INJECTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A018099",
+      "term": "NEEDLES - OTHER ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0190",
+      "term": "NEEDLES FOR OTHER PROCEDURES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019001",
+      "term": "BLUNT NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019002",
+      "term": "ACUPUNCTURE NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019003",
+      "term": "ALCOHOLISATION NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019004",
+      "term": "OPEN SURGERY CHOLANGIOGRAPHY NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019005",
+      "term": "GALACTOGRAPHY NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019006",
+      "term": "MESOTHERAPY NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019007",
+      "term": "SCLEROTHERAPY NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019008",
+      "term": "MEDICAL PROCEDURES TATTOOING NEEDLES (NOT ENDOSCOPIC)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019009",
+      "term": "DRAINAGE NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019010",
+      "term": "ANGIOGRAPHY NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019011",
+      "term": "INTRAOSSEOUS INFUSION AND VERTEBROPLASTY INFUSION NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019012",
+      "term": "BREAST NODULES AND OTHER STRUCTURES LOCALISATION NEEDLES AND SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019013",
+      "term": "PERCUTANEOUS NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019014",
+      "term": "LUMBAR PUNCTURE NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019015",
+      "term": "PERI- AND NEO-NATAL EPICRANIAL NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019016",
+      "term": "BRACHYTHERAPY NEEDLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A019099",
+      "term": "NEEDLES FOR OTHER PROCEDURES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0199",
+      "term": "NEEDLES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02",
+      "term": "SYRINGES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0201",
+      "term": "SINGLE-USE SYRINGES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020101",
+      "term": "LOSS-OF-RESISTANCE SYRINGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020102",
+      "term": "INFUSION AND IRRIGATION SYRINGES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010201",
+      "term": "INFUSION AND IRRIGATION SYRINGES, LUER CONE, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0201020101",
+      "term": "INFUSION AND IRRIGATION SYRINGES, 2-PIECE LUER CONE, SINGLE-USE",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020102010101",
+      "term": "INFUSION AND IRRIGATION SYRINGES, 2-PIECE LUER CONE, 2-PIECE WITH NEEDLE, SINGLE-USE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020102010102",
+      "term": "INFUSION AND IRRIGATION SYRINGES, 2-PIECE LUER CONE, 2-PIECE WITHOUT NEEDLE, SINGLE-USE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0201020102",
+      "term": "INFUSION AND IRRIGATION SYRINGES, LUER CONE, 3-PIECE",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020102010201",
+      "term": "INFUSION AND IRRIGATION SYRINGES, LUER CONE, 3-PIECE WITH NEEDLE, SINGLE-USE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020102010202",
+      "term": "INFUSION AND IRRIGATION SYRINGES, LUER CONE, 3-PIECE WITHOUT NEEDLE, SINGLE-USE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010202",
+      "term": "INFUSION AND IRRIGATION SYRINGES, LUER LOCK CONE, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0201020201",
+      "term": "INFUSION AND IRRIGATION SYRINGES, LUER LOCK CONE, 3-PIECE, SINGLE-USE",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020102020101",
+      "term": "INFUSION AND IRRIGATION SYRINGES, LUER LOCK CONE, 3-PIECE WITH NEEDLE, SINGLE-USE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020102020102",
+      "term": "INFUSION AND IRRIGATION SYRINGES, LUER LOCK CONE, 3-PIECE WITHOUT NEEDLE, SINGLE-USE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010203",
+      "term": "INFUSION AND IRRIGATION SYRINGES, CATHETER CONE, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010204",
+      "term": "INFUSION AND IRRIGATION SYRINGES, WITHOUT CONE, WITH FIXED NEEDLE, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010205",
+      "term": "INFUSION AND IRRIGATION SYRINGES WITH SAFETY SYSTEM, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010299",
+      "term": "INFUSION AND IRRIGATION SYRINGES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020104",
+      "term": "SYRINGES FOR INJECTORS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010401",
+      "term": "SYRINGES FOR CONTRAST MEDIA INJECTOR, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010499",
+      "term": "SYRINGES FOR INJECTOR, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020105",
+      "term": "BLOOD GAS ANALYSIS, SYRINGES WITH NEEDLES AND KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010501",
+      "term": "BLOOD GAS ANALYSIS, SYRINGES WITH NEEDLE W/O SAFETY SYSTEM AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010502",
+      "term": "BLOOD GAS ANALYSIS, SYRINGES WITH SAFETY NEEDLE AND KITS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020106",
+      "term": "INSULIN SYRINGES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010601",
+      "term": "INSULIN SYRINGES WITH FIXED NEEDLE, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010602",
+      "term": "INSULIN SYRINGES W/O FIXED NEEDLES, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010603",
+      "term": "INSULIN SYRINGES WITH SAFETY SYSTEM, SINGLE-USE",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0201060301",
+      "term": "INSULIN SYRINGES WITH SAFETY SYSTEMS AND FIXED NEEDLES, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0201060302",
+      "term": "INSULIN SYRINGES WITH SAFETY SYSTEMS W/O FIXED NEEDLE, SINGLE-USE",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010699",
+      "term": "INSULIN SYRINGES, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020107",
+      "term": "PREFILLED SYRINGES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010701",
+      "term": "PREFILLED SYRINGES WITH STERILE PHYSIOLOGICAL SOLUTION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010702",
+      "term": "PREFILLED SYRINGES WITH STERILE WATER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A02010799",
+      "term": "PREFILLED SYRINGES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020108",
+      "term": "ENTERAL FEEDING SYRINGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020109",
+      "term": "TUBERCULIN SYRINGES, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020199",
+      "term": "SYRINGES, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0202",
+      "term": "REUSABLE SYRINGES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020201",
+      "term": "REUSABLE INFUSION SYRINGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020202",
+      "term": "REUSABLE IRRIGATION SYRINGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020203",
+      "term": "CARTRIDGE SYRINGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A020299",
+      "term": "REUSABLE SYRINGES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0280",
+      "term": "SYRINGES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0299",
+      "term": "SYRINGES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03",
+      "term": "TUBULAR DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0301",
+      "term": "FLOW CONTROLLERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030101",
+      "term": "INFUSION CONTROLLERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010101",
+      "term": "INFUSION CONTROLLERS WITH OR W/O AIR INLET",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010102",
+      "term": "INFUSION CONTROLLERS WITH FILTER (ALSO TRANSFUSION CONTROLLERS)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010103",
+      "term": "INFUSION CONTROLLERS WITH FLOW REGULATOR",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010104",
+      "term": "INFUSION MICRO-CONTROLLERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010105",
+      "term": "INFUSION PUMP CONTROLLERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010199",
+      "term": "INFUSION CONTROLLERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030102",
+      "term": "IRRIGATION CONTROLLERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010201",
+      "term": "ARTHROSCOPIC IRRIGATION CONTROLLERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010202",
+      "term": "UROLOGICAL IRRIGATION CONTROLLERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010299",
+      "term": "IRRIGATION CONTROLLERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030103",
+      "term": "ENTERAL FEEDING CONTROLLERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010301",
+      "term": "ENTERAL FEEDING GRAVITY CONTROLLERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010302",
+      "term": "ENTERAL FEEDING PUMP CONTROLLERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03010399",
+      "term": "ENTERAL FEEDING CONTROLLERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030104",
+      "term": "FLOW REGULATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030105",
+      "term": "FLUIDS HEATING SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030199",
+      "term": "CONTROLLERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0302",
+      "term": "EXTENSION LINES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030201",
+      "term": "EXTENSIONS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03020101",
+      "term": "LOW PRESSURE EXTENSION LINES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03020102",
+      "term": "HIGH PRESSURE EXTENSION LINES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03020199",
+      "term": "EXTENSIONS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0303",
+      "term": "RAPID INFUSION SYSTEMS (HIGH FLOW)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0304",
+      "term": "ADMINISTRATION KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030401",
+      "term": "INFUSION KITS (INCLUDING THOSE VIA PUMP), SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03040101",
+      "term": "KITS FOR CONTINUOUS SUBCUTANEOUS INSULIN INFUSION",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03040102",
+      "term": "INTRAOSSEOUS INFUSION KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03040199",
+      "term": "INFUSION KITS (WITH OR W/O PUMP), SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030402",
+      "term": "IRRIGATION KITS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03040201",
+      "term": "BLADDER IRRIGATION KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03040202",
+      "term": "OCULAR IRRIGATION KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03040203",
+      "term": "PERINEAL IRRIGATION KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03040204",
+      "term": "EAR IRRIGATION KITS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A03040299",
+      "term": "IRRIGATION KITS, SINGLE-USE - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030403",
+      "term": "ENTERAL NUTRITION KITS (INCLUDING THOSE VIA PUMP), SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A030499",
+      "term": "ADMINISTRATION KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0380",
+      "term": "TUBULAR DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0399",
+      "term": "TUBULAR DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A04",
+      "term": "SOLUTION FILTERS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0401",
+      "term": "INFUSION AND WITHDRAWL FILTERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A040101",
+      "term": "ADMINISTRATION AND ASPIRATION FILTERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A04010101",
+      "term": "WITHDRAWL AND ADMINISTRATION FILTERS (0.2-1.2 MICRONS)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A04010102",
+      "term": "ASPIRATION AND TRANSFER FILTERS (>= 5 MICRONS)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A04010199",
+      "term": "ADMINISTRATION AND ASPIRATION FILTERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A040180",
+      "term": "INFUSION AND WITHDRAWL FILTERS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A040199",
+      "term": "INFUSION AND WITHDRAWL FILTERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0499",
+      "term": "SOLUTION FILTERS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A05",
+      "term": "MECHANICAL INFUSION SYSTEMS, SINGLE-USE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0501",
+      "term": "ELASTOMERIC SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A050101",
+      "term": "ELASTOMERIC SYSTEMS - FIXED FLOW",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A05010101",
+      "term": "ELASTOMERIC SYSTEMS - FIXED FLOW W/O ADDITIONAL BOLUS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A05010102",
+      "term": "ELASTOMERIC SYSTEMS - FIXED FLOW WITH ADDITIONAL BOLUS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A050102",
+      "term": "ELASTOMERIC SYSTEMS - VARIABLE FLOW",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A05010201",
+      "term": "ELASTOMERIC SYSTEMS - VARIABLE FLOW W/O ADDITIONAL BOLUS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A05010202",
+      "term": "ELASTOMERIC SYSTEMS - VARIABLE FLOW WITH ADDITIONAL BOLUS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0502",
+      "term": "NON-ELASTOMERIC SYSTEMS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0580",
+      "term": "MECHANICAL INFUSION SYSTEMS, SINGLE-USE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0599",
+      "term": "MECHANICAL INFUSION SYSTEMS, SINGLE-USE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06",
+      "term": "DRAINAGE AND FLUIDS COLLECTION DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601",
+      "term": "SURGICAL DRAINAGE SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060101",
+      "term": "VACUUM AND GRAVITY DRAINAGE SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06010101",
+      "term": "DRAINAGE SYSTEMS WITH PREDEFINED SUCTION",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010101",
+      "term": "DRAINAGE SYSTEMS WITH REDON TYPE RIGID CONTAINER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010102",
+      "term": "DRAINAGE SYSTEMS WITH RESERVOIR",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010103",
+      "term": "BELLOWS DRAINAGE SYSTEMS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010199",
+      "term": "DRAINAGE SYSTEMS WITH PREDEFINED SUCTION - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06010102",
+      "term": "DRAINAGE SYSTEMS WITH ADJUSTABLE SUCTION",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010201",
+      "term": "DRAINAGE SYSTEMS WITH ADJUSTABLE SUCTION AND COLLECTION CHAMBER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010299",
+      "term": "DRAINAGE SYSTEMS WITH ADJUSTABLE SUCTION - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06010103",
+      "term": "CANNULAS AND TIPS FOR ASPIRATION AND IRRIGATION, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06010104",
+      "term": "DRAINAGE PROBES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010401",
+      "term": "THORACIC DRAINAGES (STRAIGHT AND ANGLED)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010402",
+      "term": "CYLINDRICAL OR CIRCULAR DRAINAGES (STRAIGHT AND T-SHAPED)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010403",
+      "term": "FLAT AND LAMELLAR DRAINAGES",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0601010499",
+      "term": "DRAINAGE PROBES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06010199",
+      "term": "VACUUM AND GRAVITY DRAINAGE SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060102",
+      "term": "SURGICAL DRAINAGE CONNECTION MEDICAL TUBES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060199",
+      "term": "SURGICAL DRAINAGE SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0602",
+      "term": "PERCUTANEOUS DRAINAGE SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060201",
+      "term": "EXTERNAL DRAINAGE CATHETERS AND KITS (ABSCESSES, GALLSTONES, CYSTS)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060202",
+      "term": "TROCAR DRAINAGES 3/4",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060203",
+      "term": "PLEURAL DRAINAGES WITH VALVE AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060204",
+      "term": "THORACENTESIS AND PARACENTESIS DRAINAGES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060205",
+      "term": "PERICARDIUM DRAINAGES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060206",
+      "term": "PERITONAEAL DRAINAGES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060299",
+      "term": "PERCUTANEOUS DRAINAGE SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0603",
+      "term": "FLUIDS COLLECTION BAGS AND SYSTEMS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060301",
+      "term": "COLLECTION BAGS AND OTHER CONTAINERS FOR DRAINAGES AND FISTULAS, SINGLE USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060302",
+      "term": "COLLECTION BAGS FOR UROLOGICAL AND ARTHROSCOPIC WASHINGS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060303",
+      "term": "URINE COLLECTION SYSTEMS AND BAGS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06030301",
+      "term": "URINE COLLECTION BAGS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06030302",
+      "term": "HOURLY DIURESIS MEASUREMENT SETS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06030399",
+      "term": "URINE COLLECTION SYSTEMS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060304",
+      "term": "INTRA-OPERATION FLUID COLLECTION DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06030401",
+      "term": "INTRAOPERATIVE SUCTION CONTAINERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A06030499",
+      "term": "INTRA-OPERATION FLUID COLLECTION DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A060399",
+      "term": "FLUID COLLECTION BAGS AND SYSTEMS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0680",
+      "term": "DRAINAGE AND FLUID COLLECTION DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0699",
+      "term": "DRAINAGE AND FLUID COLLECTION DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A07",
+      "term": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0701",
+      "term": "ADAPTERS AND CONNECTORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A070101",
+      "term": "ASPIRATION LINES ADAPTERS AND CONNECTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A070102",
+      "term": "IRRIGATION LINES ADAPTERS AND CONNECTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A070103",
+      "term": "INFUSION LINES ADAPTERS AND CONNECTORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A070199",
+      "term": "ADAPTERS AND CONNECTORS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0702",
+      "term": "RAMPS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0703",
+      "term": "STOPCOCKS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0704",
+      "term": "SYSTEMS FOR RECONSTITUTION AND ADMINISTRATION OF PHARMACEUTICALS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0705",
+      "term": "CAPS OR OBTURATORS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A070501",
+      "term": "CAPS OR OBTURATORS, NON-PERFORABLE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A070502",
+      "term": "CAPS OR OBTURATORS, PERFORABLE",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A07050201",
+      "term": "CAPS OR OBTURATORS, PERFORABLE WITH NEEDLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A07050202",
+      "term": "CAPS OR OBTURATORS, PERFORABLE WITHOUT NEEDLE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A070599",
+      "term": "CAPS OR OBTURATORS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0706",
+      "term": "ANTISEPTIC CONNECTOR PROTECTORS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0799",
+      "term": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A08",
+      "term": "NUTRITION AND INFUSION BAGS AND CONTAINERS, SINGLE-USE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0801",
+      "term": "NUTRITION BAGS AND CONTAINERS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A080101",
+      "term": "ENTERAL FEEDING BAGS AND CONTAINERS (INCLUDING THOSE VIA PUMP), SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A080102",
+      "term": "PARENTERAL FEEDING BAGS AND CONTAINERS (INCLUDING THOSE VIA PUMP), SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A080199",
+      "term": "NUTRITION BAGS AND CONTAINERS, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0802",
+      "term": "INFUSION BAGS AND CONTAINERS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A080201",
+      "term": "INFUSION PUMP BAGS AND CONTAINERS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A080299",
+      "term": "INFUSION BAGS AND CONTAINERS, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0880",
+      "term": "NUTRITION AND INFUSION BAGS AND CONTAINERS, SINGLE-USE - ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A088001",
+      "term": "PRESSURE INFUSION CUFFS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A088099",
+      "term": "NUTRITION AND INFUSION BAGS AND CONTAINERS, SINGLE-USE - OTHER ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0899",
+      "term": "NUTRITION AND INFUSION BAGS AND CONTAINERS, SINGLE-USE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A09",
+      "term": "ORGAN CONTAINERS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0901",
+      "term": "ORGAN COLLECTION CONTAINERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A090101",
+      "term": "ORGAN COLLECTION BAGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A090199",
+      "term": "ORGAN COLLECTION CONTAINERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0980",
+      "term": "ORGAN CONTAINERS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A0999",
+      "term": "ORGAN CONTAINERS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10",
+      "term": "ABDOMINAL OSTOMY DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001",
+      "term": "ONE PIECE ABDOMINAL OSTOMY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100101",
+      "term": "ONE PIECE COLOSTOMY BAGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10010101",
+      "term": "ONE-PIECE COLOSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001010101",
+      "term": "ONE-PIECE COLOSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT, W/O TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001010102",
+      "term": "ONE-PIECE COLOSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT, WITH TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10010102",
+      "term": "ONE-PIECE COLOSTOMY BAGS FOR RETRACTED STOMA, CONVEX",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001010201",
+      "term": "ONE-PIECE COLOSTOMY BAGS FOR RETRACTED STOMA, CONVEX, W/O TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001010202",
+      "term": "ONE-PIECE COLOSTOMY BAGS FOR RETRACTED STOMA, CONVEX, WITH TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100102",
+      "term": "ONE PIECE ILEOSTOMY BAGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10010201",
+      "term": "ONE-PIECE ILEOSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001020101",
+      "term": "ONE-PIECE ILEOSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT, W/O TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001020102",
+      "term": "ONE-PIECE ILEOSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT, WITH TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10010202",
+      "term": "ONE-PIECE ILEOSTOMY BAGS FOR RETRACTED STOMA, CONVEX",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001020201",
+      "term": "ONE-PIECE ILEOSTOMY BAGS FOR RETRACTED STOMA, CONVEX, W/O TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001020202",
+      "term": "ONE-PIECE ILEOSTOMY BAGS FOR RETRACTED STOMA, CONVEX, WITH TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100103",
+      "term": "ONE PIECE UROSTOMY BAGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10010301",
+      "term": "ONE-PIECE UROSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001030101",
+      "term": "ONE-PIECE UROSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT, W/O TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001030102",
+      "term": "ONE-PIECE UROSTOMY BAGS FOR NON-RETRACTED STOMA, FLAT, WITH TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10010302",
+      "term": "ONE-PIECE UROSTOMY BAGS FOR RETRACTED STOMA, CONVEX",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001030201",
+      "term": "ONE-PIECE UROSTOMY BAGS FOR RETRACTED STOMA, CONVEX, W/O TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1001030202",
+      "term": "ONE-PIECE UROSTOMY BAGS FOR RETRACTED STOMA, CONVEX, WITH TISSUE COVER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100104",
+      "term": "EXPANSION CAPS FOR ABDOMINAL OSTOMY SYSTEMS - ONE PIECE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100199",
+      "term": "DEVICES FOR ABDOMINAL OSTOMY - ONE PIECE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002",
+      "term": "ABDOMINAL OOSTOMY DEVICES, TWO PIECE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100201",
+      "term": "ABDOMINAL OSTOMY PLATES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020101",
+      "term": "COLOSTOMY PLATES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002010101",
+      "term": "COLOSTOMY PLATES, WITH NON-RETRACTED STOMA",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002010102",
+      "term": "COLOSTOMY PLATES, WITH RETRACTED STOMA",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020102",
+      "term": "ILEOSTOMY PLATES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002010201",
+      "term": "ILEOSTOMY PLATES, WITH NON-RETRACTED STOMA",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002010202",
+      "term": "ILEOSTOMY PLATES, WITH RETRACTED STOMA",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020103",
+      "term": "UROSTOMY PLATES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002010301",
+      "term": "UROSTOMY PLATES, WITH NON-RETRACTED STOMA",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002010302",
+      "term": "UROSTOMY PLATES WITH RETRACTED STOMA",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020104",
+      "term": "UNIVERSAL PLATES FOR ABDOMINAL STOMA (COLO-, ILEO-, UROSTOMY)",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002010401",
+      "term": "UNIVERSAL PLATES FOR ABDOMINAL STOMA (COLO-, ILEO-, UROSTOMY) WITH NON-INTROFLEX STOMA",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1002010402",
+      "term": "UNIVERSAL PLATES FOR ABDOMINAL STOMA (COLO-, ILEO-, UROSTOMY) WITH INTROFLEX STOMA",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100202",
+      "term": "COLOSTOMY BAGS FOR TWO-PART SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020201",
+      "term": "OLOSTOMY BAGS FOR TWO-PART SYSTEMS, W/O TISSUE COVER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020202",
+      "term": "COLOSTOMY BAGS FOR TWO-PART SYSTEMS, WITH TISSUE COVER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100203",
+      "term": "ILEOSTOMY BAGS FOR TWO-PART SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020301",
+      "term": "ILEOSTOMY BAGS FOR TWO-PART SYSTEMS, W/O TISSUE COVER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020302",
+      "term": "ILEOSTOMY BAGS FOR TWO-PART SYSTEMS, WITH TISSUE COVER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100204",
+      "term": "UROSTOMY BAGS FOR TWO-PART SYSTEMS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020401",
+      "term": "UROSTOMY BAGS FOR TWO-PART SYSTEMS, W/O TISSUE COVER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A10020402",
+      "term": "UROSTOMY BAGS FOR TWO-PART SYSTEMS, WITH TISSUE COVER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100205",
+      "term": "EXPANSION CAPS FOR TWO-PIECE ABDOMINAL OSTOMY SYSTEMS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100299",
+      "term": "TWO-PIECE ABDOMINAL OSTOMY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1003",
+      "term": "ABDOMINAL OSTOMY IRRIGATION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100301",
+      "term": "ABDOMINAL OSTOMY IRRIGATION KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100302",
+      "term": "ABDOMINAL OSTOMY DRAINAGE / IRRIGATION BAGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A100399",
+      "term": "ABDOMINAL OSTOMY IRRIGATION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1080",
+      "term": "ABDOMINAL OSTOMY DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108001",
+      "term": "RINGS / BEZELS / PLATES FOR PERISTOMAL SKIN",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108002",
+      "term": "PROTECTIVE CREAMS / GELS FOR PERISTOMAL SKIN",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108003",
+      "term": "PROTECTIVE POWDERS FOR PERISTOMAL SKIN",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108004",
+      "term": "PROTECTIVE FILMS / SPRAYS FOR PERISTOMAL SKIN",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108005",
+      "term": "DEVICES FOR THE REMOVAL OF ADHESIVES FROM THE PERISTOMAL SKIN",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108006",
+      "term": "ABDOMINAL OSTOMY SUPPORT BELTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108007",
+      "term": "ABDOMINAL OSTOMY IRRIGATION CONES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108008",
+      "term": "ADHESIVES FOR ABDOMINAL OSTOMY DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108009",
+      "term": "ABDOMINAL OSTOMY DILATORS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A108099",
+      "term": "ACCESSORY DEVICES FOR ABDOMINAL OSTOMY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1099",
+      "term": "ABDOMINAL OSTOMY DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A11",
+      "term": "SAMPLE COLLECTION SWABS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1101",
+      "term": "SAMPLE COLLECTION NEUTRAL SWABS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A1102",
+      "term": "SAMPLE COLLECTION SWABS WITH TRANSPORT MEDIUM",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A12",
+      "term": "SAMPLE COLLECTION SPATULAS",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A13",
+      "term": "APPLICATORS FOR DRUGS AND MEDICAL DEVICES NOT PRESENT IN OTHER CLASSES",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "A",
+      "categoryDescription": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION",
+      "code": "A99",
+      "term": "DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

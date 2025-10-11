@@ -1,0 +1,102 @@
+{
+  "type": "ICHI",
+  "version": "1.0.0",
+  "generated": "2025-10-07T12:37:06.706Z",
+  "totalEntries": 13227,
+  "totalCategories": 13227,
+  "totalChunks": 14,
+  "chunkSize": 1000,
+  "stats": {
+    "totalEntries": 13227,
+    "totalCategories": 13227,
+    "chapters": 0,
+    "blocks": 0,
+    "categories": 10964
+  },
+  "chunks": [
+    {
+      "file": "ichi-chunk-0.json",
+      "entries": 1000,
+      "firstEntry": "- - - - Assessment of mental functions",
+      "lastEntry": "- - - - - Thyroid scan or radioisotope function studies"
+    },
+    {
+      "file": "ichi-chunk-1.json",
+      "entries": 1000,
+      "firstEntry": "- - - - - Ultrasound of thyroid gland",
+      "lastEntry": "- - - - - Percutaneous biopsy of pleura"
+    },
+    {
+      "file": "ichi-chunk-2.json",
+      "entries": 1000,
+      "firstEntry": "- - - - - Pleurodesis",
+      "lastEntry": "- - - - - Procurement of skin and subcutaneous cell tissue of lower limb"
+    },
+    {
+      "file": "ichi-chunk-3.json",
+      "entries": 1000,
+      "firstEntry": "- - - - - Local excision of skin and subcutaneous cell tissue of the lower limb",
+      "lastEntry": "- - - - - Arthroscopic reconstruction of ligaments of knee"
+    },
+    {
+      "file": "ichi-chunk-4.json",
+      "entries": 1000,
+      "firstEntry": "- - - - - Biopsy of patella",
+      "lastEntry": "- - - - - Failed forceps or vacuum extraction"
+    },
+    {
+      "file": "ichi-chunk-5.json",
+      "entries": 1000,
+      "firstEntry": "- - - - - Assessment of fetal or embryonic structure",
+      "lastEntry": "- - - - Restrictions on advertising"
+    },
+    {
+      "file": "ichi-chunk-6.json",
+      "entries": 1000,
+      "firstEntry": "- - - - Restrictions on production or importation of products or services in relation to water pollution",
+      "lastEntry": "- - - - Establishing health services or health-related services in relation to general social support services"
+    },
+    {
+      "file": "ichi-chunk-7.json",
+      "entries": 1000,
+      "firstEntry": "- - - - Marshalling health services or health-related services in relation to general social support services",
+      "lastEntry": "- - - - Training in reading"
+    },
+    {
+      "file": "ichi-chunk-8.json",
+      "entries": 1000,
+      "firstEntry": "- - - - Education about reading",
+      "lastEntry": "- - - - Restrictions through laws or standards on the production or importation of pharmaceuticals"
+    },
+    {
+      "file": "ichi-chunk-9.json",
+      "entries": 1000,
+      "firstEntry": "- - - - Policy change concerning pharmaceutical use behaviours",
+      "lastEntry": "- - - - Other specified integumentary system target"
+    },
+    {
+      "file": "ichi-chunk-10.json",
+      "entries": 1000,
+      "firstEntry": "- - - - Integumentary system target",
+      "lastEntry": "- - - - - - Maxillary artery"
+    },
+    {
+      "file": "ichi-chunk-11.json",
+      "entries": 1000,
+      "firstEntry": "- - - - - - - First portion of the maxillary artery",
+      "lastEntry": "- - - - - - - - - Body of fifth cervical vertebra"
+    },
+    {
+      "file": "ichi-chunk-12.json",
+      "entries": 1000,
+      "firstEntry": "- - - - - - - - - Processes of fifth cervical vertebra",
+      "lastEntry": "- - - - - Obturator internus tendon"
+    },
+    {
+      "file": "ichi-chunk-13.json",
+      "entries": 227,
+      "firstEntry": "- - - - - Pectineus tendon",
+      "lastEntry": "- - Weight"
+    }
+  ]
+}

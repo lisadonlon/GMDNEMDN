@@ -1,0 +1,1504 @@
+{
+  "category": "V",
+  "categoryDescription": "VARIOUS MEDICAL DEVICES",
+  "entryCount": 187,
+  "terminalCount": 146,
+  "entries": [
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V",
+      "term": "VARIOUS MEDICAL DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V01",
+      "term": "CUTTING DEVICES, SINGLE-USE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0101",
+      "term": "SCALPELS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V010101",
+      "term": "SCALPELS WITH SAFETY SYSTEMS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V010102",
+      "term": "SCALPELS WITHOUT SAFETY SYSTEMS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0102",
+      "term": "STAPLE REMOVER KNIVES, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0103",
+      "term": "BLADES, SINGLE-USE - NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V010301",
+      "term": "BLADES WITH SAFETY SYSTEMS, SINGLE-USE - NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V010302",
+      "term": "BLADES WITHOUT SAFETY SYSTEMS, SINGLE-USE - NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0104",
+      "term": "LANCETS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V010401",
+      "term": "LANCETS WITH SAFETY SYSTEMS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V010402",
+      "term": "LANCETS WITHOUT SAFETY SYSTEMS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0199",
+      "term": "CUTTING DEVICES, SINGLE-USE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V02",
+      "term": "NEONATOLOGY AND PAEDIATRIC DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0201",
+      "term": "PHOTOTHERAPY MASKS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0202",
+      "term": "UMBILICAL CLAMPS AND CLIPPERS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0203",
+      "term": "NEWBORN NUTRITION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V020301",
+      "term": "MANUAL BREAST PUMPERS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V020302",
+      "term": "BABY BOTTLES AND KIT",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V020303",
+      "term": "TEATS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V020380",
+      "term": "NEWBORN NUTRITION DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V020399",
+      "term": "NEWBORN NUTRITION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0280",
+      "term": "NEONATOLOGY AND PEDIATRICS DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V028002",
+      "term": "NEONATOLOGY CARE KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V028099",
+      "term": "NEONATOLOGY AND PEDIATRICS DEVICES - ACCESSORIES NOT INCLUDED IN OTHER CLASSES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0299",
+      "term": "NEONATOLOGY AND PAEDIATRIC DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V03",
+      "term": "MEASUREMENT DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0301",
+      "term": "BODY TEMPERATURE MEASUREMENT DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030101",
+      "term": "THERMOMETERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V03010102",
+      "term": "DIGITAL THERMOMETERS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0301010201",
+      "term": "CONTACT DIGITAL THERMOMETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0301010202",
+      "term": "NON-CONTACT DIGITAL THERMOMETERS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0301010299",
+      "term": "DIGITAL THERMOMETERS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V03010104",
+      "term": "LIQUID EXPANSION THERMOMETERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V03010199",
+      "term": "THERMOMETERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030102",
+      "term": "BODY TEMPERATURE MONITORING PROBES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V03010201",
+      "term": "TEMPERATURE MONITORING CUTANEOUS PROBES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V03010299",
+      "term": "BODY TEMPERATURE MONITORING PROBES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030180",
+      "term": "BODY TEMPERATURE MEASURING DEVICES - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030199",
+      "term": "BODY TEMPERATURE MEASURING DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0302",
+      "term": "CLINICAL DIMENSIONAL PARAMETERS MEASURING DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030201",
+      "term": "CALIPERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030202",
+      "term": "GONIOMETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030203",
+      "term": "OPHTHALMOLOGY MEASUREMENT DEVICES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030204",
+      "term": "IMPLANT MEASUREMENT DEVICES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030205",
+      "term": "OBSTETRICS AND GYNECOLOGY MEASUREMENT DEVICES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030206",
+      "term": "UROLOGY MEASUREMENT DEVICES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030207",
+      "term": "SENSITIVITY MEASUREMENTS DEVICES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030208",
+      "term": "ENT MEASUREMENT DEVICES NOT INCLUDED IN OTHER CLASSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030209",
+      "term": "CLINICAL ALTIMETERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030210",
+      "term": "WEIGHING SCALES (EXCLUDING THOSE FOR NEONATOLOGY)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030211",
+      "term": "MULTIDIMENSIONAL MEASUREMENTS STATIONS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V03021101",
+      "term": "CLINICAL ALTIMETERS WITH WEIGHING SCALE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V03021199",
+      "term": "MULTIDIMENSIONAL MEASUREMENTS STATIONS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V030299",
+      "term": "DIMENSIONAL CLINICAL PARAMETERS MEASURING DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0380",
+      "term": "DEVICES WITH MEASURING FUNCTIONS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0399",
+      "term": "MEASUREMENT DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V04",
+      "term": "CLINICAL USE CONTAINERS (NON-IVD)",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0401",
+      "term": "CLINICAL USE BOTTLES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0402",
+      "term": "CLINICAL USE TRAYS AND BOWLS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0480",
+      "term": "CLINICAL USE CONTAINERS (NON-IVD) - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0499",
+      "term": "CLINICAL USE CONTAINERS (NON-IVD) - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V05",
+      "term": "CLINICAL PROCEDURES KITS NOT INCLUDED IN OTHER CLASSES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0501",
+      "term": "CLINICAL EMERGENCY KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0502",
+      "term": "CLINICAL ADMINISTRATION KITS NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0599",
+      "term": "CLINICAL PROCEDURES KITS NOT INCLUDED IN OTHER CLASSES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V06",
+      "term": "CLINICAL PROCEDURE SIMULATION DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0601",
+      "term": "ORTHOPAEDIC AND TRAUMATOLOGY PROCEDURES SIMULATION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V060101",
+      "term": "ORTHOPAEDIC PROSTHESES TESTING DEVICES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V06010101",
+      "term": "HIP PROSTHESES TESTING DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V06010102",
+      "term": "KNEE PROSTHESES TESTING DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V06010103",
+      "term": "SHOULDER PROSTHESES TESTING DEVICES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V06010199",
+      "term": "ORTHOPAEDIC PROSTHESES TESTING DEVICES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V060102",
+      "term": "SPINAL SURGERY TESTING DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0602",
+      "term": "VASCULAR PROCEDURES SIMULATION DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0603",
+      "term": "DENTAL PROCEDURES SIMULATION DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0604",
+      "term": "GENERAL SURGICAL PROCEDURES SIMULATION DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0605",
+      "term": "OPHTHALMOLOGICAL PROCEDURES SIMULATION DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0606",
+      "term": "BREAST SURGERY TESTING DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0607",
+      "term": "OSTEOSYNTHESIS IMPLANTS TESTING DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0680",
+      "term": "CLINICAL PROCEDURES SIMULATION DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0699",
+      "term": "CLINICAL PROCEDURES SIMULATION DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V07",
+      "term": "MEDICAL DEVICE CLEANING DEVICES, NOT OTHERWISE CLASSIFIED",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0701",
+      "term": "CLEANING BRUSHES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V070101",
+      "term": "ENDOSCOPES CLEANING BRUSHES - FOR GENERIC USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V070102",
+      "term": "DIGESTIVE ENDOSCOPY ENDOSCOPES CLEANING BRUSHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V070103",
+      "term": "NEPHRO-CISTOSCOPIC OPTICS CLEANING BRUSHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V070104",
+      "term": "BRONCHOSCOPIC OPTICS CLEANING BRUSHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V070105",
+      "term": "INSTRUMENTS CLEANING BRUSHES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0702",
+      "term": "CANNULATED INSTRUMENTS AND DEVICES CLEANING BRUSHES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0703",
+      "term": "ELECTRODES CLEANING SPONGES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0704",
+      "term": "CANNULATED INSTRUMENTS AND DEVICES CLEANING STYLETS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0799",
+      "term": "PRODUCTS FOR CLEANING MEDICAL DEVICES NOT INCLUDED IN OTHER CLASSES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08",
+      "term": "HEALTHCARE ACTIVITIES SUPPORTIVE EQUIPMENT AND AIDS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0802",
+      "term": "MEDICAL CHAIRS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080201",
+      "term": "ELECTRIC MEDICAL CHAIRS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08020101",
+      "term": "GENERIC USE ELECTRIC MEDICAL CHAIRS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08020102",
+      "term": "ELECTRIC MEDICAL CHAIRS WITH WEIGHING SYSTEM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08020199",
+      "term": "ELECTRIC MEDICAL CHAIRS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080202",
+      "term": "MANUAL MEDICAL CHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080280",
+      "term": "MEDICAL CHAIRS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080299",
+      "term": "MEDICAL CHAIRS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0803",
+      "term": "MEDICAL CUSHIONS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080301",
+      "term": "ANTI-DECUBITUS MEDICAL CUSHIONS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08030101",
+      "term": "ACTIVE ANTI-DECUBITUS MEDICAL CUSHIONS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08030102",
+      "term": "NON-ACTIVE ANTI-DECUBITUS MEDICAL CUSHIONS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080302",
+      "term": "PATIENT POSITIONING MEDICAL CUSHIONS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080399",
+      "term": "MEDICAL CUSHIONS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0804",
+      "term": "PATIENT IMMOBILISERS (in diagnostic or therapeutic procedures)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0805",
+      "term": "PATIENT TRANSFER EQUIPMENT",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080501",
+      "term": "PATIENT TRANSFER STRETCHERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050101",
+      "term": "GENERIC USE STRETCHERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050102",
+      "term": "SELF-LOADING STRETCHERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050103",
+      "term": "EMERGENCY AND TRAUMATOLOGY STRETCHERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050104",
+      "term": "BIO-CONTAINMENT STRETCHERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050199",
+      "term": "PATIENT TRANSFER STRETCHERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080502",
+      "term": "PATIENT TRANSFER CHAIRS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080503",
+      "term": "PATIENT TRANSFER LIFTS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050301",
+      "term": "MOBILE LIFTS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0805030101",
+      "term": "MANUAL MOBILE LIFTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0805030102",
+      "term": "ELECTRIC MOBILE LIFTS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050302",
+      "term": "ELECTRIC FIXED LIFTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050303",
+      "term": "BATH LIFTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050380",
+      "term": "PATIENT TRANSFER LIFTS - ACCESSORIES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0805038001",
+      "term": "RIGID SUPPORTS FOR LIFTS (STRETCHERS)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0805038002",
+      "term": "NON-RIGID SUPPORTS FOR LIFTS (HARNESSES)",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08050399",
+      "term": "PATIENT TRANSFER LIFTS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080504",
+      "term": "PATIENT TRANSFER BOARDS AND TABLES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0806",
+      "term": "MEDICAL BEDS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080601",
+      "term": "ELECTRIC MEDICAL BEDS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08060101",
+      "term": "HOSPITAL/HOME CARE ELECTRIC MEDICAL BEDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08060102",
+      "term": "INTENSIVE CARE OR RESUSCITATION ELECTRIC MEDICAL BEDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08060103",
+      "term": "SEMI-INTENSIVE THERAPY OR CARDIAC INTENSIVE CARE UNITS (CICU) ELECTRIC MEDICAL BEDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08060104",
+      "term": "BURN PATIENT ELECTRIC MEDICAL BEDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08060105",
+      "term": "ELECTRIC MEDICAL BEDS WITH WEIGHING SYSTEM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08060106",
+      "term": "BARIATRIC ELECTRIC MEDICAL BEDS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08060107",
+      "term": "PEDIATRIC ELECTRIC MEDICAL BEDS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0806010701",
+      "term": "HOSPITAL/HOME CARE PEDIATRIC ELECTRIC MEDICAL BEDS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0806010702",
+      "term": "INTENSIVE CARE PEDIATRIC ELECTRIC MEDICAL BEDS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08060199",
+      "term": "ELECTRIC MEDICAL BEDS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080602",
+      "term": "MANUAL MEDICAL BEDS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080603",
+      "term": "TREATMENT, DIAGNOSIS AND MONITORING MEDICAL BEDS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080680",
+      "term": "MEDICAL BEDS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08068001",
+      "term": "BED RAILS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08068002",
+      "term": "BED SUPPORTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V08068099",
+      "term": "MEDICAL BEDS - OTHER ACCESSORIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080699",
+      "term": "MEDICAL BEDS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0807",
+      "term": "ANTI-DECUBITUS MEDICAL MATTRESSES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080701",
+      "term": "ACTIVE ANTI-DECUBITUS MEDICAL MATTRESSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V080702",
+      "term": "NON ACTIVE ANTI-DECUBITUS MEDICAL MATTRESSES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0808",
+      "term": "MEDICAL CROSSBARS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0809",
+      "term": "MANUAL CLINICAL CRIBS FOR NEWBORNS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0810",
+      "term": "NEWBORN POSITIONERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0811",
+      "term": "HEEL, ELBOW AND KNEE ANTI-DECUBITUS PROTECTION AIDS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0812",
+      "term": "FECES AND URINE COLLECTION AIDS (BED PANS AND PARROTS)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0880",
+      "term": "MEDICAL SUPPORT EQUIPMENT - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0899",
+      "term": "MEDICAL SUPPORT EQUIPMENT - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V09",
+      "term": "FLUIDS/GASES FOR CLINICAL/THERAPEUTIC USE",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0901",
+      "term": "CLINICAL/THERAPEUTIC APPLICATIONS CARBON DIOXIDE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0902",
+      "term": "CLINICAL/THERAPEUTIC APPLICATIONS LIQUID NITROGEN",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0903",
+      "term": "CLINICAL/THERAPEUTIC APPLICATIONS GAS MIXTURES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0904",
+      "term": "CLINICAL/THERAPEUTIC APPLICATIONS NITROUS OXIDE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0905",
+      "term": "CLINICAL/THERAPEUTIC APPLICATIONS ARGON",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V0999",
+      "term": "FLUIDS/GASES FOR CLINICAL/THERAPEUTICAL USE - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V80",
+      "term": "CLINICAL USE ACCESSORIES NOT INCLUDED IN OTHER CLASSES",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V90",
+      "term": "VARIOUS DEVICES NOT INCLUDED IN OTHER CLASSES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9001",
+      "term": "TONGUE DEPRESSORS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9002",
+      "term": "ENTEROCLYSIS DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9003",
+      "term": "TOURNIQUETS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9004",
+      "term": "SKIN MARKING DERMOGRAPHIC PENCILS AND PENS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9005",
+      "term": "RUBBER SQUIRTS FOR IRRIGATION",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9007",
+      "term": "STERILE INSTRUMENT LUBRICANTS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9010",
+      "term": "PARASITE ELIMINATION MECHANICAL DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V901001",
+      "term": "LICE ELIMINATION MECHANICAL DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V901099",
+      "term": "PARASITE ELIMINATION MECHANICAL DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9011",
+      "term": "MULTIFUNCTIONAL TRANSDUCERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9012",
+      "term": "NON-SPECIALIST SURGICAL INSTRUMENTS AND KITS, SINGLE-USE",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9015",
+      "term": "ELECTRODES AND PROBES CUTANEOUS CONDUCTIVE SUBSTANCES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9016",
+      "term": "SPECIALIST SURGICAL INSTRUMENTS AND KITS NOT INCLUDED IN OTHER CLASSES, SINGLE-USE",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V901601",
+      "term": "PLASTIC SURGERY AND NON-AESTHETIC PURPOSES GENERIC USE INSTRUMENTS AND KITS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V901602",
+      "term": "DERMOSURGERY INSTRUMENTS AND KITS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V901603",
+      "term": "SUPERFICIAL TREATMENTS INSTRUMENTS AND KITS, SINGLE-USE",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V901699",
+      "term": "SPECIALIST SURGICAL INSTRUMENTS AND KITS NOT INCLUDED IN OTHER CLASSES, SINGLE-USE - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9017",
+      "term": "ORAL ADMINISTRATION PREPARATIONS NOT INCLUDED IN OTHER CLASSES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9018",
+      "term": "TRICHOTOMY MANUAL DEVICES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V9099",
+      "term": "VARIOUS DEVICES NOT INCLUDED IN OTHER CLASSES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "V",
+      "categoryDescription": "VARIOUS MEDICAL DEVICES",
+      "code": "V92",
+      "term": "MEDICAL DEVICE SOFTWARE - NOT INCLUDED IN OTHER CLASSES",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

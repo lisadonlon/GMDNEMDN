@@ -1,0 +1,2144 @@
+{
+  "category": "H",
+  "categoryDescription": "SUTURE DEVICES",
+  "entryCount": 267,
+  "terminalCount": 182,
+  "entries": [
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H",
+      "term": "SUTURE DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H01",
+      "term": "SURGICAL SUTURES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101",
+      "term": "ABSORBABLE SUTURES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101",
+      "term": "ABSORBABLE SYNTHETIC SUTURES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H01010101",
+      "term": "MONOFILAMENT ABSORBABLE SYNTHETIC SUTURES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010101",
+      "term": "POLYDIOXANONE MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010101",
+      "term": "POLYDIOXANONE MONOFILAMENT WITH NEEDLE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010102",
+      "term": "MOUNTED POLYDIOXANONE MONOFILAMENT WITH NEEDLE FOR VIDEO SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010103",
+      "term": "POLYDIOXANONE MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010104",
+      "term": "MOUNTED POLYDIOXANONE MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (‘BARBED’)",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010102",
+      "term": "POLYGLYCONATE AND MONOFILAMENT DERIVATIVES",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010201",
+      "term": "POLYGLYCONATE AND DERIVATIVES MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010202",
+      "term": "POLYGLYCONATE AND DERIVATIVES MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010203",
+      "term": "POLYGLYCONATE AND DERIVATIVES MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (‘BARBED’)",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010103",
+      "term": "POLIGLECAPRONE AND DERIVATIVES MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010301",
+      "term": "POLIGLECAPRONE AND DERIVATIVES MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010302",
+      "term": "POLIGLECAPRONE AND DERIVATIVES MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101010303",
+      "term": "POLIGLECAPRONE AND DERIVATIVES MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (‘BARBED’)",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010199",
+      "term": "MONOFILAMENT ABSORBABLE SYNTHETIC SUTURES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010201",
+      "term": "POLYGLYCOLIC ACID MULTIFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101020101",
+      "term": "POLYGLYCOLIC ACID MULTIFILAMENT WITH NEEDLE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101020102",
+      "term": "POLYGLYCOLIC ACID MULTIFILAMENT WITH NEEDLE FOR VIDEO SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101020103",
+      "term": "POLYGLYCOLIC ACID MULTIFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010202",
+      "term": "POLYGLYCOLIC WITH LACTIC ACID MULTIFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101020201",
+      "term": "POLYGLYCOLIC WITH LACTIC ACID MULTIFILAMENT WITH NEEDLE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101020202",
+      "term": "POLYGLYCOLIC WITH LACTIC ACID MULTIFILAMENT WITH NEEDLE FOR VIDEO SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101020203",
+      "term": "POLYGLYCOLIC WITH LACTIC ACID MULTIFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010299",
+      "term": "SYNTHETIC ABSORBABLE MULTIFILAMENT SUTURES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H01010103",
+      "term": "SYNTHETIC ABSORBABLE MONOFILAMENT SUTURES WITH ANTIBACTERIAL",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010301",
+      "term": "POLYDIOXANONE WITH ANTIBACTERIAL MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030101",
+      "term": "POLYDIOXANONE WITH ANTIBACTERIAL MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030102",
+      "term": "POLYDIOXANONE WITH ANTIBACTERIAL MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030103",
+      "term": "POLYDIOXANONE MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (‘BARBED’) WITH ANTIBACTERIAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010302",
+      "term": "POLYGLYCOLIC AND LACTIC ACID WITH ANTIBACTERIAL MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030201",
+      "term": "POLYGLYCOLIC AND LACTIC ACID WITH ANTIBACTERIAL MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030202",
+      "term": "POLYGLYCOLIC AND LACTIC ACID WITH ANTIBACTERIAL MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030203",
+      "term": "POLYGLYCOLIC AND LACTIC ACID WITH ANTIBACTERIAL MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (‘BARBED’) WITH ANTIBACTERIAL",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010303",
+      "term": "POLYGECAPRONE AND DERIVATIVES WITH ANTIBACTERIAL MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030301",
+      "term": "POLYGLECAPRONE AND DERIVATIVES WITH ANTIBACTERIAL MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030302",
+      "term": "POLIGLECAPRONE AND DERIVATIVES WITH ANTIBACTERIAL MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101030303",
+      "term": "POLYGLYCAPRONE AND DERIVATIVES WITH ANTIBACTERIAL MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (\"BARBED\")",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010399",
+      "term": "SYNTHETIC RESORBABLE SUTURES WITH ANTIBACTERIAL MONOFILAMENT - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H01010104",
+      "term": "SYNTHETIC RESORBABLE SUTURES WITH ANTIBACTERIAL MULTIFILAMENT",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010401",
+      "term": "POLYGLYCOLIC ACID WITH ANTIBACTERIAL MULTIFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101040101",
+      "term": "POLYGLYCOLIC ACID WITH ANTIBACTERIAL MULTIFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101040102",
+      "term": "POLYGLYCOLIC ACID WITH ANTIBACTERIAL MULTIFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010402",
+      "term": "POLYGLYCOLIC ACID WITH ANTIBACTERIAL MULTIFILAMENT WITH NEEDLE",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101040201",
+      "term": "POLYGLYCOLIC ACID WITH LACTIC ACID WITH ANTIBACTERIAL MULTIFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010101040202",
+      "term": "POLYGLYCOLIC AND LACTIC ACID WITH ANTIBACTERIAL MULTIFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0101010499",
+      "term": "SYNTHETIC RESORBABLE SUTURES WITH ANTIBACTERIAL MULTIFILAMENT - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102",
+      "term": "NON-ABSORBABLE SUTURES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201",
+      "term": "NON-ABSORBABLE SYNTHETIC SUTURES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H01020101",
+      "term": "MONOFILAMENT NON-ABSORBABLE SYNTHETIC SUTURES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010101",
+      "term": "POLYAMIDE MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010101",
+      "term": "POLYAMIDE MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010102",
+      "term": "POLYAMIDE MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010103",
+      "term": "POLYAMIDE MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (\"BARBED\")",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010102",
+      "term": "POLYESTER AND DERIVATIVES MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010201",
+      "term": "POLYESTER AND DERIVATIVES MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010202",
+      "term": "POLYESTER AND DERIVATIVES MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010203",
+      "term": "POLYESTER AND DERIVATIVES MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (\"BARBED\")",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010103",
+      "term": "POLYETHERPOLYURETHANE MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010301",
+      "term": "POLYETHERPOLYURETHANE MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010302",
+      "term": "POLYETHERPOLYURETHANE MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010104",
+      "term": "POLYPROPYLENE MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010401",
+      "term": "POLYPROPYLENE MONOFILAMENT WITH NEEDLE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010402",
+      "term": "POLYPROPYLENE MONOFILAMENT WITH NEEDLE FOR VIDEO SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010403",
+      "term": "POLYPROPYLENE MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010404",
+      "term": "POLYPROPYLENE MONOFILAMENT WITH NEEDLE FOR TISSUE TRACTION (\"BARBED\")",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010105",
+      "term": "POLYTETRAFLUOROETHYLENE (PTFE) MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010501",
+      "term": "POLYTETRAFLUOROETHYLENE (PTFE) MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010502",
+      "term": "POLYTETRAFLUOROETHYLENE (PTFE)  MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010106",
+      "term": "POLYVINYLIDENE FLUORIDE AND DERIVATIVES MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010601",
+      "term": "POLYVINYLIDENE FLUORIDE AND DERIVATIVES MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201010602",
+      "term": "POLYVINYLIDENE FLUORIDE AND DERIVATIVES MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010199",
+      "term": "NON-ABSORBABLE SYNTHETIC MONOFILAMENT SUTURES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H01020102",
+      "term": "SYNTHETIC NONABSORBABLE MULTIFILAMENT SUTURES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010201",
+      "term": "POLYAMIDE MULTIFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201020101",
+      "term": "POLYAMIDE MULTIFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201020102",
+      "term": "POLYAMIDE MULTIFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010202",
+      "term": "POLYESTER MULTIFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201020201",
+      "term": "POLYSTER MULTIFILAMENT WITH NEEDLE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201020202",
+      "term": "POLYSTER MULTIFILAMENT WITH NEEDLE FOR VIDEO SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010201020203",
+      "term": "POLYSTER MULTIFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102010299",
+      "term": "SYNTHETIC NONABSORBABLE MULTIFILAMENT SUTURES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202",
+      "term": "NON-ABSORBABLE NON-SYNTHETIC SUTURES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H01020201",
+      "term": "NON-ABSORBABLE NON-SYNTHETIC MONOFILAMENT SUTURES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020101",
+      "term": "STAINLESS STEEL MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202010101",
+      "term": "STAINLESS STEEL MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202010102",
+      "term": "STAINLESS STEEL MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020102",
+      "term": "SILVER MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202010201",
+      "term": "SILVER MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202010202",
+      "term": "SILVER MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020103",
+      "term": "TITANIUM MONOFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202010301",
+      "term": "TITANIUM MONOFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202010302",
+      "term": "TITANIUM MONOFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020199",
+      "term": "NON-ABSORBABLE NON-SYNTHETIC MONOFILAMENT SUTURES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H01020202",
+      "term": "NON-ABSORBABLE NON-SYNTHETIC MULTIFILAMENT SUTURES",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020201",
+      "term": "STAINLESS STEEL MULTIFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202020101",
+      "term": "STAINLESS STEEL MULTIFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202020102",
+      "term": "STAINLESS STEEL MULTIFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020202",
+      "term": "LINEN",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202020201",
+      "term": "LINEN WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202020202",
+      "term": "LINEN WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020203",
+      "term": "SILK",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202020301",
+      "term": "SILK WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202020302",
+      "term": "SILK WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020204",
+      "term": "TITANIUM MULTIFILAMENT",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202020401",
+      "term": "TITANIUM MULTIFILAMENT WITH NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H010202020402",
+      "term": "TITANIUM MULTIFILAMENT WITHOUT NEEDLE",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0102020299",
+      "term": "NON-ABSORBABLE NON-SYNTHETIC MULTIFILAMENT SUTURES - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0199",
+      "term": "SURGICAL SUTURES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02",
+      "term": "MECHANICAL SURGICAL STAPLERS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0201",
+      "term": "SKIN STAPLERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020101",
+      "term": "MECHANICAL SKIN STAPLERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010101",
+      "term": "SKIN STAPLERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010102",
+      "term": "SKIN STAPLERS, SINGLE PATIENT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010103",
+      "term": "SKIN STAPLERS, REUSABLE (STAINLESS STEEL)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010104",
+      "term": "SINGLE-USE STAPLER CARTRIDGES FOR SINGLE PATIENT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010105",
+      "term": "SINGLE-USE CARTRIDGES FOR REUSABLE STAPLERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010106",
+      "term": "METAL SURGICAL STAPLE REMOVERS, SINGLE-USE",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010199",
+      "term": "MECHANICAL SKIN STAPLERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020102",
+      "term": "CLIPS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010201",
+      "term": "SKIN CLIPS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010202",
+      "term": "STERNAL CLIPS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02010299",
+      "term": "CLIPS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020180",
+      "term": "SKIN STAPLERS - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020199",
+      "term": "SKIN STAPLERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202",
+      "term": "STAPLERS, OPEN SURGERY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201",
+      "term": "LINEAR STAPLERS, OPEN SURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020101",
+      "term": "STRAIGHT LINEAR STAPLERS FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010101",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201010101",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITH BLADE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201010102",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITHOUT BLADE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010102",
+      "term": "REUSABLE (STAINLESS STEEL) STRAIGHT LINEAR STAPLERS FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201010201",
+      "term": "REUSABLE (STAINLESS STEEL) STRAIGHT LINEAR STAPLERS WITH BLADE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201010202",
+      "term": "REUSABLE (STAINLESS STEEL) STRAIGHT LINEAR STAPLERS WITHOUT BLADE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010199",
+      "term": "STRAIGHT LINEAR STAPLERS FOR OPEN SURGERY - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020102",
+      "term": "ARTICULATED LINEAR STAPLERS FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010201",
+      "term": "SINGLE-USE ARTICULATED LINEAR STAPLERS FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201020101",
+      "term": "SINGLE-USE ARTICULATED LINEAR STAPLERS WITHOUT BLADE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201020102",
+      "term": "SINGLE-USE ARTICULATED LINEAR STAPLERS WITH BLADE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010202",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201020201",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITH BLADE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020201020202",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITHOUT BLADE FOR OPEN SURGERY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010299",
+      "term": "ARTICULATED LINEAR STAPLERS FOR OPEN SURGERY- OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020103",
+      "term": "SINGLE-PATIENT LINEAR SUTURE CARTDRIGES FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010301",
+      "term": "SINGLE-PATIENT LINEAR SUTURE CARTDRIGES WITH BLADE FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010302",
+      "term": "SINGLE-PATIENT LINEAR SUTURE CARTDRIGES WITHOUT BLADE FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010399",
+      "term": "SINGLE-PATIENT LINEAR SUTURE CARTDRIGES FOR OPEN SURGERY - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020104",
+      "term": "REUSABLE LINEAR SUTURE CARTDRIGES FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010401",
+      "term": "REUSABLE LINEAR SUTURE CARTDRIGES WITH BLADE FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010402",
+      "term": "REUSABLE LINEAR SUTURE CARTDRIGES WITHOUT BLADE FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202010499",
+      "term": "REUSABLE LINEAR SUTURE CARTDRIGES FOR OPEN SURGERY - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020199",
+      "term": "LINEAR STAPLERS FOR OPEN SURGERY - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020202",
+      "term": "CIRCULAR STAPLERS FOR OPEN SURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020201",
+      "term": "STRAIGHT CIRCULAR STAPLERS FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202020101",
+      "term": "SINGLE-USE STRAIGHT CIRCULAR STAPLERS FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202020102",
+      "term": "REUSABLE STRAIGHT CIRCULAR STAPLERS FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020202",
+      "term": "CURVED CIRCULAR STAPLERS FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202020201",
+      "term": "SINGLE-USE CURVED CIRCULAR STAPLERS FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0202020202",
+      "term": "REUSABL CURVED CIRCULAR STAPLERS FOR OPEN SURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020203",
+      "term": "PURSE STRING STAPLERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020204",
+      "term": "REUSABLE CIRCULAR STAPLER CARTDRIGES FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020299",
+      "term": "CIRCULAR STAPLERS FOR OPEN SURGERY - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020203",
+      "term": "SEMICIRCULAR STAPLERS FOR OPEN SURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020301",
+      "term": "SINGLE PATIENT STRAIGHT SEMICIRCULAR STAPLERS WITH BLADE FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020302",
+      "term": "SINGLE PATIENT STRAIGHT SEMICIRCULAR STAPLER CARTRIDGES WITH BLADE FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02020399",
+      "term": "SEMICIRCULAR STAPLERS FOR OPEN SURGERY - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020280",
+      "term": "STAPLERS FOR OPEN SURGERY - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020299",
+      "term": "STAPLERS FOR OPEN SURGERY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0203",
+      "term": "STAPLERS FOR VIDEOSURGERY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301",
+      "term": "LINEAR STAPLERS FOR VIDEOSURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02030104",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS FOR VIDEOSURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0203010401",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITH BLADE FOR VIDEOSURGERY",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301040101",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITH BLADE FOR THORACOSCOPY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301040102",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITH BLADE FOR LAPAROSCOPY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301040199",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITH BLADE FOR VIDEOSURGERY - OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0203010402",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITHOUT BLADE FOR VIDEOSURGERY",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301040201",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITHOUT BLADE FOR THORACOSCOPY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301040202",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITHOUT BLADE FOR LAPAROSCOPY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301040299",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS WITHOUT BLADE FOR VIDEOSURGERY – OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0203010499",
+      "term": "SINGLE PATIENT STRAIGHT LINEAR STAPLERS FOR VIDEOSURGERY – OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02030105",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS FOR VIDEO SURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0203010501",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITH BLADE FOR VIDEO SURGERY",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301050101",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITH BLADE FOR THORACOSCOPY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301050102",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITH BLADE FOR LAPAROSCOPY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301050199",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITH BLADE FOR VIDEOSURGERY – OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0203010502",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITHOUT BLADE FOR VIDEO SURGERY",
+      "level": 6,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301050201",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITHOUT BLADE FOR THORACOSCOPY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301050202",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITHOUT BLADE FOR LAPAROSCOPY",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020301050299",
+      "term": "SINGLE PATIENT ARTICULATED LINEAR STAPLERS WITHOUT BLADE FOR VIDEOSURGERY – OTHER",
+      "level": 7,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02030106",
+      "term": "LINEAR STAPLER CARTRIDGES FOR VIDEOSURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02030199",
+      "term": "LINEAR STAPLERS FOR VIDEOSURGERY - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020302",
+      "term": "CIRCULAR STAPLERS FOR VIDEOSURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02030201",
+      "term": "CURVED CIRCULAR STAPLERS FOR VIDEOSURGERY",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0203020101",
+      "term": "SINGLE-USE CURVED CIRCULAR STAPLERS FOR VIDEOSURGERY",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0203020199",
+      "term": "CIRCULAR STAPLERS FOR VIDEOSURGERY - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H02030299",
+      "term": "CIRCULAR STAPLERS FOR VIDEOSURGERY – OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020303",
+      "term": "CLIP APPLIERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020380",
+      "term": "STAPLERS, VIDEOSURGERY - ACCESSORIES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020399",
+      "term": "STAPLERS, VIDEOSURGERY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0204",
+      "term": "TRANSANAL RECTAL STAPLERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020401",
+      "term": "SINGLE PATIENT TRANSANAL RECTAL STAPLERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020402",
+      "term": "MULTI-USE TRANSANAL RECTAL STAPLERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H020403",
+      "term": "TRANSANAL RECTAL STAPLER CARTRIDGES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0299",
+      "term": "MECHANICAL SURGICAL STAPLERS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03",
+      "term": "HAEMOSTASIS CLIPS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0301",
+      "term": "HAEMOSTASIS CLIPS FOR OPEN SURGERY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H030101",
+      "term": "MULTIPLE CLIP APPLIERS FOR OPEN SURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03010101",
+      "term": "SINGLE-USE MULTIPLE CLIP APPLIERS FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03010102",
+      "term": "SINGLE-PATIENT MULTIPLE CLIP APPLIERS FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03010104",
+      "term": "SINGLE-PATIENT MULTIPLE CLIP APPLIER CARTRIDGES FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03010105",
+      "term": "REUSABLE MULTIPLE CLIP APPLIER CARTRIDGES FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03010199",
+      "term": "MULTIPLE CLIP APPLIERS FOR OPEN SURGERY - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H030102",
+      "term": "SINGULAR CLIPS FOR OPEN SURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03010201",
+      "term": "NON-ABSORBABLE SINGULAR CLIPS FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03010202",
+      "term": "ABSORBABLE SINGULAR CLIPS FOR OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H030199",
+      "term": "HAEMOSTASIS CLIPS FOR OPEN SURGERY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0302",
+      "term": "HAEMOSTASIS CLIPS FOR VIDEOSURGERY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H030201",
+      "term": "MULTIPLE CLIP APPLIERS FOR VIDEOSURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03020101",
+      "term": "SINGLE-USE MULTIPLE CLIP APPLIERS FOR VIDEOSURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03020103",
+      "term": "REUSABLE MULTIPLE CLIP APPLIERS FOR VIDEOSURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03020199",
+      "term": "MULTIPLE CLIP APPLIERS FOR VIDEOSURGERY - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H030299",
+      "term": "HAEMOSTASIS CLIPS FOR VIDEOSURGERY - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0303",
+      "term": "HAEMOSTASIS CLIPS FOR OPEN SURGERY AND VIDEOSURGERY",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H030301",
+      "term": "SINGULAR HAEMOSTASIS CLIPS FOR OPEN SURGERY AND VIDEOSURGERY",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03030101",
+      "term": "SINGULAR NON-ABSORBABLE HAEMOSTASIS CLIPS FOR OPEN SURGERY AND VIDEOSURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03030102",
+      "term": "SINGLE ABSORBABLE CLIPS FOR HEMOSTASIS IN OPEN AND VIDEO SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0380",
+      "term": "HEMOSTASIS CLIPS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H038001",
+      "term": "SINGLE-USE DEVICES FOR REMOVAL OF CLIPS FOR HEMOSTASIS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03800101",
+      "term": "SINGLE-USE DEVICES FOR CLIP REMOVAL IN OPEN SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H03800102",
+      "term": "SINGLE-USE DEVICES FOR CLIP REMOVAL IN VIDEO SURGERY",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H038099",
+      "term": "CLIPS FOR HEMOSTASIS - ACCESSORIES OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H0399",
+      "term": "HAEMOSTASIS CLIPS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H90",
+      "term": "SUTURE DEVICES - VARIOUS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9001",
+      "term": "TISSUE ADHESIVES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900101",
+      "term": "GLUES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H90010101",
+      "term": "BIOLOGICAL GLUES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H90010102",
+      "term": "SYNTHETIC GLUES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900102",
+      "term": "BANDAGES FOR SUTURES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900199",
+      "term": "TISSUE ADHESIVES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9002",
+      "term": "TAPES, MEDICAL/SURGICAL",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900201",
+      "term": "SUTURE TAPES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H90020101",
+      "term": "UMBILICAL CORD TAPES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H90020102",
+      "term": "CERCLAGE TAPES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H90020103",
+      "term": "PARENCHYMATOUS TISSUE TAPES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H90020199",
+      "term": "SUTURE TAPES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900202",
+      "term": "MARKING TAPES, VASCULAR STRUCTURES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900203",
+      "term": "OCCLUSION TAPES, VASCULAR STRUCTURES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900299",
+      "term": "TAPES, MEDICAL/SURGICAL - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9003",
+      "term": "SUTURE REINFORCEMENT OR SUPPORT DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900301",
+      "term": "SUTURE BUTTONS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900302",
+      "term": "SUTURE FELTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900303",
+      "term": "PLEDGETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900304",
+      "term": "PLUGS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900305",
+      "term": "STAPLER REINFORCEMENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900399",
+      "term": "SUTURE SUPPORT OR REINFORCEMENT SUPPORT DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9005",
+      "term": "SUTURE ZIPPERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9006",
+      "term": "CRANIAL HOLE COVERS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9007",
+      "term": "ANCHORS FOR SOFT TISSUE SUTURE (excluding P09120102 ANCHORS FOR TENDON-LIGAMENT SYNTHESIS)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9008",
+      "term": "SINGLE-USE SUTURE INSTRUMENTS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900801",
+      "term": "SINGLE-USE NODE PUSHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900802",
+      "term": "SINGLE-USE NEEDLE HOLDERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H900899",
+      "term": "SINGLE-USE INSTRUMENTS FOR SUTURES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9080",
+      "term": "SUTURE ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "H",
+      "categoryDescription": "SUTURE DEVICES",
+      "code": "H9099",
+      "term": "SUTURE DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Large archive files that exceed GitHub limits
+archive/device.txt
+archive/gmdnTerms.txt
+
+# ICD-10 API credentials and cache
+.env
+.icd-token.json
+icd-cache/
+
+# Generated ICD-10 mappings (regenerate as needed)
+icd10-mappings/
+public/icd10-mappings/

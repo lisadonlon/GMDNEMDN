@@ -1,0 +1,664 @@
+{
+  "category": "B",
+  "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+  "entryCount": 82,
+  "terminalCount": 60,
+  "entries": [
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B",
+      "term": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B01",
+      "term": "BLOOD BAGS AND KITS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101",
+      "term": "BLOOD COLLECTION BAGS AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010101",
+      "term": "AUTOLOGOUS BLOOD COLLECTION BAGS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B01010101",
+      "term": "AUTOTRANSFUSION BAGS, WITH FILTERS AND KITS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101010101",
+      "term": "AUTOTRANSFUSION DOUBLE BAGS, WITH FILTERS AND KITS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101010199",
+      "term": "AUTOTRANSFUSION BAGS, WITH FILTERS AND KITS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B01010102",
+      "term": "AUTOTRANSFUSION BAGS, W/O FILTERS AND KITS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101010201",
+      "term": "AUTOTRANSFUSION SINGULAR BAGS, W/O FILTERS AND KITS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101010202",
+      "term": "AUTOTRANSFUSION DOUBLE BAGS, W/O FILTERS AND KITS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101010203",
+      "term": "AUTOTRANSFUSION TRIPLE BAGS, W/O FILTERS AND KITS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101010299",
+      "term": "AUTOTRANSFUSION BAGS, W/O FILTERS AND KITS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010102",
+      "term": "HOMOLOGOUS DONOR BLOOD COLLECTION BAGS AND KITS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B01010201",
+      "term": "DONOR BLOOD COLLECTION BAGS, WITH FILTERS AND KITS",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101020101",
+      "term": "DONOR BLOOD COLLECTION QUADRUPLE BAGS, WITH FILTERS AND KITS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101020102",
+      "term": "DONOR BLOOD COLLECTION QUINTUPLE BAGS, WITH FILTERS AND KITS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101020199",
+      "term": "DONOR BLOOD COLLECTION BAGS AND KITS, WITH FILTERS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B01010202",
+      "term": "DONOR BLOOD COLLECTION BAGS, W/O FILTERS AND KITS - OTHER",
+      "level": 5,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101020201",
+      "term": "DONOR BLOOD COLLECTION TRIPLE BAGS, W/O FILTERS AND KIT",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101020202",
+      "term": "DONOR BLOOD COLLECTION QUADRUPLE BAGS, W/O FILTERS AND KITS",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0101020299",
+      "term": "DONOR BLOOD COLLECTION BAGS W/O FILTERS AND KITS - OTHER",
+      "level": 6,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010199",
+      "term": "BLOOD COLLECTION BAGS AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0102",
+      "term": "BLOOD TRANSFER BAGS AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010201",
+      "term": "WHOLE BLOOD, RED BLOOD CELLS OR PLASMA TRANSFER BAGS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010202",
+      "term": "PLATELETS CONCENTRATE TRANSFER BAGS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010299",
+      "term": "BLOOD TRANSFER BAGS AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0103",
+      "term": "MEDULLARY BLOOD COLLECTION, PURIFICATION, CRYOPRESERVATION BAGS AND KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0104",
+      "term": "PLACENTAL BLOOD BAGS AND KITS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010401",
+      "term": "PLACENTAL BLOOD COLLECTION BAGS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010402",
+      "term": "PLACENTAL BLOOD PURIFICATION BAGS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010403",
+      "term": "PLACENTAL BLOOD CROYPRESERVATION BAGS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B010499",
+      "term": "PLACENTAL BLOOD BAGS AND KITS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0105",
+      "term": "UMBILICAL CORD BLOOD COLLECTION, PURIFICATION, CRYOPRESERVATION BAGS AND KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0180",
+      "term": "BLOOD BAGS AND KITS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0190",
+      "term": "BLOOD BAGS AND KITS - VARIOUS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B019001",
+      "term": "PLATELET GEL AND FIBRIN GLUE PRODUCTION BAGS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B019002",
+      "term": "COLLECTION AND FILTRATION OF WHOLE BLOOD WITH ALIQUOTATION OF CONCENTRATED RED BLOOD CELLS BAGS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B019003",
+      "term": "BLOOD COMPONENTS ALIQUOTATION KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B019004",
+      "term": "BLOOD COMPONENTS SAMPLING BAGS AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0199",
+      "term": "BLOOD BAGS AND KITS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B02",
+      "term": "BLOOD FILTERS",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0201",
+      "term": "LEUKOREDUCTION FILTERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B020101",
+      "term": "BED-SIDE LEUKOREDUCTION FILTERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B02010101",
+      "term": "BED-SIDE ERYTHROCYTES (RBC) LEUKOREDUCTION FILTERS (WITH OR WITHOUT INFUSION CONTROLLER)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B02010102",
+      "term": "BED-SIDE PLATELETS LEUKOREDUCTION FILTERS (WITH OR WITHOUT INFUSION CONTROLLER)",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B02010199",
+      "term": "BED-SIDE LEUKOREDUCTION FILTERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B020102",
+      "term": "LABORATORY LEUKOREDUCTION FILTERS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B02010201",
+      "term": "LABORATORY ERYTHROCYTES (RBC) LEUKOREDUCTION FILTERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B02010202",
+      "term": "LABORATORY PLATELETS LEUKOREDUCTION FILTERS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B02010299",
+      "term": "LABORATORY LEUKOREDUCTION FILTERS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0202",
+      "term": "MASSIVE TRANSFUSION THERAPY FILTERS (FOR 40 MICRON MICROAGGREGATES)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B020201",
+      "term": "MASSIVE TRANSFUSION THERAPY FILTERS, WITH TRANSFUSION CONTROLLER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B020202",
+      "term": "MASSIVE TRANSFUSION THERAPY FILTERS, W/O TRANSFUSION CONTROLLER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0280",
+      "term": "BLOOD FILTERS - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0299",
+      "term": "BLOOD FILTERS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B03",
+      "term": "APHERESIS DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0301",
+      "term": "APHERESIS COLLECTION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030101",
+      "term": "APHERESIS PLASMA COLLECTION DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030102",
+      "term": "APHERESIS PLATELET COLLECTION DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030103",
+      "term": "APHERESIS LEUKOCYTE COLLECTION DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030104",
+      "term": "APHERESIS MULTIPLE BLOOD COMPONENT COLLECTION DEVICES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030199",
+      "term": "APHERESIS COLLECTION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0302",
+      "term": "APHERESIS THERAPY DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030201",
+      "term": "PLASMAPHERESIS DEVICES AND KITS,",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030202",
+      "term": "CYTAPHERESIS DEVICES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030203",
+      "term": "SINGLE PLASMA COMPONENTS REMOVAL DEVICES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030204",
+      "term": "EXTRACORPOREAL PHOTOCHAEMOTHERAPY OR PHOTOPHERESIS DEVICES AND KITS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B030299",
+      "term": "APHERESIS THERAPY DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0380",
+      "term": "APHERESIS DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0399",
+      "term": "APHERESIS DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B04",
+      "term": "AUTOTRANSFUSION DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0401",
+      "term": "INTRA- AND POSTOPERATIVE BLOOD COLLECTION, WASHING AND REINFUSION DEVICES AND KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0402",
+      "term": "INTRA- AND POSTOPERATIVE BLOOD COLLECTION AND REINFUSION ONLY DEVICES AND KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0480",
+      "term": "AUTOTRANSFUSION DEVICES - ACCESSORIES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0499",
+      "term": "AUTOTRANSFUSION DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B05",
+      "term": "TOPICAL USE BLOOD COMPONENTS PREPARATION DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0501",
+      "term": "PLATELET GEL AUTOMATIC PREPARATION DEVICES (EXCLUDING BAGS)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0502",
+      "term": "FIBRIN GLUE AUTOMATIC PREPARATION DEVICES (EXCLUDING BAGS)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B0599",
+      "term": "TOPICAL USE BLOOD COMPONENTS PREPARATION DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B06",
+      "term": "CELLULAR OR BIOLOGICAL MANIPULATION DEVICES",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B07",
+      "term": "BLOOD AND BLOOD COMPONENTS PRESERVATION SOLUTIONS",
+      "level": 2,
+      "isTerminal": true
+    },
+    {
+      "category": "B",
+      "categoryDescription": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES",
+      "code": "B99",
+      "term": "HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}

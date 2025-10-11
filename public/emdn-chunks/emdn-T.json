@@ -1,0 +1,720 @@
+{
+  "category": "T",
+  "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+  "entryCount": 89,
+  "terminalCount": 67,
+  "entries": [
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T",
+      "term": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 1,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01",
+      "term": "GLOVES (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0101",
+      "term": "SURGICAL GLOVES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T010101",
+      "term": "LATEX SURGICAL GLOVES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01010101",
+      "term": "POWDERED LATEX SURGICAL GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01010102",
+      "term": "NON-POWDERED LATEX SURGICAL GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T010102",
+      "term": "SYNTHETIC SURGICAL GLOVES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01010201",
+      "term": "POLYCHLOROPREN SURGICAL GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01010202",
+      "term": "NITRILE SURGICAL GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01010203",
+      "term": "POLYISOPREN SURGICAL GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01010299",
+      "term": "SYNTHETIC SURGICAL GLOVES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T010199",
+      "term": "SURGICAL GLOVES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0102",
+      "term": "EXAMINATION / TREATMENT GLOVES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T010201",
+      "term": "LATEX EXAMINATION / TREATMENT GLOVES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T010202",
+      "term": "SYNTHETIC EXAMINATION / TREATMENT GLOVES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01020201",
+      "term": "VINYL EXAMINATION / TREATMENT GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01020202",
+      "term": "POLYETHYLENE EXAMINATION / TREATMENT GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01020203",
+      "term": "POLYCHLOROPREN EXAMINATION / TREATMENT GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01020204",
+      "term": "NITRILE EXAMINATION / TREATMENT GLOVES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T01020299",
+      "term": "SYNTHETIC EXAMINATION / TREATMENT GLOVES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T010299",
+      "term": "EXAMINATION / TREATMENT GLOVES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0199",
+      "term": "GLOVES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T02",
+      "term": "PROTECTIVE CLOTHING AND DRAPES (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0201",
+      "term": "SURGICAL DRAPES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020101",
+      "term": "INCISION DRAPES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T02010101",
+      "term": "INCISION DRAPES, WITHOUT ANTIBACTERIAL AGENT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T02010102",
+      "term": "INCISION DRAPES, WITH ANTIBACTERIAL AGENT",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020102",
+      "term": "SPECIALISTIC SURGERY DRAPES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020103",
+      "term": "SURGICAL THERMAL DRAPES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020199",
+      "term": "SURGICAL DRAPES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0202",
+      "term": "SURGICAL PROCEDURAL KITS (EXCLUDING SURGICAL INSTRUMENT KITS)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0203",
+      "term": "DRESSING AND ASSISTANCE KITS",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0204",
+      "term": "SURGICAL GOWNS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020401",
+      "term": "STANDARD SURGICAL GOWNS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020402",
+      "term": "REINFORCED SURGICAL GOWNS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020499",
+      "term": "SURGICAL GOWNS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0205",
+      "term": "NON-SURGICAL GOWNS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0206",
+      "term": "MEDICAL USE FACE MASKS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020603",
+      "term": "MEDICAL USE FACE MASKS, TYPE I (NOT FOR HEALTHCARE PROFESSIONALS)",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020604",
+      "term": "MEDICAL USE FACE MASKS, TYPE II AND IIR",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T020699",
+      "term": "MEDICAL USE FACE MASKS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE) - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0207",
+      "term": "CAPS AND HEADWEAR (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0208",
+      "term": "SHOE COVERS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0209",
+      "term": "SURGICAL APRONS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0210",
+      "term": "NON-SURGICAL DRAPES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0299",
+      "term": "PROTECTION DRAPES AND GARMENTS - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T03",
+      "term": "PROTECTIONS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT PPE)",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0301",
+      "term": "INSTRUMENTS AND EQUIPMENT COVERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030101",
+      "term": "COVER CAPS, INSTRUMENTS AND EQUIPMENT",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030102",
+      "term": "COVER SHEATHS, INSTRUMENTS AND EQUIPMENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030103",
+      "term": "ATRAUMATIC INSERTS FOR INSTRUMENTS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030199",
+      "term": "COVERS, INSTRUMENTS AND EQUIPMENT - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0302",
+      "term": "ROBOTIC SURGERY COVERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030201",
+      "term": "MECHANICAL ARMS COVERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030202",
+      "term": "CAMERAS COVERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030203",
+      "term": "OPTICS COVERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030299",
+      "term": "ROBOTIC SURGERY COVERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0303",
+      "term": "NON-SURGICAL HEATING COVERS",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030301",
+      "term": "AIR FLOW BLANKETS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030399",
+      "term": "HEATING COVERS - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0304",
+      "term": "RADIOTHERAPY PROTECTION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030401",
+      "term": "RADIOTHERAPY PROTECTION MASKS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030402",
+      "term": "RADIOTHERAPY PROTECTION SHEATHS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030403",
+      "term": "RADIOTHERAPY PROTECTIVE SCREENS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030404",
+      "term": "RADIOTHERAPY PROTECTIVE DRAPES",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030405",
+      "term": "RADIOTHERAPY EYE PROTECTION",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030406",
+      "term": "LEAD HANDS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030499",
+      "term": "RADIOTHERAPY PROTECTION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0305",
+      "term": "HEALTH SERVICE PREMISES PROTECTION DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030501",
+      "term": "OPERATION ROOMS AND VISIT ROOMS HYGIENIC COVERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030502",
+      "term": "BED AND STRETCHER HYGIENIC COVERS",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T030599",
+      "term": "HEALTH SERVICE PREMISES PROTECTION DEVICES - OTHER",
+      "level": 4,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0306",
+      "term": "PATIENT PROTECTION DEVICES DURING CLINICAL PROCEDURES",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0399",
+      "term": "PROTECTION DEVICES (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT PPE) - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04",
+      "term": "INCONTINENCE DEVICES",
+      "level": 2,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0401",
+      "term": "URINE ABSORBING DEVICES",
+      "level": 3,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T040101",
+      "term": "INCONTINENCE NAPPIES",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010101",
+      "term": "RECTANGULAR INCONTINENCE NAPPIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010102",
+      "term": "SHAPED INCONTINENCE NAPPIES",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010103",
+      "term": "INCONTINENCE NAPPIES WITH INTEGRATED FIXING SYSTEM",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010104",
+      "term": "NET PANTS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010199",
+      "term": "INCONTINENCE NAPPIES - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T040102",
+      "term": "ABSORBENT BED PADS",
+      "level": 4,
+      "isTerminal": false
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010201",
+      "term": "UNTUCKABLE UNDERPADS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010202",
+      "term": "TUCKABLE UNDERPADS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010203",
+      "term": "ABSORBENT ANTIMICROBIAL UNDERPADS",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T04010299",
+      "term": "ABSORBENT UNDERPADS - OTHER",
+      "level": 5,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T0499",
+      "term": "INCONTINENCE DEVICES - OTHER",
+      "level": 3,
+      "isTerminal": true
+    },
+    {
+      "category": "T",
+      "categoryDescription": "PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)",
+      "code": "T99",
+      "term": "PROTECTIVE DEVICES AND AIDS FOR INCONTINENCE (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE) - OTHER",
+      "level": 2,
+      "isTerminal": true
+    }
+  ]
+}
