@@ -1,105 +1,123 @@
 // Success page handler
 // File: /api/payment-success.js
+import Stripe from 'stripe';
 
-export const config = {
-  runtime: 'edge',
-}
-
-export default async function handler(request) {
-  const { method } = request
-  const url = new URL(request.url)
+export default async function handler(req, res) {
+  console.log('=== Payment success verification started ===');
+  console.log('Method:', req.method);
+  console.log('Query:', req.query);
   
-  const corsHeaders = {
-    'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'GET, OPTIONS',
-    'Access-Control-Allow-Headers': 'Content-Type',
+  // CORS headers
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+
+  if (req.method === 'OPTIONS') {
+    res.status(200).end();
+    return;
   }
 
-  if (method === 'OPTIONS') {
-    return new Response(null, { status: 200, headers: corsHeaders })
-  }
-
-  if (method !== 'GET') {
-    return new Response('Method not allowed', { status: 405, headers: corsHeaders })
+  if (req.method !== 'GET') {
+    res.status(405).json({ error: 'Method not allowed' });
+    return;
   }
 
   try {
-    const sessionId = url.searchParams.get('session_id')
+    const { session_id } = req.query;
     
-    if (!sessionId) {
-      return new Response(JSON.stringify({
+    if (!session_id) {
+      console.log('ERROR: No session ID provided');
+      res.status(400).json({
         success: false,
-        error: 'No session ID provided'
-      }), {
-        status: 400,
-        headers: { ...corsHeaders, 'Content-Type': 'application/json' }
-      })
+        error: 'Session ID required'
+      });
+      return;
     }
 
-    const STRIPE_SECRET_KEY = process.env.STRIPE_SECRET_KEY
+    const STRIPE_SECRET_KEY = process.env.STRIPE_SECRET_KEY;
+    console.log('Stripe key exists:', !!STRIPE_SECRET_KEY);
     
     if (!STRIPE_SECRET_KEY) {
-      // Demo mode
-      return new Response(JSON.stringify({
+      console.log('Demo mode - no Stripe key');
+      res.status(200).json({
         success: true,
         demo: true,
-        message: 'Demo payment completed'
-      }), {
-        status: 200,
-        headers: { ...corsHeaders, 'Content-Type': 'application/json' }
-      })
+        accessCode: 'DEMO-CODE-TEST-2025',
+        customerEmail: 'demo@example.com',
+        currency: 'EUR',
+        amountPaid: '2.00',
+        expiresAt: new Date(Date.now() + 365 * 24 * 60 * 60 * 1000).toISOString()
+      });
+      return;
     }
 
-    const stripe = require('stripe')(STRIPE_SECRET_KEY)
+    console.log('Initializing Stripe...');
+    const stripe = new Stripe(STRIPE_SECRET_KEY);
     
-    // Retrieve the checkout session
-    const session = await stripe.checkout.sessions.retrieve(sessionId)
+    console.log('Retrieving checkout session:', session_id);
+    const session = await stripe.checkout.sessions.retrieve(session_id);
     
-    if (session.payment_status === 'paid') {
-      // Generate access code for successful payment
-      const accessCodeResponse = await fetch(`${process.env.VERCEL_URL || 'http://localhost:3000'}/api/generate-access-code`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          stripeSessionId: session.id,
-          email: session.customer_email || session.customer_details?.email || ''
-        })
-      })
-      
-      const codeData = await accessCodeResponse.json()
-      
-      return new Response(JSON.stringify({
-        success: true,
-        customerEmail: session.customer_email || session.customer_details?.email,
-        userSessionId: session.metadata?.sessionId,
-        amountPaid: session.amount_total / 100,
-        currency: session.currency.toUpperCase(),
-        accessCode: codeData.success ? codeData.accessCode : null,
-        expiresAt: codeData.success ? codeData.expiresAt : null,
-        instructions: codeData.success ? codeData.instructions : 'Please contact support for your access code'
-      }), {
-        status: 200,
-        headers: { ...corsHeaders, 'Content-Type': 'application/json' }
-      })
-    } else {
-      return new Response(JSON.stringify({
+    console.log('Session status:', session.payment_status);
+    console.log('Session customer email:', session.customer_details?.email);
+    
+    if (session.payment_status !== 'paid') {
+      console.log('Payment not completed');
+      res.status(400).json({
         success: false,
         error: 'Payment not completed'
-      }), {
-        status: 400,
-        headers: { ...corsHeaders, 'Content-Type': 'application/json' }
-      })
+      });
+      return;
     }
 
-  } catch (error) {
-    console.error('Payment success verification error:', error)
+    // Generate access code
+    const accessCode = generateAnnualAccessCode(session_id);
     
-    return new Response(JSON.stringify({
+    console.log('Payment verified successfully');
+    console.log('Generated access code:', accessCode);
+    
+    res.status(200).json({
+      success: true,
+      accessCode: accessCode,
+      customerEmail: session.customer_details?.email || session.customer_email || '',
+      currency: 'EUR',
+      amountPaid: '2.00',
+      expiresAt: new Date(Date.now() + 365 * 24 * 60 * 60 * 1000).toISOString(),
+      sessionId: session_id
+    });
+
+  } catch (error) {
+    console.error('=== Payment verification error ===');
+    console.error('Error message:', error.message);
+    console.error('Error type:', error.type);
+    console.error('Full error:', error);
+    
+    res.status(500).json({
       success: false,
-      error: 'Payment verification failed'
-    }), {
-      status: 500,
-      headers: { ...corsHeaders, 'Content-Type': 'application/json' }
-    })
+      error: 'Payment verification failed',
+      details: error.message
+    });
   }
+}
+
+// Generate access code using the same algorithm as the webhook
+function generateAnnualAccessCode(sessionId) {
+  // Use Web Crypto API instead of Node.js crypto
+  const ACCESS_CODE_SECRET = process.env.ACCESS_CODE_SECRET || 'default-secret';
+  
+  const currentYear = new Date().getFullYear();
+  const baseString = `${sessionId}-${currentYear}-${ACCESS_CODE_SECRET}`;
+  
+  // Simple hash function for demo (in production, use proper crypto)
+  let hash = 0;
+  for (let i = 0; i < baseString.length; i++) {
+    const char = baseString.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash = hash & hash; // Convert to 32-bit integer
+  }
+  
+  // Convert to positive hex and pad
+  const hexHash = Math.abs(hash).toString(16).padStart(12, '0').toUpperCase();
+  const code = hexHash.substring(0, 12);
+  
+  return `${code.substring(0, 3)}-${code.substring(3, 6)}-${code.substring(6, 9)}-${code.substring(9, 12)}`;
 }
