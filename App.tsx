@@ -18,6 +18,8 @@ import { UsageTracker } from './components/UsageTracker';
 import { PaymentModal } from './components/PaymentModal';
 import { FeedbackModal } from './components/FeedbackModal';
 import { AccessCodeModal } from './components/AccessCodeModal';
+import TermsModal from './components/TermsModal';
+import Footer from './components/Footer';
 
 type View = 'countries' | 'emdn' | 'gmdn';
 
@@ -28,6 +30,7 @@ const App: React.FC = () => {
   const [showPaymentModal, setShowPaymentModal] = useState(false);
   const [showFeedbackModal, setShowFeedbackModal] = useState(false);
   const [showAccessCodeModal, setShowAccessCodeModal] = useState(false);
+  const [showTermsModal, setShowTermsModal] = useState(false);
   const [feedbackContext] = useState<{
     gmdnCode?: string;
     emdnCode?: string;
@@ -321,6 +324,14 @@ const App: React.FC = () => {
           window.location.reload();
         }}
       />
+
+      <TermsModal
+        isOpen={showTermsModal}
+        onClose={() => setShowTermsModal(false)}
+        onAccept={() => setShowTermsModal(false)}
+      />
+
+      <Footer onShowTerms={() => setShowTermsModal(true)} />
     </div>
   );
 };
