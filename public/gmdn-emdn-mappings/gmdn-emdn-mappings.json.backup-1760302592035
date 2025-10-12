@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated": "2025-10-12T20:56:32.076Z",
+    "generated": "2025-10-12T20:28:00.923Z",
     "version": "1.0.0",
-    "description": "GMDN to EMDN device code mappings - Complete validated dataset",
+    "description": "GMDN to EMDN device code mappings",
     "stats": {
-      "totalGmdn": 150,
-      "mappedGmdn": 150,
-      "manualMappings": 150,
+      "totalGmdn": 88,
+      "mappedGmdn": 88,
+      "manualMappings": 88,
       "automaticMappings": 0
     }
   },
@@ -19,21 +19,10 @@
           "emdnCode": "Z12139006",
           "emdnDescription": "PNEUMATIC TOURNIQUETS",
           "score": 83.6,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "10735": {
-      "gmdnCode": "10735",
-      "gmdnDescription": "Nephrostomy catheter",
-      "emdnMatches": [
-        {
-          "emdnCode": "U040203",
-          "emdnDescription": "NEPHROSTOMY CATHETERS",
-          "score": 98.4,
-          "category": "U"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "10960": {
       "gmdnCode": "10960",
@@ -43,57 +32,10 @@
           "emdnCode": "Z12020703",
           "emdnDescription": "COLPOSCOPES",
           "score": 96,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "11441": {
-      "gmdnCode": "11441",
-      "gmdnDescription": "Electromyographic needle electrode, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "N010101",
-          "emdnDescription": "ELECTROMYOGRAPHIC ELECTRODES",
-          "score": 85.4,
-          "category": "N"
-        }
-      ]
-    },
-    "11467": {
-      "gmdnCode": "11467",
-      "gmdnDescription": "Electroencephalograph",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12100302",
-          "emdnDescription": "ELECTROENCEPHALOGRAPHS",
-          "score": 98.4,
-          "category": "Z"
-        }
-      ]
-    },
-    "11474": {
-      "gmdnCode": "11474",
-      "gmdnDescription": "Electromyograph",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12100401",
-          "emdnDescription": "ELECTROMYOGRAPHS",
-          "score": 97.6,
-          "category": "Z"
-        }
-      ]
-    },
-    "11479": {
-      "gmdnCode": "11479",
-      "gmdnDescription": "Electronystagmograph",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12120124",
-          "emdnDescription": "VIDEO/ELECTRONYSTAGMOGRAPHS",
-          "score": 88,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "12500": {
       "gmdnCode": "12500",
@@ -103,9 +45,10 @@
           "emdnCode": "W02029010",
           "emdnDescription": "BAG SEALERS",
           "score": 82.9,
-          "category": "W"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "12875": {
       "gmdnCode": "12875",
@@ -115,9 +58,10 @@
           "emdnCode": "R03010204",
           "emdnDescription": "OXYGEN ADMINISTRATION TUBINGS",
           "score": 98.4,
-          "category": "R"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "13755": {
       "gmdnCode": "13755",
@@ -132,30 +76,6 @@
       ],
       "matchCount": 1
     },
-    "15178": {
-      "gmdnCode": "15178",
-      "gmdnDescription": "Laboratory shaker",
-      "emdnMatches": [
-        {
-          "emdnCode": "W02070401",
-          "emdnDescription": "LABORATORY SHAKERS",
-          "score": 97.6,
-          "category": "W"
-        }
-      ]
-    },
-    "16204": {
-      "gmdnCode": "16204",
-      "gmdnDescription": "Orthodontic wire",
-      "emdnMatches": [
-        {
-          "emdnCode": "Q010405",
-          "emdnDescription": "ORTHODONTIC WIRES",
-          "score": 97.6,
-          "category": "Q"
-        }
-      ]
-    },
     "16345": {
       "gmdnCode": "16345",
       "gmdnDescription": "Exophthalmometer",
@@ -164,9 +84,10 @@
           "emdnCode": "Z12120104",
           "emdnDescription": "EXOPHTHALMOMETERS",
           "score": 97.6,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "16545": {
       "gmdnCode": "16545",
@@ -176,33 +97,10 @@
           "emdnCode": "Z11039020",
           "emdnDescription": "ANGIOGRAPHY TABLES",
           "score": 83.6,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "17453": {
-      "gmdnCode": "17453",
-      "gmdnDescription": "Cardiac valvuloplasty catheter",
-      "emdnMatches": [
-        {
-          "emdnCode": "C019014",
-          "emdnDescription": "CARDIAC VALVULOPLASTY CATHETERS",
-          "score": 98.4,
-          "category": "C"
-        }
-      ]
-    },
-    "17591": {
-      "gmdnCode": "17591",
-      "gmdnDescription": "Pulmonary resuscitator, manual, reusable",
-      "emdnMatches": [
-        {
-          "emdnCode": "R03020201",
-          "emdnDescription": "MANUALLY OPERATED PULMONARY RESUSCITATORS",
-          "score": 83.4,
-          "category": "R"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "17663": {
       "gmdnCode": "17663",
@@ -212,9 +110,10 @@
           "emdnCode": "Z12020511",
           "emdnDescription": "VIDEO GASTROSCOPES",
           "score": 81,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "17887": {
       "gmdnCode": "17887",
@@ -229,30 +128,6 @@
       ],
       "matchCount": 1
     },
-    "17942": {
-      "gmdnCode": "17942",
-      "gmdnDescription": "Cerebral oximeter",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z1203020406",
-          "emdnDescription": "CEREBRAL OXIMETERS",
-          "score": 97.6,
-          "category": "Z"
-        }
-      ]
-    },
-    "30208": {
-      "gmdnCode": "30208",
-      "gmdnDescription": "Lactate electrode IVD",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0101070204",
-          "emdnDescription": "LACTATE - ELECTRODES",
-          "score": 86.6,
-          "category": "W"
-        }
-      ]
-    },
     "31253": {
       "gmdnCode": "31253",
       "gmdnDescription": "Medical device air compressor",
@@ -261,9 +136,10 @@
           "emdnCode": "Z120304",
           "emdnDescription": "CARDIAC COMPRESSORS",
           "score": 80.4,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "31328": {
       "gmdnCode": "31328",
@@ -273,9 +149,10 @@
           "emdnCode": "R010499",
           "emdnDescription": "ENDOBRONCHIAL TUBES - OTHER",
           "score": 87.2,
-          "category": "R"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "31658": {
       "gmdnCode": "31658",
@@ -285,9 +162,10 @@
           "emdnCode": "Z1203020408",
           "emdnDescription": "PULSE OXIMETERS",
           "score": 82.6,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "33819": {
       "gmdnCode": "33819",
@@ -297,21 +175,10 @@
           "emdnCode": "W0102050205",
           "emdnDescription": "TOTAL HUMAN CHORIONIC GONADOTROPIN",
           "score": 91.6,
-          "category": "W"
+          "source": "manual"
         }
-      ]
-    },
-    "33843": {
-      "gmdnCode": "33843",
-      "gmdnDescription": "Polysomnograph",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12100501",
-          "emdnDescription": "POLYSOMNOGRAPHS",
-          "score": 97.6,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "33968": {
       "gmdnCode": "33968",
@@ -321,9 +188,10 @@
           "emdnCode": "L26",
           "emdnDescription": "SURGICAL SCREWDRIVERS, REUSABLE",
           "score": 98.4,
-          "category": "L"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "34175": {
       "gmdnCode": "34175",
@@ -333,9 +201,10 @@
           "emdnCode": "A019002",
           "emdnDescription": "ACUPUNCTURE NEEDLES",
           "score": 97.6,
-          "category": "A"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "34672": {
       "gmdnCode": "34672",
@@ -345,9 +214,10 @@
           "emdnCode": "Y2145060201",
           "emdnDescription": "HEARING AID IN THE-EAR (ITE)",
           "score": 83.8,
-          "category": "Y"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "34858": {
       "gmdnCode": "34858",
@@ -357,21 +227,10 @@
           "emdnCode": "W05010203",
           "emdnDescription": "URINE COLLECTION, CONTAINERS",
           "score": 80.2,
-          "category": "W"
+          "source": "manual"
         }
-      ]
-    },
-    "34868": {
-      "gmdnCode": "34868",
-      "gmdnDescription": "Bedrail",
-      "emdnMatches": [
-        {
-          "emdnCode": "V08068001",
-          "emdnDescription": "BED RAILS",
-          "score": 87.6,
-          "category": "V"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "34873": {
       "gmdnCode": "34873",
@@ -381,9 +240,10 @@
           "emdnCode": "V080602",
           "emdnDescription": "MANUAL MEDICAL BEDS",
           "score": 73,
-          "category": "V"
+          "source": "automatic"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "34978": {
       "gmdnCode": "34978",
@@ -397,42 +257,6 @@
         }
       ],
       "matchCount": 1
-    },
-    "35091": {
-      "gmdnCode": "35091",
-      "gmdnDescription": "Surgical gown, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "T020499",
-          "emdnDescription": "SURGICAL GOWNS - OTHER",
-          "score": 83.2,
-          "category": "T"
-        }
-      ]
-    },
-    "35176": {
-      "gmdnCode": "35176",
-      "gmdnDescription": "Anaesthesia face mask, reusable",
-      "emdnMatches": [
-        {
-          "emdnCode": "R03010101",
-          "emdnDescription": "ANAESTHETIC FACE MASKS",
-          "score": 88.4,
-          "category": "R"
-        }
-      ]
-    },
-    "35277": {
-      "gmdnCode": "35277",
-      "gmdnDescription": "Testicle prosthesis",
-      "emdnMatches": [
-        {
-          "emdnCode": "P080201",
-          "emdnDescription": "TESTICLE PROSTHESES",
-          "score": 95,
-          "category": "P"
-        }
-      ]
     },
     "35352": {
       "gmdnCode": "35352",
@@ -455,33 +279,10 @@
           "emdnCode": "A0703",
           "emdnDescription": "STOPCOCKS",
           "score": 95.2,
-          "category": "A"
+          "source": "manual"
         }
-      ]
-    },
-    "35401": {
-      "gmdnCode": "35401",
-      "gmdnDescription": "Endotracheal tube cuff inflator",
-      "emdnMatches": [
-        {
-          "emdnCode": "R01038001",
-          "emdnDescription": "ENDOTRACHEAL TUBE CUFFS INFLATION SYSTEMS",
-          "score": 91.6,
-          "category": "R"
-        }
-      ]
-    },
-    "35501": {
-      "gmdnCode": "35501",
-      "gmdnDescription": "Anaesthesia screen",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z1203010101",
-          "emdnDescription": "ANAESTHESIA DEVICES",
-          "score": 91.2,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "35586": {
       "gmdnCode": "35586",
@@ -491,57 +292,10 @@
           "emdnCode": "Y181803",
           "emdnDescription": "HANDRAILS",
           "score": 89,
-          "category": "Y"
+          "source": "manual"
         }
-      ]
-    },
-    "35697": {
-      "gmdnCode": "35697",
-      "gmdnDescription": "Dental material application tool, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "Q019006",
-          "emdnDescription": "DENTAL MATERIAL APPLICATION TIPS AND BRUSHES, SINGLE-USE",
-          "score": 87,
-          "category": "Q"
-        }
-      ]
-    },
-    "35747": {
-      "gmdnCode": "35747",
-      "gmdnDescription": "Evoked-potential audiometer",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12140302",
-          "emdnDescription": "EVOKED POTENTIAL AUDIOMETRY EQUIPMENTS",
-          "score": 82.6,
-          "category": "Z"
-        }
-      ]
-    },
-    "35811": {
-      "gmdnCode": "35811",
-      "gmdnDescription": "Dental excavator, reusable",
-      "emdnMatches": [
-        {
-          "emdnCode": "L159002",
-          "emdnDescription": "DENTAL EXCAVATORS, REUSABLE",
-          "score": 97.6,
-          "category": "L"
-        }
-      ]
-    },
-    "35974": {
-      "gmdnCode": "35974",
-      "gmdnDescription": "Cardiac electrophysiology stimulation system",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z1205078001",
-          "emdnDescription": "CARDIAC ELECTROPHYSIOLOGY STIMULATORS",
-          "score": 95,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "36079": {
       "gmdnCode": "36079",
@@ -551,9 +305,10 @@
           "emdnCode": "C900101",
           "emdnDescription": "HAEMOSTASIS VALVES",
           "score": 97.6,
-          "category": "C"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "36086": {
       "gmdnCode": "36086",
@@ -563,9 +318,10 @@
           "emdnCode": "R03020201",
           "emdnDescription": "MANUALLY OPERATED PULMONARY RESUSCITATORS",
           "score": 83.4,
-          "category": "R"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "36117": {
       "gmdnCode": "36117",
@@ -575,21 +331,10 @@
           "emdnCode": "Z12020606",
           "emdnDescription": "VIDEO COLONOSCOPES",
           "score": 81,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "36251": {
-      "gmdnCode": "36251",
-      "gmdnDescription": "Rigid penile prosthesis",
-      "emdnMatches": [
-        {
-          "emdnCode": "P080202",
-          "emdnDescription": "PENILE PROSTHESES",
-          "score": 82.8,
-          "category": "P"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "36349": {
       "gmdnCode": "36349",
@@ -604,18 +349,6 @@
       ],
       "matchCount": 1
     },
-    "36398": {
-      "gmdnCode": "36398",
-      "gmdnDescription": "Hess-screen",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z1212012004",
-          "emdnDescription": "HESS SCREENS",
-          "score": 95,
-          "category": "Z"
-        }
-      ]
-    },
     "36890": {
       "gmdnCode": "36890",
       "gmdnDescription": "Isoflurane anaesthesia vaporizer",
@@ -624,9 +357,10 @@
           "emdnCode": "Z1203010101",
           "emdnDescription": "ANAESTHESIA DEVICES",
           "score": 81.8,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "36980": {
       "gmdnCode": "36980",
@@ -636,33 +370,10 @@
           "emdnCode": "Z1203010101",
           "emdnDescription": "ANAESTHESIA DEVICES",
           "score": 81.5,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "37162": {
-      "gmdnCode": "37162",
-      "gmdnDescription": "Patient transfer sliding board",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12019010",
-          "emdnDescription": "PATIENT TRANSFER SYSTEMS",
-          "score": 89.5,
-          "category": "Z"
-        }
-      ]
-    },
-    "37165": {
-      "gmdnCode": "37165",
-      "gmdnDescription": "Patient transfer/turning sheet, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12019010",
-          "emdnDescription": "PATIENT TRANSFER SYSTEMS",
-          "score": 87.3,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "37447": {
       "gmdnCode": "37447",
@@ -698,21 +409,10 @@
           "emdnCode": "U089006",
           "emdnDescription": "VAGINAL SPECULUM, SINGLE-USE",
           "score": 100,
-          "category": "U"
+          "source": "manual"
         }
-      ]
-    },
-    "37503": {
-      "gmdnCode": "37503",
-      "gmdnDescription": "Tone audiometer",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z121401",
-          "emdnDescription": "AUDIOMETERS",
-          "score": 80.6,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "37705": {
       "gmdnCode": "37705",
@@ -722,9 +422,10 @@
           "emdnCode": "R020101",
           "emdnDescription": "STANDARD BREATHING CIRCUITS",
           "score": 72,
-          "category": "R"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "37808": {
       "gmdnCode": "37808",
@@ -734,9 +435,10 @@
           "emdnCode": "Z1203020408",
           "emdnDescription": "PULSE OXIMETERS",
           "score": 82.6,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "38152": {
       "gmdnCode": "38152",
@@ -746,9 +448,10 @@
           "emdnCode": "P09120201",
           "emdnDescription": "INTRAMEDULLARY NAILS",
           "score": 86.6,
-          "category": "P"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "38262": {
       "gmdnCode": "38262",
@@ -758,33 +461,10 @@
           "emdnCode": "W0102050205",
           "emdnDescription": "TOTAL HUMAN CHORIONIC GONADOTROPIN",
           "score": 95.5,
-          "category": "W"
+          "source": "manual"
         }
-      ]
-    },
-    "38530": {
-      "gmdnCode": "38530",
-      "gmdnDescription": "Dental spatula, reusable",
-      "emdnMatches": [
-        {
-          "emdnCode": "L159013",
-          "emdnDescription": "DENTAL SPATULAS, REUSABLE",
-          "score": 97.6,
-          "category": "L"
-        }
-      ]
-    },
-    "40641": {
-      "gmdnCode": "40641",
-      "gmdnDescription": "Mobile gamma camera system",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z11020101",
-          "emdnDescription": "MOBILE GAMMA CAMERAS",
-          "score": 97.6,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "40943": {
       "gmdnCode": "40943",
@@ -795,42 +475,6 @@
           "emdnDescription": "PICTURE ARCHIVING AND COMMUNICATION SYSTEMS",
           "score": 91.6,
           "category": "Z"
-        }
-      ]
-    },
-    "41188": {
-      "gmdnCode": "41188",
-      "gmdnDescription": "Speech audiometer",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z121401",
-          "emdnDescription": "AUDIOMETERS",
-          "score": 82.2,
-          "category": "Z"
-        }
-      ]
-    },
-    "41660": {
-      "gmdnCode": "41660",
-      "gmdnDescription": "Periodontal curette",
-      "emdnMatches": [
-        {
-          "emdnCode": "L159001",
-          "emdnDescription": "DENTAL AND PERIODONTAL CURETTES, REUSABLE",
-          "score": 80.8,
-          "category": "L"
-        }
-      ]
-    },
-    "41839": {
-      "gmdnCode": "41839",
-      "gmdnDescription": "C-reactive protein (CRP) IVD, control",
-      "emdnMatches": [
-        {
-          "emdnCode": "W01021109",
-          "emdnDescription": "C-REACTIVE PROTEIN",
-          "score": 90.7,
-          "category": "W"
         }
       ]
     },
@@ -846,18 +490,6 @@
         }
       ],
       "matchCount": 1
-    },
-    "42194": {
-      "gmdnCode": "42194",
-      "gmdnDescription": "Insulin-like growth factor binding protein 1 (IGFBP-1) IVD, control",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0102060405",
-          "emdnDescription": "INSULIN-LIKE GROWTH FACTOR BINDING PROTEIN 1",
-          "score": 94.3,
-          "category": "W"
-        }
-      ]
     },
     "42811": {
       "gmdnCode": "42811",
@@ -880,21 +512,10 @@
           "emdnCode": "U090101",
           "emdnDescription": "URINARY STONE RETRIEVAL BASKETS",
           "score": 98.4,
-          "category": "U"
+          "source": "manual"
         }
-      ]
-    },
-    "44776": {
-      "gmdnCode": "44776",
-      "gmdnDescription": "Electrosurgical system",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12010903",
-          "emdnDescription": "ARGON ELECTROSURGICAL UNITS (ESU)",
-          "score": 89.5,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "44970": {
       "gmdnCode": "44970",
@@ -909,18 +530,6 @@
       ],
       "matchCount": 1
     },
-    "45018": {
-      "gmdnCode": "45018",
-      "gmdnDescription": "Needle guide, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "A018002",
-          "emdnDescription": "NEEDLE GUIDES",
-          "score": 96.8,
-          "category": "A"
-        }
-      ]
-    },
     "45607": {
       "gmdnCode": "45607",
       "gmdnDescription": "Pulse oximeter",
@@ -929,21 +538,10 @@
           "emdnCode": "Z1203020408",
           "emdnDescription": "PULSE OXIMETERS",
           "score": 97.6,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "45716": {
-      "gmdnCode": "45716",
-      "gmdnDescription": "Suture knot pusher, reusable",
-      "emdnMatches": [
-        {
-          "emdnCode": "L0207",
-          "emdnDescription": "KNOT PUSHERS, REUSABLE",
-          "score": 83.2,
-          "category": "L"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "46207": {
       "gmdnCode": "46207",
@@ -966,9 +564,10 @@
           "emdnCode": "R03010101",
           "emdnDescription": "ANAESTHETIC FACE MASKS",
           "score": 88.4,
-          "category": "R"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "46265": {
       "gmdnCode": "46265",
@@ -995,18 +594,6 @@
       ],
       "matchCount": 1
     },
-    "46495": {
-      "gmdnCode": "46495",
-      "gmdnDescription": "Magnetoencephalography system, superconducting",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12101201",
-          "emdnDescription": "MAGNETOENCEPHALOGRAPHY SYSTEMS",
-          "score": 91.1,
-          "category": "Z"
-        }
-      ]
-    },
     "46569": {
       "gmdnCode": "46569",
       "gmdnDescription": "Reinforced endotracheal tube, single-use",
@@ -1015,9 +602,10 @@
           "emdnCode": "R01030202",
           "emdnDescription": "ENDOTRACHEAL TUBES, CUFFED, REINFORCED",
           "score": 83.6,
-          "category": "R"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "46786": {
       "gmdnCode": "46786",
@@ -1027,21 +615,10 @@
           "emdnCode": "Z12120114",
           "emdnDescription": "OPHTHALMOSCOPES",
           "score": 81.8,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "46828": {
-      "gmdnCode": "46828",
-      "gmdnDescription": "Laryngoscope blade, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "R9002",
-          "emdnDescription": "LARYNGOSCOPE BLADES, SINGLE-USE",
-          "score": 97.6,
-          "category": "R"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "46832": {
       "gmdnCode": "46832",
@@ -1061,18 +638,6 @@
         }
       ],
       "matchCount": 2
-    },
-    "46878": {
-      "gmdnCode": "46878",
-      "gmdnDescription": "Haemorrhoid ligation set",
-      "emdnMatches": [
-        {
-          "emdnCode": "G020401",
-          "emdnDescription": "HAEMORRHOID LIGATURE SETS",
-          "score": 86.4,
-          "category": "G"
-        }
-      ]
     },
     "46967": {
       "gmdnCode": "46967",
@@ -1100,54 +665,6 @@
       ],
       "matchCount": 1
     },
-    "47069": {
-      "gmdnCode": "47069",
-      "gmdnDescription": "Proton therapy system",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z11011001",
-          "emdnDescription": "PROTON THERAPY SYSTEMS",
-          "score": 97.9,
-          "category": "Z"
-        }
-      ]
-    },
-    "47172": {
-      "gmdnCode": "47172",
-      "gmdnDescription": "Hevea-latex examination/treatment glove, non-powdered, non-antimicrobial",
-      "emdnMatches": [
-        {
-          "emdnCode": "T010201",
-          "emdnDescription": "LATEX EXAMINATION / TREATMENT GLOVES",
-          "score": 81.8,
-          "category": "T"
-        }
-      ]
-    },
-    "47176": {
-      "gmdnCode": "47176",
-      "gmdnDescription": "Vinyl examination/treatment glove, non-powdered",
-      "emdnMatches": [
-        {
-          "emdnCode": "T01020201",
-          "emdnDescription": "VINYL EXAMINATION / TREATMENT GLOVES",
-          "score": 87.5,
-          "category": "T"
-        }
-      ]
-    },
-    "47179": {
-      "gmdnCode": "47179",
-      "gmdnDescription": "Hevea-latex surgical glove, powdered",
-      "emdnMatches": [
-        {
-          "emdnCode": "T01010101",
-          "emdnDescription": "POWDERED LATEX SURGICAL GLOVES",
-          "score": 85.8,
-          "category": "T"
-        }
-      ]
-    },
     "47247": {
       "gmdnCode": "47247",
       "gmdnDescription": "Cardiac transseptal access set",
@@ -1156,9 +673,10 @@
           "emdnCode": "C019015",
           "emdnDescription": "CARDIAC TRANSSEPTAL PUNCTURE KITS",
           "score": 75.4,
-          "category": "C"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "47259": {
       "gmdnCode": "47259",
@@ -1168,9 +686,10 @@
           "emdnCode": "A02010401",
           "emdnDescription": "SYRINGES FOR CONTRAST MEDIA INJECTOR, SINGLE-USE",
           "score": 83,
-          "category": "A"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "47569": {
       "gmdnCode": "47569",
@@ -1187,15 +706,16 @@
     },
     "47764": {
       "gmdnCode": "47764",
-      "gmdnDescription": "Wound hydrogel dressing, non-antimicrobial",
+      "gmdnDescription": "GMDN 47764",
       "emdnMatches": [
         {
           "emdnCode": "M04040501",
           "emdnDescription": "HYDROGEL DRESSINGS, NON-COMBINED",
-          "score": 73,
-          "category": "M"
+          "score": 100,
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "47769": {
       "gmdnCode": "47769",
@@ -1205,9 +725,10 @@
           "emdnCode": "Z1203010101",
           "emdnDescription": "ANAESTHESIA DEVICES",
           "score": 84.5,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "47770": {
       "gmdnCode": "47770",
@@ -1217,9 +738,10 @@
           "emdnCode": "Z1203010101",
           "emdnDescription": "ANAESTHESIA DEVICES",
           "score": 81.5,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "48173": {
       "gmdnCode": "48173",
@@ -1257,42 +779,6 @@
         }
       ]
     },
-    "53705": {
-      "gmdnCode": "53705",
-      "gmdnDescription": "C-reactive protein (CRP) IVD, kit, nephelometry/turbidimetry",
-      "emdnMatches": [
-        {
-          "emdnCode": "W01021109",
-          "emdnDescription": "C-REACTIVE PROTEIN",
-          "score": 84.7,
-          "category": "W"
-        }
-      ]
-    },
-    "54185": {
-      "gmdnCode": "54185",
-      "gmdnDescription": "Follicle stimulating hormone (FSH) IVD, kit, radioimmunoassay",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0102050104",
-          "emdnDescription": "FOLLICLE STIMULATING HORMONE",
-          "score": 89.8,
-          "category": "W"
-        }
-      ]
-    },
-    "54186": {
-      "gmdnCode": "54186",
-      "gmdnDescription": "Follicle stimulating hormone (FSH) IVD, kit, enzyme immunoassay (EIA)",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0102050104",
-          "emdnDescription": "FOLLICLE STIMULATING HORMONE",
-          "score": 88.6,
-          "category": "W"
-        }
-      ]
-    },
     "54386": {
       "gmdnCode": "54386",
       "gmdnDescription": "Thyroid stimulating hormone (TSH) IVD, kit, chemiluminescent immunoassay",
@@ -1301,9 +787,10 @@
           "emdnCode": "W01020410",
           "emdnDescription": "THYROID STIMULATING HORMONE",
           "score": 87.1,
-          "category": "W"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "54413": {
       "gmdnCode": "54413",
@@ -1313,9 +800,10 @@
           "emdnCode": "W01020402",
           "emdnDescription": "FREE THYROXINE",
           "score": 82.3,
-          "category": "W"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "55847": {
       "gmdnCode": "55847",
@@ -1325,33 +813,23 @@
           "emdnCode": "P01020101",
           "emdnDescription": "DENTAL IMPLANTS",
           "score": 97.6,
-          "category": "P"
+          "source": "manual"
         }
-      ]
-    },
-    "56021": {
-      "gmdnCode": "56021",
-      "gmdnDescription": "Coagulation factor VIII IVD, kit, clotting",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0103020207",
-          "emdnDescription": "COAGULATION FACTOR VIII",
-          "score": 91.9,
-          "category": "W"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "56286": {
       "gmdnCode": "56286",
-      "gmdnDescription": "Nitrile examination/treatment glove, non-powdered, non-antimicrobial",
+      "gmdnDescription": "GMDN 56286",
       "emdnMatches": [
         {
           "emdnCode": "T01020204",
           "emdnDescription": "NITRILE EXAMINATION / TREATMENT GLOVES",
-          "score": 83.6,
-          "category": "T"
+          "score": 100,
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "56754": {
       "gmdnCode": "56754",
@@ -1422,6 +900,12 @@
           "emdnDescription": "COMPLEMENT COMPONENT C1Q",
           "score": 93.7,
           "category": "W"
+        },
+        {
+          "emdnCode": "W0102010205",
+          "emdnDescription": "COMPLEMENT COMPONENT C4",
+          "score": 87.6,
+          "category": "W"
         }
       ]
     },
@@ -1473,18 +957,6 @@
         }
       ]
     },
-    "57849": {
-      "gmdnCode": "57849",
-      "gmdnDescription": "Mass spectrometry analyser IVD",
-      "emdnMatches": [
-        {
-          "emdnCode": "W020303",
-          "emdnDescription": "MASS - SPECTROMETRY SYSTEM",
-          "score": 89.4,
-          "category": "W"
-        }
-      ]
-    },
     "58039": {
       "gmdnCode": "58039",
       "gmdnDescription": "Endoscopic electrosurgical handpiece/electrode, monopolar, single-use",
@@ -1493,9 +965,10 @@
           "emdnCode": "Z12010904",
           "emdnDescription": "ENDOSCOPIC ELECTROSURGICAL UNITS (ESU)",
           "score": 77.3,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
+      ],
+      "matchCount": 1
     },
     "58183": {
       "gmdnCode": "58183",
@@ -1509,30 +982,6 @@
         }
       ]
     },
-    "58403": {
-      "gmdnCode": "58403",
-      "gmdnDescription": "Insulin-like growth factor I (IGF1) IVD, kit, radioimmunoassay",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0102060404",
-          "emdnDescription": "INSULIN-LIKE GROWTH FACTOR II",
-          "score": 87,
-          "category": "W"
-        }
-      ]
-    },
-    "58409": {
-      "gmdnCode": "58409",
-      "gmdnDescription": "Insulin-like growth factor binding protein 3 (IGFBP-3) IVD, kit, enzyme immunoassay (EIA)",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0102060406",
-          "emdnDescription": "INSULIN-LIKE GROWTH FACTOR BINDING PROTEIN 3",
-          "score": 90.7,
-          "category": "W"
-        }
-      ]
-    },
     "58776": {
       "gmdnCode": "58776",
       "gmdnDescription": "Surgical screwdriver, single-use",
@@ -1541,21 +990,10 @@
           "emdnCode": "L26",
           "emdnDescription": "SURGICAL SCREWDRIVERS, REUSABLE",
           "score": 98.4,
-          "category": "L"
+          "source": "manual"
         }
-      ]
-    },
-    "58787": {
-      "gmdnCode": "58787",
-      "gmdnDescription": "Total human chorionic gonadotropin IVD, kit, fluorescent immunoassay",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0102050205",
-          "emdnDescription": "TOTAL HUMAN CHORIONIC GONADOTROPIN",
-          "score": 90.4,
-          "category": "W"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "58865": {
       "gmdnCode": "58865",
@@ -1578,33 +1016,10 @@
           "emdnCode": "A06030301",
           "emdnDescription": "URINE COLLECTION BAGS",
           "score": 80,
-          "category": "A"
+          "source": "manual"
         }
-      ]
-    },
-    "59221": {
-      "gmdnCode": "59221",
-      "gmdnDescription": "Neonatal thyroid stimulating hormone (neonatal TSH) IVD, kit, fluorescent immunoassay",
-      "emdnMatches": [
-        {
-          "emdnCode": "W01020403",
-          "emdnDescription": "NEONATAL THYROID STIMULATING HORMONE",
-          "score": 88.6,
-          "category": "W"
-        }
-      ]
-    },
-    "59222": {
-      "gmdnCode": "59222",
-      "gmdnDescription": "Neonatal thyroxine (neonatal T4) IVD, kit, fluorescent immunoassay",
-      "emdnMatches": [
-        {
-          "emdnCode": "W01020411",
-          "emdnDescription": "NEONATAL THYROXINE",
-          "score": 83.5,
-          "category": "W"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "59482": {
       "gmdnCode": "59482",
@@ -1618,18 +1033,6 @@
         }
       ]
     },
-    "60734": {
-      "gmdnCode": "60734",
-      "gmdnDescription": "Needle guide, reusable",
-      "emdnMatches": [
-        {
-          "emdnCode": "A018002",
-          "emdnDescription": "NEEDLE GUIDES",
-          "score": 96.8,
-          "category": "A"
-        }
-      ]
-    },
     "60882": {
       "gmdnCode": "60882",
       "gmdnDescription": "Anaesthesia mask strap, single-use",
@@ -1638,21 +1041,10 @@
           "emdnCode": "Z1203010101",
           "emdnDescription": "ANAESTHESIA DEVICES",
           "score": 86.6,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "60963": {
-      "gmdnCode": "60963",
-      "gmdnDescription": "Flexible video bronchoscope, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12020802",
-          "emdnDescription": "VIDEO BRONCHOSCOPES",
-          "score": 81.8,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "61435": {
       "gmdnCode": "61435",
@@ -1662,33 +1054,10 @@
           "emdnCode": "Z12039002",
           "emdnDescription": "INTRA COMPARTMENTAL PRESSURE MONITOR SYSTEMS",
           "score": 82.7,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "61762": {
-      "gmdnCode": "61762",
-      "gmdnDescription": "Procollagen type I N-terminal propeptide (PINP) IVD, kit, radioimmunoassay",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0102060317",
-          "emdnDescription": "PROCOLLAGEN TYPE I N TERMINAL PROPEPTIDE",
-          "score": 91.5,
-          "category": "W"
-        }
-      ]
-    },
-    "62159": {
-      "gmdnCode": "62159",
-      "gmdnDescription": "Flexible video colonoscope, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12020606",
-          "emdnDescription": "VIDEO COLONOSCOPES",
-          "score": 81,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "62525": {
       "gmdnCode": "62525",
@@ -1735,45 +1104,10 @@
           "emdnCode": "Z12020712",
           "emdnDescription": "VIDEO HYSTEROSCOPES",
           "score": 86.6,
-          "category": "Z"
+          "source": "manual"
         }
-      ]
-    },
-    "64054": {
-      "gmdnCode": "64054",
-      "gmdnDescription": "Insulin-like growth factor binding protein 1 (IGFBP-1) IVD, kit, rapid ICT, clinical",
-      "emdnMatches": [
-        {
-          "emdnCode": "W0102060405",
-          "emdnDescription": "INSULIN-LIKE GROWTH FACTOR BINDING PROTEIN 1",
-          "score": 91.6,
-          "category": "W"
-        }
-      ]
-    },
-    "64055": {
-      "gmdnCode": "64055",
-      "gmdnDescription": "Flexible video choledochoscope, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12020507",
-          "emdnDescription": "VIDEO CHOLEDOCOSCOPES",
-          "score": 81.4,
-          "category": "Z"
-        }
-      ]
-    },
-    "64067": {
-      "gmdnCode": "64067",
-      "gmdnDescription": "Flexible video duodenoscope, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12020508",
-          "emdnDescription": "VIDEO DUODENOSCOPES",
-          "score": 81.8,
-          "category": "Z"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "64574": {
       "gmdnCode": "64574",
@@ -1796,33 +1130,10 @@
           "emdnCode": "U03010201",
           "emdnDescription": "URETHRAL DILATORS",
           "score": 97.6,
-          "category": "U"
+          "source": "manual"
         }
-      ]
-    },
-    "65299": {
-      "gmdnCode": "65299",
-      "gmdnDescription": "Flexible video gastroscope, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "Z12020511",
-          "emdnDescription": "VIDEO GASTROSCOPES",
-          "score": 81,
-          "category": "Z"
-        }
-      ]
-    },
-    "65432": {
-      "gmdnCode": "65432",
-      "gmdnDescription": "Laboratory shaker IVD",
-      "emdnMatches": [
-        {
-          "emdnCode": "W02070401",
-          "emdnDescription": "LABORATORY SHAKERS",
-          "score": 88.4,
-          "category": "W"
-        }
-      ]
+      ],
+      "matchCount": 1
     },
     "66199": {
       "gmdnCode": "66199",
