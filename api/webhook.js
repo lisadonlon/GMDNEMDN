@@ -5,14 +5,39 @@ import Stripe from 'stripe';
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
+// Disable body parsing for webhooks
+export const config = {
+  api: {
+    bodyParser: false,
+  },
+};
+
+async function getRawBody(req) {
+  return new Promise((resolve, reject) => {
+    let data = '';
+    req.on('data', chunk => {
+      data += chunk;
+    });
+    req.on('end', () => {
+      resolve(data);
+    });
+    req.on('error', reject);
+  });
+}
+
 export default async function handler(req, res) {
+  console.log('Webhook received:', req.method, req.headers['content-type']);
+  
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
   try {
-    const body = req.rawBody || req.body;
+    const rawBody = await getRawBody(req);
     const signature = req.headers['stripe-signature'];
+    
+    console.log('Raw body length:', rawBody.length);
+    console.log('Signature present:', !!signature);
     
     const STRIPE_WEBHOOK_SECRET = process.env.STRIPE_WEBHOOK_SECRET;
     
@@ -23,7 +48,7 @@ export default async function handler(req, res) {
 
     let event;
     try {
-      event = stripe.webhooks.constructEvent(body, signature, STRIPE_WEBHOOK_SECRET);
+      event = stripe.webhooks.constructEvent(rawBody, signature, STRIPE_WEBHOOK_SECRET);
     } catch (err) {
       console.log('Webhook signature verification failed:', err.message);
       return res.status(400).json({ error: 'Webhook signature verification failed' });
