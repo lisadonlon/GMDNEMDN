@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated": "2025-10-12T19:24:25.922Z",
+    "generated": "2025-10-12T20:28:00.923Z",
     "version": "1.0.0",
     "description": "GMDN to EMDN device code mappings",
     "stats": {
-      "totalGmdn": 69,
-      "mappedGmdn": 69,
-      "manualMappings": 70,
+      "totalGmdn": 88,
+      "mappedGmdn": 88,
+      "manualMappings": 88,
       "automaticMappings": 0
     }
   },
@@ -466,6 +466,18 @@
       ],
       "matchCount": 1
     },
+    "40943": {
+      "gmdnCode": "40943",
+      "gmdnDescription": "Radiology picture archiving and communication system workstation",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z110603",
+          "emdnDescription": "PICTURE ARCHIVING AND COMMUNICATION SYSTEMS",
+          "score": 91.6,
+          "category": "Z"
+        }
+      ]
+    },
     "41981": {
       "gmdnCode": "41981",
       "gmdnDescription": "GMDN 41981",
@@ -556,6 +568,18 @@
         }
       ],
       "matchCount": 1
+    },
+    "46265": {
+      "gmdnCode": "46265",
+      "gmdnDescription": "Cardiac mapping system",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12059002",
+          "emdnDescription": "CARDIAC MAPPING EQUIPMENT",
+          "score": 92.5,
+          "category": "Z"
+        }
+      ]
     },
     "46346": {
       "gmdnCode": "46346",
@@ -719,6 +743,42 @@
       ],
       "matchCount": 1
     },
+    "48173": {
+      "gmdnCode": "48173",
+      "gmdnDescription": "Cystatin C IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102019008",
+          "emdnDescription": "CYSTATIN C",
+          "score": 88.3,
+          "category": "W"
+        }
+      ]
+    },
+    "48174": {
+      "gmdnCode": "48174",
+      "gmdnDescription": "Cystatin C IVD, calibrator",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102019008",
+          "emdnDescription": "CYSTATIN C",
+          "score": 87.1,
+          "category": "W"
+        }
+      ]
+    },
+    "48175": {
+      "gmdnCode": "48175",
+      "gmdnDescription": "Cystatin C IVD, control",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102019008",
+          "emdnDescription": "CYSTATIN C",
+          "score": 88.6,
+          "category": "W"
+        }
+      ]
+    },
     "54386": {
       "gmdnCode": "54386",
       "gmdnDescription": "Thyroid stimulating hormone (TSH) IVD, kit, chemiluminescent immunoassay",
@@ -771,6 +831,132 @@
       ],
       "matchCount": 1
     },
+    "56754": {
+      "gmdnCode": "56754",
+      "gmdnDescription": "Prostatic acid phosphatase (PAP) IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102030120",
+          "emdnDescription": "PROSTATIC ACID PHOSPHATASE (IC)",
+          "score": 88.9,
+          "category": "W"
+        }
+      ]
+    },
+    "56870": {
+      "gmdnCode": "56870",
+      "gmdnDescription": "Calcitonin IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102060301",
+          "emdnDescription": "CALCITONIN",
+          "score": 88.3,
+          "category": "W"
+        }
+      ]
+    },
+    "56889": {
+      "gmdnCode": "56889",
+      "gmdnDescription": "Cancer antigen 19-9 (CA19-9) GI IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102030103",
+          "emdnDescription": "CANCER ANTIGEN 19-9",
+          "score": 88.6,
+          "category": "W"
+        }
+      ]
+    },
+    "56891": {
+      "gmdnCode": "56891",
+      "gmdnDescription": "Cancer antigen 125 (CA125) IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102030106",
+          "emdnDescription": "CANCER ANTIGEN 125",
+          "score": 89.5,
+          "category": "W"
+        }
+      ]
+    },
+    "57054": {
+      "gmdnCode": "57054",
+      "gmdnDescription": "Coagulation factor VIII-associated antigen IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0103020207",
+          "emdnDescription": "COAGULATION FACTOR VIII",
+          "score": 87.7,
+          "category": "W"
+        }
+      ]
+    },
+    "57058": {
+      "gmdnCode": "57058",
+      "gmdnDescription": "Complement component C1q IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102010201",
+          "emdnDescription": "COMPLEMENT COMPONENT C1Q",
+          "score": 93.7,
+          "category": "W"
+        },
+        {
+          "emdnCode": "W0102010205",
+          "emdnDescription": "COMPLEMENT COMPONENT C4",
+          "score": 87.6,
+          "category": "W"
+        }
+      ]
+    },
+    "57299": {
+      "gmdnCode": "57299",
+      "gmdnDescription": "Total human chorionic gonadotropin IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102050205",
+          "emdnDescription": "TOTAL HUMAN CHORIONIC GONADOTROPIN",
+          "score": 95.2,
+          "category": "W"
+        }
+      ]
+    },
+    "57331": {
+      "gmdnCode": "57331",
+      "gmdnDescription": "Insulin IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102060104",
+          "emdnDescription": "INSULIN ANTIBODY",
+          "score": 91.7,
+          "category": "W"
+        }
+      ]
+    },
+    "57486": {
+      "gmdnCode": "57486",
+      "gmdnDescription": "Neuron-specific enolase (NSE) IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102039007",
+          "emdnDescription": "NEURON SPECIFIC ENOLASE",
+          "score": 91.1,
+          "category": "W"
+        }
+      ]
+    },
+    "57596": {
+      "gmdnCode": "57596",
+      "gmdnDescription": "Somatostatin IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102060508",
+          "emdnDescription": "SOMATOSTATIN",
+          "score": 89.5,
+          "category": "W"
+        }
+      ]
+    },
     "58039": {
       "gmdnCode": "58039",
       "gmdnDescription": "Endoscopic electrosurgical handpiece/electrode, monopolar, single-use",
@@ -783,6 +969,18 @@
         }
       ],
       "matchCount": 1
+    },
+    "58183": {
+      "gmdnCode": "58183",
+      "gmdnDescription": "Electromagnetic surgical navigation device tracking system",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12011401",
+          "emdnDescription": "SURGICAL NAVIGATION SYSTEM",
+          "score": 88,
+          "category": "Z"
+        }
+      ]
     },
     "58776": {
       "gmdnCode": "58776",
@@ -823,6 +1021,18 @@
       ],
       "matchCount": 1
     },
+    "59482": {
+      "gmdnCode": "59482",
+      "gmdnDescription": "Fragile X syndrome IVD, probe",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0106010104",
+          "emdnDescription": "FRAGILE X SYNDROME",
+          "score": 93.4,
+          "category": "W"
+        }
+      ]
+    },
     "60882": {
       "gmdnCode": "60882",
       "gmdnDescription": "Anaesthesia mask strap, single-use",
@@ -861,6 +1071,30 @@
         }
       ],
       "matchCount": 1
+    },
+    "62767": {
+      "gmdnCode": "62767",
+      "gmdnDescription": "Alpha-1-antitrypsin (protease inhibitor) IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102019002",
+          "emdnDescription": "A1-ANTITRYPSIN (PROTEASE INHIBITOR)",
+          "score": 89.7,
+          "category": "W"
+        }
+      ]
+    },
+    "62810": {
+      "gmdnCode": "62810",
+      "gmdnDescription": "Retinol-binding protein IVD, antibody",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102010306",
+          "emdnDescription": "RETINOL BINDING PROTEIN",
+          "score": 92.6,
+          "category": "W"
+        }
+      ]
     },
     "63256": {
       "gmdnCode": "63256",
