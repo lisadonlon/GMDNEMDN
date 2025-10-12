@@ -1,16 +1,55 @@
 {
   "metadata": {
-    "generated": "2025-10-11T16:27:24.690Z",
+    "generated": "2025-10-12T09:03:01.590Z",
     "version": "1.0.0",
     "description": "GMDN to EMDN device code mappings",
     "stats": {
-      "totalGmdn": 22,
-      "mappedGmdn": 22,
-      "manualMappings": 23,
+      "totalGmdn": 46,
+      "mappedGmdn": 46,
+      "manualMappings": 47,
       "automaticMappings": 0
     }
   },
   "mappings": {
+    "10234": {
+      "gmdnCode": "10234",
+      "gmdnDescription": "Rotating pneumatic tourniquet system",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12139006",
+          "emdnDescription": "PNEUMATIC TOURNIQUETS",
+          "score": 83.6,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "10960": {
+      "gmdnCode": "10960",
+      "gmdnDescription": "Colposcope",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12020703",
+          "emdnDescription": "COLPOSCOPES",
+          "score": 96,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "12875": {
+      "gmdnCode": "12875",
+      "gmdnDescription": "Oxygen administration tubing",
+      "emdnMatches": [
+        {
+          "emdnCode": "R03010204",
+          "emdnDescription": "OXYGEN ADMINISTRATION TUBINGS",
+          "score": 98.4,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
     "13755": {
       "gmdnCode": "13755",
       "gmdnDescription": "GMDN 13755",
@@ -19,6 +58,19 @@
           "emdnCode": "C9005",
           "emdnDescription": "PHONENDOSCOPES AND STETHOSCOPES",
           "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "16345": {
+      "gmdnCode": "16345",
+      "gmdnDescription": "Exophthalmometer",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12120104",
+          "emdnDescription": "EXOPHTHALMOMETERS",
+          "score": 97.6,
           "source": "manual"
         }
       ],
@@ -33,6 +85,71 @@
           "emdnDescription": "NON-CONTACT DIGITAL THERMOMETERS",
           "score": 100,
           "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "31328": {
+      "gmdnCode": "31328",
+      "gmdnDescription": "Endobronchial tube",
+      "emdnMatches": [
+        {
+          "emdnCode": "R010499",
+          "emdnDescription": "ENDOBRONCHIAL TUBES - OTHER",
+          "score": 87.2,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "33819": {
+      "gmdnCode": "33819",
+      "gmdnDescription": "Total human chorionic gonadotropin IVD, kit, rapid ICT, clinical",
+      "emdnMatches": [
+        {
+          "emdnCode": "W0102050205",
+          "emdnDescription": "TOTAL HUMAN CHORIONIC GONADOTROPIN",
+          "score": 91.6,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "34175": {
+      "gmdnCode": "34175",
+      "gmdnDescription": "Acupuncture needle, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "A019002",
+          "emdnDescription": "ACUPUNCTURE NEEDLES",
+          "score": 97.6,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "34858": {
+      "gmdnCode": "34858",
+      "gmdnDescription": "Surgical suction system collection container, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "W05010203",
+          "emdnDescription": "URINE COLLECTION, CONTAINERS",
+          "score": 80.2,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "34873": {
+      "gmdnCode": "34873",
+      "gmdnDescription": "Manual hospital bed",
+      "emdnMatches": [
+        {
+          "emdnCode": "V080602",
+          "emdnDescription": "MANUAL MEDICAL BEDS",
+          "score": 73,
+          "source": "automatic"
         }
       ],
       "matchCount": 1
@@ -63,6 +180,32 @@
       ],
       "matchCount": 1
     },
+    "35375": {
+      "gmdnCode": "35375",
+      "gmdnDescription": "Stopcock",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0703",
+          "emdnDescription": "STOPCOCKS",
+          "score": 95.2,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "35586": {
+      "gmdnCode": "35586",
+      "gmdnDescription": "Hand rail",
+      "emdnMatches": [
+        {
+          "emdnCode": "Y181803",
+          "emdnDescription": "HANDRAILS",
+          "score": 89,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
     "36349": {
       "gmdnCode": "36349",
       "gmdnDescription": "GMDN 36349",
@@ -71,6 +214,32 @@
           "emdnCode": "Z120302",
           "emdnDescription": "VITAL SIGNS MONITORING INSTRUMENTS",
           "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "36890": {
+      "gmdnCode": "36890",
+      "gmdnDescription": "Isoflurane anaesthesia vaporizer",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z1203010101",
+          "emdnDescription": "ANAESTHESIA DEVICES",
+          "score": 81.8,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "36980": {
+      "gmdnCode": "36980",
+      "gmdnDescription": "Sevoflurane anaesthesia vaporizer",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z1203010101",
+          "emdnDescription": "ANAESTHESIA DEVICES",
+          "score": 81.5,
           "source": "manual"
         }
       ],
@@ -102,6 +271,32 @@
       ],
       "matchCount": 1
     },
+    "37705": {
+      "gmdnCode": "37705",
+      "gmdnDescription": "Ventilator breathing circuit, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "R020101",
+          "emdnDescription": "STANDARD BREATHING CIRCUITS",
+          "score": 72,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "38152": {
+      "gmdnCode": "38152",
+      "gmdnDescription": "Tibia intramedullary nail",
+      "emdnMatches": [
+        {
+          "emdnCode": "P09120201",
+          "emdnDescription": "INTRAMEDULLARY NAILS",
+          "score": 86.6,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
     "41981": {
       "gmdnCode": "41981",
       "gmdnDescription": "GMDN 41981",
@@ -123,6 +318,19 @@
           "emdnCode": "M030405",
           "emdnDescription": "COMPRESSION STOCKINGS",
           "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "44333": {
+      "gmdnCode": "44333",
+      "gmdnDescription": "Urinary stone retrieval basket, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "U090101",
+          "emdnDescription": "URINARY STONE RETRIEVAL BASKETS",
+          "score": 98.4,
           "source": "manual"
         }
       ],
@@ -162,6 +370,19 @@
           "emdnCode": "A0101",
           "emdnDescription": "NEEDLES FOR INFUSION AND SAMPLING",
           "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "46569": {
+      "gmdnCode": "46569",
+      "gmdnDescription": "Reinforced endotracheal tube, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "R01030202",
+          "emdnDescription": "ENDOTRACHEAL TUBES, CUFFED, REINFORCED",
+          "score": 83.6,
           "source": "manual"
         }
       ],
@@ -212,6 +433,19 @@
       ],
       "matchCount": 1
     },
+    "47247": {
+      "gmdnCode": "47247",
+      "gmdnDescription": "Cardiac transseptal access set",
+      "emdnMatches": [
+        {
+          "emdnCode": "C019015",
+          "emdnDescription": "CARDIAC TRANSSEPTAL PUNCTURE KITS",
+          "score": 75.4,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
     "47569": {
       "gmdnCode": "47569",
       "gmdnDescription": "GMDN 47569",
@@ -238,6 +472,32 @@
       ],
       "matchCount": 1
     },
+    "47769": {
+      "gmdnCode": "47769",
+      "gmdnDescription": "Anaesthesia unit, mobile",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z1203010101",
+          "emdnDescription": "ANAESTHESIA DEVICES",
+          "score": 84.5,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "47770": {
+      "gmdnCode": "47770",
+      "gmdnDescription": "Anaesthesia unit, wall-mounted",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z1203010101",
+          "emdnDescription": "ANAESTHESIA DEVICES",
+          "score": 81.5,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
     "56286": {
       "gmdnCode": "56286",
       "gmdnDescription": "GMDN 56286",
@@ -251,6 +511,19 @@
       ],
       "matchCount": 1
     },
+    "58039": {
+      "gmdnCode": "58039",
+      "gmdnDescription": "Endoscopic electrosurgical handpiece/electrode, monopolar, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12010904",
+          "emdnDescription": "ENDOSCOPIC ELECTROSURGICAL UNITS (ESU)",
+          "score": 77.3,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
     "58865": {
       "gmdnCode": "58865",
       "gmdnDescription": "GMDN 58865",
@@ -259,6 +532,32 @@
           "emdnCode": "C05",
           "emdnDescription": "CARDIOVASCULAR INTRODUCER SHEATHS",
           "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "58923": {
+      "gmdnCode": "58923",
+      "gmdnDescription": "Wearable adult urine collection bag, open-ended",
+      "emdnMatches": [
+        {
+          "emdnCode": "A06030301",
+          "emdnDescription": "URINE COLLECTION BAGS",
+          "score": 80,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "61435": {
+      "gmdnCode": "61435",
+      "gmdnDescription": "Intracranial/compartmental-pressure monitor calibrator/cable",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12039002",
+          "emdnDescription": "INTRA COMPARTMENTAL PRESSURE MONITOR SYSTEMS",
+          "score": 82.7,
           "source": "manual"
         }
       ],
@@ -285,6 +584,19 @@
           "emdnCode": "C010101",
           "emdnDescription": "PERIPHERAL I.V. CATHETERS",
           "score": 100,
+          "source": "manual"
+        }
+      ],
+      "matchCount": 1
+    },
+    "64677": {
+      "gmdnCode": "64677",
+      "gmdnDescription": "Urethral dilator, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "U03010201",
+          "emdnDescription": "URETHRAL DILATORS",
+          "score": 97.6,
           "source": "manual"
         }
       ],
