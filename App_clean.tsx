@@ -122,12 +122,36 @@ const App: React.FC = () => {
 
   const filteredEmdnCodes = useMemo(() => {
     if (!emdnSearchTerm.trim() || !emdnFuse) return emdnData;
-    return emdnFuse.search(emdnSearchTerm).map(result => result.item);
+    const normalizedQuery = emdnSearchTerm.trim().toLowerCase();
+    const terms = normalizedQuery.split(/\s+/).filter(Boolean);
+
+    const directMatches = emdnData.filter((code) => {
+      const haystack = `${code.code} ${code.description}`.toLowerCase();
+      return terms.every((term) => haystack.includes(term));
+    });
+
+    if (directMatches.length > 0) {
+      return directMatches;
+    }
+
+    return emdnFuse.search(normalizedQuery).map(result => result.item);
   }, [emdnSearchTerm, emdnFuse, emdnData]);
 
   const filteredGmdnCodes = useMemo(() => {
     if (!gmdnSearchTerm.trim()) return gmdnFromGUDID;
-    return gmdnFuse.search(gmdnSearchTerm).map(result => result.item);
+    const normalizedQuery = gmdnSearchTerm.trim().toLowerCase();
+    const terms = normalizedQuery.split(/\s+/).filter(Boolean);
+
+    const directMatches = gmdnFromGUDID.filter((code) => {
+      const haystack = `${code.code} ${code.description}`.toLowerCase();
+      return terms.every((term) => haystack.includes(term));
+    });
+
+    if (directMatches.length > 0) {
+      return directMatches;
+    }
+
+    return gmdnFuse.search(normalizedQuery).map(result => result.item);
   }, [gmdnSearchTerm, gmdnFuse]);
 
   // Get selected items

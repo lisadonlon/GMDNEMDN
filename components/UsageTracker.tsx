@@ -1,17 +1,28 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 
 interface UsageTrackerProps {
   onUpgradeNeeded: () => void;
   onEnterCode: () => void;
 }
 
+const TRIAL_DURATION_MS = 10 * 60 * 1000;
+const PAYWALL_THRESHOLD_MS = 5 * 60 * 1000;
+
 export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onEnterCode }) => {
-  const [timeRemaining, setTimeRemaining] = useState<number>(600000); // 10 minutes
+  const [timeRemaining, setTimeRemaining] = useState<number>(TRIAL_DURATION_MS);
   const [isPremium, setIsPremium] = useState<boolean>(false);
   const [sessionId] = useState<string>(() => 
     localStorage.getItem('meddev_session') || generateSessionId()
   );
+  const hasTriggeredPaywallRef = useRef<boolean>(false);
   const bypassPaywall = import.meta.env.DEV || import.meta.env.VITE_BYPASS_PAYWALL === 'true';
+
+  const checkPaywallThreshold = (startTimestamp: number) => {
+    if (!hasTriggeredPaywallRef.current && Date.now() - startTimestamp >= PAYWALL_THRESHOLD_MS) {
+      hasTriggeredPaywallRef.current = true;
+      onUpgradeNeeded();
+    }
+  };
 
   useEffect(() => {
     if (bypassPaywall) {
@@ -19,6 +30,7 @@ export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onE
       localStorage.setItem('meddev_premium_email', 'dev@local.test');
       localStorage.removeItem('meddev_start_time');
       setIsPremium(true);
+      hasTriggeredPaywallRef.current = false;
       return;
     }
 
@@ -36,34 +48,52 @@ export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onE
     const startTime = parseInt(localStorage.getItem('meddev_start_time') || '0');
     const now = Date.now();
     
+    const startTimestamp = startTime || now;
+    let cleanup: (() => void) | undefined;
+
     if (!startTime) {
       localStorage.setItem('meddev_start_time', now.toString());
-      startCountdown(600000); // 10 minutes
+      cleanup = startCountdown(TRIAL_DURATION_MS, now);
     } else {
       const elapsed = now - startTime;
-      const remaining = Math.max(0, 600000 - elapsed);
-      
-      if (remaining === 0) {
-        onUpgradeNeeded();
+      const remaining = Math.max(0, TRIAL_DURATION_MS - elapsed);
+
+      checkPaywallThreshold(startTime);
+
+      if (remaining > 0) {
+        cleanup = startCountdown(remaining, startTimestamp);
       } else {
-        startCountdown(remaining);
+        setTimeRemaining(0);
+        if (!hasTriggeredPaywallRef.current) {
+          hasTriggeredPaywallRef.current = true;
+          onUpgradeNeeded();
+        }
       }
     }
+
+    return () => {
+      cleanup?.();
+    };
   }, [sessionId, onUpgradeNeeded, bypassPaywall]);
 
-  const startCountdown = (initialTime: number) => {
+  const startCountdown = (initialTime: number, startTimestamp: number) => {
     setTimeRemaining(initialTime);
-    
-    const interval = setInterval(() => {
+    checkPaywallThreshold(startTimestamp);
+
+    const interval = window.setInterval(() => {
       setTimeRemaining((prev) => {
-        const newTime = prev - 1000;
-        
-        if (newTime <= 0) {
+        const newTime = Math.max(prev - 1000, 0);
+
+        checkPaywallThreshold(startTimestamp);
+
+        if (newTime === 0) {
           clearInterval(interval);
-          onUpgradeNeeded();
-          return 0;
+          if (!hasTriggeredPaywallRef.current) {
+            hasTriggeredPaywallRef.current = true;
+            onUpgradeNeeded();
+          }
         }
-        
+
         return newTime;
       });
     }, 1000);

@@ -104,8 +104,17 @@ const App: React.FC = () => {
       if (!emdnSearchTerm.trim()) {
           return emdnData;
       }
-      const results = emdnFuse.search(emdnSearchTerm.trim());
-      const matchedCodes = results.map(result => result.item);
+      const normalizedQuery = emdnSearchTerm.trim().toLowerCase();
+      const terms = normalizedQuery.split(/\s+/).filter(Boolean);
+
+      const directMatches = emdnData.filter((code) => {
+        const haystack = `${code.code} ${code.description}`.toLowerCase();
+        return terms.every((term) => haystack.includes(term));
+      });
+
+      const matchedCodes = directMatches.length > 0
+        ? directMatches
+        : emdnFuse.search(normalizedQuery).map(result => result.item);
       const allVisibleCodes = new Set(matchedCodes.map(c => c.code));
       matchedCodes.forEach(code => {
           let current = code;
@@ -142,7 +151,19 @@ const App: React.FC = () => {
       if (!gmdnSearchTerm.trim()) {
           return gmdnFromGUDID;
       }
-      return gmdnFuse.search(gmdnSearchTerm.trim()).map(result => result.item);
+      const normalizedQuery = gmdnSearchTerm.trim().toLowerCase();
+      const terms = normalizedQuery.split(/\s+/).filter(Boolean);
+
+      const directMatches = gmdnFromGUDID.filter((code) => {
+        const haystack = `${code.code} ${code.description}`.toLowerCase();
+        return terms.every((term) => haystack.includes(term));
+      });
+
+      if (directMatches.length > 0) {
+        return directMatches;
+      }
+
+      return gmdnFuse.search(normalizedQuery).map(result => result.item);
   }, [gmdnSearchTerm, gmdnFuse]);
   
   const selectedGmdn = useMemo(() => {
