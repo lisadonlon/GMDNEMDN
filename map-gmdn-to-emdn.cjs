@@ -137,9 +137,9 @@ const MANUAL_GMDN_EMDN_MAPPINGS = {
     source: 'manual'
   },
   
-  // Orthopaedic implants
-  '46346': { // Total hip joint prosthesis
-    emdnCodes: ['P01', 'P0101'],
+  // Infusion and sampling sets
+  '46346': { // Paediatric blood donor set
+    emdnCodes: ['A01', 'A0101'],
     confidence: 100,
     source: 'manual'
   },
