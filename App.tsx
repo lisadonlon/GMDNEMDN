@@ -166,6 +166,12 @@ const App: React.FC = () => {
     setSelectedGmdnCode(null); // Deselect GMDN
   };
 
+  const handleEmdnSelectGmdn = (gmdnCode: string) => {
+    setView('gmdn');
+    setSelectedGmdnCode(gmdnCode);
+    setGmdnSearchTerm('');
+  };
+
   const handleCountrySelectEmdn = (emdnCode: string) => {
     setView('emdn');
     setSelectedEmdnCode(emdnCode);
@@ -252,6 +258,8 @@ const App: React.FC = () => {
           <EmdnDetailEnhanced 
             code={selectedEmdn} 
             allCodes={emdnData}
+            allGmdnCodes={gmdnFromGUDID}
+            onSelectGmdn={handleEmdnSelectGmdn}
           />
         );
       case 'gmdn':

@@ -80,6 +80,11 @@ const App: React.FC = () => {
     setSelectedEmdnCode(emdnCode);
   };
 
+  const handleEmdnSelectGmdn = (gmdnCode: string) => {
+    setView('gmdn');
+    setSelectedGmdnCode(gmdnCode);
+  };
+
   // Create search instances
   const countryFuse = useMemo(() => {
     const options: IFuseOptions<typeof countryData[0]> = {
@@ -211,6 +216,8 @@ const App: React.FC = () => {
           <EmdnDetailEnhanced 
             code={selectedEmdn} 
             allCodes={emdnData}
+            allGmdnCodes={gmdnFromGUDID}
+            onSelectGmdn={handleEmdnSelectGmdn}
           />
         );
       case 'gmdn':

@@ -65,16 +65,8 @@ class ExternalGmdnEmdnMapper {
       }
       this.mappingData = await mappingResponse.json();
 
-      // Load lookup indices
-      const gmdnLookupResponse = await fetch('/gmdn-emdn-mappings/gmdn-lookup-index.json');
-      if (gmdnLookupResponse.ok) {
-        // this._gmdnLookup = await gmdnLookupResponse.json(); // TODO: Implement GMDN lookup
-      }
-
-      const emdnLookupResponse = await fetch('/gmdn-emdn-mappings/emdn-lookup-index.json');
-      if (emdnLookupResponse.ok) {
-        this.emdnLookup = await emdnLookupResponse.json();
-      }
+      // Build reverse lookup index from mappings
+      this.emdnLookup = this.buildReverseLookupIndex(this.mappingData);
 
       this.loaded = true;
       console.log('✅ External GMDN-EMDN mappings loaded successfully');
@@ -83,6 +75,46 @@ class ExternalGmdnEmdnMapper {
       console.error('❌ Failed to load external GMDN-EMDN mappings:', error);
       throw error;
     }
+  }
+
+  private buildReverseLookupIndex(data: MappingData | null): ReverseLookupIndex {
+    const reverseIndex: ReverseLookupIndex = {};
+    if (!data?.mappings) {
+      return reverseIndex;
+    }
+
+    for (const record of Object.values(data.mappings)) {
+      if (!record?.emdnMatches?.length) {
+        continue;
+      }
+
+      for (const match of record.emdnMatches) {
+  const { emdnCode, score = 100 } = match;
+        if (!emdnCode) continue;
+
+        if (!reverseIndex[emdnCode]) {
+          reverseIndex[emdnCode] = [];
+        }
+
+        reverseIndex[emdnCode].push({
+          gmdnCode: record.gmdnCode,
+          score,
+          source: score === 100 ? 'manual' : 'automatic',
+        });
+      }
+    }
+
+    // Sort entries by manual first, then descending score
+    for (const entries of Object.values(reverseIndex)) {
+      entries.sort((a, b) => {
+        if (a.source === b.source) {
+          return b.score - a.score;
+        }
+        return a.source === 'manual' ? -1 : 1;
+      });
+    }
+
+    return reverseIndex;
   }
 
   /**

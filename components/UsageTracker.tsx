@@ -11,8 +11,17 @@ export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onE
   const [sessionId] = useState<string>(() => 
     localStorage.getItem('meddev_session') || generateSessionId()
   );
+  const bypassPaywall = import.meta.env.DEV || import.meta.env.VITE_BYPASS_PAYWALL === 'true';
 
   useEffect(() => {
+    if (bypassPaywall) {
+      localStorage.setItem('meddev_premium', 'true');
+      localStorage.setItem('meddev_premium_email', 'dev@local.test');
+      localStorage.removeItem('meddev_start_time');
+      setIsPremium(true);
+      return;
+    }
+
     // Store session ID
     localStorage.setItem('meddev_session', sessionId);
     
@@ -40,7 +49,7 @@ export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onE
         startCountdown(remaining);
       }
     }
-  }, [sessionId, onUpgradeNeeded]);
+  }, [sessionId, onUpgradeNeeded, bypassPaywall]);
 
   const startCountdown = (initialTime: number) => {
     setTimeRemaining(initialTime);
