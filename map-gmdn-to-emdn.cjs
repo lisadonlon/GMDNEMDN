@@ -184,98 +184,145 @@ const MANUAL_GMDN_EMDN_MAPPINGS = {
 };
 
 // Device category mappings for semantic analysis (based on actual EMDN structure)
+// Category descriptions per official EMDN nomenclature:
+// A: DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION
+// B: HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES
+// C: CARDIOCIRCULATORY SYSTEM DEVICES
+// D: DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES
+// F: DIALYSIS DEVICES
+// G: GASTROINTESTINAL DEVICES
+// H: SUTURE DEVICES
+// J: ACTIVE-IMPLANTABLE DEVICES
+// K: ENDOTHERAPY AND ELECTROSURGICAL DEVICES
+// L: REUSABLE SURGICAL INSTRUMENTS
+// M: DEVICES FOR GENERAL AND SPECIALIST DRESSINGS
+// N: NERVOUS AND MEDULLARY SYSTEMS DEVICES
+// P: IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES
+// Q: DENTAL, OPHTHALMOLOGIC AND ENT DEVICES
+// R: RESPIRATORY AND ANAESTHESIA DEVICES
+// S: STERILISATION DEVICES (EXCLUDING CAT. D - Z)
+// T: PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)
+// U: DEVICES FOR UROGENITAL SYSTEM
+// V: VARIOUS MEDICAL DEVICES
+// W: IN VITRO DIAGNOSTIC MEDICAL DEVICES
+// X: PRODUCTS WITHOUT AN INTENDED MEDICAL PURPOSE (Annex XVI)
+// Y: DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES
+// Z: MEDICAL EQUIPMENT AND RELATED ACCESSORIES, SOFTWARE AND CONSUMABLES
 const DEVICE_CATEGORIES = {
   administration: {
-    keywords: ['needle', 'syringe', 'injection', 'catheter', 'tube', 'cannula', 'administration'],
-    emdnPrefix: 'A'
+    keywords: ['needle', 'syringe', 'injection', 'catheter', 'tube', 'cannula', 'administration', 'withdrawal', 'collection'],
+    emdnPrefix: 'A',
+    description: 'DEVICES FOR ADMINISTRATION, WITHDRAWAL AND COLLECTION'
   },
   haematology: {
-    keywords: ['blood', 'haematology', 'transfusion', 'plasma', 'platelet'],
-    emdnPrefix: 'B'
+    keywords: ['blood', 'haematology', 'haemotransfusion', 'transfusion', 'plasma', 'platelet'],
+    emdnPrefix: 'B',
+    description: 'HAEMATOLOGY AND HAEMOTRANSFUSION DEVICES'
   },
   cardiocirculatory: {
-    keywords: ['cardiac', 'heart', 'cardiovascular', 'coronary', 'vascular', 'arterial', 'venous'],
-    emdnPrefix: 'C'
+    keywords: ['cardiac', 'heart', 'cardiovascular', 'coronary', 'vascular', 'arterial', 'venous', 'cardiocirculatory'],
+    emdnPrefix: 'C',
+    description: 'CARDIOCIRCULATORY SYSTEM DEVICES'
   },
   disinfectants: {
     keywords: ['disinfect', 'antiseptic', 'steriliz', 'detergent', 'cleaning'],
-    emdnPrefix: 'D'
+    emdnPrefix: 'D',
+    description: 'DISINFECTANTS, ANTISEPTICS, STERILISING AGENTS AND DETERGENTS FOR MEDICAL DEVICES'
   },
   dialysis: {
     keywords: ['dialysis', 'haemodialysis', 'peritoneal', 'kidney', 'renal'],
-    emdnPrefix: 'F'
+    emdnPrefix: 'F',
+    description: 'DIALYSIS DEVICES'
   },
   gastrointestinal: {
     keywords: ['gastro', 'intestinal', 'endoscope', 'colonoscope', 'stomach', 'bowel', 'ostomy'],
-    emdnPrefix: 'G'
+    emdnPrefix: 'G',
+    description: 'GASTROINTESTINAL DEVICES'
   },
   suture: {
     keywords: ['suture', 'stitch', 'closure', 'wound closure', 'surgical thread'],
-    emdnPrefix: 'H'
+    emdnPrefix: 'H',
+    description: 'SUTURE DEVICES'
   },
   activeImplantable: {
-    keywords: ['pacemaker', 'defibrillator', 'implant', 'active', 'stimulator', 'neurostimulator'],
-    emdnPrefix: 'J'
+    keywords: ['pacemaker', 'defibrillator', 'implant', 'active', 'stimulator', 'neurostimulator', 'active-implantable'],
+    emdnPrefix: 'J',
+    description: 'ACTIVE-IMPLANTABLE DEVICES'
   },
   endotherapy: {
     keywords: ['endotherapy', 'electrosurgical', 'laser', 'radiofrequency', 'cautery'],
-    emdnPrefix: 'K'
+    emdnPrefix: 'K',
+    description: 'ENDOTHERAPY AND ELECTROSURGICAL DEVICES'
   },
   surgical: {
-    keywords: ['surgical', 'forceps', 'scissors', 'clamp', 'retractor', 'scalpel', 'instrument'],
-    emdnPrefix: 'L'
+    keywords: ['surgical', 'forceps', 'scissors', 'clamp', 'retractor', 'scalpel', 'instrument', 'reusable'],
+    emdnPrefix: 'L',
+    description: 'REUSABLE SURGICAL INSTRUMENTS'
   },
   dressings: {
-    keywords: ['dressing', 'bandage', 'gauze', 'pad', 'compress', 'wound care'],
-    emdnPrefix: 'M'
+    keywords: ['dressing', 'bandage', 'gauze', 'pad', 'compress', 'wound care', 'specialist dressing'],
+    emdnPrefix: 'M',
+    description: 'DEVICES FOR GENERAL AND SPECIALIST DRESSINGS'
   },
   nervous: {
     keywords: ['neural', 'nervous', 'brain', 'spinal', 'neurolog', 'cranial', 'medullary'],
-    emdnPrefix: 'N'
+    emdnPrefix: 'N',
+    description: 'NERVOUS AND MEDULLARY SYSTEMS DEVICES'
   },
   prosthetic: {
     keywords: ['prosthetic', 'prosthesis', 'implant', 'joint', 'hip', 'knee', 'osteosynthesis', 'bone'],
-    emdnPrefix: 'P'
+    emdnPrefix: 'P',
+    description: 'IMPLANTABLE PROSTHETIC AND OSTEOSYNTHESIS DEVICES'
   },
   dental_ophthalmic_ent: {
-    keywords: ['dental', 'tooth', 'ophthalmic', 'eye', 'contact lens', 'ent', 'ear', 'nose', 'throat'],
-    emdnPrefix: 'Q'
+    keywords: ['dental', 'tooth', 'ophthalmic', 'ophthalmologic', 'eye', 'contact lens', 'ent', 'ear', 'nose', 'throat'],
+    emdnPrefix: 'Q',
+    description: 'DENTAL, OPHTHALMOLOGIC AND ENT DEVICES'
   },
   respiratory: {
     keywords: ['respiratory', 'ventilator', 'breathing', 'anaesthesia', 'oxygen', 'airway', 'lung'],
-    emdnPrefix: 'R'
+    emdnPrefix: 'R',
+    description: 'RESPIRATORY AND ANAESTHESIA DEVICES'
   },
   sterilisation: {
     keywords: ['sterilisation', 'sterilization', 'autoclave', 'sterilizer'],
-    emdnPrefix: 'S'
+    emdnPrefix: 'S',
+    description: 'STERILISATION DEVICES (EXCLUDING CAT. D - Z)'
   },
   protective: {
-    keywords: ['protective', 'protection', 'incontinence', 'patient protection'],
-    emdnPrefix: 'T'
+    keywords: ['protective', 'protection', 'incontinence', 'patient protection', 'patient protective'],
+    emdnPrefix: 'T',
+    description: 'PATIENT PROTECTIVE EQUIPMENT AND INCONTINENCE AIDS (EXCLUDING PERSONAL PROTECTIVE EQUIPMENT - PPE)'
   },
   urogenital: {
     keywords: ['urogenital', 'urinary', 'bladder', 'urology', 'gynecolog', 'reproductive'],
-    emdnPrefix: 'U'
+    emdnPrefix: 'U',
+    description: 'DEVICES FOR UROGENITAL SYSTEM'
   },
   various: {
-    keywords: ['wheelchair', 'mobility', 'hearing aid', 'prosthetic', 'assistive'],
-    emdnPrefix: 'V'
+    keywords: ['wheelchair', 'mobility', 'hearing aid', 'various'],
+    emdnPrefix: 'V',
+    description: 'VARIOUS MEDICAL DEVICES'
   },
   diagnostic: {
     keywords: ['diagnostic', 'in vitro', 'test', 'assay', 'reagent', 'analyzer'],
-    emdnPrefix: 'W'
+    emdnPrefix: 'W',
+    description: 'IN VITRO DIAGNOSTIC MEDICAL DEVICES'
   },
   annexXVI: {
-    keywords: ['cosmetic', 'aesthetic', 'beauty', 'non-medical'],
-    emdnPrefix: 'X'
+    keywords: ['cosmetic', 'aesthetic', 'beauty', 'non-medical', 'without an intended medical purpose'],
+    emdnPrefix: 'X',
+    description: 'PRODUCTS WITHOUT AN INTENDED MEDICAL PURPOSE (Annex XVI)'
   },
   disability: {
-    keywords: ['disability', 'handicap', 'assistive', 'mobility', 'independence'],
-    emdnPrefix: 'Y'
+    keywords: ['disability', 'handicap', 'disabilities', 'persons with disabilities'],
+    emdnPrefix: 'Y',
+    description: 'DEVICES FOR PERSONS WITH DISABILITIES NOT INCLUDED IN OTHER CATEGORIES'
   },
   equipment: {
-    keywords: ['equipment', 'monitor', 'software', 'accessory', 'consumable', 'table', 'bed'],
-    emdnPrefix: 'Z'
+    keywords: ['equipment', 'monitor', 'software', 'accessory', 'consumable', 'table', 'bed', 'medical equipment'],
+    emdnPrefix: 'Z',
+    description: 'MEDICAL EQUIPMENT AND RELATED ACCESSORIES, SOFTWARE AND CONSUMABLES'
   }
 };
 
