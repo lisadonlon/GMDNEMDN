@@ -1,8 +1,19 @@
 # Archive Directory
 
-This directory contains large source data files that are not needed for running the application but may be useful for future data updates.
+This directory contains archived files, large source data, and legacy components that are not actively used but preserved for reference.
 
-## Files:
+## Archived Application Files:
+
+### `App_clean.tsx`
+- **Original Purpose**: Simplified version of main App component
+- **Reason for Archival**: Missing premium features (paywall, usage tracking, payment modals)
+- **Replaced by**: Current `App.tsx` with full feature set
+- **Archived**: October 2025
+
+### `legacy-components/`
+Contains superseded component files (EmdnDetail.tsx, GmdnDetail.tsx). See `legacy-components/README.md` for details.
+
+## Large Source Data Files:
 
 ### device.txt (1.48GB)
 - Source: FDA GUDID bulk data download
