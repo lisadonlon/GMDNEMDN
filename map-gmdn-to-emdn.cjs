@@ -137,9 +137,9 @@ const MANUAL_GMDN_EMDN_MAPPINGS = {
     source: 'manual'
   },
   
-  // Infusion and sampling sets
+  // Blood collection and donor kits
   '46346': { // Paediatric blood donor set
-    emdnCodes: ['A01', 'A0101'],
+    emdnCodes: ['B01', 'B010199'],
     confidence: 100,
     source: 'manual'
   },
