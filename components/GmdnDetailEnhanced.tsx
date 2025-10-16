@@ -157,12 +157,17 @@ const GmdnDetailEnhanced: React.FC<GmdnDetailEnhancedProps> = ({
             })}
             
             <div className="mt-4 p-3 bg-blue-500/10 rounded-lg border border-blue-500/20">
-              <div className="text-xs text-blue-300 mb-1">🧠 External Mapping System</div>
-              <div className="text-xs text-slate-400">
-                EMDN codes are matched using pre-generated mappings with expert curation and automatic semantic analysis for comprehensive cross-referencing.
+              <div className="text-xs text-slate-300 mb-2">
+                Looks wrong? We are great at medical device regulatory, but sometimes not great at code so probably broke something. Let us know by clicking here
               </div>
+              <a 
+                href="mailto:lisa@donlonlsc.com?subject=GMDN-EMDN Mapping Issue Report&body=GMDN Code: {gmdnCode.code} - {gmdnCode.description}%0A%0APlease describe the issue:"
+                className="inline-flex items-center px-3 py-1.5 text-xs font-medium text-white bg-blue-600 hover:bg-blue-700 rounded transition-colors"
+              >
+                Report
+              </a>
               {externalMatches.length > 0 && (
-                <div className="text-xs text-slate-500 mt-1">
+                <div className="text-xs text-slate-500 mt-2">
                   Manual matches: {externalMatches.filter(m => m.source === 'manual').length}, 
                   Automatic matches: {externalMatches.filter(m => m.source === 'automatic').length}
                 </div>
