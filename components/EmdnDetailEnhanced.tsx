@@ -239,10 +239,9 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
               ))}
               
               <div className="mt-4 p-3 bg-blue-500/10 rounded-lg border border-blue-500/20">
-                <div className="text-xs text-blue-300 mb-1">💡 Semantic Mapping Information</div>
+                <div className="text-xs text-blue-300 mb-1">💡 Mapping Information</div>
                 <div className="text-xs text-slate-400">
                   These ICD-10 codes represent medical conditions that typically require this device type.
-                  Mappings are derived from clinical expertise, automated analysis, and manual curation.
                 </div>
               </div>
             </div>
@@ -368,8 +367,8 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
               <span className="ml-2 text-slate-200 font-mono">{code.parentCode || 'Root'}</span>
             </div>
             <div>
-              <span className="text-slate-400">Semantic Mappings:</span>
-              <span className="ml-2 text-slate-200">{icdMatches.length} ICD-10 codes</span>
+              <span className="text-slate-400">ICD-10 Mappings:</span>
+              <span className="ml-2 text-slate-200">{icdMatches.length} codes</span>
             </div>
             <div>
               <span className="text-slate-400">Related Devices:</span>

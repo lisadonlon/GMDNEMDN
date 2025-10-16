@@ -389,66 +389,6 @@ function loadGmdnData() {
   return entries;
 }
 
-// Calculate matching score between GMDN and EMDN codes
-function calculateMatchingScore(gmdnCode, emdnCode) {
-  const gmdnDesc = gmdnCode.description.toLowerCase();
-  const emdnDesc = (emdnCode.term || emdnCode.description || '').toLowerCase();
-  
-  let score = 0;
-  
-  // 1. Exact phrase matching (highest score)
-  if (gmdnDesc.includes(emdnDesc) || emdnDesc.includes(gmdnDesc)) {
-    score += 100;
-  }
-  
-  // 2. Word overlap analysis
-  const gmdnWords = gmdnDesc.split(/\s+/).filter(w => w.length > 3);
-  const emdnWords = emdnDesc.split(/\s+/).filter(w => w.length > 3);
-  
-  const commonWords = gmdnWords.filter(word => 
-    emdnWords.some(emdnWord => 
-      emdnWord.includes(word) || word.includes(emdnWord) ||
-      (word.length > 4 && emdnWord.length > 4 && 
-       (word.startsWith(emdnWord.slice(0, 4)) || emdnWord.startsWith(word.slice(0, 4))))
-    )
-  );
-  
-  score += commonWords.length * 15;
-  
-  // 3. Medical category matching
-  for (const [category, info] of Object.entries(DEVICE_CATEGORIES)) {
-    const gmdnInCategory = info.keywords.some(keyword => gmdnDesc.includes(keyword));
-    const emdnInCategory = emdnCode.code.startsWith(info.emdnPrefix);
-    
-    if (gmdnInCategory && emdnInCategory) {
-      score += 30;
-    }
-  }
-  
-  // 4. Specific medical device keywords
-  const medicalKeywords = [
-    'implant', 'catheter', 'stent', 'valve', 'prosthesis', 'monitor',
-    'sensor', 'pump', 'filter', 'tube', 'needle', 'syringe', 'bandage',
-    'dressing', 'suture', 'clip', 'clamp', 'forceps', 'scissors'
-  ];
-  
-  for (const keyword of medicalKeywords) {
-    if (gmdnDesc.includes(keyword) && emdnDesc.includes(keyword)) {
-      score += 20;
-    }
-  }
-  
-  // 5. Size/type modifiers
-  const modifiers = ['disposable', 'reusable', 'single-use', 'sterile', 'non-sterile'];
-  for (const modifier of modifiers) {
-    if (gmdnDesc.includes(modifier) && emdnDesc.includes(modifier)) {
-      score += 10;
-    }
-  }
-  
-  return score;
-}
-
 // Generate mappings
 function generateMappings(gmdnCodes, emdnCodes) {
   log('Generating GMDN to EMDN mappings...', 'magenta');
@@ -458,8 +398,7 @@ function generateMappings(gmdnCodes, emdnCodes) {
     totalGmdn: gmdnCodes.length,
     mappedGmdn: 0,
     totalMappings: 0,
-    manualMappings: 0,
-    automaticMappings: 0
+    manualMappings: 0
   };
   
   for (let i = 0; i < gmdnCodes.length; i++) {
@@ -489,42 +428,8 @@ function generateMappings(gmdnCodes, emdnCodes) {
       }
     }
     
-    // 2. AUTOMATIC MATCHING DISABLED
-    // Automatic matching has been disabled due to data quality issues:
-    // - Field name mismatches causing fabricated EMDN descriptions
-    // - Low-quality semantic matches creating incorrect device mappings
-    // - All mappings should come from manual expert curation in corrected-gmdn-emdn-mappings.psv
-    //
-    // If automatic matching is needed in future:
-    // 1. Fix EMDN field name handling (use 'term' consistently, never 'description')
-    // 2. Implement strict validation against actual EMDN database
-    // 3. Require minimum semantic similarity threshold (e.g., 70%+)
-    // 4. Add device category validation (don't map catheters to stents!)
-    
-    // Keep this commented out:
-    /*
-    if (matches.length < 3) {
-      const automaticMatches = [];
-      
-      for (const emdnCode of emdnCodes) {
-        const score = calculateMatchingScore(gmdnCode, emdnCode);
-        if (score >= config.minMatchingScore) {
-          automaticMatches.push({
-            emdnCode: emdnCode.code,
-            emdnDescription: emdnCode.term,  // ALWAYS use 'term', never 'description'
-            score: score,
-            source: 'automatic'
-          });
-        }
-      }
-      
-      automaticMatches.sort((a, b) => b.score - a.score);
-      const topAutomatic = automaticMatches.slice(0, config.maxResultsPerGmdn - matches.length);
-      
-      matches.push(...topAutomatic);
-      stats.automaticMappings += topAutomatic.length;
-    }
-    */
+    // Automatic matching has been permanently removed.
+    // All mappings must come from manual expert curation in corrected-gmdn-emdn-mappings.psv
     
     // Store mappings if any found
     if (matches.length > 0) {
@@ -541,8 +446,7 @@ function generateMappings(gmdnCodes, emdnCodes) {
   }
   
   log(`✓ Generated mappings for ${stats.mappedGmdn}/${stats.totalGmdn} GMDN codes`, 'green');
-  log(`  Manual mappings: ${stats.manualMappings}`, 'cyan');
-  log(`  Automatic mappings: ${stats.automaticMappings}`, 'cyan');
+  log(`  Manual expert mappings: ${stats.manualMappings}`, 'cyan');
   log(`  Total relationships: ${stats.totalMappings}`, 'cyan');
   
   return { mappings, stats };
