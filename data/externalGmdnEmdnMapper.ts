@@ -99,7 +99,7 @@ class ExternalGmdnEmdnMapper {
         reverseIndex[emdnCode].push({
           gmdnCode: record.gmdnCode,
           score,
-          source: score === 100 ? 'manual' : 'automatic',
+          source: 'manual',  // All mappings are now manual/expert curated
         });
       }
     }

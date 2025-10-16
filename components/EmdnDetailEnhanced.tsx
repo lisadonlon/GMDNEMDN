@@ -167,8 +167,7 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
     .filter(c => c.code.charAt(0) === mainCategory && c.code !== code.code)
     .slice(0, 5);
 
-  const manualReverseMatches = reverseLookupEntries.filter((entry) => entry.source === 'manual').length;
-  const automaticReverseMatches = reverseLookupEntries.filter((entry) => entry.source !== 'manual').length;
+  const totalReverseMatches = reverseLookupEntries.length;
 
   // Determine device level based on code structure
   const deviceLevel = (() => {
@@ -291,9 +290,7 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
                   </div>
                   <div className="text-slate-200 text-sm">{gmdn.description}</div>
                   <div className="text-xs text-slate-500 mt-1">
-                    {match.source === 'manual'
-                      ? 'Validated through expert review'
-                      : 'Automatically generated from semantic analysis'}
+                    Validated through expert review
                   </div>
                 </div>
                 <button
@@ -306,9 +303,9 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
             ))}
 
             <div className="mt-4 p-3 bg-emerald-500/10 rounded-lg border border-emerald-500/20 text-xs text-slate-400">
-              These links reuse the same manually curated dataset that powers GMDN → EMDN navigation.
+              These links use the manually curated expert mappings dataset.
               <div className="mt-2 text-slate-500">
-                Manual mappings: {manualReverseMatches.toLocaleString()} · Automatic mappings: {automaticReverseMatches.toLocaleString()}
+                Total expert mappings: {totalReverseMatches.toLocaleString()}
               </div>
             </div>
           </div>

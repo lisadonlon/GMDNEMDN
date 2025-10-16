@@ -101,9 +101,6 @@ const GmdnDetailEnhanced: React.FC<GmdnDetailEnhancedProps> = ({
               <span>🔍</span>
               <span>ICD-10 clinical indication mappings coming soon</span>
             </div>
-            <div className="text-xs text-slate-500">
-              Advanced semantic matching features are in development.
-            </div>
           </div>
         </div>
       )}
@@ -130,19 +127,15 @@ const GmdnDetailEnhanced: React.FC<GmdnDetailEnhancedProps> = ({
                     <div className="flex items-center space-x-3 mb-1">
                       <code className="text-sky-400 font-mono text-sm">{emdn.code}</code>
                       {externalMatch && (
-                        <span className={`text-xs px-2 py-1 rounded border ${
-                          externalMatch.source === 'manual' 
-                            ? 'bg-green-500/20 text-green-300 border-green-500/30'
-                            : 'bg-blue-500/20 text-blue-300 border-blue-500/30'
-                        }`}>
-                          {externalMatch.source === 'manual' ? 'Expert Match' : `Auto ${externalMatch.score}%`}
+                        <span className="text-xs px-2 py-1 rounded border bg-green-500/20 text-green-300 border-green-500/30">
+                          Expert Match
                         </span>
                       )}
                     </div>
                     <div className="text-slate-200 text-sm">{emdn.description}</div>
                     {externalMatch && (
                       <div className="text-xs text-slate-400 mt-1">
-                        {externalMatch.source === 'manual' ? 'Curated expert mapping' : 'Automatic semantic mapping'}
+                        Curated expert mapping
                       </div>
                     )}
                   </div>
@@ -166,12 +159,6 @@ const GmdnDetailEnhanced: React.FC<GmdnDetailEnhancedProps> = ({
               >
                 Report
               </a>
-              {externalMatches.length > 0 && (
-                <div className="text-xs text-slate-500 mt-2">
-                  Manual matches: {externalMatches.filter(m => m.source === 'manual').length}, 
-                  Automatic matches: {externalMatches.filter(m => m.source === 'automatic').length}
-                </div>
-              )}
             </div>
           </div>
         ) : (
