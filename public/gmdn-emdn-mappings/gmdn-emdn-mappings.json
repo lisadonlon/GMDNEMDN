@@ -153,6 +153,21 @@
       "timestamp": "2025-10-16T19:53:11.951Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "12050": {
+      "gmdnCode": "12050",
+      "gmdnDescription": "Heated respiratory humidifier",
+      "emdnMatches": [
+        {
+          "emdnCode": "R060201",
+          "emdnDescription": "ACTIVE VENTILATION HUMIDIFICATION SYSTEMS,",
+          "score": 100,
+          "category": "R"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.943Z",
+      "source": "manual-batch-verification"
+    },
     "12500": {
       "gmdnCode": "12500",
       "gmdnDescription": "Medical bag",
@@ -258,6 +273,36 @@
       "timestamp": "2025-10-16T19:53:11.951Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "14035": {
+      "gmdnCode": "14035",
+      "gmdnDescription": "Intermittent electronic patient thermometer",
+      "emdnMatches": [
+        {
+          "emdnCode": "V0301010201",
+          "emdnDescription": "CONTACT DIGITAL THERMOMETERS",
+          "score": 100,
+          "category": "V"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "14147": {
+      "gmdnCode": "14147",
+      "gmdnDescription": "Bone trephine, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "L090902",
+          "emdnDescription": "ORTHOPAEDIC SURGERY TREPHINES, REUSABLE",
+          "score": 100,
+          "category": "L"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "15015": {
       "gmdnCode": "15015",
       "gmdnDescription": "Oxygen analyser",
@@ -284,6 +329,21 @@
           "category": "W"
         }
       ]
+    },
+    "16173": {
+      "gmdnCode": "16173",
+      "gmdnDescription": "Automatic-inflation electronic sphygmomanometer, non-portable",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z1203020501",
+          "emdnDescription": "NON–INVASIVE OSCILLOMETRIC BLOOD PRESSURE GAUGES",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "16204": {
       "gmdnCode": "16204",
@@ -377,16 +437,33 @@
     },
     "17887": {
       "gmdnCode": "17887",
-      "gmdnDescription": "GMDN 17887",
+      "gmdnDescription": "Infrared patient thermometer, ear",
       "emdnMatches": [
         {
           "emdnCode": "V0301010202",
           "emdnDescription": "NON-CONTACT DIGITAL THERMOMETERS",
           "score": 100,
-          "source": "manual"
+          "category": "V"
         }
       ],
-      "matchCount": 1
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "17888": {
+      "gmdnCode": "17888",
+      "gmdnDescription": "Infrared patient thermometer, skin",
+      "emdnMatches": [
+        {
+          "emdnCode": "V0301010202",
+          "emdnDescription": "NON-CONTACT DIGITAL THERMOMETERS",
+          "score": 100,
+          "category": "V"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "17942": {
       "gmdnCode": "17942",
@@ -520,6 +597,21 @@
       "timestamp": "2025-10-16T19:53:11.951Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "32109": {
+      "gmdnCode": "32109",
+      "gmdnDescription": "Haemodialysis system transducer protector",
+      "emdnMatches": [
+        {
+          "emdnCode": "F9080",
+          "emdnDescription": "DIALYSIS DEVICES - OTHER ACCESSORIES",
+          "score": 100,
+          "category": "F"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "32721": {
       "gmdnCode": "32721",
       "gmdnDescription": "Ophthalmic tonometer",
@@ -579,6 +671,21 @@
       "matchCount": 1,
       "timestamp": "2025-10-16T19:53:11.951Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "33199": {
+      "gmdnCode": "33199",
+      "gmdnDescription": "Flexible endoscopic tissue manipulation forceps, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "G0308010101",
+          "emdnDescription": "GASTROINTESTINAL ENDOSCOPY, COLD BIOPSY FORCEPS, SINGLE-USE",
+          "score": 100,
+          "category": "G"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "33541": {
       "gmdnCode": "33541",
@@ -650,10 +757,13 @@
         {
           "emdnCode": "L26",
           "emdnDescription": "SURGICAL SCREWDRIVERS, REUSABLE",
-          "score": 98.4,
+          "score": 100,
           "category": "L"
         }
-      ]
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "34175": {
       "gmdnCode": "34175",
@@ -736,20 +846,35 @@
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
     },
-    "34873": {
-      "gmdnCode": "34873",
-      "gmdnDescription": "Patient bed",
+    "34870": {
+      "gmdnCode": "34870",
+      "gmdnDescription": "Basic electric hospital bed",
       "emdnMatches": [
         {
-          "emdnCode": "V080602",
-          "emdnDescription": "MANUAL MEDICAL BEDS",
-          "score": 73,
+          "emdnCode": "V08060101",
+          "emdnDescription": "HOSPITAL/HOME CARE ELECTRIC MEDICAL BEDS",
+          "score": 100,
           "category": "V"
         }
       ],
       "matchCount": 1,
-      "timestamp": "2025-10-16T19:53:11.952Z",
-      "restoredFrom": "partially-valid-cleanup"
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "34873": {
+      "gmdnCode": "34873",
+      "gmdnDescription": "Manual hospital bed",
+      "emdnMatches": [
+        {
+          "emdnCode": "V080602",
+          "emdnDescription": "MANUAL MEDICAL BEDS",
+          "score": 100,
+          "category": "V"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "34878": {
       "gmdnCode": "34878",
@@ -847,6 +972,21 @@
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "34999": {
+      "gmdnCode": "34999",
+      "gmdnDescription": "Haemodialysis blood tubing set, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "F020102",
+          "emdnDescription": "ARTERIOVENOUS DIALYSIS LINES, TWO NEEDLES",
+          "score": 100,
+          "category": "F"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "35035": {
       "gmdnCode": "35035",
       "gmdnDescription": "Electrocardiograph electrode",
@@ -897,6 +1037,51 @@
       "matchCount": 2,
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "35095": {
+      "gmdnCode": "35095",
+      "gmdnDescription": "Surgical drill guide, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "L0922",
+          "emdnDescription": "ORTHOPAEDIC SURGERY GUIDES, REUSABLE",
+          "score": 100,
+          "category": "L"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "35113": {
+      "gmdnCode": "35113",
+      "gmdnDescription": "Non-heated respiratory humidifier",
+      "emdnMatches": [
+        {
+          "emdnCode": "R060201",
+          "emdnDescription": "ACTIVE VENTILATION HUMIDIFICATION SYSTEMS,",
+          "score": 100,
+          "category": "R"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "35171": {
+      "gmdnCode": "35171",
+      "gmdnDescription": "Rebreathing oxygen face mask",
+      "emdnMatches": [
+        {
+          "emdnCode": "R03010206",
+          "emdnDescription": "MASKS WITH RESERVOIR",
+          "score": 100,
+          "category": "R"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "35173": {
       "gmdnCode": "35173",
@@ -1051,6 +1236,21 @@
           "category": "A"
         }
       ]
+    },
+    "35379": {
+      "gmdnCode": "35379",
+      "gmdnDescription": "Universal operating table, electrohydraulic",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12011202",
+          "emdnDescription": "OPERATING TABLES",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "35390": {
       "gmdnCode": "35390",
@@ -1229,6 +1429,21 @@
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "36022": {
+      "gmdnCode": "36022",
+      "gmdnDescription": "Bioelectrical body composition analyser",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12099001",
+          "emdnDescription": "BODY IMPEDANCE ANALYSERS",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "36079": {
       "gmdnCode": "36079",
       "gmdnDescription": "Haemostasis valve",
@@ -1337,6 +1552,21 @@
       "matchCount": 1,
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "36551": {
+      "gmdnCode": "36551",
+      "gmdnDescription": "Patient monitoring system module, blood pressure, noninvasive",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z1203020302",
+          "emdnDescription": "NON–INVASIVE BLOOD PRESSURE MONITORING INSTRUMENTS",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "36890": {
       "gmdnCode": "36890",
@@ -1546,18 +1776,18 @@
     },
     "37705": {
       "gmdnCode": "37705",
-      "gmdnDescription": "Ventilator breathing circuit",
+      "gmdnDescription": "Ventilator breathing circuit, reusable",
       "emdnMatches": [
         {
-          "emdnCode": "R020101",
-          "emdnDescription": "STANDARD BREATHING CIRCUITS",
-          "score": 72,
+          "emdnCode": "R02010101",
+          "emdnDescription": "BREATHING CIRCUITS, W/O WATER TRAP",
+          "score": 100,
           "category": "R"
         }
       ],
       "matchCount": 1,
-      "timestamp": "2025-10-16T19:53:11.952Z",
-      "restoredFrom": "partially-valid-cleanup"
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "37808": {
       "gmdnCode": "37808",
@@ -1645,6 +1875,21 @@
       "matchCount": 2,
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "40582": {
+      "gmdnCode": "40582",
+      "gmdnDescription": "Ventilator application software",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z1203010592",
+          "emdnDescription": "PULMONARY VENTILATORS FOR HOSPITAL USE - MEDICAL DEVICE SOFTWARE",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "40641": {
       "gmdnCode": "40641",
@@ -1787,16 +2032,18 @@
     },
     "42811": {
       "gmdnCode": "42811",
-      "gmdnDescription": "GMDN 42811",
+      "gmdnDescription": "Compression/pressure sock/stocking, reusable",
       "emdnMatches": [
         {
           "emdnCode": "M030405",
           "emdnDescription": "COMPRESSION STOCKINGS",
           "score": 100,
-          "source": "manual"
+          "category": "M"
         }
       ],
-      "matchCount": 1
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "43186": {
       "gmdnCode": "43186",
@@ -1870,6 +2117,21 @@
         }
       ]
     },
+    "44732": {
+      "gmdnCode": "44732",
+      "gmdnDescription": "Orthodontic aligner auxiliary attachment kit",
+      "emdnMatches": [
+        {
+          "emdnCode": "Q010499",
+          "emdnDescription": "ORTHODONTIC DEVICES - OTHER",
+          "score": 100,
+          "category": "Q"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "44776": {
       "gmdnCode": "44776",
       "gmdnDescription": "Electrosurgical system",
@@ -1890,6 +2152,21 @@
       "matchCount": 2,
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "44880": {
+      "gmdnCode": "44880",
+      "gmdnDescription": "Dental implant suprastructure, temporary, preformed, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "P01020180",
+          "emdnDescription": "DENTAL IMPLANTS - ACCESSORIES",
+          "score": 100,
+          "category": "P"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "44970": {
       "gmdnCode": "44970",
@@ -1942,6 +2219,51 @@
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "45147": {
+      "gmdnCode": "45147",
+      "gmdnDescription": "Dental/maxillofacial surgical procedure kit, non-medicated, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "L159016",
+          "emdnDescription": "DENTAL SURGERY INSTRUMENT KITS, REUSABLE",
+          "score": 100,
+          "category": "L"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "45320": {
+      "gmdnCode": "45320",
+      "gmdnDescription": "Dental drill bit extension",
+      "emdnMatches": [
+        {
+          "emdnCode": "L159007",
+          "emdnDescription": "ODONTOSTOMATOLOGY BURS, REUSABLE",
+          "score": 100,
+          "category": "L"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "45603": {
+      "gmdnCode": "45603",
+      "gmdnDescription": "Single-administration urethral drainage catheter",
+      "emdnMatches": [
+        {
+          "emdnCode": "U01010502",
+          "emdnDescription": "NELATON CATHETERS, NON SELF-LUBRICATING",
+          "score": 100,
+          "category": "U"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "45607": {
       "gmdnCode": "45607",
       "gmdnDescription": "Pulse oximeter",
@@ -1949,10 +2271,43 @@
         {
           "emdnCode": "Z1203020408",
           "emdnDescription": "PULSE OXIMETERS",
-          "score": 97.6,
+          "score": 100,
           "category": "Z"
         }
-      ]
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "45617": {
+      "gmdnCode": "45617",
+      "gmdnDescription": "Automatic-inflation electronic sphygmomanometer, portable, arm/wrist",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z1203020501",
+          "emdnDescription": "NON–INVASIVE OSCILLOMETRIC BLOOD PRESSURE GAUGES",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "45714": {
+      "gmdnCode": "45714",
+      "gmdnDescription": "Fixture/appliance dental drill bit, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "L159007",
+          "emdnDescription": "ODONTOSTOMATOLOGY BURS, REUSABLE",
+          "score": 100,
+          "category": "L"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "45716": {
       "gmdnCode": "45716",
@@ -1983,18 +2338,18 @@
     },
     "46207": {
       "gmdnCode": "46207",
-      "gmdnDescription": "Stoma paste",
+      "gmdnDescription": "Peristomal/periwound dressing",
       "emdnMatches": [
         {
-          "emdnCode": "M0101",
-          "emdnDescription": "COTTON WADDING",
+          "emdnCode": "A108001",
+          "emdnDescription": "RINGS / BEZELS / PLATES FOR PERISTOMAL SKIN",
           "score": 100,
-          "source": "manual"
+          "category": "A"
         }
       ],
       "matchCount": 1,
-      "timestamp": "2025-10-16T19:53:11.952Z",
-      "restoredFrom": "partially-valid-cleanup"
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "46232": {
       "gmdnCode": "46232",
@@ -2045,6 +2400,36 @@
       ],
       "matchCount": 1
     },
+    "46355": {
+      "gmdnCode": "46355",
+      "gmdnDescription": "Cardiac mapping catheter, percutaneous, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "C02010403",
+          "emdnDescription": "ARRHYTHMOLOGY MULTIPOLAR DIAGNOSTIC CATHETERS, ADJUSTABLE",
+          "score": 100,
+          "category": "C"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "46454": {
+      "gmdnCode": "46454",
+      "gmdnDescription": "Gastrointestinal/airway foreign body retrieval basket, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "G0305010202",
+          "emdnDescription": "DIGESTIVE ENDOSCOPY, RETRIEVAL BASKET DEVICES, NON-REVOLVING",
+          "score": 100,
+          "category": "G"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "46476": {
       "gmdnCode": "46476",
       "gmdnDescription": "Powered surgical saw system",
@@ -2071,6 +2456,21 @@
           "category": "Z"
         }
       ]
+    },
+    "46552": {
+      "gmdnCode": "46552",
+      "gmdnDescription": "Dental implantation drilling template retention pin",
+      "emdnMatches": [
+        {
+          "emdnCode": "P01020180",
+          "emdnDescription": "DENTAL IMPLANTS - ACCESSORIES",
+          "score": 100,
+          "category": "P"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "46569": {
       "gmdnCode": "46569",
@@ -2113,6 +2513,21 @@
       "matchCount": 1,
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "46715": {
+      "gmdnCode": "46715",
+      "gmdnDescription": "ERCP catheter, balloon, non-electrical, stone-retrieval",
+      "emdnMatches": [
+        {
+          "emdnCode": "G0301010402",
+          "emdnDescription": "BILIARY BALLOON CATHETERS, HIGH PRESSURE",
+          "score": 100,
+          "category": "G"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "46719": {
       "gmdnCode": "46719",
@@ -2307,6 +2722,21 @@
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "47143": {
+      "gmdnCode": "47143",
+      "gmdnDescription": "Electrical-only medical device connection cable, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12030285",
+          "emdnDescription": "VITAL SIGNS MONITORING INSTRUMENTS - CONSUMABLES",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "47144": {
       "gmdnCode": "47144",
       "gmdnDescription": "Dental chair",
@@ -2365,10 +2795,13 @@
         {
           "emdnCode": "C019015",
           "emdnDescription": "CARDIAC TRANSSEPTAL PUNCTURE KITS",
-          "score": 75.4,
+          "score": 100,
           "category": "C"
         }
-      ]
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "47259": {
       "gmdnCode": "47259",
@@ -2435,24 +2868,18 @@
     },
     "47764": {
       "gmdnCode": "47764",
-      "gmdnDescription": "Hydrocolloid wound dressing",
+      "gmdnDescription": "Wound hydrogel dressing, non-antimicrobial",
       "emdnMatches": [
         {
           "emdnCode": "M04040501",
           "emdnDescription": "HYDROGEL DRESSINGS, NON-COMBINED",
-          "score": 73,
-          "category": "M"
-        },
-        {
-          "emdnCode": "M010202",
-          "emdnDescription": "HYDROCOLLOID WOUND DRESSINGS",
           "score": 100,
           "category": "M"
         }
       ],
-      "matchCount": 2,
-      "timestamp": "2025-10-16T19:53:11.952Z",
-      "restoredFrom": "partially-valid-cleanup"
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "47769": {
       "gmdnCode": "47769",
@@ -2725,10 +3152,13 @@
         {
           "emdnCode": "P01020101",
           "emdnDescription": "DENTAL IMPLANTS",
-          "score": 97.6,
+          "score": 100,
           "category": "P"
         }
-      ]
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "56021": {
       "gmdnCode": "56021",
@@ -2779,10 +3209,13 @@
         {
           "emdnCode": "T01020204",
           "emdnDescription": "NITRILE EXAMINATION / TREATMENT GLOVES",
-          "score": 83.6,
+          "score": 100,
           "category": "T"
         }
-      ]
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "56296": {
       "gmdnCode": "56296",
@@ -2798,6 +3231,36 @@
       "matchCount": 1,
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "56552": {
+      "gmdnCode": "56552",
+      "gmdnDescription": "HLA class II antibody identification panel IVD, kit, enzyme immunoassay (EIA)",
+      "emdnMatches": [
+        {
+          "emdnCode": "W01030403",
+          "emdnDescription": "HLA ANTIGEN TYPING",
+          "score": 100,
+          "category": "W"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "56647": {
+      "gmdnCode": "56647",
+      "gmdnDescription": "Nasal aspirator, electric",
+      "emdnMatches": [
+        {
+          "emdnCode": "R05010301",
+          "emdnDescription": "SINGLE-CHAMBER MUCOUS MEMBRANE ASPIRATORS",
+          "score": 100,
+          "category": "R"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "56701": {
       "gmdnCode": "56701",
@@ -2952,6 +3415,51 @@
         }
       ]
     },
+    "57789": {
+      "gmdnCode": "57789",
+      "gmdnDescription": "Surgical drill guide, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "P091399",
+          "emdnDescription": "ORTHOPAEDIC IMPLANT INSTRUMENTS, SINGLE-USE - OTHER",
+          "score": 100,
+          "category": "P"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "57814": {
+      "gmdnCode": "57814",
+      "gmdnDescription": "CPAP/BPAP face mask, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "R0301010201",
+          "emdnDescription": "CPAP MASKS",
+          "score": 100,
+          "category": "R"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "57815": {
+      "gmdnCode": "57815",
+      "gmdnDescription": "CPAP/BPAP nasal mask, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "R0301010201",
+          "emdnDescription": "CPAP MASKS",
+          "score": 100,
+          "category": "R"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "57827": {
       "gmdnCode": "57827",
       "gmdnDescription": "Tourniquet, non-pneumatic",
@@ -2999,24 +3507,18 @@
     },
     "58039": {
       "gmdnCode": "58039",
-      "gmdnDescription": "Electrosurgical electrode",
+      "gmdnDescription": "Endoscopic electrosurgical handpiece/electrode, monopolar, single-use",
       "emdnMatches": [
         {
-          "emdnCode": "Z12010904",
-          "emdnDescription": "ENDOSCOPIC ELECTROSURGICAL UNITS (ESU)",
-          "score": 77.3,
-          "category": "Z"
-        },
-        {
-          "emdnCode": "L010101",
-          "emdnDescription": "ELECTROSURGICAL ELECTRODES",
+          "emdnCode": "K0201010502",
+          "emdnDescription": "LAPAROSCOPIC AND THORACOSCOPIC ELECTROSURGERY HANDPIECES, SINGLE-USE",
           "score": 100,
-          "category": "L"
+          "category": "K"
         }
       ],
-      "matchCount": 2,
-      "timestamp": "2025-10-16T19:53:11.952Z",
-      "restoredFrom": "partially-valid-cleanup"
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "58183": {
       "gmdnCode": "58183",
@@ -3059,12 +3561,15 @@
       "gmdnDescription": "Surgical screwdriver, single-use",
       "emdnMatches": [
         {
-          "emdnCode": "L26",
-          "emdnDescription": "SURGICAL SCREWDRIVERS, REUSABLE",
-          "score": 98.4,
-          "category": "L"
+          "emdnCode": "P091399",
+          "emdnDescription": "ORTHOPAEDIC IMPLANT INSTRUMENTS, SINGLE-USE - OTHER",
+          "score": 100,
+          "category": "P"
         }
-      ]
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "58787": {
       "gmdnCode": "58787",
@@ -3080,16 +3585,18 @@
     },
     "58865": {
       "gmdnCode": "58865",
-      "gmdnDescription": "GMDN 58865",
+      "gmdnDescription": "Vascular catheter introduction set, nonimplantable",
       "emdnMatches": [
         {
-          "emdnCode": "C05",
-          "emdnDescription": "CARDIOVASCULAR INTRODUCER SHEATHS",
+          "emdnCode": "C0504",
+          "emdnDescription": "ARTERIAL INTRODUCTION SETS",
           "score": 100,
-          "source": "manual"
+          "category": "C"
         }
       ],
-      "matchCount": 1
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "58923": {
       "gmdnCode": "58923",
@@ -3102,6 +3609,21 @@
           "category": "A"
         }
       ]
+    },
+    "59040": {
+      "gmdnCode": "59040",
+      "gmdnDescription": "ENFit oral/enteral syringe, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "A020108",
+          "emdnDescription": "ENTERAL FEEDING SYRINGES",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
     },
     "59221": {
       "gmdnCode": "59221",
@@ -3153,6 +3675,36 @@
           "category": "W"
         }
       ]
+    },
+    "60711": {
+      "gmdnCode": "60711",
+      "gmdnDescription": "Home CPAP unit",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12030102",
+          "emdnDescription": "CONTINUOUS POSITIVE PRESSURE EQUIPMENT",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "60712": {
+      "gmdnCode": "60712",
+      "gmdnDescription": "Home BPAP unit",
+      "emdnMatches": [
+        {
+          "emdnCode": "Z12030102",
+          "emdnDescription": "CONTINUOUS POSITIVE PRESSURE EQUIPMENT",
+          "score": 100,
+          "category": "Z"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "60734": {
       "gmdnCode": "60734",
@@ -3235,6 +3787,21 @@
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "61208": {
+      "gmdnCode": "61208",
+      "gmdnDescription": "Gastrointestinal endoscopic clip, long-term, non-bioabsorbable",
+      "emdnMatches": [
+        {
+          "emdnCode": "G030202",
+          "emdnDescription": "DIGESTIVE ENDOSCOPY, HAEMOSTASIS CLIPS",
+          "score": 100,
+          "category": "G"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
     "61419": {
       "gmdnCode": "61419",
       "gmdnDescription": "Blood collection tube",
@@ -3261,6 +3828,36 @@
           "category": "Z"
         }
       ]
+    },
+    "61641": {
+      "gmdnCode": "61641",
+      "gmdnDescription": "Dental implant abutment analog, intraoral-scanning, single-use",
+      "emdnMatches": [
+        {
+          "emdnCode": "P01020180",
+          "emdnDescription": "DENTAL IMPLANTS - ACCESSORIES",
+          "score": 100,
+          "category": "P"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "61642": {
+      "gmdnCode": "61642",
+      "gmdnDescription": "Dental implant analog",
+      "emdnMatches": [
+        {
+          "emdnCode": "P01020180",
+          "emdnDescription": "DENTAL IMPLANTS - ACCESSORIES",
+          "score": 100,
+          "category": "P"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "61751": {
       "gmdnCode": "61751",
@@ -3319,6 +3916,21 @@
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
     },
+    "62001": {
+      "gmdnCode": "62001",
+      "gmdnDescription": "ENFit oral/enteral syringe, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "A020108",
+          "emdnDescription": "ENTERAL FEEDING SYRINGES",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
     "62113": {
       "gmdnCode": "62113",
       "gmdnDescription": "Continuous glucose monitoring receiver",
@@ -3366,24 +3978,18 @@
     },
     "62525": {
       "gmdnCode": "62525",
-      "gmdnDescription": "Ostomy pouch",
+      "gmdnDescription": "Intestinal ostomy bag/support kit",
       "emdnMatches": [
         {
-          "emdnCode": "G0301",
-          "emdnDescription": "DEVICES FOR DILATION IN DIGESTIVE ENDOSCOPY",
+          "emdnCode": "A10020202",
+          "emdnDescription": "COLOSTOMY BAGS FOR TWO-PART SYSTEMS, WITH TISSUE COVER",
           "score": 100,
-          "source": "manual"
-        },
-        {
-          "emdnCode": "U020101",
-          "emdnDescription": "COLOSTOMY BAGS/POUCHES",
-          "score": 100,
-          "category": "U"
+          "category": "A"
         }
       ],
-      "matchCount": 2,
-      "timestamp": "2025-10-16T19:53:11.952Z",
-      "restoredFrom": "partially-valid-cleanup"
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "62537": {
       "gmdnCode": "62537",
@@ -3414,6 +4020,21 @@
       "matchCount": 1,
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "62615": {
+      "gmdnCode": "62615",
+      "gmdnDescription": "Mechanical-cutting endoscopic polypectomy snare",
+      "emdnMatches": [
+        {
+          "emdnCode": "G03030102",
+          "emdnDescription": "POLYPECTOMY SNARES, NON-REVOLVING",
+          "score": 100,
+          "category": "G"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "62767": {
       "gmdnCode": "62767",
@@ -3450,6 +4071,21 @@
           "category": "Z"
         }
       ]
+    },
+    "63711": {
+      "gmdnCode": "63711",
+      "gmdnDescription": "Infrared patient thermometer, ear/skin",
+      "emdnMatches": [
+        {
+          "emdnCode": "V0301010202",
+          "emdnDescription": "NON-CONTACT DIGITAL THERMOMETERS",
+          "score": 100,
+          "category": "V"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
     },
     "64054": {
       "gmdnCode": "64054",
@@ -3489,6 +4125,81 @@
       "matchCount": 1,
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
+    },
+    "64304": {
+      "gmdnCode": "64304",
+      "gmdnDescription": "Manual non-rotary dental instrument handle",
+      "emdnMatches": [
+        {
+          "emdnCode": "L159016",
+          "emdnDescription": "DENTAL SURGERY INSTRUMENT KITS, REUSABLE",
+          "score": 100,
+          "category": "L"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "64371": {
+      "gmdnCode": "64371",
+      "gmdnDescription": "Dental implantation drilling template guide-sleeve",
+      "emdnMatches": [
+        {
+          "emdnCode": "P01020180",
+          "emdnDescription": "DENTAL IMPLANTS - ACCESSORIES",
+          "score": 100,
+          "category": "P"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T21:30:01.955Z",
+      "source": "manual-batch-verification"
+    },
+    "64469": {
+      "gmdnCode": "64469",
+      "gmdnDescription": "ENFit/non-ISO80369-standardized linear connector",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0707",
+          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "64470": {
+      "gmdnCode": "64470",
+      "gmdnDescription": "ENFit/Luer linear connector",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0707",
+          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "64471": {
+      "gmdnCode": "64471",
+      "gmdnDescription": "ENFit/ENFit linear connector",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0707",
+          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
     },
     "64574": {
       "gmdnCode": "64574",
@@ -3544,96 +4255,6 @@
         }
       ]
     },
-    "64786": {
-      "gmdnCode": "64786",
-      "gmdnDescription": "Saline prefilled flush syringe",
-      "emdnMatches": [
-        {
-          "emdnCode": "A020201",
-          "emdnDescription": "PREFILLED SALINE FLUSH SYRINGES",
-          "score": 100,
-          "category": "A"
-        }
-      ],
-      "matchCount": 1,
-      "timestamp": "2025-10-16T19:53:11.952Z",
-      "restoredFrom": "partially-valid-cleanup"
-    },
-    "59040": {
-      "gmdnCode": "59040",
-      "gmdnDescription": "ENFit oral/enteral syringe, single-use",
-      "emdnMatches": [
-        {
-          "emdnCode": "A020108",
-          "emdnDescription": "ENTERAL FEEDING SYRINGES",
-          "score": 100,
-          "category": "A"
-        }
-      ],
-      "matchCount": 1,
-      "timestamp": "2025-10-16T22:00:00.000Z",
-      "source": "manual-enfit-correction"
-    },
-    "62001": {
-      "gmdnCode": "62001",
-      "gmdnDescription": "ENFit oral/enteral syringe, reusable",
-      "emdnMatches": [
-        {
-          "emdnCode": "A020108",
-          "emdnDescription": "ENTERAL FEEDING SYRINGES",
-          "score": 100,
-          "category": "A"
-        }
-      ],
-      "matchCount": 1,
-      "timestamp": "2025-10-16T22:00:00.000Z",
-      "source": "manual-enfit-correction"
-    },
-    "64469": {
-      "gmdnCode": "64469",
-      "gmdnDescription": "ENFit/non-ISO80369-standardized linear connector",
-      "emdnMatches": [
-        {
-          "emdnCode": "A0707",
-          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
-          "score": 100,
-          "category": "A"
-        }
-      ],
-      "matchCount": 1,
-      "timestamp": "2025-10-16T22:00:00.000Z",
-      "source": "manual-enfit-correction"
-    },
-    "64470": {
-      "gmdnCode": "64470",
-      "gmdnDescription": "ENFit/Luer linear connector",
-      "emdnMatches": [
-        {
-          "emdnCode": "A0707",
-          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
-          "score": 100,
-          "category": "A"
-        }
-      ],
-      "matchCount": 1,
-      "timestamp": "2025-10-16T22:00:00.000Z",
-      "source": "manual-enfit-correction"
-    },
-    "64471": {
-      "gmdnCode": "64471",
-      "gmdnDescription": "ENFit/ENFit linear connector",
-      "emdnMatches": [
-        {
-          "emdnCode": "A0707",
-          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
-          "score": 100,
-          "category": "A"
-        }
-      ],
-      "matchCount": 1,
-      "timestamp": "2025-10-16T22:00:00.000Z",
-      "source": "manual-enfit-correction"
-    },
     "64699": {
       "gmdnCode": "64699",
       "gmdnDescription": "ENFit small-bore multichannel connector",
@@ -3663,6 +4284,21 @@
       "matchCount": 1,
       "timestamp": "2025-10-16T22:00:00.000Z",
       "source": "manual-enfit-correction"
+    },
+    "64786": {
+      "gmdnCode": "64786",
+      "gmdnDescription": "Saline prefilled flush syringe",
+      "emdnMatches": [
+        {
+          "emdnCode": "A020201",
+          "emdnDescription": "PREFILLED SALINE FLUSH SYRINGES",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T19:53:11.952Z",
+      "restoredFrom": "partially-valid-cleanup"
     },
     "65012": {
       "gmdnCode": "65012",
