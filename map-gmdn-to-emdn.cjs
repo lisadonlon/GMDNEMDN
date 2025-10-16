@@ -489,7 +489,20 @@ function generateMappings(gmdnCodes, emdnCodes) {
       }
     }
     
-    // 2. Automatic matching if no manual mappings or low manual count
+    // 2. AUTOMATIC MATCHING DISABLED
+    // Automatic matching has been disabled due to data quality issues:
+    // - Field name mismatches causing fabricated EMDN descriptions
+    // - Low-quality semantic matches creating incorrect device mappings
+    // - All mappings should come from manual expert curation in corrected-gmdn-emdn-mappings.psv
+    //
+    // If automatic matching is needed in future:
+    // 1. Fix EMDN field name handling (use 'term' consistently, never 'description')
+    // 2. Implement strict validation against actual EMDN database
+    // 3. Require minimum semantic similarity threshold (e.g., 70%+)
+    // 4. Add device category validation (don't map catheters to stents!)
+    
+    // Keep this commented out:
+    /*
     if (matches.length < 3) {
       const automaticMatches = [];
       
@@ -498,20 +511,20 @@ function generateMappings(gmdnCodes, emdnCodes) {
         if (score >= config.minMatchingScore) {
           automaticMatches.push({
             emdnCode: emdnCode.code,
-            emdnDescription: emdnCode.term || emdnCode.description,
+            emdnDescription: emdnCode.term,  // ALWAYS use 'term', never 'description'
             score: score,
             source: 'automatic'
           });
         }
       }
       
-      // Sort by score and take top matches
       automaticMatches.sort((a, b) => b.score - a.score);
       const topAutomatic = automaticMatches.slice(0, config.maxResultsPerGmdn - matches.length);
       
       matches.push(...topAutomatic);
       stats.automaticMappings += topAutomatic.length;
     }
+    */
     
     // Store mappings if any found
     if (matches.length > 0) {
