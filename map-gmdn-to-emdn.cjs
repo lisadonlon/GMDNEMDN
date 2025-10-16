@@ -357,36 +357,25 @@ function loadGmdnData() {
   
   const content = fs.readFileSync(config.gmdnDataFile, 'utf-8');
   
-  // Extract the array from the TypeScript file
-  const arrayMatch = content.match(/export const gmdnFromGUDID[^=]*=\s*\[(.*?)\];/s);
+  // Extract the array from the TypeScript file - use a more robust regex
+  const arrayMatch = content.match(/export const gmdnFromGUDID[^=]*=\s*\[([\s\S]*)\];/);
   if (!arrayMatch) {
     throw new Error('Could not parse GMDN data from TypeScript file');
   }
   
-  // Simple parsing - convert to JSON-like format
   const arrayContent = arrayMatch[1];
   const entries = [];
   
-  // Split by object boundaries and parse each
-  const objectMatches = arrayContent.match(/\{[^}]*\}/g);
-  if (objectMatches) {
-    for (const objStr of objectMatches) {
-      try {
-        // Convert TypeScript object to JSON
-        const jsonStr = objStr
-          .replace(/code:\\s*'([^']*)',?/g, '"code":"$1",')
-          .replace(/description:\\s*"([^"]*)",?/g, '"description":"$1",')
-          .replace(/relatedEmdnCodes:\s*\[[^\]]*\],?/g, '"relatedEmdnCodes":[],')
-          .replace(/,\s*}/g, '}');
-        
-        const obj = JSON.parse(jsonStr);
-        if (obj.code && obj.description) {
-          entries.push(obj);
-        }
-      } catch (e) {
-        // Skip malformed objects
-      }
-    }
+  // Use a better regex to match objects with code and description
+  const objectRegex = /\{\s*code:\s*['"](\d+)['"]\s*,\s*description:\s*"([^"]+)"/g;
+  let match;
+  
+  while ((match = objectRegex.exec(arrayContent)) !== null) {
+    entries.push({
+      code: match[1],
+      description: match[2],
+      relatedEmdnCodes: []
+    });
   }
   
   // Sample if specified
@@ -403,7 +392,7 @@ function loadGmdnData() {
 // Calculate matching score between GMDN and EMDN codes
 function calculateMatchingScore(gmdnCode, emdnCode) {
   const gmdnDesc = gmdnCode.description.toLowerCase();
-  const emdnDesc = emdnCode.description.toLowerCase();
+  const emdnDesc = (emdnCode.term || emdnCode.description || '').toLowerCase();
   
   let score = 0;
   
@@ -491,7 +480,7 @@ function generateMappings(gmdnCodes, emdnCodes) {
         if (emdnCode) {
           matches.push({
             emdnCode: emdnCode.code,
-            emdnDescription: emdnCode.description,
+            emdnDescription: emdnCode.term || emdnCode.description,
             score: manual.confidence,
             source: manual.source
           });
@@ -509,7 +498,7 @@ function generateMappings(gmdnCodes, emdnCodes) {
         if (score >= config.minMatchingScore) {
           automaticMatches.push({
             emdnCode: emdnCode.code,
-            emdnDescription: emdnCode.description,
+            emdnDescription: emdnCode.term || emdnCode.description,
             score: score,
             source: 'automatic'
           });
