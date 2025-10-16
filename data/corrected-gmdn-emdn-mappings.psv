@@ -456,7 +456,6 @@ Correct GMDN Code|GMDN Description|EMDN Code|EMDN Term
 64677|Urethral dilator, single-use|U03010201|URETHRAL DILATORS
 64721|Prosthetic limb, lower|P050102|LOWER LIMB PROSTHESES
 64786|Saline prefilled flush syringe|A020201|PREFILLED SALINE FLUSH SYRINGES
-65012|Sterile-fluid-pathway closing cap|A010104|LUER CAPS
 65115|Pedicle screw spinal system|P030202|PEDICLE SCREW SPINAL SYSTEMS
 65299|Flexible video gastroscope, single-use|Z12020511|VIDEO GASTROSCOPES
 65299|Flexible video gastroscope, single-use|L020503|FLEXIBLE VIDEO GASTROSCOPES, SINGLE-USE
@@ -470,3 +469,11 @@ Correct GMDN Code|GMDN Description|EMDN Code|EMDN Term
 66947|Bone screw|P010202|BONE SCREWS
 66996|Patient transfer/turning sheet, single-use|G020302|PATIENT TRANSFER/TURNING SHEETS, SINGLE-USE
 67566|Digital pathology software|Y030202|DIGITAL PATHOLOGY SOFTWARE
+59040|ENFit oral/enteral syringe, single-use|A020108|ENTERAL FEEDING SYRINGES
+62001|ENFit oral/enteral syringe, reusable|A020108|ENTERAL FEEDING SYRINGES
+65012|ENFit-formatted protective cap|A070501|CAPS OR OBTURATORS, NON-PERFORABLE
+64469|ENFit/non-ISO80369-standardized linear connector|A0707|ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS
+64470|ENFit/Luer linear connector|A0707|ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS
+64471|ENFit/ENFit linear connector|A0707|ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS
+64699|ENFit small-bore multichannel connector|A0707|ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS
+64700|ENFit/non-ISO80369-standardized small-bore multichannel connector|A0707|ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS

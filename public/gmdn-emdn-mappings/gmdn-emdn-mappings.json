@@ -3559,20 +3559,125 @@
       "timestamp": "2025-10-16T19:53:11.952Z",
       "restoredFrom": "partially-valid-cleanup"
     },
-    "65012": {
-      "gmdnCode": "65012",
-      "gmdnDescription": "Sterile-fluid-pathway closing cap",
+    "59040": {
+      "gmdnCode": "59040",
+      "gmdnDescription": "ENFit oral/enteral syringe, single-use",
       "emdnMatches": [
         {
-          "emdnCode": "A010104",
-          "emdnDescription": "LUER CAPS",
+          "emdnCode": "A020108",
+          "emdnDescription": "ENTERAL FEEDING SYRINGES",
           "score": 100,
           "category": "A"
         }
       ],
       "matchCount": 1,
-      "timestamp": "2025-10-16T19:53:11.952Z",
-      "restoredFrom": "partially-valid-cleanup"
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "62001": {
+      "gmdnCode": "62001",
+      "gmdnDescription": "ENFit oral/enteral syringe, reusable",
+      "emdnMatches": [
+        {
+          "emdnCode": "A020108",
+          "emdnDescription": "ENTERAL FEEDING SYRINGES",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "64469": {
+      "gmdnCode": "64469",
+      "gmdnDescription": "ENFit/non-ISO80369-standardized linear connector",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0707",
+          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "64470": {
+      "gmdnCode": "64470",
+      "gmdnDescription": "ENFit/Luer linear connector",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0707",
+          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "64471": {
+      "gmdnCode": "64471",
+      "gmdnDescription": "ENFit/ENFit linear connector",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0707",
+          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "64699": {
+      "gmdnCode": "64699",
+      "gmdnDescription": "ENFit small-bore multichannel connector",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0707",
+          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "64700": {
+      "gmdnCode": "64700",
+      "gmdnDescription": "ENFit/non-ISO80369-standardized small-bore multichannel connector",
+      "emdnMatches": [
+        {
+          "emdnCode": "A0707",
+          "emdnDescription": "ADAPTERS, CONNECTORS, RAMPS, STOPCOCKS, CAPS",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
+    },
+    "65012": {
+      "gmdnCode": "65012",
+      "gmdnDescription": "ENFit-formatted protective cap",
+      "emdnMatches": [
+        {
+          "emdnCode": "A070501",
+          "emdnDescription": "CAPS OR OBTURATORS, NON-PERFORABLE",
+          "score": 100,
+          "category": "A"
+        }
+      ],
+      "matchCount": 1,
+      "timestamp": "2025-10-16T22:00:00.000Z",
+      "source": "manual-enfit-correction"
     },
     "65299": {
       "gmdnCode": "65299",
