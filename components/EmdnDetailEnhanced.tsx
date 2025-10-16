@@ -1,10 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { EmdnCode, SecondaryCode } from '../types';
-import { 
-  loadSemanticRelationships, 
-  getIcdCodesForDevice, 
-  IcdMatch 
-} from '../data/semanticRelationships';
 import { isFeatureEnabled } from '../config/features';
 import { externalGmdnEmdnMapper, type ReverseLookupEntry } from '../data/externalGmdnEmdnMapper';
 
@@ -21,40 +16,12 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
   allGmdnCodes,
   onSelectGmdn
 }) => {
-  const [semanticLoaded, setSemanticLoaded] = useState(false);
-  const [icdMatches, setIcdMatches] = useState<IcdMatch[]>([]);
-  const [icdLoading, setIcdLoading] = useState(false);
   const [gmdnLoading, setGmdnLoading] = useState(false);
   const [reverseLookupEntries, setReverseLookupEntries] = useState<ReverseLookupEntry[]>([]);
   const [relatedGmdnCodes, setRelatedGmdnCodes] = useState<Array<{ gmdn: SecondaryCode; match: ReverseLookupEntry }>>([]);
 
-  // Load semantic relationships when component mounts
-  useEffect(() => {
-    const loadSemantic = async () => {
-      try {
-        await loadSemanticRelationships();
-        setSemanticLoaded(true);
-      } catch (error) {
-        console.error('Failed to load semantic relationships:', error);
-      }
-    };
-
-    if (!semanticLoaded) {
-      loadSemantic();
-    }
-  }, [semanticLoaded]);
-
-  // Get ICD matches when code changes
-  useEffect(() => {
-    if (code && semanticLoaded) {
-      setIcdLoading(true);
-      const matches = getIcdCodesForDevice(code.code, 'emdn');
-      setIcdMatches(matches);
-      setIcdLoading(false);
-    } else {
-      setIcdMatches([]);
-    }
-  }, [code, semanticLoaded]);
+  // ICD-10 mappings disabled (semantic relationships removed)
+  // Future ICD integration would go here
 
   useEffect(() => {
     let isMounted = true;
@@ -115,22 +82,6 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
       </div>
     );
   }
-
-  const getConfidenceBadgeColor = (confidence: number) => {
-    if (confidence >= 90) return 'bg-green-500/20 text-green-300 border-green-500/30';
-    if (confidence >= 70) return 'bg-yellow-500/20 text-yellow-300 border-yellow-500/30';
-    return 'bg-orange-500/20 text-orange-300 border-orange-500/30';
-  };
-
-  const getSourceIcon = (source: string) => {
-    switch (source) {
-      case 'manual': return '👤';
-      case 'expert': return '🎯';
-      case 'auto': return '🤖';
-      default: return '📊';
-    }
-  };
-
   // Get the main category (first letter of the code)
   const mainCategory = code.code.charAt(0);
   const categoryName = (() => {
@@ -205,60 +156,7 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
       </div>
 
       {/* Semantic Relationships - ICD-10 Diagnoses (Hidden in production until data is more complete) */}
-      {isFeatureEnabled('icdClinicalIndications') && (
-        <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
-          <h3 className="text-lg font-semibold text-slate-200 mb-4 flex items-center">
-            🩺 Clinical Indications (ICD-10)
-            {icdLoading && <div className="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-blue-500"></div>}
-          </h3>
-          
-          {!semanticLoaded ? (
-            <div className="text-slate-400 text-sm">Loading semantic relationships...</div>
-          ) : icdMatches.length > 0 ? (
-            <div className="space-y-3">
-              {icdMatches.map((match, index) => (
-                <div 
-                  key={index}
-                  className="flex items-center justify-between p-3 bg-slate-700 rounded-lg border border-slate-600"
-                >
-                  <div className="flex-1">
-                    <div className="flex items-center space-x-3 mb-1">
-                      <code className="text-blue-400 font-mono text-sm bg-slate-800 px-2 py-1 rounded">
-                        {match.code}
-                      </code>
-                      <span className={`text-xs px-2 py-1 rounded border ${getConfidenceBadgeColor(match.confidence)}`}>
-                        {match.confidence}% confidence
-                      </span>
-                      <span className="text-xs text-slate-400">
-                        {getSourceIcon(match.source)} {match.source}
-                      </span>
-                    </div>
-                    <div className="text-slate-200 text-sm">{match.indication}</div>
-                  </div>
-                </div>
-              ))}
-              
-              <div className="mt-4 p-3 bg-blue-500/10 rounded-lg border border-blue-500/20">
-                <div className="text-xs text-blue-300 mb-1">💡 Mapping Information</div>
-                <div className="text-xs text-slate-400">
-                  These ICD-10 codes represent medical conditions that typically require this device type.
-                </div>
-              </div>
-            </div>
-          ) : (
-            <div className="text-slate-400 text-sm bg-slate-700 rounded-lg p-4 border border-slate-600">
-              <div className="flex items-center space-x-2 mb-2">
-                <span>🔍</span>
-                <span>No ICD-10 mappings available for this device</span>
-              </div>
-              <div className="text-xs text-slate-500">
-                This device may not have established clinical indication mappings yet,
-                or may be a general-purpose device used across multiple conditions.
-              </div>
-            </div>
-          )}
-        </div>
-      )}
+      {/* ICD-10 Clinical Indications - Disabled (semantic relationships removed) */}
 
       {/* Related Global GMDN Codes */}
       <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
@@ -365,10 +263,6 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
             <div>
               <span className="text-slate-400">Parent Code:</span>
               <span className="ml-2 text-slate-200 font-mono">{code.parentCode || 'Root'}</span>
-            </div>
-            <div>
-              <span className="text-slate-400">ICD-10 Mappings:</span>
-              <span className="ml-2 text-slate-200">{icdMatches.length} codes</span>
             </div>
             <div>
               <span className="text-slate-400">Related Devices:</span>
