@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { EmdnCode, SecondaryCode } from '../types';
-import { isFeatureEnabled } from '../config/features';
 import { externalGmdnEmdnMapper, type ReverseLookupEntry } from '../data/externalGmdnEmdnMapper';
 
 interface EmdnDetailEnhancedProps {
