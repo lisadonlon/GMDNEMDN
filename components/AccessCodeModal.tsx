@@ -4,12 +4,28 @@ interface AccessCodeModalProps {
   isOpen: boolean;
   onClose: () => void;
   onSuccess: (codeInfo: any) => void;
+  canDismiss?: boolean;
 }
 
-export const AccessCodeModal: React.FC<AccessCodeModalProps> = ({ isOpen, onClose, onSuccess }) => {
+export const AccessCodeModal: React.FC<AccessCodeModalProps> = ({ isOpen, onClose, onSuccess, canDismiss = true }) => {
   const [accessCode, setAccessCode] = useState('');
   const [isVerifying, setIsVerifying] = useState(false);
   const [error, setError] = useState('');
+
+  // Prevent Escape key from closing modal when not dismissible
+  React.useEffect(() => {
+    if (!isOpen || canDismiss) return;
+
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    };
+
+    document.addEventListener('keydown', handleKeyDown, true);
+    return () => document.removeEventListener('keydown', handleKeyDown, true);
+  }, [isOpen, canDismiss]);
 
   if (!isOpen) return null;
 
@@ -71,16 +87,28 @@ export const AccessCodeModal: React.FC<AccessCodeModalProps> = ({ isOpen, onClos
   };
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+    <div 
+      className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
+      onClick={(e) => {
+        // Only allow closing by clicking overlay if dismissible
+        if (canDismiss && e.target === e.currentTarget) {
+          onClose();
+        }
+      }}
+    >
       <div className="bg-white rounded-lg p-6 max-w-md w-full mx-4">
         <div className="flex justify-between items-center mb-4">
-          <h2 className="text-xl font-bold text-gray-800">Enter Access Code</h2>
-          <button
-            onClick={onClose}
-            className="text-gray-500 hover:text-gray-700"
-          >
-            ✕
-          </button>
+          <h2 className="text-xl font-bold text-gray-800">
+            {canDismiss ? 'Enter Access Code' : 'Trial Expired - Enter Access Code'}
+          </h2>
+          {canDismiss && (
+            <button
+              onClick={onClose}
+              className="text-gray-500 hover:text-gray-700"
+            >
+              ✕
+            </button>
+          )}
         </div>
 
         <div className="mb-4">
@@ -112,17 +140,19 @@ export const AccessCodeModal: React.FC<AccessCodeModalProps> = ({ isOpen, onClos
         )}
 
         <div className="flex space-x-3">
-          <button
-            onClick={onClose}
-            className="flex-1 px-4 py-2 border border-gray-300 rounded-md text-gray-700 hover:bg-gray-50 transition-colors"
-            disabled={isVerifying}
-          >
-            Cancel
-          </button>
+          {canDismiss && (
+            <button
+              onClick={onClose}
+              className="flex-1 px-4 py-2 border border-gray-300 rounded-md text-gray-700 hover:bg-gray-50 transition-colors"
+              disabled={isVerifying}
+            >
+              Cancel
+            </button>
+          )}
           <button
             onClick={handleVerifyCode}
             disabled={isVerifying || !accessCode.trim()}
-            className="flex-1 bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors disabled:opacity-50"
+            className={`${canDismiss ? 'flex-1' : 'w-full'} bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors disabled:opacity-50`}
           >
             {isVerifying ? 'Verifying...' : 'Activate Access'}
           </button>

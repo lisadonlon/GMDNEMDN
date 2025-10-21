@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 
 interface UsageTrackerProps {
-  onUpgradeNeeded: () => void;
+  onUpgradeNeeded: (canDismiss: boolean) => void;
   onEnterCode: () => void;
 }
 
@@ -20,7 +20,7 @@ export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onE
   const checkPaywallThreshold = (startTimestamp: number) => {
     if (!hasTriggeredPaywallRef.current && Date.now() - startTimestamp >= PAYWALL_THRESHOLD_MS) {
       hasTriggeredPaywallRef.current = true;
-      onUpgradeNeeded();
+      onUpgradeNeeded(true); // Can still dismiss at 5-minute mark
     }
   };
 
@@ -66,7 +66,7 @@ export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onE
         setTimeRemaining(0);
         if (!hasTriggeredPaywallRef.current) {
           hasTriggeredPaywallRef.current = true;
-          onUpgradeNeeded();
+          onUpgradeNeeded(false); // Cannot dismiss - trial expired
         }
       }
     }
@@ -90,7 +90,7 @@ export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onE
           clearInterval(interval);
           if (!hasTriggeredPaywallRef.current) {
             hasTriggeredPaywallRef.current = true;
-            onUpgradeNeeded();
+            onUpgradeNeeded(false); // Cannot dismiss - trial expired
           }
         }
 
@@ -134,7 +134,7 @@ export const UsageTracker: React.FC<UsageTrackerProps> = ({ onUpgradeNeeded, onE
             Enter Code
           </button>
           <button
-            onClick={onUpgradeNeeded}
+            onClick={() => onUpgradeNeeded(true)}
             className="bg-blue-600 text-white px-3 py-1 rounded text-sm hover:bg-blue-700 transition-colors"
           >
             Buy €2
