@@ -1,6 +1,6 @@
 import React from 'react';
 
-type View = 'countries' | 'emdn' | 'gmdn';
+type View = 'countries' | 'emdn';
 
 interface ViewSwitcherProps {
   currentView: View;
@@ -30,24 +30,12 @@ const ViewSwitcher: React.FC<ViewSwitcherProps> = ({ currentView, onViewChange }
         onClick={() => onViewChange('emdn')}
         className={`${commonClasses} ${currentView === 'emdn' ? activeClasses : inactiveClasses}`}
         aria-pressed={currentView === 'emdn'}
-        title="European Medical Device Nomenclature with semantic relationships"
+        title="European Medical Device Nomenclature"
       >
         <span>🏥</span>
         <div className="flex flex-col items-center">
           <span>EMDN</span>
           <span className="text-xs opacity-75">European Devices</span>
-        </div>
-      </button>
-       <button 
-        onClick={() => onViewChange('gmdn')}
-        className={`${commonClasses} ${currentView === 'gmdn' ? activeClasses : inactiveClasses}`}
-        aria-pressed={currentView === 'gmdn'}
-        title="Global Medical Device Nomenclature with smart EMDN matching"
-      >
-        <span>🌐</span>
-        <div className="flex flex-col items-center">
-          <span>GMDN</span>
-          <span className="text-xs opacity-75">Global Devices</span>
         </div>
       </button>
     </div>

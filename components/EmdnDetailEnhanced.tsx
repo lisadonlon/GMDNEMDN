@@ -1,75 +1,18 @@
-import React, { useState, useEffect } from 'react';
-import { EmdnCode, SecondaryCode } from '../types';
-import { externalGmdnEmdnMapper, type ReverseLookupEntry } from '../data/externalGmdnEmdnMapper';
+import React from 'react';
+import { EmdnCode } from '../types';
 
 interface EmdnDetailEnhancedProps {
   code: EmdnCode | null;
   allCodes: EmdnCode[];
-  allGmdnCodes: SecondaryCode[];
-  onSelectGmdn: (code: string) => void;
 }
 
 const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
   code,
-  allCodes,
-  allGmdnCodes,
-  onSelectGmdn
+  allCodes
 }) => {
-  const [gmdnLoading, setGmdnLoading] = useState(false);
-  const [reverseLookupEntries, setReverseLookupEntries] = useState<ReverseLookupEntry[]>([]);
-  const [relatedGmdnCodes, setRelatedGmdnCodes] = useState<Array<{ gmdn: SecondaryCode; match: ReverseLookupEntry }>>([]);
 
   // ICD-10 mappings disabled (semantic relationships removed)
   // Future ICD integration would go here
-
-  useEffect(() => {
-    let isMounted = true;
-
-    const loadReverseMappings = async () => {
-      if (!code) {
-        if (!isMounted) return;
-        setReverseLookupEntries([]);
-        setRelatedGmdnCodes([]);
-        return;
-      }
-
-      setGmdnLoading(true);
-      try {
-        await externalGmdnEmdnMapper.loadMappings();
-        if (!isMounted) return;
-
-        const matches = externalGmdnEmdnMapper.getGmdnCodesForEmdn(code.code) ?? [];
-        const enriched = matches
-          .map((match) => {
-            const gmdn = allGmdnCodes.find((entry) => entry.code === match.gmdnCode);
-            if (!gmdn) {
-              return null;
-            }
-            return { gmdn, match };
-          })
-          .filter((entry): entry is { gmdn: SecondaryCode; match: ReverseLookupEntry } => entry !== null);
-
-        setReverseLookupEntries(matches);
-        setRelatedGmdnCodes(enriched);
-      } catch (error) {
-        if (isMounted) {
-          console.error('Failed to load GMDN mappings for EMDN detail:', error);
-          setReverseLookupEntries([]);
-          setRelatedGmdnCodes([]);
-        }
-      } finally {
-        if (isMounted) {
-          setGmdnLoading(false);
-        }
-      }
-    };
-
-    loadReverseMappings();
-
-    return () => {
-      isMounted = false;
-    };
-  }, [code, allGmdnCodes]);
 
   if (!code) {
     return (
@@ -117,8 +60,6 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
     .filter(c => c.code.charAt(0) === mainCategory && c.code !== code.code)
     .slice(0, 5);
 
-  const totalReverseMatches = reverseLookupEntries.length;
-
   // Determine device level based on code structure
   const deviceLevel = (() => {
     if (code.code.length === 1) return 'Category';
@@ -156,68 +97,6 @@ const EmdnDetailEnhanced: React.FC<EmdnDetailEnhancedProps> = ({
 
       {/* Semantic Relationships - ICD-10 Diagnoses (Hidden in production until data is more complete) */}
       {/* ICD-10 Clinical Indications - Disabled (semantic relationships removed) */}
-
-      {/* Related Global GMDN Codes */}
-      <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
-        <h3 className="text-lg font-semibold text-slate-200 mb-4 flex items-center">
-          🔁 Related Global (GMDN) Codes
-          {gmdnLoading && <div className="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-sky-500"></div>}
-        </h3>
-
-        {relatedGmdnCodes.length > 0 ? (
-          <div className="space-y-3">
-            {relatedGmdnCodes.map(({ gmdn, match }) => (
-              <div
-                key={match.gmdnCode}
-                className="flex items-center justify-between p-3 bg-slate-700 hover:bg-slate-600 rounded-lg transition-colors"
-              >
-                <div className="flex-1">
-                  <div className="flex items-center space-x-3 mb-1">
-                    <code className="text-emerald-400 font-mono text-sm">{match.gmdnCode}</code>
-                    <span
-                      className={`text-xs px-2 py-1 rounded border ${
-                        match.source === 'manual'
-                          ? 'bg-green-500/20 text-green-300 border-green-500/30'
-                          : 'bg-blue-500/20 text-blue-300 border-blue-500/30'
-                      }`}
-                    >
-                      {match.source === 'manual' ? 'Manual mapping' : `Auto ${match.score}%`}
-                    </span>
-                  </div>
-                  <div className="text-slate-200 text-sm">{gmdn.description}</div>
-                  <div className="text-xs text-slate-500 mt-1">
-                    Validated through expert review
-                  </div>
-                </div>
-                <button
-                  onClick={() => onSelectGmdn(match.gmdnCode)}
-                  className="ml-4 px-3 py-1.5 bg-emerald-600 text-white text-xs font-semibold rounded-md hover:bg-emerald-500 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-800 transition-colors"
-                >
-                  View GMDN Details
-                </button>
-              </div>
-            ))}
-
-            <div className="mt-4 p-3 bg-emerald-500/10 rounded-lg border border-emerald-500/20 text-xs text-slate-400">
-              These links use the manually curated expert mappings dataset.
-              <div className="mt-2 text-slate-500">
-                Total expert mappings: {totalReverseMatches.toLocaleString()}
-              </div>
-            </div>
-          </div>
-        ) : (
-          <div className="text-slate-400 text-sm bg-slate-700 rounded-lg p-4 border border-slate-600">
-            <div className="flex items-center space-x-2 mb-2">
-              <span>🔍</span>
-              <span>No validated GMDN mappings found for this code yet</span>
-            </div>
-            <div className="text-xs text-slate-500">
-              The reciprocal mapping dataset does not currently contain GMDN links for this EMDN code.
-              New manual approvals will surface here automatically.
-            </div>
-          </div>
-        )}
-      </div>
 
       {/* Related Devices */}
       {relatedCodes.length > 0 && (

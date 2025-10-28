@@ -1,10 +1,8 @@
-
 import React, { useState, useMemo, useEffect } from 'react';
 import Fuse, { type IFuseOptions } from 'fuse.js';
-import { EmdnCode, SecondaryCode } from './types';
+import { EmdnCode } from './types';
 import { countryData } from './data/countryData';
 import { loadAllEMDNData } from './data/emdnChunkedData';
-import { gmdnFromGUDID } from './data/gmdnFromGUDID';
 import Header from './components/Header';
 import CountryList from './components/CountryList';
 import CountryDetail from './components/CountryDetail';
@@ -12,8 +10,6 @@ import SearchBar from './components/SearchBar';
 import ViewSwitcher from './components/ViewSwitcher';
 import EmdnList from './components/EmdnList';
 import EmdnDetailEnhanced from './components/EmdnDetailEnhanced';
-import GmdnList from './components/GmdnList';
-import GmdnDetailEnhanced from './components/GmdnDetailEnhanced';
 import { UsageTracker } from './components/UsageTracker';
 import { PaymentModal } from './components/PaymentModal';
 import { FeedbackModal } from './components/FeedbackModal';
@@ -21,7 +17,7 @@ import { AccessCodeModal } from './components/AccessCodeModal';
 import TermsModal from './components/TermsModal';
 import Footer from './components/Footer';
 
-type View = 'countries' | 'emdn' | 'gmdn';
+type View = 'countries' | 'emdn';
 
 const App: React.FC = () => {
   const [view, setView] = useState<View>('countries');
@@ -34,7 +30,6 @@ const App: React.FC = () => {
   const [canDismissPaywall, setCanDismissPaywall] = useState(true);
   const [hasAccess, setHasAccess] = useState(true);
   const [feedbackContext] = useState<{
-    gmdnCode?: string;
     emdnCode?: string;
     type?: 'error_report' | 'mapping_suggestion';
   }>({});
@@ -50,10 +45,6 @@ const App: React.FC = () => {
   // EMDN state
   const [emdnSearchTerm, setEmdnSearchTerm] = useState('');
   const [selectedEmdnCode, setSelectedEmdnCode] = useState<string | null>(null);
-
-  // GMDN state
-  const [gmdnSearchTerm, setGmdnSearchTerm] = useState('');
-  const [selectedGmdnCode, setSelectedGmdnCode] = useState<string | null>(null);
 
   // Load EMDN data on component mount
   useEffect(() => {
@@ -137,42 +128,6 @@ const App: React.FC = () => {
   }, [selectedEmdnCode]);
 
 
-  // --- GMDN Logic ---
-  const gmdnFuse = useMemo(() => {
-    const options: IFuseOptions<SecondaryCode> = {
-        keys: ['description', 'code'],
-        includeScore: true,
-        threshold: 0.3,
-        ignoreLocation: true,
-        minMatchCharLength: 2,
-    };
-    return new Fuse(gmdnFromGUDID, options);
-  }, []);
-  
-  const filteredGmdnCodes = useMemo(() => {
-      if (!gmdnSearchTerm.trim()) {
-          return gmdnFromGUDID;
-      }
-      const normalizedQuery = gmdnSearchTerm.trim().toLowerCase();
-      const terms = normalizedQuery.split(/\s+/).filter(Boolean);
-
-      const directMatches = gmdnFromGUDID.filter((code) => {
-        const haystack = `${code.code} ${code.description}`.toLowerCase();
-        return terms.every((term) => haystack.includes(term));
-      });
-
-      if (directMatches.length > 0) {
-        return directMatches;
-      }
-
-      return gmdnFuse.search(normalizedQuery).map(result => result.item);
-  }, [gmdnSearchTerm, gmdnFuse]);
-  
-  const selectedGmdn = useMemo(() => {
-      return gmdnFromGUDID.find(c => c.code === selectedGmdnCode) || null;
-  }, [selectedGmdnCode]);
-
-
   // --- View Handlers ---
   const handleViewChange = (newView: View) => {
     setView(newView);
@@ -181,19 +136,6 @@ const App: React.FC = () => {
       setSelectedCountryId('germany');
     }
   }
-  
-  const handleGmdnSelectEmdn = (emdnCode: string) => {
-    setView('emdn');
-    setSelectedEmdnCode(emdnCode);
-    setEmdnSearchTerm(''); // Optional: clear search to show hierarchy
-    setSelectedGmdnCode(null); // Deselect GMDN
-  };
-
-  const handleEmdnSelectGmdn = (gmdnCode: string) => {
-    setView('gmdn');
-    setSelectedGmdnCode(gmdnCode);
-    setGmdnSearchTerm('');
-  };
 
   const handleCountrySelectEmdn = (emdnCode: string) => {
     setView('emdn');
@@ -245,33 +187,44 @@ const App: React.FC = () => {
             </div>
           </>
         );
-      case 'gmdn':
-        return (
-            <>
-              <SearchBar 
-                searchTerm={gmdnSearchTerm} 
-                onSearchChange={setGmdnSearchTerm} 
-                placeholder="Search GMDN code or description..."
-              />
-              <div className="flex-grow overflow-y-auto mt-4 pr-2">
-                <GmdnList 
-                  codes={filteredGmdnCodes}
-                  selectedCode={selectedGmdnCode}
-                  onSelectCode={setSelectedGmdnCode}
-                />
-              </div>
-            </>
-          );
       default:
         return null;
     }
   };
 
   const renderRightPanel = () => {
+    if (!hasAccess) {
+      return (
+        <div className="flex items-center justify-center h-full">
+          <div className="text-center text-slate-400 max-w-md">
+            <div className="text-6xl mb-6">⏱️</div>
+            <h2 className="text-2xl font-bold text-white mb-4">Your Free Trial Has Ended</h2>
+            <p className="text-lg mb-6">
+              Get unlimited access to the complete Medical Device Navigator database for just €2 per year.
+            </p>
+            <div className="flex gap-4 justify-center">
+              <button
+                onClick={() => setShowAccessCodeModal(true)}
+                className="bg-green-600 text-white px-6 py-3 rounded-lg text-lg font-medium hover:bg-green-700 transition-colors"
+              >
+                Enter Access Code
+              </button>
+              <button
+                onClick={() => setShowPaymentModal(true)}
+                className="bg-blue-600 text-white px-6 py-3 rounded-lg text-lg font-medium hover:bg-blue-700 transition-colors"
+              >
+                Buy Access - €2
+              </button>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
     switch (view) {
       case 'countries':
         return (
-                    <CountryDetail 
+          <CountryDetail 
             country={selectedCountry}
             onSelectEmdn={handleCountrySelectEmdn}
           />
@@ -281,16 +234,6 @@ const App: React.FC = () => {
           <EmdnDetailEnhanced 
             code={selectedEmdn} 
             allCodes={emdnData}
-            allGmdnCodes={gmdnFromGUDID}
-            onSelectGmdn={handleEmdnSelectGmdn}
-          />
-        );
-      case 'gmdn':
-        return (
-          <GmdnDetailEnhanced 
-            gmdnCode={selectedGmdn}
-            allEmdnCodes={emdnData}
-            onSelectEmdn={handleGmdnSelectEmdn}
           />
         );
       default:
@@ -387,7 +330,6 @@ const App: React.FC = () => {
       <FeedbackModal
         isOpen={showFeedbackModal}
         onClose={() => setShowFeedbackModal(false)}
-        gmdnCode={feedbackContext.gmdnCode}
         emdnCode={feedbackContext.emdnCode}
         initialType={feedbackContext.type}
       />
