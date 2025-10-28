@@ -67,7 +67,7 @@ export default async function handler(req, res) {
           currency: 'eur',
           product_data: {
             name: 'Medical Device Navigator - Annual Access Code',
-            description: 'One-year access code for GMDN-EMDN mappings and all features',
+            description: 'One-year access code for EMDN classifications and all features',
           },
           unit_amount: 200, // €2.00 in cents
         },
