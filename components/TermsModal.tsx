@@ -30,7 +30,7 @@ const TermsModal: React.FC<TermsModalProps> = ({ isOpen, onClose, onAccept }) =>
           <section>
             <h3 className="text-lg font-semibold text-amber-400 mb-3">⚠️ Important Data Disclaimer</h3>
             <div className="bg-amber-900/20 border border-amber-700/50 rounded-lg p-4 space-y-2 text-sm">
-              <p><strong>This tool provides reference mappings only.</strong> All GMDN-EMDN code mappings are provided for informational purposes and should not be considered definitive or complete.</p>
+              <p><strong>For reference only.</strong> This application provides EMDN code lookup and AI-assisted suggestions for informational purposes and should not be considered definitive or complete.</p>
               <p><strong>Professional Verification Required:</strong> Users must independently verify all code mappings with official regulatory sources before using them for:</p>
               <ul className="list-disc list-inside ml-4 space-y-1">
                 <li>Regulatory submissions (FDA, CE marking, etc.)</li>
@@ -45,15 +45,14 @@ const TermsModal: React.FC<TermsModalProps> = ({ isOpen, onClose, onAccept }) =>
           <section>
             <h3 className="text-lg font-semibold text-blue-400 mb-3">📈 Growing Dataset</h3>
             <div className="bg-blue-900/20 border border-blue-700/50 rounded-lg p-4 space-y-2 text-sm">
-              <p><strong>Current Coverage:</strong> Our mapping database currently contains <strong>46 validated GMDN-EMDN mappings</strong> and is continuously expanding.</p>
-              <p><strong>Ongoing Development:</strong> We regularly add new validated mappings based on:</p>
+              <p><strong>Ongoing Development:</strong> We regularly improve EMDN coverage and search quality based on:</p>
               <ul className="list-disc list-inside ml-4 space-y-1">
-                <li>User feedback and mapping requests</li>
+                <li>User feedback and search requests</li>
                 <li>Regulatory updates and new device classifications</li>
-                <li>Semantic analysis improvements</li>
+                <li>Model prompt and retrieval improvements</li>
                 <li>Industry collaboration and validation</li>
               </ul>
-              <p><strong>Request Mappings:</strong> Need a specific mapping? Use our feedback system to request new GMDN-EMDN relationships.</p>
+              <p><strong>Report issues:</strong> If a result looks incorrect, please report it so we can improve the system.</p>
             </div>
           </section>
 
@@ -64,9 +63,9 @@ const TermsModal: React.FC<TermsModalProps> = ({ isOpen, onClose, onAccept }) =>
               <p><strong>User Responsibility:</strong> Users are solely responsible for ensuring compliance with applicable regulations in their jurisdiction.</p>
               <p><strong>Official Sources:</strong> Always consult official sources:</p>
               <ul className="list-disc list-inside ml-4 space-y-1">
-                <li><strong>GMDN:</strong> Official GMDN Agency database</li>
                 <li><strong>EMDN:</strong> European Commission EMDN system</li>
                 <li><strong>Regulatory Bodies:</strong> FDA, Notified Bodies, National Competent Authorities</li>
+                <li><strong>Manufacturer Documentation:</strong> Device IFU and regulatory filings</li>
               </ul>
               <p><strong>No Regulatory Advice:</strong> This tool does not provide regulatory, legal, or compliance advice.</p>
             </div>

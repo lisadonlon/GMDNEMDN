@@ -16,6 +16,7 @@ import { FeedbackModal } from './components/FeedbackModal';
 import { AccessCodeModal } from './components/AccessCodeModal';
 import TermsModal from './components/TermsModal';
 import Footer from './components/Footer';
+// SmartSearch temporarily disabled
 
 type View = 'countries' | 'emdn';
 
@@ -63,6 +64,21 @@ const App: React.FC = () => {
 
     loadEMDN();
   }, []);
+
+  // Handle deep linking to EMDN codes via URL parameter
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const codeParam = params.get('code');
+    
+    if (codeParam && emdnData.length > 0) {
+      // Switch to EMDN view
+      setView('emdn');
+      // Select the code
+      setSelectedEmdnCode(codeParam);
+      // Clear the URL parameter after handling
+      window.history.replaceState({}, '', window.location.pathname);
+    }
+  }, [emdnData]);
 
 
   // --- Country Logic ---

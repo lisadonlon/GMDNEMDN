@@ -1,42 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { TermsLink } from './TermsModal';
-import { externalGmdnEmdnMapper } from '../data/externalGmdnEmdnMapper';
 
 interface FooterProps {
   onShowTerms: () => void;
 }
 
 const Footer: React.FC<FooterProps> = ({ onShowTerms }) => {
-  const [validatedMappings, setValidatedMappings] = useState<number | null>(null);
-
-  useEffect(() => {
-    let isMounted = true;
-
-    const loadStats = async () => {
-      try {
-        await externalGmdnEmdnMapper.loadMappings();
-        if (!isMounted) return;
-
-        const stats = externalGmdnEmdnMapper.getStats();
-        if (stats) {
-          const count = stats.manualMappings ?? stats.mappedGmdn ?? stats.totalGmdn;
-          setValidatedMappings(count ?? null);
-        }
-      } catch (error) {
-        console.error('Failed to load mapping stats for footer:', error);
-      }
-    };
-
-    loadStats();
-
-    return () => {
-      isMounted = false;
-    };
-  }, []);
-
-  const mappingLabel = validatedMappings !== null
-    ? `${validatedMappings.toLocaleString()} Validated Mappings`
-    : 'Validated Mappings';
+  // Footer no longer references legacy GMDN mapping counts
 
   return (
     <footer className="bg-slate-800/30 border-t border-slate-700/50 mt-8">
@@ -49,9 +19,9 @@ const Footer: React.FC<FooterProps> = ({ onShowTerms }) => {
             <div className="flex items-center space-x-4 text-sm">
               <TermsLink onClick={onShowTerms} />
               <span className="text-slate-500">•</span>
-              <span className="text-slate-400">{mappingLabel}</span>
+              <span className="text-slate-400">EMDN Focused</span>
               <span className="text-slate-500">•</span>
-              <span className="text-slate-400">Continuously Expanding</span>
+              <span className="text-slate-400">Continuously Improving</span>
             </div>
           </div>
           
